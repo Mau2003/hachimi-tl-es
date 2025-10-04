@@ -5,7 +5,7 @@ from blake3 import blake3
 
 def ls_tree(tree: pygit2.Tree, parent=Path(""), skip_trees=False):
     for e in tree:
-        path = parent / e.name
+        path = Path(parent, e.name)  # type: ignore
         if isinstance(e, pygit2.Tree):
             if not skip_trees:
                 yield path
@@ -37,7 +37,7 @@ def main():
             continue
 
         print(path)
-        fs_path = "localized_data" / path
+        fs_path = Path("localized_data") / path
 
         hasher.update_mmap(fs_path)
         file_hash = hasher.digest()

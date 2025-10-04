@@ -1,52 +1,58 @@
-# Umamusume English Translations
-[![Discord](https://img.shields.io/discord/980222697151807488?logo=discord&logoColor=4bba35&label=Discord)](https://discord.gg/xBMgwh6hHY)
+# Traducciones al Español para Umamusume: Pretty Derby
 
-English fan translation repository for the Umamusume: Pretty Derby game.
-This is a continuation of the [UmaTL] project's translations for use with the [Hachimi] patch.
+Repositorio de traducciones fan al español para el juego Umamusume: Pretty Derby.
+Esta es una adaptación de las traducciones del proyecto [UmaTL] para uso con el patch [Hachimi].
 
-Translations provided by [these sources](#translation-sources).  
-Please support UmaTL's own translations & related work through [![Patreon](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F2559100&query=data.attributes.paid_member_count&suffix=%20trainers&style=flat-square&logo=patreon&logoColor=ff424d&label=Patreon&color=ff424d)](https://patreon.com/noccu) or [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-%2300aff1?logo=kofi&logoColor=%2300aff1)](https://ko-fi.com/noccyu)!
+Traducciones proporcionadas por [estas fuentes](#fuentes-de-traducciones).
 
 
-# Install / Use
+# Instalación / Uso
 > [!IMPORTANT]
-> Uninstall any outdated translation patches you still have (Legacy UmaTL, Carotene).
-> For the Legacy UmaTL patch, run update.bat first to get the latest uninstall improvements, followed by uninstall.bat
+> Desinstala cualquier parche de traducción obsoleto que aún tengas (Legacy UmaTL, Carotene).
+> Para el parche Legacy UmaTL, ejecuta update.bat primero para obtener las mejoras de desinstalación más recientes, seguido de uninstall.bat
 
-1. Download and install [Hachimi].
-    - If this is your first time, test that your game starts up with Hachimi first! Close the setup popup, then close the game again.
-1. Change the translation source URL in Hachimi's config. Premade files and details [here](../../releases/tag/config).
-1. Run the game and pick UmaTL in Hachimi's `first time setup`.
-    - If it does not appear, open the Hachimi menu and re-run it from there.
+1. Descarga e instala [Hachimi].
+    - Si es tu primera vez, ¡prueba que el juego se inicie con Hachimi primero! Cierra la ventana emergente de configuración, luego cierra el juego nuevamente.
+1. Cambia la URL de fuente de traducción en la configuración de Hachimi. Archivos preconstruidos y detalles [aquí](../../releases/tag/config).
+1. Ejecuta el juego y selecciona UmaTL en la `configuración inicial` de Hachimi.
+    - Si no aparece, abre el menú de Hachimi y ejecútalo desde allí.
 
-**Optional**: It is highly recommended to adjust `Story choice auto select delay` (1.2) and `Story text speed multiplier` (3.0) in Hachimi's menu -> config -> gameplay to something you like. The numbers in brackets are good values.
+**Opcional**: Se recomienda encarecidamente ajustar `Retraso de selección automática de historia` (1.2) y `Multiplicador de velocidad de texto de historia` (3.0) en el menú de Hachimi -> config -> gameplay a algo que te guste. Los números entre paréntesis son buenos valores.
 
-# Versions
-In addition to the normal translations, 2 alternate versions are provided:
+# Versiones
+Además de las traducciones normales, se proporcionan 2 versiones alternativas:
 
-1. UmaTL + Skill data. Replaces skill descriptions with converted raw data, otherwise the same.
-1. Skill data only. Does the same, but includes no translations. For users preferring Japanese.
+1. UmaTL + Datos de habilidades. Reemplaza las descripciones de habilidades con datos brutos convertidos, de lo contrario es lo mismo.
+1. Solo datos de habilidades. Hace lo mismo, pero no incluye traducciones. Para usuarios que prefieren japonés.
 
 > [!WARNING]
-> These versions might lag slightly behind the normal version.  
-> Skill data only can NOT be used on Global due to many skill effects differing.
+> Estas versiones podrían retrasarse ligeramente respecto a la versión normal.  
+> Solo datos de habilidades NO se puede usar en Global debido a que muchos efectos de habilidades difieren.
 
-# Updating
-Hachimi will automatically check for updates when you start the game. If an update is available, you'll be asked if you want to download it and it will be applied immediately, no restart required.
+# Actualización
+Hachimi comprobará automáticamente las actualizaciones al iniciar el juego. Si hay una actualización disponible, se te preguntará si quieres descargarla y se aplicará inmediatamente, sin reinicio requerido.
 
-# Philosophy
-UmaTL tries to maintain natural, accurate, and complete translations for even less common parts of the game. It is less concerned with long-term and historical community usage. While long-term stability is still an ideal goal, UmaTL will not shy away from changing existing or even established terms to improve its translations. This is also why UmaTL uses many of its own translations. Official terms might be picked up if they contribute to this philosophy.
-For game usage, UmaTL includes a modified version of the original font, with edits for English usage, formatting, and optimization of the limited space.
+# Filosofía
+UmaTL intenta mantener traducciones naturales, precisas y completas incluso para partes menos comunes del juego. Está menos preocupado por el uso comunitario a largo plazo e histórico. Aunque la estabilidad a largo plazo sigue siendo un objetivo ideal, UmaTL no se alejará de cambiar términos existentes o incluso establecidos para mejorar sus traducciones. Esto es también por qué UmaTL usa muchas de sus propias traducciones. Los términos oficiales podrían adoptarse si contribuyen a esta filosofía.
+Para el uso en el juego, UmaTL incluye una versión modificada de la fuente original, con ediciones para uso en inglés, formato y optimización del espacio limitado.
 
-# Translation sources
-UmaTL does many of its own translations and is an original source. The remaining translations are sourced from various members & projects of the fan community.
-Check [in-depth credits on the wiki](../../wiki/Translation-Progress) and support the contributors if you can!
+# Fuentes de traducciones
+UmaTL hace muchas de sus propias traducciones y es una fuente original. Las traducciones restantes provienen de varios miembros y proyectos de la comunidad fan.
+Consulta los créditos detallados en el [wiki oficial de UmaTL](https://github.com/UmaTL/hachimi-tl-en/wiki/Translation-Progress).
 
-UmaTL is the original full game translation project, lending its translations to many other projects over the years. 
-This includes Hachimi: its default translations are mostly imported from older UmaTL material. 
+UmaTL es el proyecto original de traducción completa del juego, prestando sus traducciones a muchos otros proyectos a lo largo de los años. 
+Esto incluye Hachimi: sus traducciones predeterminadas son mayoritariamente importadas de material UmaTL anterior. 
 
-# Contributing translations
-Use the [UmaTL] tools and contribute them there (I will take care of transferring them), or use [Carotene] or [ZokuZoku] and contribute the Hachimi format files here as a PR. Join our Discord or open an Issue for further discussion or help.
+# Contribuir con traducciones
+Usa las herramientas de [UmaTL] y contribúyelas allí (yo me encargaré de transferirlas), o usa [Carotene] o [ZokuZoku] y contribuye los archivos en formato Hachimi aquí como un PR. Abre un Issue para más discusión o ayuda.
+
+# Créditos
+Este proyecto es una adaptación al español basada en el proyecto original [UmaTL Hachimi TL EN](https://github.com/UmaTL/hachimi-tl-en/tree/main). Todos los créditos por las traducciones base y la estructura van al equipo de UmaTL.
+
+Traducciones al español por [AorsiniYT](https://github.com/AorsiniYT).
+
+# Apoya el proyecto
+Si quieres apoyar el desarrollo de estas traducciones, puedes invitarme un café en [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-%2300aff1?logo=kofi&logoColor=%2300aff1)](https://ko-fi.com/aorsini)!
 
 [UmaTL]: https://github.com/noccu/umamusu-translate
 [Hachimi]: https://hachimi.leadrdrk.com/
