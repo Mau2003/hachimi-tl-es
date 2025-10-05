@@ -1,21 +1,21 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Mihono Bourbon",
-            "text": "<i>Homn nomn</i>... \nHigh heat detected: steamed meat bun. \nNegative effect <color=red>Burn</color> identified."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "However, the consumption of 1 bun is \nrequired to replenish the calories lost \nin training."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Next training starts in... 3m. \nSwitching to <color=blue>Cooling</color> mode to \nattempt consumption."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "<i>Fwoo... fwoo... fwoooooo</i>"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mihono Bourbon",
+      "text": "<i>Nom...</i> Detectando... altos niveles de<n>calor en pan de cerdo. Condición negativa<n>\"quemadura\" detectada en el paladar..."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Sin embargo, reservas calóricas<n>actuales insuficientes para próximo<n>entrenamiento. Ingesta calórica requerida<n>aproximadamente equivalente a un pan de cerdo."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Faltan tres minutos para la sesión de<n>entrenamiento... Ejecutar modo de<n>enfriamiento para completar objetivo actual."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "<i>Sopla...</i>"
+    }
+  ]
 }

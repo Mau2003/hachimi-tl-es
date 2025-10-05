@@ -1,21 +1,21 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Maruzensky",
-            "text": "Aww, I've been rejected again. \nThey're all so shy～!"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Oh, just who I wanted!"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Hey, do you want to go on a date with me?"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "A coastal drive, cutting through \nthe wind! You're guaranteed to \nbe thrilled and excited☆"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Maruzensky",
+      "text": "Awww, me rechazaron de nuevo. ¿Por qué<n>todos son\ntan tímidos?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Ah, ¡justo a tiempo!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Te gustaría tener una cita con<n>pobrecita de mí?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Iremos a dar una vuelta por la playa! Me<n>aseguraré de\nhacer latir tu corazón. ☆"
+    }
+  ]
 }

@@ -1,21 +1,21 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Meisho Doto",
-            "text": "She sells, seashells, scissors! \nSheep smells, seel shells, see saw!"
-        },
-        {
-            "name": "Meisho Doto",
-            "text": "Uwehh… I still can't do it…… \n<i>Sniffle</i>… I-I'll try again……"
-        },
-        {
-            "name": "Meisho Doto",
-            "text": "See shells, shissell, sheeshoww……!"
-        },
-        {
-            "name": "Meisho Doto",
-            "text": "<i>Uwaaahhhh!</i> \nIt's even worse now～～！！"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Meisho Doto",
+      "text": "¡Ella vende caracoles junto al mar!<n>¡Ella vende<n>caracoles junto al mar!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Ohhh, no puedo hacerlo... <i>Snif...</i><n>U-una vez<n>más..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Caracoles caracoles mi el she sore!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Uwaaaugh! ¿Cómo empeoré?!"
+    }
+  ]
 }

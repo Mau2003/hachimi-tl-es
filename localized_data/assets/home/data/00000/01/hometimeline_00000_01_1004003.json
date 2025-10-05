@@ -1,21 +1,21 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Maruzensky",
-            "text": "These days peeps post \npictures of the food and sweets on \nthe Internet for everyone to see, right?"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "If that's the case, big sis knows the \ntrendiest Equinstable foods～…!"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Their names are… nata de coco and tiramisu! \nThey're absolutely fab with Italian food☆"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "They'll bring you tons of, what were \nthey, \"Me Gustas\" for sure!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Maruzensky",
+      "text": "Los chicos de hoy suben fotos de su<n>comida a la\nred, ¿verdad?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Bueno, ¡tengo los platillos perfectos para<n>eso!\n¡Todos en Umastagram estarán<n>supercelosos!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Quieres saber? ¡Tiramisú y nata de<n>coco!\nSírvelos con comida italiana, y<n>tendrás el\nbanquete más <i>caliente</i> de todos!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Estoy segura de que tendrás montones de<n>\"Me gusta\" con\nesa combinación!"
+    }
+  ]
 }
