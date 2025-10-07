@@ -1,151 +1,152 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "(Woosh…… woosh……)"
-        },
-        {
-            "text": "A refreshing breeze in the seaside night. \nThe pleasant sound of the waves…"
-        },
-        {
-            "text": "So peaceful, so far away from \nthe hustle and bustle of the city. \nHow on earth did I end up here……?"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "YAHOOOOOOOOOOOOOOOOOO!!!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Hey hey hey!! This ain't no time \nto be playing dead, trainer!!",
-            "choice_data_list": [
-                "Waaaaah!?"
-            ]
-        },
-        {
-            "name": "Gold Ship",
-            "text": "On your feet! <i>Stand up</i>! \nIt's time for you to wake up!",
-            "choice_data_list": [
-                "What in the…!?"
-            ]
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Huuh? The heck, you don't remember?"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "The day that darkness covered the world… \nThe day nearly all hope was snuffed \nfrom these lands."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "But as luck would have it, earth had \na savior in lord Gold Ship…!",
-            "color_text_info_list": [
-                "Gold Ship"
-            ]
-        },
-        {
-            "name": "Gold Ship",
-            "text": "She crossed the oceans, she crossed the \nmountains, in search of Eden… \nAll to save this world……!"
-        },
-        {
-            "text": "The word \"Eden\" jogged \nsome vague memory…"
-        },
-        {
-            "text": "― Right, it was a few days prior."
-        },
-        {
-            "text": "When I was walking, thinking \nabout the Twinkles Series \nwhich was about to start…",
-            "color_text_info_list": [
-                "Twinkle Series"
-            ]
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Hey, trainer, hear me out!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "I wanted to take a peek at the \ngeological strata so I starting \ndrilling a hole in this field, right?"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "And would you know it, I happened \nupon this Enigmatic Tome!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "\"Eden, that is, the utopia that only \nhorsegirls of great power can reach……\""
-        },
-        {
-            "name": "Gold Ship",
-            "text": "\"Goldship, mightiest of horsegirls, hear. \nAim to reach Eden — by Enigmatic Tome\""
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Don't that mean I was \nchosen by Eden?"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Wooooooo! \nIt lights the fire in meeee!"
-        },
-        {
-            "text": "\"by Enigmatic Tome\", really? \nShe thinks it would say that?",
-            "choice_data_list": [
-                "Something's fishy……"
-            ]
-        },
-        {
-            "name": "Gold Ship",
-            "text": "The heck!? You don't understand the worth \nof little old Golshi, desired even by Eden, \ndo you!",
-            "color_text_info_list": [
-                "Golshi"
-            ]
-        },
-        {
-            "name": "Gold Ship",
-            "text": "I didn't wanna get rough, but \nyou leave me no choice—"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "……And, yoop!",
-            "choice_data_list": [
-                "Wah!! Help!!"
-            ]
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Don't you worry. I ain't gonna slide you in \nmy menchi-katsu like a piece of cabbage."
-        },
-        {
-            "text": "And that was how we ended up here…"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "So, 'bout our next course of action—"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "… You have one of those cardinal clocks \nthey call a compass?",
-            "choice_data_list": [
-                "…… A what now?"
-            ]
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Remember? You lost all our food and your \nsmartphone while swimming in the ocean?"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "So never mind Eden, I don't even \nknow which way home is."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "I mean, maybe I could think about \nspending the rest of my life here, but…"
-        },
-        {
-            "text": "…………"
-        },
-        {
-            "text": "How in blazes has it come to this…!!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "<i>Fsshhh... Fsshhh...</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una brisa suave gira junto a la playa por la<n>noche, y\nel aire está impregnado del<n>arrullo relajante de las\nolas..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La tranquilidad está muy lejos del<n>caos de la\nciudad. ¿Qué diablos estoy<n>haciendo aquí?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Es el... OOCÉAAANO!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Oye, oye, oye! No es momento de andar<n>como\nzombi, ¡Entrenador!",
+      "choice_data_list": [
+        "¡Aaaaah!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Muy bien! ¡Ponte de pie! ¡Ha llegado la<n>hora de\nque despiertes!",
+      "choice_data_list": [
+        "¡¿Q-qué está pasando?!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Qué? ¿En serio? ¿No te acuerdas?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Un día fatídico, el cielo se oscureció,<n>y toda\nesperanza desapareció del<n>mundo... ¿o no?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Por suerte, el universo me tiene a mí, la<n>gran\nsalvadora del mundo, Gold Ship,<n>de su lado!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡He cruzado océanos y escalado<n>montañas en\nbusca del Edén, todo para<n>poder salvar al mundo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al oír la palabra \"Edén\" regresan<n>algunos\nrecuerdos borrosos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Así es. Todo empezó hace unos<n>días."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Iba caminando pensando en la<n>próxima\nTwinkle Series cuando..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Oye, Entrenador! ¡Préstame atención!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Estaba excavando en un campo para<n>investigar la\nroca madre cuando, ¿adivina qué?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Encontré el Libro de los Secretos!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "\"La tierra de Edén es una utopía que<n>solo puede\nalcanzar la Umamusume que<n>posea el poder\nsupremo...\""
+    },
+    {
+      "name": "Gold Ship",
+      "text": "\"Te invoco, oh Gold Ship, ¡para que<n>busques el\nEdén! Atentamente, el Libro de<n>los Secretos.\""
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Significa que soy la Umamusume<n>elegida, ¿no?\n¿Cierto?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Oooh! ¡Estoy súper emocionada!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Espera, ¿el verdadero Libro de los<n>Secretos se\ndespediría con un \"atentamente\"?",
+      "choice_data_list": [
+        "Suena sospechoso..."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡¿Estás dudando de la veracidad de<n>este libro?!\n¡La propia tierra de Edén me<n>anhela! Claramente,\nno entiendes lo<n>importante que soy!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "No quería ponerme ruda, pero no me<n>dejas\notra opción..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Adentro!",
+      "choice_data_list": [
+        "¡Gaaah! ¡Que alguien me ayude!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Tranqui, tranqui. Estás bien. No es como<n>si fuera a\ncortarte en pedacitos y hacerte<n>una croqueta o\nnada por el estilo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Deben de haberme arrastrado hasta<n>este lugar\ndespués de eso..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Bueno. Ahora que estamos aquí,<n>repasemos lo\nque tenemos que hacer."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Dime, ¿no tendrás una brújula a<n>mano, verdad?",
+      "choice_data_list": [
+        "...¿Perdón?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "O sea, perdimos todo desde nuestros<n>teléfonos\nhasta la comida mientras<n>nadábamos hasta acá."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Así que ni siquiera sé para dónde<n>queda la\ncasa, mucho menos el Edén."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "No voy a mentir—no estoy muy<n>emocionada con\nla idea de vivir el resto de<n>nuestras vidas aquí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡¿Cómo llegaron las cosas a esto?!"
+    }
+  ]
 }

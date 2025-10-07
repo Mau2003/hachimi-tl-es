@@ -1,24 +1,21 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "This is called the “paddock”. Horse \ngirls appear before the race and \nshow off to their fans!",
-            "color_text_info_list": [
-                "paddock"
-            ]
-        },
-        {
-            "name": "Chairwoman Akikawa",
-            "text": "Pay attention! In the paddock, you can check \nvarious factors before you start the race."
-        },
-        {
-            "name": "Chairwoman Akikawa",
-            "text": "As for more information… Tazuna! \nGive the Trainer an explanation!"
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "Leave it to me ♪"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Este lugar se llama el paddock. Las<n>corredoras\naparecen aquí antes de la<n>carrera para\nemocionar a sus fans<n>admiradores!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Atención! Hay varias cosas que puedes<n>\nconfirmar aquí en el paddock antes de<n>\nla carrera!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Dejaré las explicaciones detalladas en<n>\ntus manos, Tazuna!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Puedes contar conmigo. ♪"
+    }
+  ]
 }

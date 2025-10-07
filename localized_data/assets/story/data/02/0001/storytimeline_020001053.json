@@ -1,62 +1,69 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "McQueen, congratulations! \nThat race…! It was amazing!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "…"
-        },
-        {
-            "text": "McQueen…?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I did it!!"
-        },
-        {
-            "text": "Uwaah!?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I finally won the Tennō Shō!! Now I can show \nthis plaque to the Mejiro Family!!"
-        },
-        {
-            "text": "I was shocked by \nMejiro McQueen's display of joy."
-        },
-        {
-            "text": "I guess it's because the immense amount of pressure that she had \non her to win has finally been lifted."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I'm sorry, I may have gotten a little carried away. \nBut I'm just so happy."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "And the only reason I was able to achieve \nthis was because of you, Trainer-san."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "You devoted everything for me, \nand for that I am grateful."
-        },
-        {
-            "text": "I should be thanking you. Despite being inexperienced, you still \nfollowed my orders. And in the end, you gave me the best present \npossible, this amazing victory."
-        },
-        {
-            "text": "…But if I were to say that, she'd get upset and say “please \nhave a bit more confidence in yourself.”",
-            "choice_data_list": [
-                "Our reborn Sirius will continue to win!",
-                "Our reborn Sirius will continue to win!"
-            ]
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Hehe, we'll have many more \nvictories from now on, I'm sure of it!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Well, it's almost time for the Winning Live. I need to show my \nappreciation to everyone that came out to support me!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "<username>",
+      "text": "¡McQueen, esa carrera fue impresionante!<n>¡Felicitaciones!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "..."
+    },
+    {
+      "name": "<username>",
+      "text": "¿McQueen?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Lo logré!"
+    },
+    {
+      "name": "<username>",
+      "text": "¡Guau!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Los salones de Mejiro están adornados con<n>incontables victorias—¡y finalmente he<n>ganado una placa propia!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No esperaba una muestra tan rotunda de<n>alegría de la siempre comedida<n>McQueen."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es claro lo mucho que significaba la<n>carrera para ella, y por qué sintió tanta<n>presión por ganarla."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Disculpa, perdí la compostura. Pero <i>sí</i><n>creo que me he ganado un poco de<n>euforia."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Además, quiero agradecerte por<n>ayudarme a alcanzar este resultado."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Pensar que dedicarías todos tus esfuerzos<n>solo por mí... Estoy realmente agradecida."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Yo soy quien debería estar agradeciendo.<n>Depositaste toda tu fe en una entrenadora<n>novata como yo, ¡y conseguiste una<n>victoria increíble!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Aunque si se lo dijera ahora, probablemente<n>me regañaría por falta de confianza en<n>mí misma.",
+      "choice_data_list": [
+        "¡Una victoria increíble para el Team Sirius!",
+        "¡Una victoria increíble para el Team Sirius!"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Jeje, sí. ¡Sigamos aprovechándolas donde<n>quiera que nos lleve el camino!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ahora, haré que el concierto de la victoria<n>sea inolvidable. ¡Es lo mínimo que puedo<n>hacer para agradecer a todos los que me<n>animaron!"
+    }
+  ]
 }

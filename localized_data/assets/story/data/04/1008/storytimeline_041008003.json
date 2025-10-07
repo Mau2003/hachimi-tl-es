@@ -1,220 +1,231 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Just a little longer until the \nmain event of the event――"
-        },
-        {
-            "name": "Horsegirl A",
-            "text": "Did you hear? It looks like a lot \nof girls declined just because Bryan-senpai \nwas in the 10th group…"
-        },
-        {
-            "name": "Horsegirl B",
-            "text": "I heard, I heard! That group was the only ones \nin the GI class. I'm so glad I declined…"
-        },
-        {
-            "name": "Vodka",
-            "text": "…Hmm, so that's what happened.",
-            "choice_data_list": [
-                "…Are you okay?",
-                "…Are you okay?"
-            ]
-        },
-        {
-            "name": "Vodka",
-            "text": "Huh? What?"
-        },
-        {
-            "name": "Vodka",
-            "text": "…Don't tell me you're telling me to decline."
-        },
-        {
-            "name": "Vodka",
-            "text": "It doesn't matter what the \nothers do! I'm leaving."
-        },
-        {
-            "name": "Vodka",
-            "text": "You're right. Brian's a dangerous \nopponent. She's not even good enough \nto be called a GI-Class."
-        },
-        {
-            "name": "Vodka",
-            "text": "Even in the event race, the teachers and \ntrainers were watching closely, so I could \nunderstand what they were saying."
-        },
-        {
-            "name": "Vodka",
-            "text": "But I'm not going to withdraw.",
-            "choice_data_list": [
-                "Resigning from the position?"
-            ]
-        },
-        {
-            "name": "Vodka",
-            "text": "Heh, that's right. You get it."
-        },
-        {
-            "name": "Vodka",
-            "text": "…I'm going to be a cool girl. \nThen I can't be scared here!"
-        },
-        {
-            "name": "Vodka",
-            "text": "Come on, let's go, Trainer! The real battle's \ncoming up soon, so we need to train hard!"
-        },
-        {
-            "text": "Several days passed as I watched Vodka devote \nherself to her training."
-        },
-        {
-            "text": "The main event of the event has finally come."
-        },
-        {
-            "text": "(Waaaaaaah!!)"
-        },
-        {
-            "name": "Commentator",
-            "text": "Please listen to this cheer! The star of the \n10th race, 2000 meters of grass, is just as \nexcited as the GI race!"
-        },
-        {
-            "name": "Commentator",
-            "text": "It's a fearsome 'monster', Naritabrian!!"
-        },
-        {
-            "text": "(Waaaaaah!!)"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…What a racket."
-        },
-        {
-            "name": "Vodka",
-            "text": "Brian… She's really pushing herself."
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "Oh, are you ready to withdraw? \nI'll go talk to the committee."
-        },
-        {
-            "name": "Vodka",
-            "text": "D-Don't do that! Don't do anything unnecessary!"
-        },
-        {
-            "name": "Vodka",
-            "text": "……I'll win.Watch!!"
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "Alright, alright, I'll keep an eye on you. …Geez."
-        },
-        {
-            "name": "Experienced Trainer A",
-            "text": "She was loudly declaring that she'd win, but…… \nWohka, are you trying to beat Naritabrian?"
-        },
-        {
-            "name": "Veteran Trainer A",
-            "text": "Vodka has potential too……but that's a bit……"
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "………"
-        },
-        {
-            "text": "Finally, the vodka race began."
-        },
-        {
-            "text": "(*crunch*)"
-        },
-        {
-            "name": "Vodka",
-            "text": "Hah, hah, hah…!!"
-        },
-        {
-            "name": "Vodka",
-            "text": "(I'll do it, too……! If I beat Senpai here……I \nwon't be cool!)"
-        },
-        {
-            "name": "Vodka",
-            "text": "All right…!!"
-        },
-        {
-            "name": "Commentator",
-            "text": "Vodka stepped forward here! She dodged the group \nwith supple acceleration!!"
-        },
-        {
-            "text": "It was a fast pace from the beginning, since it \nwas a race with all the power, but vodka was \ndoing her best to keep up."
-        },
-        {
-            "text": "But when the race comes to an end…"
-        },
-        {
-            "name": "Vodka",
-            "text": "Haah, haah… haah…"
-        },
-        {
-            "name": "Vodka",
-            "text": "(Crap… My vision is getting cloudy!)"
-        },
-        {
-            "name": "Vodka",
-            "text": "Dammit…!!"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…I'll decide!"
-        },
-        {
-            "name": "Commentator",
-            "text": "She's here, Naritablyan! She's here, she's here, \nshe's here, she's here, she's here, she's here, \nshe's here, she's here!"
-        },
-        {
-            "name": "Vodka",
-            "text": "Damn iiiiiiit!!"
-        },
-        {
-            "name": "Commentator",
-            "text": "Vodka's going to pick up speed, too! But is the \ngap going to be tough?! She's headed by \nNaritabrian, and she's only five to six!"
-        },
-        {
-            "name": "Vodka",
-            "text": "(No good…… She's too strong……!!)"
-        },
-        {
-            "name": "Vodka",
-            "text": "I can't……I can't keep up……"
-        },
-        {
-            "name": "Commentator",
-            "text": "Naritabrian, goooooooh!! You showed me a \nmagnificent run worthy of being overwhelming!!"
-        },
-        {
-            "text": "…Unfortunately, Vodka ended up in fifth place."
-        },
-        {
-            "name": "Experienced Trainer A",
-            "text": "That was a pretty reckless challenge."
-        },
-        {
-            "name": "Veteran Trainer A",
-            "text": "Yes. If she had chosen the right stage, she \nwould have been the star.",
-            "choice_data_list": [
-                "Hey, if you insult her already――",
-                "If you insult her a little…"
-            ]
-        },
-        {
-            "name": "Vodka",
-            "text": "Hey now, what's with that scary \nlook on your face, trainer?",
-            "choice_data_list": [
-                "Vodka…"
-            ]
-        },
-        {
-            "name": "Vodka",
-            "text": "It's fine. Actually… it can't be helped."
-        },
-        {
-            "name": "Vodka",
-            "text": "I'm……seriously useless right now……"
-        },
-        {
-            "text": "『That's not true』……I was about to tell her that, \nbut Vodka left."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El Encuentro Tracen comienza en unos días."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "Oye, ¿te enteraste? Casi todos<n>abandonaron el Grupo 10 para la\ncarrera de<n>2000 metros sobre césped después de<n>enterarse de que Brian\nparticipaba."
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¡Claro, claro! Ese grupo está lleno de<n>corredoras G1 ahora. Me alegro\nde haberme<n>salido a tiempo..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Hmm... Así que eso es lo que pasa.",
+      "choice_data_list": [
+        "¿Te sientes bien?",
+        "¿Te sientes bien?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Eh? ¿Por qué preguntas?"
+    },
+    {
+      "name": "Vodka",
+      "text": "No me digas que también vas a pedirme que<n>me retire."
+    },
+    {
+      "name": "Vodka",
+      "text": "Lo que hagan las otras corredoras no es<n>asunto mío. ¡No soy una cobarde!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Claro, Brian es una corredora increíble.<n>Llamarla clase G1 ni\nsiquiera es suficiente."
+    },
+    {
+      "name": "Vodka",
+      "text": "Además, mucha gente va a estar<n>viendo la carrera. Sé que las otras\ncorredoras<n>no quieren dañar su reputación<n>justo al comenzar."
+    },
+    {
+      "name": "Vodka",
+      "text": "Pero yo no me rindo.",
+      "choice_data_list": [
+        "Porque rendirse es patético, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Je, así es. Me alegra que me entiendas."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Las corredoras geniales como yo no<n>retroceden ante un desafío!"
+    },
+    {
+      "name": "Vodka",
+      "text": "De todos modos, ¿estás lista, Entrenadora?<n>El evento llegará antes de\nque te des cuenta,<n>¡así que mejor nos ponemos a trabajar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Enfocamos todos nuestros esfuerzos en<n>entrenar durante los próximos\ndías."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Finalmente, llega el día del Encuentro Tracen."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Síiiii!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Escuchen al público enloquecer! Solo una<n>corredora puede crear tal\nreacción—la estrella<n>G1 del Grupo 10..."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡La temible <i>bestia</i>—Narita Brian!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Wuuuu!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Qué ruidoso."
+    },
+    {
+      "name": "Vodka",
+      "text": "Demonios... Vaya que tiene presencia."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿De repente te entró miedo? Está bien si<n>quieres acobardarte—puedo\ndecirle<n>al comité."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡¿Qué?! ¡Como si! ¡No te atrevas!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Voy a ganar. ¡Solo mírame!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Sí, sí, todo ojos... Por favor."
+    },
+    {
+      "name": "Entrenadora Hábil A",
+      "text": "Eso es... una declaración ambiciosa. ¿En<n>realidad Vodka cree que\npuede vencer a<n>Narita Brian?"
+    },
+    {
+      "name": "Entrenadora Veterana A",
+      "text": "Vodka tiene potencial... pero nada cerca de<n>ese nivel..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La carrera comienza oficialmente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Bang!</i>"
+    },
+    {
+      "name": "Vodka",
+      "text": "<i>Jadeo, jadeo...</i>"
+    },
+    {
+      "name": "Vodka",
+      "text": "(¡Puedo hacer esto! Si gano contra Brian...<n>¡Eso me haría tan genial que\nla pista se<n>congelaría!)"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Vamos!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Vodka ha hecho su movimiento! ¡Está<n>acelerando suavemente y\nabriéndose paso<n>en el grupo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La carrera comenzó a un ritmo rápido, y<n>puedo ver que Vodka está\ndando lo mejor<n>para mantenerse."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero cuando se acercan a la recta final..."
+    },
+    {
+      "name": "Vodka",
+      "text": "<i>Jadeo, jadeo...</i>"
+    },
+    {
+      "name": "Vodka",
+      "text": "(Rayos... Mi visión... se está nublando...)"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Maldita sea!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Juego terminado."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Narita Brian hace su movimiento! ¡Mira esa<n>velocidad! ¡Está cortando\nthrough el grupo y<n>estableciendo su liderazgo!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Maldita sea!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Vodka está acelerando de nuevo, pero la<n>brecha ya es tremenda! Narita\nBrian ha puesto<n>cinco—no, seis cuerpos entre ella y<n>el segundo lugar!"
+    },
+    {
+      "name": "Vodka",
+      "text": "(No puedo hacerlo... ¡Es demasiado rápida!)"
+    },
+    {
+      "name": "Vodka",
+      "text": "Imposible... No hay manera..."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Narita Brian termina en primer lugar! ¡Qué<n>increíble muestra de poder!\n¡Qué hermosa<n>carrera acabamos de presenciar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Desafortunadamente, Vodka termina en<n>quinto lugar."
+    },
+    {
+      "name": "Entrenadora Hábil A",
+      "text": "Vodka luchó bien... pero fue<n>imprudente de su parte asumir tal\ndesafío."
+    },
+    {
+      "name": "Entrenadora Veterana A",
+      "text": "Sí. Si solo hubiera elegido otro grupo,<n>habría sido fácilmente la\nestrella del<n>espectáculo.",
+      "choice_data_list": [
+        "Oye, cuidado con tus palabras—",
+        "Oye, cuidado con tus palabras—"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Whoa ahí! ¿Por qué te ves tan enojada,<n>Entrenadora?",
+      "choice_data_list": [
+        "Vodka..."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Está bien. No había nada que pudiera<n>hacer al respecto."
+    },
+    {
+      "name": "Vodka",
+      "text": "Solo soy... patética como el demonio..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Antes de que pueda siquiera darle una<n>palabra de aliento, Vodka gira\nsobre sus<n>tacones y se aleja."
+    }
+  ]
 }

@@ -1,188 +1,195 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "One day, at training…"
-        },
-        {
-            "name": "Nice Nature",
-            "text": "Uh-huh. Yeah, I thought so…",
-            "choice_data_list": [
-                "Thought what?"
-            ]
-        },
-        {
-            "name": "Nice Nature",
-            "text": "Oh, uh, my horseshoes. I thought something felt a little off \nwhile I was running back there."
-        },
-        {
-            "name": "Nice Nature",
-            "text": "And now I see why. Look at that, they're worn completely flat \nalready. Guess it's time to buy some more.",
-            "choice_data_list": [
-                "Just goes to show how hard you're training!",
-                "Just goes to show how hard you're training!"
-            ]
-        },
-        {
-            "name": "Nice Nature",
-            "text": "Yes, yes, thank you. Compliment gratefully received."
-        },
-        {
-            "name": "Nice Nature",
-            "text": "So, uh, hey, are you free on Sunday? You couldn't come \nwith me and help pick out some new shoes, could you?"
-        },
-        {
-            "name": "Nice Nature",
-            "text": "You know how it is. They got all kinds of fancy ones, but I \nalways just end up buying the same ones I always do."
-        },
-        {
-            "name": "Nice Nature",
-            "text": "But I thought maybe if you came along you might be able \nto help me find something that works better for me.",
-            "choice_data_list": [
-                "Sure thing."
-            ]
-        },
-        {
-            "name": "Nice Nature",
-            "text": "Wonderful. Alright then, we're going shopping!"
-        },
-        {
-            "text": "Then, that Sunday…"
-        },
-        {
-            "name": "Nice Nature",
-            "text": "You know, I always just get everything at the \nshop on campus… I feel a little nervous coming \nto a fancy specialist place like this…"
-        },
-        {
-            "name": "Nice Nature",
-            "text": "And just look at all the stuff they've got. There's \nso many different kinds of shoes here, I've no \nidea how to tell the good ones apart."
-        },
-        {
-            "name": "Nice Nature",
-            "text": "Now, watermelons? Those I can do! I got the nice \nold lady at the greengrocer's to show me how to \npick the sweet ones every time! But shoes…"
-        },
-        {
-            "name": "Nice Nature",
-            "text": "Well, trainer-san, that's your cue! You'll find me \nsomething just right, now, won't you?"
-        },
-        {
-            "text": "So I talked Nice Nature through the pros and cons of all the \ndifferent designs and variations, until we settled on a pair we \nthought was just right."
-        },
-        {
-            "name": "Nice Nature",
-            "text": "Heehee… I can't wait to try these out. Just what kind of shoes \nhave you chosen for me I wonder…?"
-        },
-        {
-            "name": "Nice Nature",
-            "text": "But you really do have a good eye… you know all about \nmy form, how I push against the ground when I run…",
-            "choice_data_list": [
-                "Well… I am your trainer!",
-                "Well… I am your trainer!"
-            ]
-        },
-        {
-            "name": "Nice Nature",
-            "text": "I guess that's why you're a professional, huh. You're watching \nevery little detail… I'm impressed!"
-        },
-        {
-            "name": "Nice Nature",
-            "text": "Welp… guess we should be getting back to the academy before… ah."
-        },
-        {
-            "text": "Nice Nature looked like she'd noticed something, \nand went over to look in a nearby shop window."
-        },
-        {
-            "name": "Nice Nature",
-            "text": "Hey, I recognize that outfit. I saw it in that magazine the other \nday… wow, it's really something when you see it up close…"
-        },
-        {
-            "name": "Nice Nature",
-            "text": "Maybe just a little too girly, though…? \nBut I do like that color… hmmm…"
-        },
-        {
-            "name": "Nice Nature",
-            "text": "Ah! Sorry, sorry! Look at me, just wandering off without saying \nanything. Something just kind of caught my eye, that's all.",
-            "choice_data_list": [
-                "That's alright. Take all the time you need."
-            ]
-        },
-        {
-            "name": "Nice Nature",
-            "text": "Nah, I'm fine. I wasn't going to buy it or anything…"
-        },
-        {
-            "name": "Nice Nature",
-            "text": "You know how it is… even if you see an outfit in a magazine \nand you think it looks nice… when you get a chance to \nactually buy it you suddenly have a dozen reasons not to…"
-        },
-        {
-            "name": "Nice Nature",
-            "text": "\"Ah it probably just looks nice 'cause the model's pretty\"… \nyou know, that sort of thing.",
-            "choice_data_list": [
-                "Well if you try it on then you'll know, right?"
-            ]
-        },
-        {
-            "name": "Nice Nature",
-            "text": "A-hahaha… yeah I'll know alright. Know how dumb I look!"
-        },
-        {
-            "text": "Good afternoon! If I might assist you, \nthe fitting rooms are right this way…!"
-        },
-        {
-            "name": "Nice Nature",
-            "text": "N… no, I'm fine, really. I don't think it's my style."
-        },
-        {
-            "text": "Nonsense! Why, if we just raised those pigtails a tiny bit it \nwould change your whole silhouette and match perfectly!"
-        },
-        {
-            "name": "Nice Nature",
-            "text": "Oh yeah, you know you might be… ahh! You almost \nhad me for a second there! You're good at this, huh!",
-            "choice_data_list": [
-                "I think she's right, you could carry that off."
-            ]
-        },
-        {
-            "name": "Nice Nature",
-            "text": "Trainer-san!? Are you on their side too now? \nNo, uh, I, um…"
-        },
-        {
-            "name": "Nice Nature",
-            "text": "A-hah! I already bought those nice horseshoes! My shopping \nbudget's all spoken for already. Yeah, that's it!"
-        },
-        {
-            "name": "Nice Nature",
-            "text": "So! If you'll excuse, I really must be going, goodbye…! \nC'mon, Trainer-san, I said we're going."
-        },
-        {
-            "name": "Nice Nature",
-            "text": "Whew, that was a close one. Almost got \nme into the changing room there."
-        },
-        {
-            "name": "Nice Nature",
-            "text": "I gotta say, I wasn't ready for you and that \nsales lady to gang up on me like that!",
-            "choice_data_list": [
-                "Honestly, I think it would have looked good."
-            ]
-        },
-        {
-            "name": "Nice Nature",
-            "text": "You just don't quit, do you!? Flattery'll \nget you nowhere, you know.",
-            "choice_data_list": [
-                "You said it yourself: I've got a good eye!",
-                "You said it yourself: I've got a good eye!"
-            ]
-        },
-        {
-            "name": "Nice Nature",
-            "text": "Yeah, for training stuff! What are \nyou my personal stylist now, too!?"
-        },
-        {
-            "name": "Nice Nature",
-            "text": "Ugh. All I wanted was a pair of shoes. \nWhy does this have to be so stressful…?"
-        },
-        {
-            "text": "Nice Nature was happy to let me pick out her horseshoes, but \nletting me pick out her clothes was obviously a step too far."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, durante el entrenamiento..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Vaya, sabía que algo pasaba.",
+      "choice_data_list": [
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ah, es sobre mis zapatillas. Se sentían<n>raras cuando corría antes."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Y mira, están completamente gastadas.<n>Probablemente tendré que comprar<n>un par nuevo.",
+      "choice_data_list": [
+        "Muestra lo duro que has estado trabajando.",
+        "Muestra lo duro que has estado trabajando."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Sí, sí, ¿puedes calmarte un poco?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Ah, hablando de eso! ¿Estás libre en<n>nuestro próximo día libre? Quiero tu ayuda<n>eligiendo un nuevo<n>par de zapatillas para mí."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "O sea, hay montones de tipos diferentes,<n>¿verdad? Siempre termino comprando<n>las mismas."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Pero si estás ahí conmigo, podríamos<n>encontrar un ajuste aún mejor<n>para mí.",
+      "choice_data_list": [
+        "No me molesta."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Oh, eso fue fácil. Bueno entonces, supongo<n>que vamos a la calle."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Unos días después..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Usualmente consigo todo lo que necesito<n>en la tienda de la escuela, así que venir a<n>una tienda profesional como<n>esta me hace sentir como una atleta de verdad."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Aunque cielos, realmente hay todo tipo de<n>zapatillas. Oh vaya, ¿cómo se<n>supone que elija solo una?!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Si solo estuviéramos buscando comprar una<n>sandía. Entonces podríamos solo<n>preguntar a las<n>señoras mayores que atienden los puestos."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Y es ahí donde entras tú, Entrenador.<n>Ayúdame a encontrar mi par<n>perfecto, ¿vale?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Revisamos todo tipo de zapatillas<n>diferentes, y le explico los pros y<n>contras de cada una a<n>Nature."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Jeje, gracias por elegirlas por mí.<n>No puedo esperar a ver cómo se<n>sienten después de que las<n>amortigüe."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Pero debo decir que realmente tienes tu<n>ojo puesto en mí, ¿no? Hablabas<n>de todo, desde mi mejor forma de<n>correr hasta mis hábitos al correr.",
+      "choice_data_list": [
+        "Después de todo, <i>soy</i> tu entrenador.",
+        "Después de todo, <i>soy</i> tu entrenador."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Eso es un profesional para ti. Supongo que<n>solo me sorprendí, eso es todo. De<n>buena manera."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Bueno, supongo que deberíamos regresar a<n>la academia—ah."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al notar algo, Nature camina hacia una<n>tienda frente a nosotros."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "He visto este atuendo en una revista antes.<n>Vaya, verlo en persona es<n>muy diferente."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Quizás un poco demasiado femenino para<n>mí, though. Hm, pero el color es justo<n>lo mío...<n>Hmmm."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Ah, lo siento! Te dejé colgando ahí,<n>Entrenador. Vi un atuendo que me<n>gustó, eso es todo.",
+      "choice_data_list": [
+        "Tómate tu tiempo."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Nah, ya estoy bien ahora. No planeaba<n>comprarlo de todos modos."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Pero vaya, aunque se veía muy lindo en<n>una revista, comprarlo es una<n>historia completamente<n>diferente."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "O sea, la ropa solo se veía linda porque<n>la modelo que la usaba era<n>linda, ¿sabes?",
+      "choice_data_list": [
+        "Estoy seguro de que te verías igual de linda con él."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Jaja, buena broma. Olvida linda, me<n>vería como una bruta."
+    },
+    {
+      "name": "Empleada de la tienda",
+      "text": "¡Bienvenida! ¿Estás interesada en probarte<n>este atuendo?"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿Eh? N-no, no me vería bien."
+    },
+    {
+      "name": "Empleada de la tienda",
+      "text": "Eso no es verdad en absoluto, señorita. Para<n>este atuendo, si te atas el cabello<n>un poco más alto, ¡te verá<n>perfecta!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Oooh, ya veo—¡espera un segundo! ¡Ya veo<n>lo que haces, empleada del mes!",
+      "choice_data_list": [
+        "Definitivamente serás la chica más linda con él."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Whoa! ¿¡Estás de su lado, Entrenador?! Como<n>dije, soy... este..."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Ah, eso es! Ya compramos zapatillas<n>nuevas hoy, ¡así que debo ahorrar<n>mi dinero!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡Así es, lo siento! Entrenador, ¡<i>vámonos</i><n>ya!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "<i>Suspiro.</i> <i>Casi</i> me convencen de probármelo."
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Claro que no esperaba que <i>tú</i> te unieras a<n>la tienda contra mí, Entrenador.",
+      "choice_data_list": [
+        "Aún insisto, serás la más linda con él."
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¿¡T-todavía sigues con eso?! ¡Adularme<n>no te llevará a ninguna parte!",
+      "choice_data_list": [
+        "¡Lo sé porque siempre te estoy vigilando!",
+        "¡Lo sé porque siempre te estoy vigilando!"
+      ]
+    },
+    {
+      "name": "Nice Nature",
+      "text": "¡¿Te refieres durante el entrenamiento, verdad?!<n>¡La moda es un mundo completamente<n>diferente!"
+    },
+    {
+      "name": "Nice Nature",
+      "text": "Ufhh... ¿Quién hubiera pensado que<n>comprar zapatillas podría ser tan<n>agotador?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque Nature está abierta a que yo elija<n>sus zapatillas, parece que elegir<n>ropa linda para ella está fuera de<n>discusión."
+    }
+  ]
 }

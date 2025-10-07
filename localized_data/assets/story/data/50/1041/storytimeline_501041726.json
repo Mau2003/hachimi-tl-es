@@ -1,56 +1,60 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "One day, on a day out with Sakura \nBakushin O――"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Oya, that's…"
-        },
-        {
-            "text": "Sakura Bakushin O was looking at \na stuffed Uma Musume doll―a prize for \nthe crane game."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "That's the stuffed doll that's all the rage in \nmy class!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "As class president, I must keep up with the \nclass trends!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "All right, now let's Bakushin this arm and \ntry to get that stuffed doll!!",
-            "choice_data_list": [
-                "Bakushin your arm……?"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Affirmative! I'm going to get that stuffed \ndoll with the power of Bakushin!"
-        },
-        {
-            "text": "I can easily imagine that it would be \nimpossible to get a stuffed doll by using \"the \npower of Bakushin\" as she says……",
-            "choice_data_list": [
-                "Leave it to me.",
-                "Leave it to me."
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Ohh, what dependable words! \nYou seem to be quite capable!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "And, if you top it off with my support as \nclass president――"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Surely we'll be invincible! \nTrainer, let's do our best!"
-        },
-        {
-            "text": "――I won't lose this game!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras salgo con Sakura<n>Bakushin O..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Mmm, ¿será que...?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sigo la mirada de Sakura Bakushin O y<n>veo\npeluches de Umamusume exhibidos como<n>premios de una\nmáquina de garra."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Ooh, esos son los peluches de los que<n>mis\ncompañeras no paran de hablar!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Como representante de clase, es<n>imprescindible\nmantenerme al día con las<n>últimas tendencias!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Muy bien, le voy a dar a esa garra un<n>buen\nBakushin para conseguir ese peluche!",
+      "choice_data_list": [
+        "¿Darle a la garra... un buen Bakushin?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Así es! ¡Una vez que le dé energía<n>Bakushin,\nagarrará el peluche por mí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Dudo que lanzarle energía Bakushin a la<n>garra le\nasegure el peluche... Ya puedo<n>ver el\ndesenlace...",
+      "choice_data_list": [
+        "Déjame esto a mí.",
+        "Déjame esto a mí."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Oh, ¡dicho con confianza! ¡Sonaste muy<n>confiable!\n¡Me das vibes de profesional!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Esto merece mi ánimo, como es propio de<n>una\nrepresentante de clase, claro..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Eres invencible! ¡Démosle con todo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡No puedo perder en este juego!"
+    }
+  ]
 }

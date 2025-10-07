@@ -3,262 +3,289 @@
   "text_block_list": [
     {
       "name": "Mejiro McQueen",
-      "text": "Right, I think that's enough for today's… Hm?"
+      "text": "Bien, creo que eso es suficiente por hoy...<n>¿Mmm?"
     },
     {
-      "text": "Something wrong?"
+      "name": "<username>",
+      "text": "¿Pasa algo?"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "No, but it seems we have a spectator."
+      "text": "No, pero parece que tenemos una espectadora."
     },
     {
       "name": "Rice Shower",
-      "text": "…Ah!"
+      "text": "...¡Ah!"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "An acquaintance of yours, I presume?"
+      "text": "¿Una conocida tuya, supongo?"
     },
     {
-      "text": "Nope. But if I remember correctly…"
+      "name": "<username>",
+      "text": "No. Pero si mal no recuerdo..."
     },
     {
       "name": "Gold Ship",
-      "text": "Phew. Another honest day's work! And now, the event we've all been \nwaiting for—Roll the McQueen!"
+      "text": "Uf. ¡Otro día de trabajo honesto! Y<n>ahora, el evento que todos<n>esperábamos—¡A rodar a McQueen!"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "I beg your pardon?! What a dreadful-sounding name! Whatever it is, \nwe are <i>not</i> doing it!"
+      "text": "¡¿Perdón?! ¡Qué nombre tan<n>espantoso! Sea lo que sea,<n>¡nosotros <i>no</i> vamos a hacerlo!"
     },
     {
       "name": "Gold Ship",
-      "text": "Hey! Come back here!"
+      "text": "¡Oye! ¡Regresa aquí!"
     },
     {
-      "text": "…"
+      "name": "<username>",
+      "text": "..."
     },
     {
-      "text": "I didn't <i>know</i> her, but I had seen her around. She was always the last \none out practicing."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "<i>Pant, pant…</i>"
-    },
-    {
-      "text": "And there she was, running and running, all by herself."
+      "name": "Monólogo",
+      "text": "No la <i>conocía</i>, pero la había visto<n>por ahí. Siempre era la última<n>en entrenar."
     },
     {
       "name": "Rice Shower",
-      "text": "<i>Pant, pant…</i> Ah!"
+      "text": "<i>Jadeo, jadeo...</i>"
     },
     {
-      "text": "<i>Thud!</i>"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Hnngh… Ow…"
+      "name": "Monólogo",
+      "text": "Y ahí estaba ella, corriendo y corriendo,<n>completamente sola."
     },
     {
       "name": "Rice Shower",
-      "text": "All this running, and nothing to show for it…"
+      "text": "<i>Jadeo, jadeo...</i> ¡Ah!"
     },
     {
-      "text": "It was like watching McQueen all over again, training for the Tenno \nSho as if her life depended on it."
-    },
-    {
-      "text": "You okay?"
-    },
-    {
-      "text": "You okay?"
+      "name": "Monólogo",
+      "text": "<i>¡Pum!</i>"
     },
     {
       "name": "Rice Shower",
-      "text": "Huh? Oh… You're McQueen's trainer…"
-    },
-    {
-      "text": "You shouldn't run through the pain. Not if you want to win your next \nrace."
-    },
-    {
-      "text": "You shouldn't run through the pain. Not if you want to win your next \nrace."
-    },
-    {
-      "text": "It sucks you can't do more <i>now,</i> I know. But just hold on to that \nfeeling, and it'll take you to the winner's circle."
+      "text": "Ugh... Ay..."
     },
     {
       "name": "Rice Shower",
-      "text": "<i>Sniffle… Sob…</i>"
+      "text": "Tanto correr, y sin nada que mostrar<n>por ello..."
     },
     {
-      "text": "Whoa, uh… Didn't think you hurt yourself that badly."
+      "name": "Monólogo",
+      "text": "Era como ver a McQueen de nuevo,<n>entrenando para el Tenno Sho<n>como si su vida dependiera de ello."
     },
     {
-      "text": "Whoa, uh… Didn't think you hurt yourself that badly."
+      "name": "<username>",
+      "text": "¿Estás bien?"
     },
     {
-      "name": "Rice Shower",
-      "text": "N-no, sorry, it's… it's just…"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "I love running… but I just can't seem to win. And when I see McQueen \nrace—"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "I… I want to win too!"
-    },
-    {
-      "text": "\"I want to win.\" It's easy to say those words once. But to Rice Shower, \nthey were a mantra."
+      "name": "<username>",
+      "text": "¿Estás bien?"
     },
     {
       "name": "Rice Shower",
-      "text": "Me? In the Derby…"
+      "text": "¿Eh? Oh... Eres el entrenador de McQueen..."
     },
     {
-      "text": "I know you can do it. I've watched you run more than anyone."
+      "name": "<username>",
+      "text": "No deberías correr con dolor. No si<n>quieres ganar tu próxima carrera."
     },
     {
-      "text": "I know you can do it. I've watched you run more than anyone."
+      "name": "<username>",
+      "text": "No deberías correr con dolor. No si<n>quieres ganar tu próxima carrera."
+    },
+    {
+      "name": "<username>",
+      "text": "Sé que es frustrante no poder hacer más<n><i>ahora</i>. Pero aguanta ese<n>sentimiento, y te llevará a la victoria."
     },
     {
       "name": "Rice Shower",
-      "text": "B-but… I'm just not at that level."
+      "text": "<i>Snif... Llanto...</i>"
     },
     {
-      "text": "I can't blame her for being intimidated. The Derby draws the fiercest \ncontenders around."
+      "name": "<username>",
+      "text": "Vaya, eh... No pensé que te hubieras<n>lastimado tan feo."
     },
     {
-      "text": "Still, Rice has the legs to keep up with McQueen. And more \nimportantly…",
+      "name": "<username>",
+      "text": "Vaya, eh... No pensé que te hubieras<n>lastimado tan feo."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "N-no, lo siento, es que... es que..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Amo correr... pero no logro<n>ganar. Y cuando veo correr a McQueen—"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Yo... yo también quiero ganar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "\"Quiero ganar.\" Es fácil decirlo una vez.<n>Pero para Rice Shower, eran<n>un mantra."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Yo? En el Derby..."
+    },
+    {
+      "name": "<username>",
+      "text": "Sé que puedes hacerlo. Te he visto correr<n>más que a nadie."
+    },
+    {
+      "name": "<username>",
+      "text": "Sé que puedes hacerlo. Te he visto correr<n>más que a nadie."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "P-pero... no estoy a ese nivel."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No la culpo por sentirse intimidada.<n>El Derby atrae a las<n>contrincantes más feroces."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aún así, Rice tiene las piernas para<n>seguirle el paso a McQueen. Y lo<n>más importante...",
       "choice_data_list": [
-        "You still want to win, don't you?"
+        "Todavía quieres ganar, ¿verdad?"
       ]
     },
     {
       "name": "Rice Shower",
-      "text": "Ah…"
+      "text": "Ah..."
     },
     {
-      "text": "That ambition is what leads to hard work. And hard work is what leads \nto confidence."
+      "name": "<username>",
+      "text": "Esa ambición es lo que lleva al trabajo<n>duro. Y el trabajo duro es lo<n>que lleva a la confianza."
     },
     {
-      "text": "So what do you say? The Derby calls!"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "…O-okay. I'll give it a try."
-    },
-    {
-      "text": "It took a little prodding, but she's taken her first step towards the \nwide world that awaits her."
+      "name": "<username>",
+      "text": "¿Entonces qué dices? ¡El Derby te llama!"
     },
     {
       "name": "Rice Shower",
-      "text": "So all I have to do is follow McQueen?"
+      "text": "...O-okay. Lo intentaré."
     },
     {
-      "text": "Yep. Just follow the leader, no matter what."
-    },
-    {
-      "text": "Yep. Just follow the leader, no matter what."
-    },
-    {
-      "name": "Mejiro McQueen",
-      "text": "Out of all the contenders for this year's Derby, there's one clear \nfavorite: the undefeated Mihono Bourbon."
-    },
-    {
-      "name": "Mejiro McQueen",
-      "text": "She takes the lead and sets a precise pace, rather like a machine. It's \ntruly a sight to behold."
-    },
-    {
-      "name": "Mejiro McQueen",
-      "text": "If you're to best her, you'll first need to be able to keep up with me."
+      "name": "Monólogo",
+      "text": "Hizo falta un pequeño empujón, pero dio<n>su primer paso hacia el<n>amplio mundo que la espera."
     },
     {
       "name": "Rice Shower",
-      "text": "…Okay. I'll try my best not to fall behind."
+      "text": "¿Así que solo tengo que seguir a McQueen?"
     },
     {
-      "text": "It's not easy, keeping the perfect stalking distance. It demands both \nstamina and focus, especially against someone like McQueen."
+      "name": "<username>",
+      "text": "Sip. Solo sigue al líder, pase lo que<n>pase."
     },
     {
-      "text": "Rice gets off to a rough start, falling behind time and time again, but \nshe keeps at it. And after a few days…"
+      "name": "<username>",
+      "text": "Sip. Solo sigue al líder, pase lo que<n>pase."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "<i>Pant, pant…</i>"
+      "text": "De todas las contendientes de este año<n>en el Derby, hay una favorita<n>clara: la invicta Mihono Bourbon."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Toma la delantera y marca un ritmo<n>preciso, casi como una máquina.<n>Es todo un espectáculo."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Si quieres vencerla, primero<n>necesitarás poder seguirme el ritmo."
     },
     {
       "name": "Rice Shower",
-      "text": "<i>Huff… Puff…</i>"
+      "text": "...Okay. Haré lo posible por no quedarme atrás."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No es fácil mantener la distancia<n>perfecta de acecho. Requiere<n>tanto resistencia como enfoque,<n>especialmente contra alguien como McQueen."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Rice empieza mal, quedándose atrás<n>una y otra vez, pero persiste.<n>Y tras unos días..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "<i>Jadeo, jadeo...</i>"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Buf... Puf...</i>"
     },
     {
       "name": "Gold Ship",
-      "text": "Hey, look at that! You didn't fall behind a single time today!"
+      "text": "¡Oye, mira eso! ¡Hoy no te quedaste atrás<n>ni una sola vez!"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Well done. That stamina will serve you well.",
+      "text": "Bien hecho. Esa resistencia te servirá<n>de mucho.",
       "choice_data_list": [
-        "Just like that! That's how you're gonna win the \nDerby!"
+        "¡Así es! ¡Así es como vas a ganar el Derby!"
       ]
     },
     {
       "name": "Rice Shower",
-      "text": "Y-yeah!"
+      "text": "¡S-sí!"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Well then, farewell to you all."
+      "text": "Bueno entonces, adiós a todos."
     },
     {
       "name": "Gold Ship",
-      "text": "Smell ya later!"
+      "text": "¡Nos vemos!"
     },
     {
       "name": "Upbeat Umamusume",
-      "text": "See you tomorrow!"
+      "text": "¡Hasta mañana!"
     },
     {
       "name": "Rice Shower",
-      "text": "Just keep following, just keep following…"
+      "text": "Solo sigue, solo sigue..."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "…"
+      "text": "..."
     },
     {
       "name": "Rice Shower",
-      "text": "Just keep following, just keep following…"
+      "text": "Solo sigue, solo sigue..."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "<i>Sigh…</i>"
+      "text": "<i>Suspiro...</i>"
     },
     {
       "name": "Rice Shower",
-      "text": "Just keep following, just keep following…"
+      "text": "Solo sigue, solo sigue..."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "…Erm, Rice."
+      "text": "...Este, Rice."
     },
     {
       "name": "Rice Shower",
-      "text": "Hweh?"
+      "text": "¿Bweh?"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Do you mean to sleep beside me again? I'm not sure following me \n<i>everywhere</i> I go will benefit you…"
+      "text": "¿Planeas dormir a mi lado de nuevo?<n>No estoy segura de que seguirme<n><i>a todos lados</i> te beneficie..."
     },
     {
       "name": "Rice Shower",
-      "text": "B-but Trainer said to follow you, no matter what."
+      "text": "P-pero el Entrenador dijo que te siguiera,<n>pase lo que pase."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "(…This is most definitely not what Trainer had in mind.)"
+      "text": "(...Esto definitivamente no es lo que<n>el Entrenador tenía en mente.)"
     },
     {
-      "text": "After several days of relentless training, the highlight of the Twinkle \nSeries, the Japanese Derby, is finally here."
+      "name": "Monólogo",
+      "text": "Tras varios días de entrenamiento<n>incansable, el punto culminante de<n>la Twinkle Series, el Derby Japonés,<n>finalmente está aquí."
     }
   ]
 }

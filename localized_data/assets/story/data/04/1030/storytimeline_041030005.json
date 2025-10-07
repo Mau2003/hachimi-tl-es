@@ -1,192 +1,198 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Since I had some free time, I decided to head \nto the course a little earlier than usual to \nprepare for our upcoming training session…"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "S-S-Stand up! B-Bow!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Hmm, that's no good at all… \nLet me try again…!",
-            "choice_data_list": [
-                "Ah, Rice! You're already here.",
-                "Ah, Rice! You're already here."
-            ]
-        },
-        {
-            "name": "Rice Shower",
-            "text": "<i>Hyaaah!!</i> B-B-Big brother…!?"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "<i>Hyaaah!!</i> B-B-Big sister…!?"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Ah, I'm s-sorry! I was just practicing \non my own while waiting for you…!",
-            "choice_data_list": [
-                "What were you practicing?"
-            ]
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Ah, I was practicing, umm… the class' morning greeting."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "I'm on duty tomorrow, that's why… <i>haah</i>.",
-            "choice_data_list": [
-                "You're not a fan of class duty?",
-                "You're not a fan of class duty?"
-            ]
-        },
-        {
-            "name": "Rice Shower",
-            "text": "N-No, that's not quite it!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "I know that I can't offer much, but if I can contribute \neven a little to the class, then I want to give it my all. \nAt least, that's how I feel."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "I always fill up the class journal with notes about everyone… \nand I make sure to clean the blackboard thoroughly by jumping \nup to reach all the top corners."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "But the thing is… I'm really, really bad \nat the morning greetings……"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "It's difficult for me to raise my voice… \nand when I get nervous, my voice \nsounds all weird and funny……",
-            "choice_data_list": [
-                "Let's practice together then!",
-                "Let's practice together then!"
-            ]
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Y-You're going to practice with me, big brother? \nAre you really okay with that…?!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Y-You're going to practice with me, big sister? \nAre you really okay with that…?!"
-        },
-        {
-            "text": "We headed over to a vacant classroom to practice \nthe morning greeting together."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "All right… I'll give it a shot, okay?"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "S-S-Stand up! \nB-B-Bow! \nS-S-Si… <i>ow</i>!?",
-            "choice_data_list": [
-                "W-What happened? You okay?!",
-                "W-What happened? You okay?!"
-            ]
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Ah, I-I'm so s-sowwy! \nI accidentally bit mysewf…!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "<i>Uugh</i>… I messed up really badly, I'm so sorry! \nEven though you're going out of your way to help me…"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "<i>Uugh</i>… I messed up really badly, I'm so sorry! \nEven though you're going out of your way to help me…"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Ah, I really am so useless……"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "But… even so………",
-            "choice_data_list": [
-                "You don't want to give up?"
-            ]
-        },
-        {
-            "name": "Rice Shower",
-            "text": "… Yeah! That's right! \nGiving up is the last thing I want to do!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "I don't have much confidence in myself…… \nbut I don't want to stay like this any longer!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "I'm going to try one more time. \nPlease watch me, big brother!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "I'm going to try one more time. \nPlease watch me, big sister!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "You can do it… yeah～!!"
-        },
-        {
-            "text": "The following day ——"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Stand up! Bow! Thank you so much \nfor your help yesterday, big brother!",
-            "choice_data_list": [
-                "You're doing it so well now!"
-            ]
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Stand up! Bow! Thank you so much \nfor your help yesterday, big sister!",
-            "choice_data_list": [
-                "You're doing it so well now!",
-                "You're doing it so well now!"
-            ]
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Yeah! It's amazing… when I'm with you, I feel like I have \nthe strength to overcome my weaknesses, little by little."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Yeah! It's amazing… when I'm with you, I feel like I have \nthe strength to overcome my weaknesses, little by little."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Ehehehe! For some reason, I feel like I can push myself \neven harder than usual in today's training ——"
-        },
-        {
-            "text": "<i>(… Pitter-patter…)</i>"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "<i>Hyaaa?! </i>Something felt wet… W-What was that?"
-        },
-        {
-            "text": "(<i>WOOOOOOSHHHH</i>!)"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "<i>Whaaaaat?! </i> B-But it was such a sunny day today…!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Aww… It must be my fault. It's because of me \nthat it started raining out of the blue…!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "<i>Uuuughh</i>, I'm so sorryyyyy!!"
-        },
-        {
-            "text": "Despite Rice Shower's attempt to hold back her tears, they \nbegan to flow uncontrollably. I reached out my hands, offering \ngentle pats on her back in a desperate attempt to soothe her."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "Tengo algo de tiempo libre, así que me dirijo<n>a la pista para adelantarme\nen los<n>preparativos del entrenamiento de hoy."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡L-l-levantarse!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Mmm, nada bien... ¡Otra vez!",
+      "choice_data_list": [
+        "Rice, llegaste temprano.",
+        "Rice, llegaste temprano."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿¡Huuuh?! ¡¿H-H-Hermano Mayor?!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿¡Huuuh?! ¡¿H-H-Hermana Mayor?!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Em, l-lo siento. Pensé que no<n>vendrías tan pronto, ¡así que\nestaba practicando!",
+      "choice_data_list": [
+        "¿En qué estabas trabajando?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ah, em... el saludo de la clase."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Me toca mañana. Así que... <i>Uf.</i>",
+      "choice_data_list": [
+        "¿No te gusta encargarte de los deberes de clase?",
+        "¿No te gusta encargarte de los deberes de clase?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Eh? N-¡no! No es eso."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Sé que no soy la mejor para el<n>trabajo... pero si es por mi clase,\nsiempre<n>doy lo mejor de mí."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Escribo el diario de clase hasta los<n>márgenes... Y mantengo limpio\nel pizarrón,<n>aunque tenga que saltar para llegar a la<n>parte de arriba."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Pero... soy muy, muy mala para el saludo<n>de clase..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Se me hace difícil hablar fuerte... Y cuando<n>me pongo nerviosa, mi voz\nse vuelve rara.",
+      "choice_data_list": [
+        "Si ese es el caso, te ayudaré.",
+        "Si ese es el caso, te ayudaré."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Lo harás, Hermano Mayor? ¿¡En serio?!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Lo harás, Hermana Mayor? ¿¡En serio?!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Encontramos un salón vacío para practicar<n>el saludo de clase de Rice."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Respira hondo... ¡Bien, allá voy!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡L-l-l-levantarse! ¡I-inclinarse! Siéntense... ¡Eep?!",
+      "choice_data_list": [
+        "¿Q-qué pasó?!",
+        "¿Q-qué pasó?!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ah... L-lo siento mucho. ¡Me mordí la lengua!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ugh... Perdón por ser tan fracasada. Incluso<n>con tu ayuda..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ugh... Perdón por ser tan fracasada. Incluso<n>con tu ayuda..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "No hay esperanza para mí..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Aun así...",
+      "choice_data_list": [
+        "No quieres rendirte, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ajá... ¡Exacto! ¡No puedo rendirme aquí!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Yo... quizás sea una inútil, pero eso no<n>significa que quiera quedarme\nasí."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "O-otro intento. Esta vez sí lo lograré, ¡Hermano<n>Mayor!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "O-otro intento. Esta vez sí lo lograré, ¡Hermana<n>Mayor!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Puedo hacerlo... ¡Sí!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Al día siguiente..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Levántense! ¡Inclínense! Hermano Mayor, ¡muchas<n>gracias por ayudarme\\ayer!",
+      "choice_data_list": [
+        "Supongo que tu saludo salió bien, ¿no?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Levántense! ¡Inclínense! Hermana Mayor, ¡muchas<n>gracias por ayudarme\\ayer!",
+      "choice_data_list": [
+        "Supongo que tu saludo salió bien, ¿no?",
+        "Supongo que tu saludo salió bien, ¿no?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Ajá! Guau... Cuando estoy contigo, siento<n>que puedo cambiarme para\nmejor,<n>paso a paso."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Ajá! Guau... Cuando estoy contigo, siento<n>que puedo cambiarme para\nmejor,<n>paso a paso."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Jaja, jejeje! Creo que puedo esforzarme un<n>poco más en el\rentrenamiento de hoy."
+    },
+    {
+      "name": "Monologue",
+      "text": "<i>Gota...</i>"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Eep?! ¡Eso está frío! Q-qué demo—"
+    },
+    {
+      "name": "Monologue",
+      "text": "..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿¡Waaaa?! ¡Pero hace un momento estaba<n>soleado!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ugh... es toda mi culpa. Soy la única razón<n>por la que de repente\nempezaría a llover."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Waaah, lo siento muchísimo!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Me apresuro a consolar a Rice Shower, cuyo<n>torrente de lágrimas amenaza\nrivalizar<n>con el de la Madre Naturaleza."
+    }
+  ]
 }

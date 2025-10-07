@@ -1,89 +1,89 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Gold Ship",
-            "text": "Whoo! Finally, finally, finally, finally! \nIt's finally starting!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "That is correct! The curtains covering our commemoration of the \nWINNING DREAM STAGE are finally…"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "The endless wasteland… filled with untouched gold \nveins and mysterious ancient ruins! Mac-chan, take \nmy hand! Let's embark on a new adventure!!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "What are you trying to do!? We are performing a L-I-V-E concert! \nDo you understand? A live concert!!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Ahaha, Golshi is saying crazy things again. But I guess it's \nMcQueen's fault for always believing what she says… Wait, hmm?"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Hello, Spe-chan?"
-        },
-        {
-            "name": "Special Week",
-            "text": "Yes!? My name is Special Week \nand I will be singing!?"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "…Spe-chan, it's not your turn yet, you know? \nYou seem… really nervous."
-        },
-        {
-            "name": "Special Week",
-            "text": "Auu… Y-Yes, just a little… \nWait no, I'm really nervous!!"
-        },
-        {
-            "name": "Special Week",
-            "text": "Everyone's been working really hard to make sure that everything \ngoes well today… I just don't want to ruin it…!!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Yuh stupid idjit!!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Nuwa! Spe, you're always lookin back!! You need to start facin' \nyour toes forward, doncha think!?"
-        },
-        {
-            "name": "Special Week",
-            "text": "E-Eh!? M-My toes…? \nBut they're always facing forward!?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Err, well… While I may not fully understand what \nGoldship-san is saying, it still makes se-… or \nrather, it still makes about 20% sense."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "To commemorate something is to not only remember what happened in \nthe past, but also to carve out a new future with it."
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Well, in short, it's not about what we've done so far, it's about \nwhat we're going to do from now on. That's what she meant♪"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "You can do it, Spe-chan. \nJust remember…"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Since the beginning, we've been running forward with all our \nheart… day after day, rain or shine, right?"
-        },
-        {
-            "name": "Special Week",
-            "text": "…!!"
-        },
-        {
-            "name": "Special Week",
-            "text": "Don't look back… Just keep moving forward. Forward…!"
-        },
-        {
-            "name": "Special Week",
-            "text": "We will convey our hopes \nand dreams with our song…!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "ゴールドシップ",
+      "text": "うっひょ～！　ついにっ、ついについについに、幕開けだなぁー！"
+    },
+    {
+      "name": "メジロマックイーン",
+      "text": "ええ、そうですわね！　いよいよ私たちの、\r\n記念すべき『WINNING DREAM STAGE』の幕が――"
+    },
+    {
+      "name": "ゴールドシップ",
+      "text": "広がるは無限の荒野……手つかずの金脈、謎めいた古代遺跡！\r\nさあこの手を取れよマックちゃん！　冒険に出発だァー！！"
+    },
+    {
+      "name": "メジロマックイーン",
+      "text": "なにを始めようとしていますの！？\n私たちがこれからするのはラ・イ・ブ！　ライブですからっ！！"
+    },
+    {
+      "name": "トウカイテイオー",
+      "text": "あはは、ゴルシがまた無茶苦茶なこと言ってるよー。\n1回信じちゃうマックイーンもマックイーンだけど……って、んん？"
+    },
+    {
+      "name": "トウカイテイオー",
+      "text": "もしもーし、スぺちゃん？"
+    },
+    {
+      "name": "スペシャルウィーク",
+      "text": "はいっ！？　スペシャルウィーク、歌いますっ！？"
+    },
+    {
+      "name": "サイレンススズカ",
+      "text": "……スぺちゃん、本番はまだよ？\nその……だいぶ、緊張してる？"
+    },
+    {
+      "name": "スペシャルウィーク",
+      "text": "あぅぅ……はい、少し……\nいえすみません、すっごく緊張してます～！！"
+    },
+    {
+      "name": "スペシャルウィーク",
+      "text": "これまで、みなさん今日のためにすごくがんばって準備をされて\nいたので……私が台無しにしたらダメだって思うと～……！！"
+    },
+    {
+      "name": "ゴールドシップ",
+      "text": "バッキャローゥ！！"
+    },
+    {
+      "name": "ゴールドシップ",
+      "text": "ぬわぁ～にを振り返ってばかりいやがんだスぺ！！\nオマエのつま先はカカトにあんのか、アァン！？"
+    },
+    {
+      "name": "スペシャルウィーク",
+      "text": "えっ、えっ！？　つ、つま先は……つま先ですけどっ！？"
+    },
+    {
+      "name": "メジロマックイーン",
+      "text": "……いえ、まあ。言動自体は相変わらず理解に苦しみますが、\r\nゴールドシップさんの言うことも一理……0.2理程度はありますわ。"
+    },
+    {
+      "name": "メジロマックイーン",
+      "text": "『記念する』とは、過去を想うだけでなく、\n未来を切り開くことでもあらねばなりません。"
+    },
+    {
+      "name": "トウカイテイオー",
+      "text": "ま、よーするに。『これまで』のことじゃなくってさ、\n『これから』を全力で頑張ってこー！　ってことだよ♪"
+    },
+    {
+      "name": "サイレンススズカ",
+      "text": "できるわ、スぺちゃんなら。……思い出して。"
+    },
+    {
+      "name": "サイレンススズカ",
+      "text": "私たち、毎日毎日、どんな日だって……\nひたすら前にだけ、走ってきたでしょう？"
+    },
+    {
+      "name": "スペシャルウィーク",
+      "text": "……！！"
+    },
+    {
+      "name": "スペシャルウィーク",
+      "text": "振り向かないで……ひたすら前へ。\n前へ……！"
+    },
+    {
+      "name": "スペシャルウィーク",
+      "text": "届けます。私たちの想い、全身全霊の歌にのせて……！"
+    }
+  ]
 }

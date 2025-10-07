@@ -1,85 +1,85 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "El Condor Pasa",
-            "text": "Nahahahaha!"
-        },
-        {
-            "name": "TM Opera O",
-            "text": "Hahahahaha!"
-        },
-        {
-            "name": "King Halo",
-            "text": "Ohohohoho!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Ahahahaha!"
-        },
-        {
-            "name": "Everyone",
-            "text": "(The sounds of them all laughing!!)"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Hyaa!? Eh? Eh!? What is happening…?"
-        },
-        {
-            "name": "Haru Urara",
-            "text": "Woah! Everyone is laughing!! They look like they're \nhaving so much fun!! What is it? Did something funny \nhappen!? I wanna hear about it too!"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "No, I don't believe that anything in particular \nhappened… You see, El and Opera O-san both had \nsolos during the live concert, didn't they?"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Due to that fact, a debate began regarding who the real star of \nthe show was. Was it the world's strongest, the century's \ngreatest emperor, the top tier, or the class representative?"
-        },
-        {
-            "name": "Everyone",
-            "text": "(The sounds of them all laughing!!)"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "…And that led to this…?"
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "…Status: Incomprehensible. No connection can be found between \nsimultaneous laughter and the process of settling an argument."
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "I agree. They have been at it for 15 minutes now, you'd think \nthey would have noticed that by now."
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "…Plus, for us, when we say settle, \nthere really is only one…"
-        },
-        {
-            "name": "TM Opera O",
-            "text": "Hmph… It seems that we \nwill have to truly settle this matter."
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Agreed… With our legs!!"
-        },
-        {
-            "name": "Everyone",
-            "text": "Now then, let us race!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Hyawa!? Th-They left…!?"
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "…?"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Hehe… You all really are a delight."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "エルコンドルパサー",
+      "text": "なーっはっはっはっは！"
+    },
+    {
+      "name": "テイエムオペラオー",
+      "text": "はーっはっはっはっは！"
+    },
+    {
+      "name": "キングヘイロー",
+      "text": "おーっほっほっほっほ！"
+    },
+    {
+      "name": "サクラバクシンオー",
+      "text": "アーッハッハッハッハッ！"
+    },
+    {
+      "name": "全員",
+      "text": "（それぞれの笑い声）！！"
+    },
+    {
+      "name": "ライスシャワー",
+      "text": "ひゃあ！？　えっ、えっ、な、なんだろう……？"
+    },
+    {
+      "name": "ハルウララ",
+      "text": "わぁぁ～！　みんな笑ってる！！　たのしそ～！！\nなになに、おもしろいことあったの！？　わたしにも聞かせてー！"
+    },
+    {
+      "name": "グラスワンダー",
+      "text": "いえ、特に何かあったわけでは～……ただ、エルと\nオペラオーさんは、ライブでソロ曲を披露されたでしょう？"
+    },
+    {
+      "name": "グラスワンダー",
+      "text": "しかしながら、ライブの主役として語られるべきは世界最強か、\n世紀末覇王か、一流か、学級委員長かで激論が始まり――"
+    },
+    {
+      "name": "全員",
+      "text": "（それぞれの笑い声）！！"
+    },
+    {
+      "name": "ライスシャワー",
+      "text": "……それで、こんな感じに……？"
+    },
+    {
+      "name": "ミホノブルボン",
+      "text": "……ステータス『理解不能』。同時に笑い声を発生させることと、\n議論の決着に至るプロセスには関連性が認められません。"
+    },
+    {
+      "name": "グラスワンダー",
+      "text": "そうですね～、もう15分ほど続けていますから、\n本人たちもそろそろそこに気づくはずかと。"
+    },
+    {
+      "name": "グラスワンダー",
+      "text": "……そして、私たちにとって『決着をつける』といえば――"
+    },
+    {
+      "name": "テイエムオペラオー",
+      "text": "フッ……こうなったら、決めるほかないようだね。"
+    },
+    {
+      "name": "エルコンドルパサー",
+      "text": "そう……この『脚』でっ！！"
+    },
+    {
+      "name": "全員",
+      "text": "いざ、レースで勝負！"
+    },
+    {
+      "name": "ライスシャワー",
+      "text": "ひゃわっ！？　い、いっちゃった……！？"
+    },
+    {
+      "name": "ミホノブルボン",
+      "text": "…………？"
+    },
+    {
+      "name": "グラスワンダー",
+      "text": "ふふ、本当……みなさん、愉快な方々です～。"
+    }
+  ]
 }

@@ -1,13 +1,13 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "In the Team Stadium you can challenge \nteams of horsegirls raised by other trainers!"
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "So let's immediately draft up a team with \nthe horsegirl you just trained."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡En las Pruebas de Equipo, compites<n>\ncontra equipos de corredoras<n>\nensamblados cuidadosamente por otros<n>\nentrenadores!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Muy bien, Entrenador. Intentemos hacer<n>\nun equipo con algunas Umamusume<n>Veteranas\nque hayan terminado sus<n>carreras!"
+    }
+  ]
 }

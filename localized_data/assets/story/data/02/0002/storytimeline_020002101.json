@@ -3,207 +3,230 @@
   "text_block_list": [
     {
       "name": "Caster",
-      "text": "It's Rice Shower! Rice Shower did not back down! An excellent finish \nin first!"
+      "text": "¡Es Rice Shower! Rice Shower no se<n>echó para atrás. ¡Una llegada excelente<n>en primer lugar!"
     },
     {
-      "text": "With the Tenno Sho right around the corner, Rice runs like her old \nself again at the Nikkei Sho."
+      "name": "Monólogo",
+      "text": "Con el Tenno Sho a la vuelta de la<n>esquina, Rice corre como en sus<n>mejores tiempos en el Nikkei Sho."
     },
     {
-      "text": "And as if galvanized by that performance, McQueen takes the Osaka \nHai in course-record time."
+      "name": "Monólogo",
+      "text": "Y como galvanizada por esa actuación,<n>McQueen gana el Osaka Hai<n>estableciendo un récord en la pista."
     },
     {
-      "text": "They've both been training harder than ever, pushing each other to \ngreater heights."
+      "name": "Monólogo",
+      "text": "Ambas han estado entrenando más que<n>nunca, impulsándose mutuamente a<n>mayores alturas."
     },
     {
-      "text": "And before long, the day of the Tenno Sho arrives."
+      "name": "Monólogo",
+      "text": "Y pronto, llega el día del Tenno<n>Sho."
     },
     {
       "name": "Caster",
-      "text": "In bracket two, post three, it's the sable stayer who denied Mihono \nBourbon her Triple Crown—Rice Shower!"
+      "text": "En el grupo dos, poste tres, es la<n>corredora de resistencia que le negó a Mihono<n>Bourbon su Triple Corona—¡Rice Shower!"
     },
     {
       "name": "Rice Shower",
-      "text": "Just follow McQueen… Just keep following…"
+      "text": "Solo sigue a McQueen... Solo sigue<n>persiguiéndola..."
     },
     {
-      "text": "Unfazed by the huge crowd before her, Rice fixes her gaze on \nMcQueen."
+      "name": "Monólogo",
+      "text": "Impávida ante la enorme multitud,<n>Rice fija su mirada en<n>McQueen."
     },
     {
-      "text": "She wants to win against her rival more than anything else. Her eyes \nare telling me so."
+      "name": "Monólogo",
+      "text": "Quiere ganarle a su rival más que<n>nada en el mundo. Sus ojos me lo<n>dicen."
     },
     {
-      "text": "Meanwhile, the crowd favorite is, of course…"
+      "name": "Monólogo",
+      "text": "Mientras tanto, la favorita del público es,<n>por supuesto..."
     },
     {
       "name": "Caster",
-      "text": "In bracket eight, post fourteen, today's favorite with a third straight \nspring Tenno Sho on the line, it's the queen herself—Mejiro \nMcQueen!"
+      "text": "En el grupo ocho, poste catorce, la<n>favorita de hoy con una tercera victoria<n>consecutiva en el Tenno Sho de primavera,<n>es la reina misma—¡Mejiro<n>McQueen!"
     },
     {
       "name": "Fans",
-      "text": "<i>Wooo!</i>"
+      "text": "<i>¡Wuuu!</i>"
     },
     {
-      "text": "The loudest fanfare of the day resounds for her, but McQueen \ndoesn't seem to hear."
+      "name": "Monólogo",
+      "text": "La ovación más fuerte del día resuena<n>para ella, pero McQueen<n>parece no oírla."
     },
     {
-      "text": "Like her rival, she's focused on one thing, and one thing \nonly—victory."
+      "name": "Monólogo",
+      "text": "Como su rival, está concentrada en una sola<n>cosa, y solo una—la victoria."
     },
     {
-      "text": "The crowd's excited to see you."
-    },
-    {
-      "name": "Mejiro McQueen",
-      "text": "Oh, Trainer. Shouldn't you be going to check up on Rice?"
-    },
-    {
-      "text": "I'm your trainer too, you know."
+      "name": "<username>",
+      "text": "El público está emocionado de verte."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Heh. And I'm lucky to have such an exemplary one. But please, go see \nhow she's doing."
+      "text": "Oh, Entrenador. ¿No deberías ir a<n>ver cómo está Rice?"
+    },
+    {
+      "name": "<username>",
+      "text": "También soy tu entrenador, sabes."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "After all that training, I'm sure she's built up enough confidence, but \nshe must still be feeling anxious."
-    },
-    {
-      "text": "<i>I'm</i> lucky to have such an exemplary ace on my team. Always looking \nout for others, even a rival."
-    },
-    {
-      "text": "<i>I'm</i> lucky to have such an exemplary ace on my team. Always looking \nout for others, even a rival."
+      "text": "Je. Y tengo suerte de tener uno tan<n>ejemplar. Pero por favor, ve a ver<n>cómo está ella."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "For now, yes. Out on the turf, I can't make any guarantees."
+      "text": "Después de todo ese entrenamiento, estoy<n>segura de que ha ganado suficiente<n>confianza, pero aún debe estar<n>ansiosa."
+    },
+    {
+      "name": "<username>",
+      "text": "<i>Yo</i> tengo suerte de tener una as tan<n>ejemplar en mi equipo. Siempre<n>cuidando de los demás,<n>incluso de una rival."
+    },
+    {
+      "name": "<username>",
+      "text": "<i>Yo</i> tengo suerte de tener una as tan<n>ejemplar en mi equipo. Siempre<n>cuidando de los demás,<n>incluso de una rival."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "I will put everything I have into this race. No holding back."
+      "text": "Por ahora, sí. Sobre la pista, no puedo<n>dar garantías."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "The crowd are hoping to witness the birth of a three-time Tenno Sho \nchampion. And their hopes give me strength."
+      "text": "Pondré todo lo que tengo en esta carrera.<n>Sin reservas."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "I <i>will</i> be the first to cross that finish line."
+      "text": "El público espera presenciar el nacimiento<n>de una campeona triple del Tenno Sho.<n>Y sus esperanzas me dan fuerza."
     },
     {
-      "text": "I can't detect a single trace of hesitation in her eyes. She means every \nword.",
+      "name": "Mejiro McQueen",
+      "text": "<i>Seré</i> la primera en cruzar esa meta."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No detecto ni un rastro de duda en<n>sus ojos. Lo dice en serio.",
       "choice_data_list": [
-        "Well, you can add my hopes in there as well."
+        "Bueno, puedes contar con mis esperanzas también."
       ]
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Of course. I won't disappoint."
+      "text": "Por supuesto. No defraudaré."
     },
     {
-      "text": "After speaking with McQueen, I jog ahead to Rice Shower."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Oh, Trainer…"
-    },
-    {
-      "text": "Nervous? The trick is to write \"Umamusume\" on your palm and swallow \nthe word three times."
-    },
-    {
-      "text": "Nervous? The trick is to write \"Umamusume\" on your palm and swallow \nthe word three times."
+      "name": "Monólogo",
+      "text": "Después de hablar con McQueen, corro<n>hacia Rice Shower."
     },
     {
       "name": "Rice Shower",
-      "text": "Heheheh. I've never heard that before."
+      "text": "Oh, Entrenador..."
+    },
+    {
+      "name": "<username>",
+      "text": "¿Nerviosa? El truco es escribir<n>\"Umamusume\" en la palma y tragarte<n>la palabra tres veces."
+    },
+    {
+      "name": "<username>",
+      "text": "¿Nerviosa? El truco es escribir<n>\"Umamusume\" en la palma y tragarte<n>la palabra tres veces."
     },
     {
       "name": "Rice Shower",
-      "text": "I'm not that nervous, actually. It's just… I'm a bit scared."
+      "text": "Jejeje. Nunca había escuchado eso."
     },
     {
       "name": "Rice Shower",
-      "text": "So many people are rooting for McQueen. I know how much they \nwant to see her third Tenno Sho win."
+      "text": "En realidad no estoy tan nerviosa. Es solo...<n>que tengo un poco de miedo."
     },
     {
       "name": "Rice Shower",
-      "text": "If I win, they'll all be disappointed. They'll be angry with me for \ngetting in the way."
-    },
-    {
-      "text": "The fact you're worried about that tells me you're here to win."
+      "text": "Mucha gente anima a McQueen.<n>Sé cuánto quieren ver su<n>tercera victoria en el Tenno Sho."
     },
     {
       "name": "Rice Shower",
-      "text": "…Yeah. I still want to win."
+      "text": "Si gano, todos estarán decepcionados. Se<n>enojarán conmigo por<n>interponerme."
     },
     {
-      "text": "Her expression reminds me of McQueen just now. Pure determination."
-    },
-    {
-      "text": "You know, it was McQueen who suggested I have you race in the \nTenno Sho."
-    },
-    {
-      "text": "You know, it was McQueen who suggested I have you race in the \nTenno Sho."
+      "name": "<username>",
+      "text": "El hecho de que te preocupe eso me dice<n>que estás aquí para ganar."
     },
     {
       "name": "Rice Shower",
-      "text": "McQueen?"
+      "text": "...Sí. Aún quiero ganar."
     },
     {
-      "text": "Apparently, she wants to show you something—a sight only a fellow \nrunner can see."
+      "name": "Monólogo",
+      "text": "Su expresión me recuerda a McQueen<n>hace un momento. Pura determinación."
     },
     {
-      "text": "Apparently, she wants to show you something—a sight only a fellow \nrunner can see."
+      "name": "<username>",
+      "text": "Sabes, fue McQueen quien sugirió<n>que compitieras en el Tenno Sho."
+    },
+    {
+      "name": "<username>",
+      "text": "Sabes, fue McQueen quien sugirió<n>que compitieras en el Tenno Sho."
     },
     {
       "name": "Rice Shower",
-      "text": "There's a… \"sight\" she wants me to see?"
+      "text": "¿McQueen?"
+    },
+    {
+      "name": "<username>",
+      "text": "Al parecer, quiere mostrarte<n>algo—una vista que solo otra<n>corredora puede ver."
+    },
+    {
+      "name": "<username>",
+      "text": "Al parecer, quiere mostrarte<n>algo—una vista que solo otra<n>corredora puede ver."
     },
     {
       "name": "Rice Shower",
-      "text": "…Okay. I'll see it for myself.",
+      "text": "¿Hay una... \"vista\" que quiere que vea?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "...Está bien. Lo veré por mí misma.",
       "choice_data_list": [
-        "Now go get that win!",
-        "Now go get that win!"
+        "¡Ahora ve por esa victoria!",
+        "¡Ahora ve por esa victoria!"
       ]
     },
     {
       "name": "Rice Shower",
-      "text": "Mm. I will, Trainer."
+      "text": "Mm. Lo haré, Entrenador."
     },
     {
       "name": "Caster",
-      "text": "They're lining up in the gate. The spring Tenno Sho—who will the \nglory go to?"
+      "text": "Se están alineando en la salida. El Tenno<n>Sho de primavera—¿para quién<n>será la gloria?"
     },
     {
       "name": "Rice Shower",
-      "text": "Just follow McQueen… Keep following… Just follow McQueen… Keep \nfollowing…"
+      "text": "Solo sigue a McQueen... Sigue persiguiendo...<n>Solo sigue a McQueen... Sigue<n>persiguiendo..."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "…"
+      "text": "..."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "(Well I'll be… Wasn't expecting to feel so much pressure from Rice.)"
+      "text": "(Vaya... No esperaba sentir tanta<n>presión de Rice.)"
     },
     {
       "name": "Caster",
-      "text": "Oh, and here's the favorite, three-time hopeful Mejiro McQueen \nshowing hesitation before the gate."
+      "text": "Oh, y aquí está la favorita, la esperanza de<n>triplete Mejiro McQueen<n>mostrando vacilación antes de la salida."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "(Still, I am a Mejiro, and our team's ace. I must run with everything I \nhave.)"
+      "text": "(Aún así, soy una Mejiro, y la as del equipo.<n>Debo correr con todo lo que tengo.)"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "…"
+      "text": "..."
     },
     {
       "name": "Caster",
-      "text": "There we go, Mejiro McQueen is in the gate."
+      "text": "Ahí vamos, Mejiro McQueen está en la<n>salida."
     },
     {
       "name": "Caster",
-      "text": "The spring Tenno Sho. Glory is 3,200 meters away. And… they're off!"
+      "text": "El Tenno Sho de primavera. La gloria está a<n>3,200 metros. Y... ¡ya salieron!"
     }
   ]
 }

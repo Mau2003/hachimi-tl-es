@@ -1,48 +1,48 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "“WINNING DREAM STAGE” ― The student council convened that day to \ndiscuss the upcoming live concert to commemorate the \nestablishment of the world of Uma Musume."
-        },
-        {
-            "name": "Air Groove",
-            "text": "…That concludes the agenda \nfor the anniversary live concert."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Thank you, Air Groove. With that, our meeting is concluded… \nOh, it seems as though the curtain of night has already fallen."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "…I'm so hungry. \nThis meeting took way too long."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Brian! What's with your attitude!? You're the vice president, so \nyou should understand the importance and significance of this \nanniversary live concert…!"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Well… Brian, I understand \nthat things will get busy. Hmm, maybe we should \ncome up with a solution for…"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Howdy!! Air Groove!! \nWe're here to lend y'all a helping hand!!"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Brian is such a stubborn person! \nIf you need Maya's help, I'll finish it in a flash♪"
-        },
-        {
-            "name": "Oguri Cap",
-            "text": "Rudolf, is there anything that I can do to help with \nthe anniversary live concert?…Everyone seems so \nexcited for it… So I'd like to help."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Girls…! Heh… Hahaha! \nThe future's looking bright! Our path forward is clear!"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Everyone, thank you. Let's work together and push forward to make \nsure the anniversary live concert goes off without a hitch!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "『WINNING DREAM STAGE』――ウマ娘界の発展を祝う\n記念ライブの開催に向け、生徒会ではその日も会議が行われていた。"
+    },
+    {
+      "name": "エアグルーヴ",
+      "text": "……以上で、記念ライブ関連の議題は全てです。"
+    },
+    {
+      "name": "シンボリルドルフ",
+      "text": "ありがとう、エアグルーヴ。では、これにて定例会議を\n終了とする――と、すっかり夜の帳が下りてしまったか。"
+    },
+    {
+      "name": "ナリタブライアン",
+      "text": "…………腹が減った。話が長い。"
+    },
+    {
+      "name": "エアグルーヴ",
+      "text": "ブライアン！　なんだその言い草は！　貴様とて副会長なのだから、\nもう少し記念ライブの意義や重要性を理解してだな……！"
+    },
+    {
+      "name": "シンボリルドルフ",
+      "text": "まあまあ……少々多忙に過ぎるのは理解しているよ、ブライアン。\nふむ、何か対策を講じなければ――"
+    },
+    {
+      "name": "タイキシャトル",
+      "text": "ハウディ～～～～エアグル～～～～ヴ！！\nキャットの手、貸してあげマーーース！！"
+    },
+    {
+      "name": "マヤノトップガン",
+      "text": "ブライアンさんってば意地っぱりなんだから！\r\nお仕事だったらマヤもバビューンと終わらせちゃうよっ♪"
+    },
+    {
+      "name": "オグリキャップ",
+      "text": "ルドルフ。記念ライブ、私にも何か、できることはあるだろうか？\n……みんな、楽しみにしてくれているんだ。手伝わせてほしい。"
+    },
+    {
+      "name": "シンボリルドルフ",
+      "text": "君たち……！　ふっ……ははは！\n前途洋々！　道が開けたようだ！"
+    },
+    {
+      "name": "シンボリルドルフ",
+      "text": "皆、ありがとう。記念ライブ開催に向け、\n和衷協同、勇往邁進と行こうではないか！"
+    }
+  ]
 }

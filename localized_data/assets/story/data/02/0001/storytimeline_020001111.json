@@ -1,232 +1,262 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Mejiro McQueen",
-            "text": "I'm so sorry everyone. I've shown you all something so shameful…"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Oye, oye, why're you apologizing? You didn't \ncause any issues for us, ya know?"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Plus the Japan Cup has some pretty amazing racers from around the \nglobe in it. Coming in 4th ain't that bad."
-        },
-        {
-            "name": "Horsegirl with Straight-cut Bangs",
-            "text": "Y-Yeah! The way you ran today was just as \nmesmerizing as usual, McQueen-san!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Anyways, now that the race is over why don't \nwe have Trainer treat us to something yummy? \nThat won't be a problem, will it Trainer?"
-        },
-        {
-            "text": "N-Nope! Not a problem at all! McQueen, feel free to eat as much \nas you want now that the Japan Cup is over!"
-        },
-        {
-            "text": "N-Nope! Not a problem at all! McQueen, feel free to eat as much \nas you want now that the Japan Cup is over!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I'm… going to have to refuse."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I have to prepare for the Arima Kinen and I just \nfinished that race, so I'm not hungry."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Ah, I have to call Grandmother as well. \nI'll be taking my leave then."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Everyone, I'm… I'm so sorry for today…",
-            "choice_data_list": [
-                "Ah, McQueen!"
-            ]
-        },
-        {
-            "name": "Gold Ship",
-            "text": "That felt real forced… Anyways, you're \nreal bad at acting, ya know?"
-        },
-        {
-            "text": "I'm sorry. I tried my best, but…"
-        },
-        {
-            "text": "I'm sorry. I tried my best, but…"
-        },
-        {
-            "text": "I was upset with myself for being unsure whether or not I should \ncall out to her or just leave her alone for a while."
-        },
-        {
-            "name": "Oguri Cap",
-            "text": "I apologize for the intrusion."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Ohh! If it isn't Oguri! Did you come to cheer on McQueen!?"
-        },
-        {
-            "name": "Oguri Cap",
-            "text": "I came to see how the members of my former team were doing."
-        },
-        {
-            "name": "Oguri Cap",
-            "text": "But it doesn't seem like the star of the show is here.",
-            "choice_data_list": [
-                "Um, well…"
-            ]
-        },
-        {
-            "name": "Oguri Cap",
-            "text": "Hmm… it seems like something happened. So what is it?"
-        },
-        {
-            "text": "I decided to tell Oguri Cap everything that had happened."
-        },
-        {
-            "text": "I decided to tell Oguri Cap everything that had happened."
-        },
-        {
-            "text": "It began with the danger of our team being dissolved, and how we \novercame that, which also brought in more members."
-        },
-        {
-            "text": "Due to the lowering of her placement in the much anticipated \nSpring Tenno Sho, she thought that this race was her chance to \nredeem herself. However, she ended up finishing in 4th place."
-        },
-        {
-            "text": "Currently, Mejiro McQueen is like a machine \nwith cogs that don't work together."
-        },
-        {
-            "name": "Oguri Cap",
-            "text": "I see… I think I understand how McQueen is feeling."
-        },
-        {
-            "name": "Oguri Cap",
-            "text": "She is probably thinking that she has to live up \nto all of the expectations placed on her."
-        },
-        {
-            "text": "Live up to all of the expectations…?"
-        },
-        {
-            "name": "Oguri Cap",
-            "text": "I have been there myself."
-        },
-        {
-            "name": "Oguri Cap",
-            "text": "Having good results in your races breeds high expectations. \nInevitably, you end up being tied down by said expectations…"
-        },
-        {
-            "name": "Oguri Cap",
-            "text": "And as these expectations grow they start feeling \nlike obstacles to forward progress."
-        },
-        {
-            "text": "These expectations begin feeling like obstacles…"
-        },
-        {
-            "text": "The only reason that this team is here today \nis thanks to Mejiro McQueen's efforts."
-        },
-        {
-            "text": "Every member of our team joined because of Mejiro McQueen's \nsuccesses, and the only reason that they continue to run is \nbecause of their admiration for her."
-        },
-        {
-            "text": "And it isn't only the team members. I too was delighted by Mejiro \nMcQueen's performance in her races, and because of that I've \nalways had high expectations of her."
-        },
-        {
-            "text": "And it isn't only the team members. I too was delighted by Mejiro \nMcQueen's performance in her races, and because of that I've \nalways had high expectations of her."
-        },
-        {
-            "text": "Mejiro McQueen understood all of this, and as such struggled to \nlive up to these expectations, alone."
-        },
-        {
-            "name": "Oguri Cap",
-            "text": "During times like this it's your job as a trainer to turn these \nexpectations into strength, not into obstacles."
-        },
-        {
-            "text": "Turn these expectations into strength…"
-        },
-        {
-            "text": "Oguri… How did you turn expectations into \nstrength? What did Sensei do to help?"
-        },
-        {
-            "text": "Oguri… How did you turn expectations into \nstrength? What did Sensei do to help?"
-        },
-        {
-            "name": "Oguri Cap",
-            "text": "Hmm, while I wouldn't mind telling you…"
-        },
-        {
-            "name": "Oguri Cap",
-            "text": "You and McQueen have a relationship that is unique to you two."
-        },
-        {
-            "name": "Oguri Cap",
-            "text": "Doing it the same way we did would have no meaning \nto it… or at least that's what I think…"
-        },
-        {
-            "text": "A relationship… that is unique to us…"
-        },
-        {
-            "text": "A relationship… that is unique to us…"
-        },
-        {
-            "text": "While I lack the experience and skill that Sensei had, Mejiro \nMcQueen has always respected me as her trainer. "
-        },
-        {
-            "text": "While I lack the experience and skill that Sensei had, Mejiro \nMcQueen has always respected me as her trainer. "
-        },
-        {
-            "text": "Why does Mejiro McQueen have so much faith \nin me? And what can I do for her…?"
-        },
-        {
-            "text": "Why does Mejiro McQueen have so much faith \nin me? And what can I do for her…?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Hehe, that immediate reply… You really haven't \nchanged since your days as a sub-trainer."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "You've always put us before yourself."
-        },
-        {
-            "text": "I see. That's all I can do. Staying by her side, believing in \nher, and supporting her no matter what happens is all I can do!",
-            "choice_data_list": [
-                "I'm going to go look for McQueen!"
-            ]
-        },
-        {
-            "text": "I see. That's all I can do. Staying by her side, believing in \nher, and supporting her no matter what happens is all I can do!",
-            "choice_data_list": [
-                "I'm going to go look for McQueen!",
-                "I'm off to find McQueen!"
-            ]
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Hmm… Guess I'll take a look around the shopping district, the \nroad to campus, and in front of the train station."
-        },
-        {
-            "name": "Horsegirl with Straight-cut Bangs",
-            "text": "I'll go check if McQueen-san is somewhere on campus!"
-        },
-        {
-            "name": "Droopy-eyed Horsegirl",
-            "text": "I'll go and check around the race course!"
-        },
-        {
-            "name": "Horsegirl with Black Bob-cut",
-            "text": "Then I'll go and check around the shrine.",
-            "choice_data_list": [
-                "Everyone… Alright, let's go!",
-                "You girls… Alright, let's go!"
-            ]
-        },
-        {
-            "text": "This time, our team's ace will rely on us!"
-        },
-        {
-            "text": "This time, our team's ace will rely on us!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mejiro McQueen",
+      "text": "Me disculpo, todos. Ese ciertamente no<n>fue el desempeño que quería dar."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Oye, ¿por qué diablos te estás<n>disculpando? Lo haces sonar como<n>si nos hubieras<n>cometido un crimen o algo."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Y la Japan Cup es una carrera loca, ¿no?<n>Terminar cuarta con todas las<n>otras estrellas ahí fuera es bastante<n>respetable."
+    },
+    {
+      "name": "Uma Musume Animada",
+      "text": "¡Tiene razón! ¡Estaba tan cautivada con<n>tu carrera hoy como siempre he<n>estado!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Además, hoy no pasaron incidentes<n>locos. Nuestro entrenador aquí<n>definitivamente te va a<n>invitar a algo bueno, ¿verdad?"
+    },
+    {
+      "name": "<username>",
+      "text": "¿Eh? ¡Oh, sí! ¡Eso es! Vamos a<n>atiborrarnos, McQueen!"
+    },
+    {
+      "name": "<username>",
+      "text": "¿Eh? ¡Oh, sí! ¡Eso es! Vamos a<n>atiborrarnos, McQueen!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Yo... debo declinar educadamente."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Tengo la Arima Kinen para preparar, y<n>ni siquiera tengo hambre,<n>habiendo terminado una<n>carrera."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Ah, y debo hacer una llamada a<n>Abuela. Por favor, continúen sin<n>mí."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Todos... Lo siento mucho, mucho.",
+      "choice_data_list": [
+        "¡McQueen!"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Supongo que eso no fue muy convincente...<n>Tú también, though. ¡Eres pésima<n>actuando!"
+    },
+    {
+      "name": "<username>",
+      "text": "Lo siento. Me tomó un segundo<n>entenderlo, pero lo intenté..."
+    },
+    {
+      "name": "<username>",
+      "text": "Lo siento. Me tomó un segundo<n>entenderlo, pero lo intenté..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cuando McQueen huyó de la habitación, no<n>estaba seguro de si ir tras ella<n>o darle<n>un poco de espacio—un momento de<n>indecisión que ya lamento."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Disculpen."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Oye, ¡si no es Oguri! ¿Viniste a animar a<n>McQueen?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Por supuesto. Le debo mucho a este equipo,<n>y escuché que su estrella más<n>brillante estaría corriendo."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Pero, ¿dónde <i>está</i> esa estrella, puedo<n>preguntar?",
+      "choice_data_list": [
+        "Sí, ella, eh..."
+      ]
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hm... Parece que algo pasó aquí.<n>¿Me contarás al respecto?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le cuento a Oguri Cap todo lo que<n>sucedió desde que partió del<n>equipo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le cuento a Oguri Cap todo lo que<n>sucedió desde que partió del<n>equipo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sobre cómo estuvimos en peligro de ser<n>desmantelados, y cómo<n>logramos<n>superarlo reclutando nuevos miembros."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sobre la vergüenza que McQueen había<n>sufrido en la Tenno Sho de<n>otoño, y su<n>intento de redimirse hoy—sólo para<n>terminar cuarta."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Explico cómo todo sigue fallando en<n>unirse para Mejiro McQueen, sin<n>importar cómo intente hacer que las<n>piezas encajen."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Ya veo. Puedo simpatizar con ella<n>bastante."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Se ha convencido a sí misma de que tiene<n>que estar a la altura de cada<n>expectativa de ella."
+    },
+    {
+      "name": "<username>",
+      "text": "¿Crees eso?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Pasé por lo mismo."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Los buenos resultados crían expectativas,<n>y antes de que te des cuenta, te<n>has atado<n>a cumplir esas expectativas."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Pronto, todas empiezan a sentirse como<n>obstáculos en tu camino."
+    },
+    {
+      "name": "<username>",
+      "text": "Obstáculos... Ya veo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La única razón por la que este equipo<n>sigue existiendo es porque Mejiro<n>McQueen estuvo ahí para nosotros."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todos la admiran... aspiran a ser<n>como ella."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y no son sólo las otras corredoras. Yo<n>también acumulé presión con cada<n>victoria."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y no son sólo las otras corredoras. Yo<n>también acumulé presión con cada<n>victoria."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es obvio ahora que ella ha estado<n>luchando con todo lo que recae sobre<n>sus hombros."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Como entrenador, quizás podrías encontrar<n>una manera de convertir esos<n>obstáculos en una<n>fuente de poder."
+    },
+    {
+      "name": "<username>",
+      "text": "De obstáculos a poder..."
+    },
+    {
+      "name": "<username>",
+      "text": "Oguri, ¿cómo hizo el anciano para<n>ayudarte a hacer eso?"
+    },
+    {
+      "name": "<username>",
+      "text": "Oguri, ¿cómo hizo el anciano para<n>ayudarte a hacer eso?"
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Hm, supongo que podría decirte..."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Pero es sólo lo que funcionó para<n>nosotros. Tú y McQueen tienen su<n>propio vínculo especial."
+    },
+    {
+      "name": "Oguri Cap",
+      "text": "Creo que es mejor que lo abordes de una<n>manera que funcione para ti."
+    },
+    {
+      "name": "<username>",
+      "text": "El vínculo que McQueen y yo compartimos..."
+    },
+    {
+      "name": "<username>",
+      "text": "El vínculo que McQueen y yo compartimos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No tengo ninguna de las habilidades o<n>carisma que poseía mi mentor, sin<n>embargo McQueen todavía<n>confió en mí para ser su entrenador."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No tengo ninguna de las habilidades o<n>carisma que poseía mi mentor, sin<n>embargo McQueen todavía<n>confió en mí para ser su entrenador."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Por qué eligió depositar su fe en mí?<n>¿Qué puedo hacer ahora en su hora de<n>necesidad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Por qué eligió depositar su fe en mí?<n>¿Qué puedo hacer ahora en su hora de<n>necesidad?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Jeje, sin dudarlo en absoluto. Esa parte de<n>ti no ha cambiado nada desde<n>tus días de<n>entrenador asistente."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Siempre poniéndonos primero..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eso es. Eso es lo que necesito hacer.<n>Necesito estar a su lado, y<n>ofrecerle mi fe<n>y apoyo.",
+      "choice_data_list": [
+        "Voy a ir a buscar a McQueen."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eso es. Eso es lo que necesito hacer.<n>Necesito estar a su lado, y<n>ofrecerle mi fe<n>y apoyo.",
+      "choice_data_list": [
+        "Voy a ir a buscar a McQueen.",
+        "Voy a ir a buscar a McQueen."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Muy bien. Bueno, supongo que iré a<n>merodear por la carretera de la<n>academia y cerca de la estación."
+    },
+    {
+      "name": "Uma Musume Animada",
+      "text": "¡Iré a ver si volvió a la academia!"
+    },
+    {
+      "name": "Uma Musume Cariñosa",
+      "text": "¡Y yo iré a buscar alrededor del hipódromo!"
+    },
+    {
+      "name": "Uma Musume Sincera",
+      "text": "¿Quizás fue al santuario? ¡Pasaré a<n>comprobar!",
+      "choice_data_list": [
+        "Gracias, a todos ustedes. ¡Vamos!",
+        "Gracias, a todos ustedes. ¡Vamos!"
+      ]
+    },
+    {
+      "name": "<username>",
+      "text": "¡Nuestra as del equipo nos necesita ahora<n>más que nunca!"
+    },
+    {
+      "name": "<username>",
+      "text": "¡Nuestra as del equipo nos necesita ahora<n>más que nunca!"
+    }
+  ]
 }

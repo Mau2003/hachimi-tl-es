@@ -3,191 +3,204 @@
   "text_block_list": [
     {
       "name": "Rice Shower",
-      "text": "What?! You're leaving the team?!"
+      "text": "¿¡Qué?! ¿¡Te vas del equipo?!"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Only temporarily, mind you. I've some urgent family matters to attend \nto."
+      "text": "Solo temporalmente, claro. Tengo algunos<n>asuntos familiares urgentes que atender."
     },
     {
       "name": "Gold Ship",
-      "text": "Waaah! With you gone, who am I gonna mess with for fun?!"
+      "text": "¡Waaah! Sin ti, ¿con quién me voy a<n>divertir molestando?!"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "How about you don't mess with anybody for once?!"
+      "text": "¿Qué tal si no molestas a nadie por una vez?!"
     },
     {
-      "name": "Upbeat Umamusume",
-      "text": "It'll feel lonely with you gone…"
+      "name": "Uma Musume animada",
+      "text": "Se sentirá solitario sin ti..."
     },
     {
-      "name": "Caring Umamusume",
-      "text": "Yeah… You're our ace…"
+      "name": "Uma Musume cariñosa",
+      "text": "Sí... Eres nuestra as..."
     },
     {
-      "name": "Sincere Umamusume",
-      "text": "McQueen, come back soon, okay?"
-    },
-    {
-      "name": "Mejiro McQueen",
-      "text": "Of course. I'm not done running yet. I'll be back before you know it."
+      "name": "Uma Musume sincera",
+      "text": "McQueen, vuelve pronto, ¿okay?"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "I have come to know this team as a place where we look out for one \nanother, where we are free to race toward our dreams."
+      "text": "Por supuesto. Aún no he terminado de<n>correr. Volveré antes de que lo notes."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Please, treasure the bonds that we've forged."
+      "text": "He llegado a conocer este equipo como un<n>lugar donde nos cuidamos unos a otros,<n>donde somos libres de correr hacia<n>nuestros sueños."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "And Rice…"
+      "text": "Por favor, valoren los lazos que hemos<n>forjado."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Y Rice..."
     },
     {
       "name": "Rice Shower",
-      "text": "Y-yes?"
+      "text": "¿S-sí?"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "I hope to see you pursue your own dream… of becoming a runner \npeople will be glad to see win."
+      "text": "Espero verte perseguir tu propio sueño...<n>de convertirte en una corredora que la<n>gente esté contenta de ver ganar."
     },
     {
       "name": "Rice Shower",
-      "text": "<i>Sob.</i> McQueeeeen!"
+      "text": "<i>Sollozo.</i> ¡McQueeeeen!"
     },
     {
-      "text": "After a heartfelt farewell, McQueen steps away from the team for a \ntime."
+      "name": "Monólogo",
+      "text": "Después de una despedida conmovedora,<n>McQueen se aleja del equipo por un<n>tiempo."
     },
     {
-      "text": "A few months later, Rice Shower begins to struggle once again."
+      "name": "Monólogo",
+      "text": "Unos meses después, Rice Shower<n>comienza a luchar una vez más."
     },
     {
       "name": "Caster",
-      "text": "In front is Biwa Hayahide! And Biwa Hayahide is first across the finish \nline! The bane of McQueen, Rice Shower, comes in fifth!"
+      "text": "¡Al frente está Biwa Hayahide! ¡Y Biwa<n>Hayahide es la primera en cruzar la meta!<n>¡La pesadilla de McQueen, Rice Shower,<n>llega en quinto lugar!"
     },
     {
       "name": "Fan A",
-      "text": "It's just loss after loss for Rice Shower."
+      "text": "Es solo pérdida tras pérdida para Rice Shower."
     },
     {
       "name": "Fan B",
-      "text": "After standing in the way of Bourbon and McQueen's records, too. \nLike, c'mon, try a little harder."
+      "text": "Después de interponerse en los récords de<n>Bourbon y McQueen también.<n>O sea, vamos, esfuérzate un<n>poco más."
     },
     {
-      "text": "There's one question on everybody's mind—where did that Rice \nShower go?"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "<i>Pant, pant…</i> Phew…"
-    },
-    {
-      "text": "Your performance on the final stretch isn't bad. How does it feel?"
-    },
-    {
-      "text": "Your performance on the final stretch isn't bad. How does it feel?"
+      "name": "Monólogo",
+      "text": "Hay una pregunta en la mente de todos—<n>¿adónde se fue esa Rice Shower?"
     },
     {
       "name": "Rice Shower",
-      "text": "I feel like I can catch up to the lead, and I know I'm not running out of \nstamina, but…"
+      "text": "<i>Jadeo, jadeo...</i> Uf..."
     },
     {
-      "text": "To be honest, the cause of her losing streak still eludes me."
+      "name": "<username>",
+      "text": "Tu desempeño en la recta final no es<n>malo. ¿Cómo se siente?"
     },
     {
-      "text": "Winning the spring Tenno Sho gave her a boost of confidence and \noptimism."
+      "name": "<username>",
+      "text": "Tu desempeño en la recta final no es<n>malo. ¿Cómo se siente?"
     },
     {
-      "text": "But her results in every race since haven't showed that."
+      "name": "Rice Shower",
+      "text": "Siento que puedo alcanzar el liderazgo, y<n>sé que no me estoy quedando sin<n>resistencia, pero..."
     },
     {
-      "text": "Maybe it's still the booing getting to her, even if she doesn't realize \nit.",
+      "name": "Monólogo",
+      "text": "Para ser honesto, la causa de su racha<n>perdedora aún me elude."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ganar el Tenno Sho de primavera le dio un<n>impulso de confianza y optimismo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero sus resultados en cada carrera desde<n>entonces no han mostrado eso."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tal vez aún le afectan los abucheos, incluso<n>si no se da cuenta.",
       "choice_data_list": [
-        "Do you want to step away from racing for a bit?"
+        "¿Quieres alejarte de las carreras un poco?"
       ]
     },
     {
       "name": "Rice Shower",
-      "text": "…No, I'll keep running."
+      "text": "...No, seguiré corriendo."
     },
     {
       "name": "Rice Shower",
-      "text": "I told myself that no matter how much I lose, or how many people boo \nme, I'll still stand tall."
+      "text": "Me dije que no importa cuánto pierda, o<n>cuánta gente me abuchee, aún me<n>mantendré firme."
     },
     {
       "name": "Rice Shower",
-      "text": "Besides, I need to become someone fans <i>want</i> to win. I promised \nMcQueen."
+      "text": "Además, necesito convertirme en alguien<n>que los fans <i>quieran</i> que gane. Se lo<n>prometí a McQueen."
     },
     {
       "name": "Rice Shower",
-      "text": "Trainer, I'm going for another lap!"
+      "text": "¡Entrenador, voy por otra vuelta!"
     },
     {
-      "text": "But there's no end in sight for her slump."
+      "name": "Monólogo",
+      "text": "Pero no se ve el final de su mala racha."
     },
     {
       "name": "Caster",
-      "text": "And next we have Rice Shower, who's been on a losing streak. Will \nshe return to form in this race?"
+      "text": "Y a continuación tenemos a Rice Shower,<n>que ha estado en una racha perdedora.<n>¿Volverá a su forma en esta carrera?"
     },
     {
       "name": "Rice Shower",
-      "text": "…"
+      "text": "..."
     },
     {
       "name": "Fan A",
-      "text": "She's just gonna lose again."
+      "text": "Solo va a perder otra vez."
     },
     {
       "name": "Fan B",
-      "text": "I mean, she tries hard, you gotta give her that."
+      "text": "O sea, se esfuerza mucho, hay que<n>reconocerlo."
     },
     {
       "name": "Fan A",
-      "text": "Fair. Takes a lot to not give up after losing so much…"
+      "text": "Justo. Requiere mucho no rendirse después<n>de perder tanto..."
     },
     {
       "name": "Caster",
-      "text": "Rice Shower finishes in sixth!"
+      "text": "¡Rice Shower termina en sexto lugar!"
     },
     {
       "name": "Caster",
-      "text": "Where is Rice Shower who once stood in Mihono Bourbon and \nMejiro McQueen's way?!"
+      "text": "¿Dónde está la Rice Shower que una vez se<n>interpuso en el camino de Mihono Bourbon<n>y Mejiro McQueen?!"
     },
     {
       "name": "Rice Shower",
-      "text": "…<i>Sigh.</i>",
+      "text": "...<i>Suspiro.</i>",
       "choice_data_list": [
-        "Good job out there."
+        "Buen trabajo ahí afuera."
       ]
     },
     {
       "name": "Rice Shower",
-      "text": "Oh, Trainer."
+      "text": "Oh, Entrenador."
     },
     {
       "name": "Rice Shower",
-      "text": "Heheh… Couldn't win today either."
+      "text": "Jeje... Tampoco pude ganar hoy."
     },
     {
-      "text": "She forces a smile, but she's already welling up…",
+      "name": "Monólogo",
+      "text": "Fuerza una sonrisa, pero ya está<n>llorando...",
       "choice_data_list": [
-        "It's okay to cry."
+        "Está bien llorar."
       ]
     },
     {
       "name": "Rice Shower",
-      "text": "…No, I won't cry. If I'm going to cry, I want it to be tears of joy."
+      "text": "...No, no lloraré. Si voy a llorar, quiero<n>que sean lágrimas de alegría."
     },
     {
       "name": "Rice Shower",
-      "text": "All right, back to training! C'mon, Trainer!"
+      "text": "¡Muy bien, de vuelta al entrenamiento!<n>¡Vamos, Entrenador!"
     },
     {
-      "text": "As she runs off, her steps seem incredibly light for one who just \nsuffered a heavy loss."
+      "name": "Monólogo",
+      "text": "Mientras corre, sus pasos parecen<n>increíblemente ligeros para alguien que<n>acaba de sufrir una pesada derrota."
     },
     {
-      "text": "What can I do to make sure her next tears are tears of joy?"
+      "name": "Monólogo",
+      "text": "¿Qué puedo hacer para asegurarme de que<n>sus próximas lágrimas sean de alegría?"
     }
   ]
 }

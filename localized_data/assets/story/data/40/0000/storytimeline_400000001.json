@@ -1,74 +1,55 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "When I arrived full of enthusiasm at work in\nthe morning, I was greeted by Hayakawa\nTazuna, the secretary to the president.",
-            "color_text_info_list": [
-                "Hayakawa Tazuna"
-            ]
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "Good morning, trainer. Your days with your\nhorse girl are finally starting!"
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "Working together towards strengthening body\nand mind, cultivating your bond… I hope you\nenjoy many fruitful days!"
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "If you perform well in a variety of races,\nyou may eventually reach the pinnacle of\nracing; a G1 title!",
-            "choice_data_list": [
-                "I'll do my best!"
-            ],
-            "color_text_info_list": [
-                "G1 title"
-            ]
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "Yes, I'm looking forward to it. ♪"
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "—To be frank, the first three years of the\nTwinkle Series are very important.",
-            "color_text_info_list": [
-                "first three years"
-            ]
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "If you fail to achieve a certain\nlevel of performance within  three\nyears of her debut—",
-            "color_text_info_list": [
-                "three years of her debut",
-                "certain level of performance"
-            ]
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "This may result in the termination\nof your Uma Musume contract.",
-            "color_text_info_list": [
-                "Uma Musume contract",
-                "termination"
-            ]
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "That's why these three years are\ncrucial! Please cooperate and get\nthrough this together.",
-            "choice_data_list": [
-                "Yes …!"
-            ]
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "First up, you should start training\nfor the upcoming \"Make Debut\".",
-            "color_text_info_list": [
-                "Make Debut"
-            ]
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "Well then, have a good day!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Cuando llego al trabajo por la mañana<n>listo para\nempezar el día, Tazuna<n>Hayakawa, la secretaria del\ndirector,<n>se me acerca."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Buenos días, Entrenador. Por fin es hora<n>de empezar\na trabajar con tu aprendiz,<n>¿verdad!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Juntos, fortalecerán sus cuerpos<n>y mentes\nmientras forjan un vínculo<n>inseparable. ¡Estoy segura de\nque<n>pasarán un tiempo muy fructífero juntos!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Si logran resultados consistentes,<n>incluso podrían\nganar un título G1,<n>¡la cúspide misma de las\ncarreras!",
+      "choice_data_list": [
+        "¡Haré mi mejor esfuerzo!"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Seguro que sí! ♪"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ten en cuenta que los primeros tres<n>años de una\ncorredora en la Twinkle<n>Series son los más cruciales."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Si tu aprendiz no ha logrado un<n>récord satisfactorio\ntres años después de<n>su debut..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Me temo que su contrato contigo podría<n>ser cancelado."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Eso hace que estos tres años sean un<n>período\ncrítico para ella! Por favor<n>trabajen juntos y\nencuentren una<n>manera de superarlo.",
+      "choice_data_list": [
+        "¡Sí, señora!"
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Primero lo primero, probablemente<n>deberías\nempezar a entrenar para el<n>próximo Make Debut."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Bueno, ¡ahora ve!"
+    }
+  ]
 }

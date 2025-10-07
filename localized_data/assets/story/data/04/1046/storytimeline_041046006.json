@@ -1,239 +1,251 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Smart Falcon",
-            "text": "Runrun, runruru～n♪ ―Ah"
-        },
-        {
-            "text": "On a day off, I was heading out to go shopping \nwhen I bumped in to Smart Falcon."
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "Trainer-san, are you heading out too? \nYou see, Falco's heading out to go gather some 『Input』♪",
-            "choice_data_list": [
-                "What kind of input?"
-            ]
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "Obviously, \nthe kind to help become a sparkly, cute top Umadol!"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "It's something I heard from a popular idol recently. \n『The reason I'm the way I am, is because of lots of Input!』"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "That's why Falco has to do some studying! \nWith a full tank, full steam ahead, until the very end!"
-        },
-        {
-            "text": "……for some reason, I'm really worried.",
-            "choice_data_list": [
-                "Can I help out?"
-            ]
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "Ehh…… really!? \nIn that case, I'd like to get lots of advice☆"
-        },
-        {
-            "text": "First, we went to the movies and saw a musical."
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "Ughh…… that last scene was so good. \nTo think that the bartender was actually a descendant of Mozart……",
-            "choice_data_list": [
-                "The singing and dancing was good too",
-                "The singing and dancing was good too"
-            ]
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "Yeah, it felt so authentic, didn't it!? It's a different \ndirection from an Umadol, but it was still wonderful～♪"
-        },
-        {
-            "text": "Next we visited a popular theme park to see a parade."
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "Waaah! Look at that character! \nEven though they're so round, they can still move so sharply!",
-            "choice_data_list": [
-                "The movements of a pro",
-                "The movements of a pro"
-            ]
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "Yeah! It's something you couldn't do unless you practiced \neveryday until your body did it naturally!"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "Alllright, time to practice so Falco can do 10 \nconsecutive backflips while wearing any outfit～～!"
-        },
-        {
-            "text": "While walking down the street, \nwe encountered a group doing freestyle rap battles."
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "Hyaaaa～! It's a rap battle……! It's the first time I've seen one \nin person…… i-it's really imposing!!"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "It's like the clashing of two personas, wouldn't \nyou say!? For an Umadol, a persona is a must \nbut, I don't think mine is as striking……",
-            "choice_data_list": [
-                "You don't need to be like a rapper"
-            ]
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "But but, I think it's better to have a defined persona! \nIt's easier to find your audience that way!"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "So Falco will refine my persona! To the point I can win a rap \nbattle, I'll develop a striking and unique persona……!!"
-        },
-        {
-            "text": "I got the feeling things were heading in the wrong direction……"
-        },
-        {
-            "text": "When we passed by the station, we could hear the sound of intense \ndrumming. But there weren't any drums in sight, just an \nempty-handed performer."
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "Waaah!? An air drummer!!",
-            "choice_data_list": [
-                "Air drummer……!?"
-            ]
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "Amaaaazing!! They're handling the stick perfectly as \nthey match the music coming from the speakers……!!"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "It almost seems like they really have a drum! To think you could \nexpress yourself so freely using only your body! Even though \nFalco can only sing and dance―"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "……No, if I try, I might be able to do it too!! \nAir Drumming, or even an Air Band!!"
-        },
-        {
-            "text": "――We're heading completely off the rails here"
-        },
-        {
-            "text": "At night, we arrived at a small park that was really popular. \nWe could hear the sound of leaves rustling, and……"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "Ah, ah, that's……!!"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "If I recall―― right, a traveling monk! They travel to different \nplaces while playing their flute as training, right!?"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "Even if they're alone, they continue to play \ntheir flute……! So courageous! Such guts! They \nmust really believe in their own path, huh!"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "I wonder if I've become like that yet……?"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "No, I haven't……! I haven't become a traveling monk yet……! \nIsn't that right, Trainer-san……!?"
-        },
-        {
-            "text": "She had a desperate look on her face and her eyes seemed empty. \nJust like someone who had lost their way.",
-            "choice_data_list": [
-                "You're wrong, snap out of it!",
-                "You're wrong, snap out of it!"
-            ]
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "―Hyaauu!?",
-            "choice_data_list": [
-                "What do you want to become?",
-                "What do you want to become?"
-            ]
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "W-what is it that Falco wants to become……? \nThat's, obviously―"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "―Ah, that's right."
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "……that's right. What Falco wants to be isn't \na traveling monk, a rapper, or an air drummer."
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "What I want to be…… is an Umadol.",
-            "choice_data_list": [
-                "Input is just used as a reference",
-                "Input is just used as a reference"
-            ]
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "……Thank you, Trainer-san. \nI almost forgot the most important thing."
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "Ehehe, it was a good thing you came with me. \nIf you hadn't, I'd probably be so confused right now.",
-            "choice_data_list": [
-                "What impressed you the most?"
-            ]
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "Well, let's see…… for the movie it was the realistic performance, \nfor the parade it was the pure skill."
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "I was overwhelmed by the personas during the rap battles, and the \nintensity of the air drums was shocking. And the presence of \nbeing of the traveling monk."
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "But everyone was so dignified, doing their best \nto follow their own path. That's why…… ah!"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "―Right! The thing that left the biggest impression \nwas the sparkle in their eyes!",
-            "choice_data_list": [
-                "What do you mean?"
-            ]
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "For every performance, the performer and \nthe audience, everyone's eyes were sparkling☆"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "Well, the only one watching the traveling monk was us though…… \n―but anyways!"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "The people doing the performing were all working hard and \nshining, and the people watching were basking in that, I think!"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "It's a reaaaaally wonderful thing, don't you think!? Falco too, \nit would be great if I could shine like that for someone too♪"
-        },
-        {
-            "text": "And then, a few days later―"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "Hey hey, Trainer-san, do you know about Fire Dances!?"
-        },
-        {
-            "text": "……It seems like she's the really impressionable type. While it \nwasn't a bad thing to be enthusiastic about new things, I'd \nprobably have to keep a close eye on her."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Smart Falcon",
+      "text": "¡La-laaah, la-la-laaah! ♪ ¡Oh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En mi día libre, decido salir de<n>compras. Al salir, me<n>encuentro con Smart Falcon."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Tú también sales? Yo voy a<n>buscar algo de inspiración creativa! ♪",
+      "choice_data_list": [
+        "¿Inspiración creativa para qué?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Para convertirme en la Umadol más linda y<n>brillante de todas, por supuesto!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "El otro día, una idol súper popular dijo:<n>\"Llegué a donde estoy hoy gracias<n>a toda la inspiración que recibí!\""
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Así que pensé que yo también necesito<n>más inspiración! ¡Tanta que no quepa<n>más en mi cabeza! ¡Y justo la suficiente<n>para no volverme loca!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Esto suena un poco preocupante.",
+      "choice_data_list": [
+        "¿Necesitas ayuda?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Eh? O sea, ¡claro—si estás dispuesto! Yo<n>acepto todos los consejos que\npueda<n>conseguir! ☆"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Primero, vamos a un cine a ver un<n>musical."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "<i>Snif...</i> Esa última escena fue maravillosa... No<n>pensé que el cantinero\nsería un<n>descendiente de <i>el</i> Mozart...",
+      "choice_data_list": [
+        "Las canciones y coreografía también fueron increíbles.",
+        "Las canciones y coreografía también fueron increíbles."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Sí! ¡Se nota lo mucho que<n>todos aman su oficio! Es un poco<n>\ndiferente de lo que hacemos las Umadol, pero creo<n>que este tipo de\nespectáculos son<n>especiales a su manera! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Luego, nos dirigimos a un parque de<n>diversiones famoso por sus\ndesfiles."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Guau! ¡Mira a ese personaje mascota de<n>allá! Es tan redondo, pero\nsus<n>movimientos son tan precisos!",
+      "choice_data_list": [
+        "Sea quien sea, es toda una profesional.",
+        "Sea quien sea, es toda una profesional."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Ajá! ¡Definitivamente hay que practicar<n>todos los días para moverse\nasí!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Bueno, voy a practicar volteretas hacia<n>atrás hasta poder hacer diez\nseguidas<n>con cualquier atuendo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Recorremos las calles y pronto nos<n>topamos con una batalla de rap\nimprovisado<n>en el exterior."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Guau, una batalla de rap! Es la primera<n>vez que veo algo así en\nvivo!<n>¡Se lo toman muy en serio!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Es un choque de dos personalidades<n>fuertes, ¿verdad? La identidad es\nuna<n>parte importante de ser una Umadol, pero<n>no sé si estoy a su\nnivel todavía...",
+      "choice_data_list": [
+        "No necesitas compararte con un rapero."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Pero creo que sería mejor tener <i>algún</i><n>tipo de personaje! ¿No\nsería más<n>divertido de ver?!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Necesito desarrollar uno lo bastante<n>interesante para vencer a esos\nraperos!<n>¡Quizás algo atrevido!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siento que nos estamos desviando del tema..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al regresar a la estación, el sonido de una<n>batería poderosa llena el\naire.<n>Miro alrededor, pero no hay una batería a la<n>vista—solo un\nartista solitario, con las manos vacías."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Guau! ¡Batería de aire!",
+      "choice_data_list": [
+        "¿Disculpa?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Qué genial! ¡Las baquetas de aire del<n>artista coinciden\nperfectamente con la<n>música de los altavoces!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Es como si hubiera una batería real! ¿Cómo<n>te mueves con tanta\nlibertad?!<n>Yo solo sé cantar y bailar..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Mmm... Si practico lo suficiente, quizás<n>yo también pueda hacerlo.\nBatería de aire...<n>Guitarra de aire... ¡Da igual cuál!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Se distrajo por completo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cae la noche y llegamos a un parque<n>casi vacío. El único sonido a\nnuestro<n>alrededor es el crujir de las hojas con el<n>viento. Bueno, eso\ny..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡¿E-eh?! ¡¿Qué es eso?!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Ese sonido... Suena como la flauta que<n>usan los monjes\nitinerantes!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡No puedo creer que haya alguien aquí<n>solo, tocando para sí mismo!\nEso sí que es<n>confianza! ¡Eso es creer en una<n>misma!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Crees que... yo podría hacer lo mismo?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡No, todavía no! ¡Ni siquiera me<n>acerco a su nivel! Me falta\nmucho para<n>ser una monja, ¿verdad?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Smart Falcon me mira, su mirada es<n>determinada pero extrañamente\nvacía. En su<n>rostro tiene la expresión de un alma perdida.",
+      "choice_data_list": [
+        "¡Reacciona!",
+        "¡Reacciona!"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡¿Qué?!",
+      "choice_data_list": [
+        "¿Qué es lo que quieres ser?",
+        "¿Qué es lo que quieres ser?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿Lo que quiero ser? ¿No es obvio?"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "...Ah. <i>Eso</i> es a lo que te refieres."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Tienes razón. No estoy tratando de ser una<n>monja, una rapera o una\nbaterista de aire."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Estoy tratando de ser... una Umadol.",
+      "choice_data_list": [
+        "El comentario solo era para reflexionar.",
+        "El comentario solo era para reflexionar."
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Gracias por recordármelo... Casi pierdo de<n>vista lo que realmente\nimporta."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Ejeje, me alegra que vinieras. Yo sola me<n>habría estado dando vueltas\nsin rumbo.",
+      "choice_data_list": [
+        "¿Qué fue lo que más te inspiró hoy?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Mmm... La película tuvo una actuación<n>increíble, pero el desfile\nmostró<n>acrobacias alucinantes."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "La batalla de rap fue intensa en el buen<n>sentido, y la batería de aire\nfue<n>impresionante. En cuanto al monje, bueno...<n>aún me sorprende que\nnos topáramos con uno."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Pero todos compartían una cosa en<n>común—¡creían en sí mismos y se\nmantuvieron<n>fieles a su camino! Así que... ¡Oh!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Eso es! ¡Lo que más me gustó fue la<n>forma en que todos brillaban!",
+      "choice_data_list": [
+        "¿A qué te refieres?"
+      ]
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Cada artista y su público tenían un<n>brillo en los ojos! ☆"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "Bueno, en realidad, no sé si el monje<n>tenía brillo. No pude ver su\nrostro...<n>¡Pero bueno!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Todos dieron todo por sus<n>presentaciones, e inspiraron a toda\nla<n>gente que miraba!"
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¿No es asombroso? ¡Me dan ganas de<n>iluminar el mundo para los\ndemás también!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, al día siguiente..."
+    },
+    {
+      "name": "Smart Falcon",
+      "text": "¡Oye, Entrenador! ¿Has oído hablar de la<n>danza con fuego?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Admiro las ganas de aprender, pero es<n>demasiado influenciable.\nTendré que<n>vigilarla de cerca de ahora en adelante."
+    }
+  ]
 }

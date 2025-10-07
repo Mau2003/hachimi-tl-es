@@ -1,205 +1,233 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "El Condor Pasa",
-            "text": "Grasshopper, we won! Elle has won!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Are you okay?"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Yes. I was watching you win. While \nbeing swallowed by a black hole."
-        },
-        {
-            "text": "You're tough as nails, and so is Miss Glass. ……"
-        },
-        {
-            "text": "Ha-ha-ha, if you think this is the end of the game, you're wrong!"
-        },
-        {
-            "text": "There's always a real endgame! There's always a true rastus!"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "…… Let's not get tough, Golsi senior."
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "There are only three Uma Musume who have come to this world. \nThere is no such thing as a stronger enemy than you."
-        },
-        {
-            "text": "You're right there, right in front of me! Can't you see them?"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "No, there isn't! All you see before you is Golshi the Horse King \nand…… the Horse King's Castle!"
-        },
-        {
-            "text": "Oh, man, you're looking good, aren't you? The real rascal."
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Ha! You don't mean the last boss!"
-        },
-        {
-            "text": "Yes, and yes! Uma-Ou Castle is not just a castle. I've poured in \na special carrot extract that will make you full of energy!"
-        },
-        {
-            "text": "Come on, get up, Gorsy Castle! Show them your fourth form!"
-        },
-        {
-            "text": "Mmmmmm! \nGooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!"
-        },
-        {
-            "text": "Ha-ha-ha! What do you think, you can beat this guy in a fight! \nYou can't beat her! Quack quack quack, pugelagueller!"
-        },
-        {
-            "text": "Come on, Golsi Castle, smash these bastards without even a \ncontinuity! Golshi Castle is a shit game that no one can clear!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Glass～～～, this kind of thing can't \nbe defeated by Monk's technique!"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Even the lightning of an electrified angel can't penetrate a \nrock.…… How can I ……!"
-        },
-        {
-            "text": "Sisters! Can't you do something about \nit with the power of Uma Musume!"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "The power of the Uma Musume…… Yes, if the power of the job \ndoesn't get through, it's the only thing you can rely on. ……"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Ha! Speaking of which, please visit ……"
-        },
-        {
-            "text": "The \"Attendant of the Phantom has descended. \"The demonic \nspirits descend from the clouds to look down on the \nworld below, and with their innate thunderbolt, bring \ndestruction and pleasure to the Demon Lord.\""
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "The Innate Lightning.…… If that points to something that is an \nextension of the original power of the Uma Musume, then ……"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Looking down on the world below from above the clouds, she…… \ndemon king…… with her innate lightning."
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "I―! All right, all right! We might win, in that castle!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Really, Glass! What should I do!"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Ms. Machos, can you give me that medicine? That huge medicine."
-        },
-        {
-            "text": "Eh. Ah, yes. Is this it?"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "More! Please give us all you have."
-        },
-        {
-            "text": "Just because there are…… If you drink that much, you'll get a \nbloody nose and go to Heavenheim in an instant. ……"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "A normal humane person would. But an \nUma Musume can endure. ……! Quick!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Oh, oh, oh, oh, oh, the glass!"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Phew, nice view ♪ \nGigant horse girl, I will go ahead and push for it."
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Well, it's gotten so big that I can't see Golsi Castle anymore～."
-        },
-        {
-            "text": "Hey, Bubba! Hey! Hey! Get away from me! Watch your step!"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "I believe it's over here at ……"
-        },
-        {
-            "text": "Muahhhh! Goooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo \n！！！！"
-        },
-        {
-            "text": "Ahhhh, 1/1 size, HG Golsi Castle!"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Oh my - I'm sorry. I was just walking along and it just happened?"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "I stepped in the right place by accident!"
-        },
-        {
-            "text": "Oh, just like a strike of lightning, from above the clouds: ……! \nJust as the legend says."
-        },
-        {
-            "text": "But…… wait. I believe it is written in the lore, \"Give the Demon \nKing destruction and pleasure. ……"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Ke? I understand \"perdition\" but \"ecstasy\" is ……?"
-        },
-        {
-            "text": "Screw you, you stooge, you bon voyage! If this happens, go to ……"
-        },
-        {
-            "text": "Hey, Taro! Give me some of that giant potion!"
-        },
-        {
-            "text": "What are you doing?"
-        },
-        {
-            "text": "We can't lose either! From the land \nof light comes the giant Golshi!"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "What, even senior Golshi has become huge?"
-        },
-        {
-            "text": "Oh, man, I'm not gonna miss this one! Come on, let's go!"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "How did you fall?"
-        },
-        {
-            "text": "I didn't fall down, I just laid down. I figured with your leg \nstrength, you must be good at it."
-        },
-        {
-            "text": "Here, step here, here. Right here on the shoulder! Now, that's a \nlot more powerful than the last thunderbolt, isn't it?"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Ha, ha, is this the place?"
-        },
-        {
-            "text": "Oh there, it works…… it works! I'm in trouble, I'm in trouble…… \nStep on it more, more…… Oh…… bu!"
-        },
-        {
-            "text": "Oh, with destruction comes pleasure……! \nSaved, now the world is saved ……!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "I didn't know that.…… Healers also heal stiff shoulders. ……"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Grass, gané! ¡Gané! ¿Me viste?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Estás bien?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sí. Y te vi ganar desde la<n>oscuridad infinita de ese agujero\nnegro."
+    },
+    {
+      "name": "Mercenary Machos",
+      "text": "Finges ser tranquila, pero eres dura como<n>clavos, Grass."
+    },
+    {
+      "name": "Uma Lord Golshi",
+      "text": "¡Jaaa ja ja ja! Si creen que este juego se<n>acabó, ¡están muy\nequivocadas!"
+    },
+    {
+      "name": "Uma Lord Golshi",
+      "text": "¿No lo saben? ¡Todo RPG que se precie tiene<n>un jefe EX aún más difícil!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Suficiente bravuconería, Golshi."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Solo hay tres Umamusume en este<n>mundo. ¿Cómo podría haber\notro<n>oponente más fuerte que tú?"
+    },
+    {
+      "name": "Uma Lord Golshi",
+      "text": "¡Sí <i>hay</i> uno, y está<n>parado justo frente a ustedes!\n¿No<n>pueden verlo?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Nop! Este lugar sí que es desolado... ¡No hay<n>nada aquí excepto tú y\ntu castillo!"
+    },
+    {
+      "name": "Uma Lord Golshi",
+      "text": "Ajá, así que <i>sí</i> lo ves después de todo. ¡Contemplen<n>al verdadero jefe\nfinal!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡¿Eh?! ¿Estás diciendo que el jefe final es...?"
+    },
+    {
+      "name": "Uma Lord Golshi",
+      "text": "¡Así es! La fortaleza de Uma Lord no es un<n>castillo ordinario. Le he\nestado dando<n>extracto de zanahoria extra rico para aumentar<n>su energía!"
+    },
+    {
+      "name": "Uma Lord Golshi",
+      "text": "¡Levántate, Castillo Golshi! ¡Muéstranos tu<n>cuarta forma!"
+    },
+    {
+      "name": "Golshi Castle",
+      "text": "¡Mnrrrgh! ¡Gooolshiii!"
+    },
+    {
+      "name": "Uma Lord Golshi",
+      "text": "¡Mujajaja! Entonces, ¿qué dicen de <i>esto?</i><n>¿Pueden tus puños\nderrotar a este? ¡Lo<n>creeré cuando lo vea! ¡Kekekeke!<n>¡Naanana, naaana!"
+    },
+    {
+      "name": "Uma Lord Golshi",
+      "text": "¡Adelante, Castillo Golshi! ¡Aplástalas hasta<n>hacerlas polvo!\nDesafortunadamente<n>para ustedes, ¡este juego que están jugando es<n>imposible de ganar!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Grass, ¡no creo que mis habilidades de<n>Brawler tengan oportunidad\ncontra este!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Mi Rayo Angélico tampoco le hará mucho a una<n>fortaleza. ¿Qué\nhacemos?"
+    },
+    {
+      "name": "Mercenary Machos",
+      "text": "¡Chicas! ¿No pueden sus poderes de<n>Umamusume hacer algo?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Nuestros poderes de Umamusume... Podríamos<n>intentar. Si no podemos\nconfiar en nuestros<n>poderes de clase, entonces no tenemos otra..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Espera! Ahora que lo mencionas..."
+    },
+    {
+      "name": "Mystic Granny",
+      "text": "\"La encarnación de la fantasía contemplará<n>este mundo desde los\ncielos. Con poder<n>innato y atronador, infligirá al señor<n>demonio un\ngolpe de destrucción y<n>felicidad por igual.\""
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "\"Poder innato y atronador\". Si interpretamos<n>eso como una habilidad\nque las Umamusume<n>adquieren naturalmente..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Contemplar este mundo... infligir<n>destrucción atronadora... al\nseñor<n>demonio..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Ya sé! ¡Lo tengo! Creo que podemos vencer a<n>este castillo!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡¿Lo resolviste, Grass?! ¡¿Qué se supone que<n>hagamos?!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Machos. ¿Podrías darme algunas de esas<n>Pociones de Crecimiento que\nusaste?<n>Las que te volvieron gigante."
+    },
+    {
+      "name": "Mercenary Machos",
+      "text": "¿Eh? Uh, claro. ¿Una de estas, verdad?!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Más, por favor! ¡Necesito todo lo que tengas!"
+    },
+    {
+      "name": "Mercenary Machos",
+      "text": "¿Todo? Si bebes <i>esa</i> cantidad, estarás<n>escupiendo sangre por la\nnariz en un<n>viaje directo al Cieloheim..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Si fuera humana, quizás, ¡pero no es nada que<n>una Umamusume no\npueda soportar! ¡Ahora date prisa!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Whooooaa, Grass?!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Hehe. Buena vista desde aquí arriba. ♪ Uma<n>gigante, pasando por\naquí."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ummm... Quizás crecí <i>demasiado</i>. Ya ni<n>siquiera veo el Castillo\nGolshi."
+    },
+    {
+      "name": "Uma Lord Golshi",
+      "text": "¡Oye, grandulona! ¡Basta! ¡Aléjate de mí!<n>¡Mira por dónde caminas!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Estoy segura de que estaba por aquí..."
+    },
+    {
+      "name": "Golshi Castle",
+      "text": "¡¿Mnrrrgh?! ¡Gooolshiii!"
+    },
+    {
+      "name": "Uma Lord Golshi",
+      "text": "¡Noooooo! ¡Mi Castillo Golshi HG escala 1:1!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Oh no... ¿Fui <i>yo</i>? Lo siento, no lo<n>vi ahí."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Seguro que lo pisaste de lleno para<n>alguien que \"no lo vio\"."
+    },
+    {
+      "name": "Mystic Granny",
+      "text": "Ohhh, ¡un golpe atronador desde arriba! Es<n>justo como predijo la\nleyenda."
+    },
+    {
+      "name": "Mystic Granny",
+      "text": "Pero, esperen. La leyenda decía que tanto<n>la destrucción como la\nfelicidad serían<n>infligidas al señor demonio."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Qué? Entiendo lo de la destrucción, pero<n>¿felicidad?"
+    },
+    {
+      "name": "Uma Lord Golshi",
+      "text": "Dejen de bromear. ¿Creen que esto es<n>algún tipo de juego?! Bueno, ya\nles mostraré..."
+    },
+    {
+      "name": "Uma Lord Golshi",
+      "text": "¡Oye, tipo musculoso! ¡Entrégame el resto de<n>esas pociones gigantes!"
+    },
+    {
+      "name": "Mercenary Machos",
+      "text": "¡Oye! ¿Qué crees que estás haciendo?"
+    },
+    {
+      "name": "Uma Lord Golshi",
+      "text": "¡Todavía no me rindo! ¡Aquí viene Golshi<n>Gigante, recién llegada\ndel país de la luz!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Eh? ¿Tú también te vuelves gigante?"
+    },
+    {
+      "name": "Uma Lord Golshi",
+      "text": "¡Por supuesto! No dejaré escapar esta<n>oportunidad! ¡Ahora, ven aquí!\n¡Vamoooooos!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "E-espera, yo no—¿por qué se cayó?"
+    },
+    {
+      "name": "Uma Lord Golshi",
+      "text": "¡No me <i>caí!</i> Estoy recostada. Con ese poder<n>de piernas tuyo, apuesto\na que podrías<n>ayudarme mucho."
+    },
+    {
+      "name": "Uma Lord Golshi",
+      "text": "Ahora, necesito que me pises. Justo aquí,<n>alrededor de mis\nhombros. Tu rayo no<n>hizo nada por mis calambres, pero un buen<n>masaje fuerte\npodría ayudar."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ah, oh. ¿Así está bien, entonces?"
+    },
+    {
+      "name": "Uma Lord Golshi",
+      "text": "Ahhhh... Ese es el punto. Sí, justo así...<n>Dale una buena pisada...\nmás fuerte...<n>¡Ooh!"
+    },
+    {
+      "name": "Mystic Granny",
+      "text": "Oh... ¡Destrucción <i>y</i> felicidad! ¡Hemos sido<n>salvadas! ¡Nuestro\nmundo ha sido salvado!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Vaya... Supongo que tiene sentido que una<n>clériga también pueda\ncurar hombros tensos..."
+    }
+  ]
 }

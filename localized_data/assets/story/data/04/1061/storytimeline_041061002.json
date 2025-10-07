@@ -1,213 +1,221 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Today at the Selection Race, many trainers were \nrushing to see the horse girls' abilities."
-        },
-        {
-            "name": "King Halo",
-            "text": "Ohhohoho! Everyone, burn it into your eyes! \nThe running of the first-class horse girl, King Halo!"
-        },
-        {
-            "name": "Special Week",
-            "text": "You're full of energy as always huh, King-chan!"
-        },
-        {
-            "name": "King Halo",
-            "text": "Of～course! \nI slept plenty and my preparations are perfect!"
-        },
-        {
-            "name": "King Halo",
-            "text": "I entered all 12 Selection Races today, I'll show the \ntrainers King's brave figure as many times as I want!"
-        },
-        {
-            "name": "Special Week",
-            "text": "Eh!? \nYou're gonna run in all the races today!?"
-        },
-        {
-            "name": "King Halo",
-            "text": "Yes, that was my intention? After all, the more races \nI enter the higher my chance of being scouted will be!"
-        },
-        {
-            "name": "Special Week",
-            "text": "Huh? But I heard we have to limit our \nregistrations to one or else we'll be disqualified…"
-        },
-        {
-            "name": "King Halo",
-            "text": "…Eh?"
-        },
-        {
-            "name": "King Halo",
-            "text": "I, I never heard about this～!!"
-        },
-        {
-            "name": "Veteran Trainer A",
-            "text": "…As expected of the young lady, unconventional～."
-        },
-        {
-            "name": "Experienced Trainer A",
-            "text": "But, her mother is the \"first-class\" legendary horse \ngirl isn't she! I just hope she can show she's inherited \nher abilities in this race…"
-        },
-        {
-            "text": "And thus, the curtain on the Selection Race rises."
-        },
-        {
-            "text": "(Start!)"
-        },
-        {
-            "name": "Commentator",
-            "text": "And they're off, it's the 1600m turf Selection Race! \nWhich horse girl will display their abilities this time?"
-        },
-        {
-            "name": "Commentator",
-            "text": "It's a slow start this time. \nThe first pack is moving grouped together."
-        },
-        {
-            "name": "King Halo",
-            "text": "Gh… Ha… Ha…!"
-        },
-        {
-            "name": "Commentator",
-            "text": "King Halo is also on the inside of the group! But she \nseems to be having a hard time being blocked from the front!"
-        },
-        {
-            "name": "King Halo",
-            "text": "Kh, hey! \nYou've got some guts getting in King's way!"
-        },
-        {
-            "name": "Experienced Trainer A",
-            "text": "Hmm… King Halo, it seems like she wants \nto move up but her positioning isn't very good."
-        },
-        {
-            "name": "Veteran Trainer A",
-            "text": "She boasted a lot about \"first-class this first-class that\" but \nshe doesn't seem very dexterous. It looks like her spirit is all \nshe has going for her…"
-        },
-        {
-            "name": "Veteran Trainer A",
-            "text": "or on the contrary, she's too prideful for her own good…"
-        },
-        {
-            "name": "Commentator",
-            "text": "What's wrong with King Halo? She hasn't started chasing yet! \nSoon the front will have left her behind!"
-        },
-        {
-            "name": "King Halo",
-            "text": "Eh? They left already!?"
-        },
-        {
-            "name": "King Halo",
-            "text": "Ahh, geez!! \nMy pace is completely ruined! Kh!"
-        },
-        {
-            "name": "Commentator",
-            "text": "King Halo has finally started her spurt!! \nThis is an amazing stretch! Truly wonderful footwork!"
-        },
-        {
-            "name": "King Halo",
-            "text": "Of course… \nI am, the very definition of a Kiiing!!!"
-        },
-        {
-            "name": "Experienced Trainer B",
-            "text": "Ohh, this is amazing! She's caught up all in one go!! \nSo she really did have it in her!"
-        },
-        {
-            "text": "It was a beautiful last leg."
-        },
-        {
-            "text": "A sharp burst that shocked even the horse girl a furlong ahead."
-        },
-        {
-            "text": "It's still rough but, if I can see her running \non the big stage… just maybe…"
-        },
-        {
-            "name": "Commentator",
-            "text": "But it looks like the engine started too late! \nThe front reaches the goal! King Halo comes in 2nd!!"
-        },
-        {
-            "name": "King Halo",
-            "text": "Ah… Ha… Ha… \n…Kh.",
-            "choice_data_list": [
-                "That was a beautiful last leg…!",
-                "That was a beautiful last leg…!"
-            ]
-        },
-        {
-            "name": "King Halo",
-            "text": "Of course it was, just who do you think I am? But, this \noutcome is no good… for King to let it end with 2nd!"
-        },
-        {
-            "name": "King Halo",
-            "text": "Wait, huh? You're… from the other day. \n…Don't tell me, you've come to scout me!?"
-        },
-        {
-            "name": "King Halo",
-            "text": "Ufufu, joining the winning team right away, huh! \nVery well, I'll give you the right to promote King yourself!"
-        },
-        {
-            "name": "King Halo",
-            "text": "Now, tell me. \nJust what kind of trainer do you intend to become?",
-            "choice_data_list": [
-                "I want to see you win on a big stage.",
-                "I want to see you win on a big stage."
-            ]
-        },
-        {
-            "name": "King Halo",
-            "text": "Wrong."
-        },
-        {
-            "name": "King Halo",
-            "text": "I didn't ask what you want me to do. \nI asked what you wanted to do."
-        },
-        {
-            "name": "King Halo",
-            "text": "With an answer of that level, I'll have to refuse."
-        },
-        {
-            "name": "King Halo",
-            "text": "I won't acknowledge anything less than a first-class trainer. \nI have to decide you don't currently fit those qualifications.",
-            "choice_data_list": [
-                "Right now, I'm still a rookie but someday I'll be first-class!",
-                "Right now, I'm still a rookie but someday I'll be first-class!"
-            ]
-        },
-        {
-            "name": "King Halo",
-            "text": "Someday, huh. When?"
-        },
-        {
-            "name": "King Halo",
-            "text": "If you trainers think we're not good enough, you can always move \nonto the next girl and have another chance at being evaluated as \na first-class trainer."
-        },
-        {
-            "name": "King Halo",
-            "text": "But to horse girls, we've only got one chance. \nWe have to make sure we leave an impact."
-        },
-        {
-            "name": "Cat-eyed Horsegirl",
-            "text": "King! Sorry to interrupt your conversation! \nYour phone was ringing…"
-        },
-        {
-            "name": "King Halo",
-            "text": "…My, is that so. Thank you for letting me know. \nI'll be there in a second, so wait for me."
-        },
-        {
-            "name": "King Halo",
-            "text": "Well then, I'll be excusing myself. \nGoodbye."
-        },
-        {
-            "name": "Veteran Trainer A",
-            "text": "You got dumped spectacularly… well, don't let it \nbother you. Hat young lady has spunk, but I'd say \na G2 or G3 are the height of her abilities."
-        },
-        {
-            "name": "Experienced Trainer B",
-            "text": "It's a typical big frog in a small pond. Her pride \nis too high for her abilities. That girl's gonna \nhave a hard time, give it a rest."
-        },
-        {
-            "text": "The trainers around me give their condolences."
-        },
-        {
-            "text": "But in my head, the words she left about \"qualifications as a \nfirst-class trainer\" continued to circulate…"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El día de las pruebas ha llegado.<n>La emoción llena el estadio mientras<n>grupos de<n>entrenadores acuden en masa para echar un<n>vistazo a las estudiantes."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Ohohoho! Todos, sean testigos de cómo<n>corre una corredora de primera<n>categoría!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Parece que hoy estás de buen humor, King!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Efectivamente! Me siento totalmente<n>recargada y confiada en mis<n>preparativos!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Para el final de hoy, todos los entrenadores<n>estarán peleándose por mí,<n>porque planeo<n>hacer una declaración audaz en las 12 carreras!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¿¡Quéee? ¿Vas a correr en las 12<n>carreras?!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Por supuesto. ¡Entre más carreras<n>participe, mayores serán mis<n>posibilidades de<n>ser reclutada!"
+    },
+    {
+      "name": "Special Week",
+      "text": "Mmm, espera un segundo... Pensé que te<n>descalifican si te inscribes en<n>más de<n>una carrera."
+    },
+    {
+      "name": "King Halo",
+      "text": "...¿Qué?"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡N-nadie me dijo eso!"
+    },
+    {
+      "name": "Entrenador Veterano A",
+      "text": "Bueno, ciertamente ya ha causado una<n>impresión."
+    },
+    {
+      "name": "Entrenador Experto A",
+      "text": "Dado el trasfondo de su madre como una<n>corredora legendaria de primera,<n>ciertamente<n>tiene mucho que vivir. ¡Veamos si heredó<n>esas habilidades!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, las pruebas comienzan."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Bang!</i>"
+    },
+    {
+      "name": "Comentarista",
+      "text": "¡La carrera de 1600 metros en césped ha<n>comenzado oficialmente! ¿Qué tipo de<n>desempeño veremos<n>hoy de nuestras concursantes?"
+    },
+    {
+      "name": "Comentarista",
+      "text": "La carrera comienza un poco lenta.<n>¡El frente está empezando a<n>amontonarse!"
+    },
+    {
+      "name": "King Halo",
+      "text": "<i>Jadeo, jadeo, jadeo...</i>"
+    },
+    {
+      "name": "Comentarista",
+      "text": "¡King Halo se ha abierto paso al medio<n>del grupo! Pero está en una<n>posición difícil—¡el<n>camino hacia adelante está bloqueado!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Tch... ¡Todos ustedes tienen agallas para<n>interponerse en mi camino!"
+    },
+    {
+      "name": "Entrenador Experto A",
+      "text": "Mmm. Parece que King Halo sigue<n>intentando avanzar, pero no<n>encuentra una buena<n>posición."
+    },
+    {
+      "name": "Entrenador Veterano A",
+      "text": "Siempre habla de primera categoría esto,<n>primera categoría aquello, pero no<n>parece que tenga<n>la sustancia para respaldar sus palabras."
+    },
+    {
+      "name": "Entrenador Veterano A",
+      "text": "Más bien, parece que su orgullo y<n>desesperación la están<n>perjudicando."
+    },
+    {
+      "name": "Comentarista",
+      "text": "¿Hay algo mal con King Halo?<n>¡Todavía no ha hecho su<n>movimiento! ¡Las<n>líderes ya han comenzado un<n>esprint!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡¿Espera, qué?! ¡¿Ya van?!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Aghhh! ¡Qué pérdida de tiempo ir a este<n>ritmo!"
+    },
+    {
+      "name": "Comentarista",
+      "text": "¡King Halo finalmente ha entrado en alta<n>velocidad! ¡Qué espectacular<n>muestra de poder! ¡La<n>brecha se está cerrando rápidamente!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Por supuesto... ¡Es porque soy la reeey!"
+    },
+    {
+      "name": "Entrenador Experto B",
+      "text": "¡Caray, es tan rápida! ¡Alcanzó el frente en<n>nada de tiempo! Quizás<n>realmente tiene<n>las habilidades!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El último esfuerzo de la carrera es una<n>demostración de verdadero poder."
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de que la corredora líder está una<n>furlong completa adelante, la<n>intimidante<n>determinación de King Halo envía un<n>fuerte mensaje a través de la pista."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su técnica, aunque un poco tosca, muestra<n>el potencial para estar<n>cara a cara con<n>corredoras de primer nivel."
+    },
+    {
+      "name": "Comentarista",
+      "text": "¡Pero es demasiado poco y demasiado tarde!<n>¡La corredora líder ha cruzado la línea!<n>King Halo termina<n>en segundo lugar!"
+    },
+    {
+      "name": "King Halo",
+      "text": "<i>Jadeo, jadeo...</i> Ugh.",
+      "choice_data_list": [
+        "¡Ese último esfuerzo fue increíble!",
+        "¡Ese último esfuerzo fue increíble!"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Por supuesto. ¿Quién crees que soy? Pero<n>tales resultados no son dignos de<n>mí. ¿Cómo<n>pude posiblemente terminar segunda..."
+    },
+    {
+      "name": "King Halo",
+      "text": "Espera. Eres el entrenador de antes,<n>¿verdad? ¿Viniste a reclutarme?"
+    },
+    {
+      "name": "King Halo",
+      "text": "Jeje, ¡parece que ya llegó la primera ola de<n>reclutadores! Muy bien,<n>te daré el honor de<n>venderme tus cualidades!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Te escucho—cuéntame sobre ti. ¿Qué<n>tipo de entrenador eres?",
+      "choice_data_list": [
+        "¡Quiero ayudarte a ganar las grandes carreras!",
+        "¡Quiero ayudarte a ganar las grandes carreras!"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "...No."
+    },
+    {
+      "name": "King Halo",
+      "text": "No me interesa saber qué harías por mí,<n>quiero saber quién <i>eres</i> como persona."
+    },
+    {
+      "name": "King Halo",
+      "text": "Pero dado lo poco sustancial de tu respuesta,<n>tendré que rechazarte."
+    },
+    {
+      "name": "King Halo",
+      "text": "Solo busco entrenadores de primera categoría.<n>No me conformaré con menos.<n>Ahora mismo,<n>simplemente no tienes las cualidades que<n>requiero.",
+      "choice_data_list": [
+        "Puede que sea un entrenador nuevo ahora, ¡pero voy a\nconvertirme en uno de primera categoría algún día!",
+        "Puede que sea un entrenador nuevo ahora, ¡pero voy a\nconvertirme en uno de primera categoría algún día!"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "¿Algún día? ¿Y cuándo es exactamente eso?"
+    },
+    {
+      "name": "King Halo",
+      "text": "Para ustedes los entrenadores, pueden<n>seguir ciclando entre diferentes<n>corredoras hasta<n>que una de ellas les dé los resultados para<n>llamarse \"de primera categoría\"."
+    },
+    {
+      "name": "King Halo",
+      "text": "Pero es diferente para nosotras. Las<n>corredoras reales. Solo tenemos<n>una oportunidad<n>para demostrarnos en la pista."
+    },
+    {
+      "name": "Uma Musume de ojos felinos",
+      "text": "¡Oye, King! Disculpa la interrupción, pero<n>tu teléfono está sonando..."
+    },
+    {
+      "name": "King Halo",
+      "text": "Ah, ¿en serio? Gracias por avisarme.<n>Ya voy."
+    },
+    {
+      "name": "King Halo",
+      "text": "De todos modos, me voy ahora.<n>Adiós."
+    },
+    {
+      "name": "Entrenador Veterano A",
+      "text": "Parece que te acaban de dejar. ¡Pero no<n>dejes que te desanime! Esa<n>princesa solo<n>llegará a carreras G3 o G2 como<n>máximo."
+    },
+    {
+      "name": "Entrenador Experto B",
+      "text": "Síp, solo es un pececillo en el estanque<n>que recibirá una dura lección de<n>realidad. Lo único<n>que tiene a su favor es su orgullo.<n>Es mejor no<n>perder el tiempo con ella."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los entrenadores a mi alrededor intentan<n>animarme."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero no puedo sacarme de la cabeza las<n>palabras de King Halo sobre las<n>cualidades de un<n>entrenador de primera categoría."
+    }
+  ]
 }

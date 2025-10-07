@@ -1,21 +1,21 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "You can get support cards from \nthis support card gacha."
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "A support card is a special card that helps \nyou train your horsegirl."
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "By organizing and using support cards, \nyour friends at Tracen Academy will help \nyour horsegirl develop and train!"
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "Now, let's draw from the support card gacha!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Puedes obtener Cartas de Apoyo del<n>\nReclutamiento de Cartas de Apoyo!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Una Carta de Apoyo es una carta usada<n>\npara asistir a tus pupilas en Carrera."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Al seleccionar un mazo de Cartas de<n>\nApoyo, recibirás la ayuda de otros<n>\nalrededor de la Academia Tracen para<n>\nayudar a tu pupila!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Muy bien, ¡intentemos reclutar algunas<n>\nCartas de Apoyo!"
+    }
+  ]
 }

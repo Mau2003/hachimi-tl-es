@@ -1,259 +1,279 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Mihono Bourbon",
-            "text": "Would you like to go to tonight's \nfireworks festival with me?"
-        },
-        {
-            "text": "It was early afternoon in the middle of our summer \ntraining camp, when Mihono Bourbon came up to me \nand asked that question.",
-            "choice_data_list": [
-                "O-Of course!"
-            ]
-        },
-        {
-            "text": "I was surprised by her sudden request. That's a first! \nI immediately took her up on her offer without a second \nthought. And so..."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "According to my research, there are usually around \n70,000 attendees. There are around 90 different stalls, \namong which are 9 types of games to play."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "What would you like to do? There is shooting, die cutting, \ngoldfish scooping, yo-yo fishing, ring tossing, a lottery, \nstring pulling, box punching and melon splitting."
-        },
-        {
-            "text": "Inviting me out and doing so much research \nbeforehand... The usually reserved Mihono Bourbon \nis exploding with enthusiasm today.",
-            "choice_data_list": [
-                "You sure love festivals.",
-                "You sure love festivals."
-            ]
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Incorrect. 'Love' is not it. Neither is 'hate.' My feelings \ntoward festivals can be quantified as 'normal.'",
-            "choice_data_list": [
-                "Why are you so enthusiastic, then?"
-            ]
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "...... \nI am merely increasing the time interacting with you \nby spending 'a fun time' with you, Master.",
-            "choice_data_list": [
-                "Huh?"
-            ]
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "I just... I have always understood social interactions \nto be 'meaningless.'"
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "But... Perhaps my understanding was wrong."
-        },
-        {
-            "text": "I'm surprised to hear her speak less formal. \nFrom the corner of my eye, I spotted the head of \na bunny plush sticking out of her pocket.",
-            "choice_data_list": [
-                "Hey, is that..."
-            ]
-        },
-        {
-            "text": "It was the bunny we won at the arcade the other day."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "It helps me remember the feeling of 'fun.'"
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "It helps my motivation stay up during training and \nstudying. I never expected it to have such an effect..."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "So I was thinking... That maybe the 'fun' you helped \nme experience back then really <i>does</i> have meaning...",
-            "choice_data_list": [
-                "...!"
-            ]
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Maybe my parents' order to improve my social skills..."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Were perhaps supposed to be... \nInterpreted a little... softer than that."
-        },
-        {
-            "text": "I'm speechless at her personal growth. She combined her \nexperiences like a puzzle to reach the conclusion on her \nown, even if things didn't always work out right away.",
-            "choice_data_list": [
-                "Let's make today unforgettable!"
-            ]
-        },
-        {
-            "text": "I pulled myself together and take the flustered \nMihono Bourbon towards the crowded festival."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Rotate the muzzle 5 degrees downwards. \nToo far, move it slightly upwards. That's it."
-        },
-        {
-            "text": "*bang*"
-        },
-        {
-            "name": "Shooting Gallery",
-            "text": "Wow, you got it! \nYou're a natural, my man!",
-            "choice_data_list": [
-                "Only thanks to her instructions."
-            ]
-        },
-        {
-            "name": "Shooting Gallery",
-            "text": "Wow, you got it! \nYou're a natural, m'lady!",
-            "choice_data_list": [
-                "Only thanks to her instructions."
-            ]
-        },
-        {
-            "name": "Shooting Gallery",
-            "text": "Hahaha! I see, you two make a perfect pair! \nHere's the prize, you lovely horse girl. Don't lose it!"
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "...... \nThank you very much."
-        },
-        {
-            "text": "We enjoyed the festival to our heart's content and the \nevening whizzed by in a flash. We went die cutting, \nring throwing and drew in the lottery."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "The fireworks are about to start. We should move \ntowards a good vantage point."
-        },
-        {
-            "name": "Honest Horsegirl",
-            "text": "Oh, Bourbon?"
-        },
-        {
-            "text": "We ran into the horse girl that came up to Bourbon \nsome time ago."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "<i>I concluded that you must have some sort of reason \nto reach out to me during my break.</i>"
-        },
-        {
-            "name": "Honest Horsegirl",
-            "text": "<i>Sorry, I didn't have a particular reason, \nI just wanted to chat for a bit... \nI guess I interrupted you after all, so I'll be going! </i>"
-        },
-        {
-            "name": "Honest Horsegirl",
-            "text": "I didn't know you went to festivals, Bourbon... Oh wait, \nI-I'm sorry for interrupting your free time! I got a little \ntoo excited..."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Don't feel sorry, it's no problem. \nYou are here to see the fireworks, too?"
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "The centerpiece of this fireworks display \nis a shell 90 centimeters in diameter. \nI am looking forward to it."
-        },
-        {
-            "name": "Honest Horsegirl",
-            "text": "So, do you have a reason for that?"
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "No, not in particular."
-        },
-        {
-            "name": "Honest Horsegirl",
-            "text": "Huh?"
-        },
-        {
-            "text": "The little horse girl seemed in shock after \nhearing those words come from Bourbon."
-        },
-        {
-            "text": "Mihono Bourbon has come a long way. She finally \nunderstands what it's like to 'have fun' with others. \n...Wait a minute.",
-            "choice_data_list": [
-                "Go play with her."
-            ]
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "But...",
-            "choice_data_list": [
-                "I'm sure it'll be 'fun!'"
-            ]
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Order accepted."
-        },
-        {
-            "text": "She turned her gaze to the younger horse girl."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Would you like to... Watch the fireworks with me?"
-        },
-        {
-            "text": "*fweet* ... *boom*"
-        },
-        {
-            "name": "Honest Horsegirl",
-            "text": "Wow, the fireworks really are amazing! \nI'm glad I worked up the courage to go here alone."
-        },
-        {
-            "name": "Honest Horsegirl",
-            "text": "I'm so glad I met you here, to see the fireworks together... \nOh, I'm sorry. I started speaking my thoughts again..."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Do you like fireworks?"
-        },
-        {
-            "name": "Honest Horsegirl",
-            "text": "Yes, I do! I like how they sparkle so wide in the sky. \nThey inspire me! Everyone longs for something that \nthey don't have. Be it fireworks or something else."
-        },
-        {
-            "name": "Honest Horsegirl",
-            "text": "I know this sounds as an excuse for what I did back then, \nbut I'm bad at sensing the distance between people..."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Understood. So you have trouble measuring distances? \nI'm actually an expert at this subject."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "For example: The two of us are 34 centimeters apart. \nThe shaved ice stand behind us at 4 o'clock is 8 meters \nand 24 centimeters away from you."
-        },
-        {
-            "name": "Honest Horsegirl",
-            "text": "Um, Bourbon. Are you a bit of an airhead, actually?"
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "My head is filled with gray matter only, not air."
-        },
-        {
-            "name": "Honest Horsegirl",
-            "text": "Yep! An airhead!"
-        },
-        {
-            "text": "...They continued chatting for a while, \nunder the twinkling lights of the fireworks."
-        },
-        {
-            "text": "The next day."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Hi Father. It's me, Mihono Bourbon. I'm calling \nto report on the completion of your orde—"
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "No, sorry. This is a status report."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "I managed to make a friend."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mihono Bourbon",
+      "text": "¿Te interesaría acompañarme al<n>festival de fuegos artificiales esta<n>noche?"
+    },
+    {
+      "name": "Monólogo interno",
+      "text": "En una calurosa tarde durante el<n>campamento de verano, Mihono Bourbon<n>\nse me acerca con una expresión<n>ligeramente nerviosa.",
+      "choice_data_list": [
+        "¡Cl-claro que sí!"
+      ]
+    },
+    {
+      "name": "Monólogo interno",
+      "text": "Contesto de inmediato sin pensarlo<n>dos veces. Es la primera vez que me<n>invita a algo. La emoción me recorre<n>por completo mientras espero a que<n>llegue la noche."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Según mis investigaciones, hay un<n>promedio de 70,000 asistentes<n>y noventa puestos. De esos puestos,<n>tenemos nueve juegos para elegir."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Galería de tiro, corte de dulces,<n>pesca de peces dorados, globos<n>yo-yo, lanzamiento de aros, sorteo,<n>lotería de cuerdas, caja de golpes o<n>partición de sandía. ¿Por dónde<n>empezamos?"
+    },
+    {
+      "name": "Monólogo interno",
+      "text": "Su actitud pasiva habitual se disuelve<n>mientras enumera actividades. Una<n>mirada de determinación brilla en<n>sus ojos.",
+      "choice_data_list": [
+        "De verdad te deben gustar los festivales.",
+        "De verdad te deben gustar los festivales."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Ni me gustan ni me disgustan. Diría que<n>tengo una apreciación promedio<n>por ellos.",
+      "choice_data_list": [
+        "¿Entonces por qué quisiste venir hoy?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...Creo que pasar tiempo juntos<n>profundizará nuestra conexión.",
+      "choice_data_list": [
+        "...?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Bueno... hasta ahora, había estado<n>categorizando eventos sociales como<n>este como irrelevantes."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Pero quizás... estaba equivocada."
+    },
+    {
+      "name": "Monólogo interno",
+      "text": "Mientras habla, un atisbo de emoción<n>colorea su voz. Su mano roza su<n>bolsillo, revelando un peluche de<n>aspecto familiar.",
+      "choice_data_list": [
+        "¿Eso es...?"
+      ]
+    },
+    {
+      "name": "Monólogo interno",
+      "text": "Los pequeños ojos redondos del<n>conejito asoman bajo la tela."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Durante mucho tiempo, luché por<n>entender el significado de \"divertirse\"."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Pero por alguna razón, cuando este<n>juguete está conmigo, entrenar y<n>estudiar se vuelven radicalmente<n>diferentes. Mis niveles de motivación<n>aumentan."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Desde que empecé a interactuar<n>socialmente, me he dado cuenta de<n>que hay valor en buscar \"disfrutar\".",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Quizás esto es lo que mis padres<n>querían que entendiera."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "No la sociabilidad como un parámetro,<n>sino como... algo más cálido."
+    },
+    {
+      "name": "Monólogo interno",
+      "text": "Las palabras de Mihono Bourbon se<n>unen como piezas de rompecabezas,<n>mostrando su crecimiento y<n>consciencia. Me siento más orgulloso<n>que nunca, sabiendo el esfuerzo que<n>debió tomar llegar a esta conclusión.",
+      "choice_data_list": [
+        "¡Está bien, ahora estoy motivado!<n>¡Vamos a divertirnos montones esta noche!"
+      ]
+    },
+    {
+      "name": "Monólogo interno",
+      "text": "Guío a la estudiante desconcertada<n>hacia la calle principal llena de gente,<n>ansioso por aprovechar al máximo la<n>noche."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Por favor, apunta cinco grados más<n>bajo. Ahora estás muy bajo, sube—así<n>está bien, detente justo ahí."
+    },
+    {
+      "name": "Monólogo interno",
+      "text": "<i>¡Clic, pop!</i>"
+    },
+    {
+      "name": "Personal de Galería de Tiro",
+      "text": "¡Oooh, qué buena puntería, señor!<n>¡Felicidades por el premio mayor!",
+      "choice_data_list": [
+        "¡Todo gracias a sus indicaciones!"
+      ]
+    },
+    {
+      "name": "Personal de Galería de Tiro",
+      "text": "¡Oooh, qué buena puntería, señorita!<n>¡Felicidades por el premio mayor!",
+      "choice_data_list": [
+        "¡Todo gracias a sus indicaciones!"
+      ]
+    },
+    {
+      "name": "Personal de Galería de Tiro",
+      "text": "¡Jajaja, eso es trabajo en equipo! Aquí<n>tienes, ¡no lo pierdas camino a casa!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...Gracias."
+    },
+    {
+      "name": "Monólogo interno",
+      "text": "Visitamos casi todos los puestos de<n>juegos, disfrutando de las festividades.<n>El tiempo vuela y antes de darnos<n>cuenta, la noche llega a su fin."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Los fuegos artificiales comenzarán<n>pronto. Sugiero que nos movamos a una<n>mejor ubicación para una visualización<n>óptima."
+    },
+    {
+      "name": "Uma Musume Sincera",
+      "text": "¿Eh? ¿Esa es... <i>¿Bourbon?</i>"
+    },
+    {
+      "name": "Monólogo interno",
+      "text": "Healthándonos desde la distancia está<n>la chica que se acercó a Bourbon el<n>otro día."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Tú iniciaste conversación durante mi<n>descanso. Estadísticamente, esta acción<n>sugiere un motivo subyacente."
+    },
+    {
+      "name": "Uma Musume Sincera",
+      "text": "Solo quería hablar contigo... Lo siento<n>por quitarte tiempo! ¡Me voy ya!"
+    },
+    {
+      "name": "Uma Musume Sincera",
+      "text": "¡Vaya, no esperaba encontrarte aquí!<n>¡Qué coincidencia! O-oh pero, lo<n>siento si las interrumpo..."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "No te preocupes. ...¿También viniste<n>aquí para ver los fuegos artificiales?"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "La exhibición de esta noche mostrará<n>un diseño circular impresionantemente<n>grande como pieza central. Es algo que<n>estoy, como dirías, \"esperando con<n>ansias\"."
+    },
+    {
+      "name": "Uma Musume Sincera",
+      "text": "Em... ¿Eso es todo? ¿Solo esperas con<n>ansias los fuegos artificiales? O sea,<n>¿sin razón científica alguna?"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Correcto."
+    },
+    {
+      "name": "Uma Musume Sincera",
+      "text": "...¿Eh?"
+    },
+    {
+      "name": "Monólogo interno",
+      "text": "La Uma Musume mira a Mihono<n>Bourbon, desconcertada por su<n>sencilla respuesta."
+    },
+    {
+      "name": "Monólogo interno",
+      "text": "En el pasado, la estudiante estoica<n>habría comenzado un monólogo<n>analítico. Ahora, está absorbiendo los<n>paisajes y viviendo el momento.",
+      "choice_data_list": [
+        "¿Por qué no los vemos juntas?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¿Estás segura?",
+      "choice_data_list": [
+        "¡Será más divertido con más gente!"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...Entendido."
+    },
+    {
+      "name": "Monólogo interno",
+      "text": "Con cuidado, Mihono Bourbon se gira<n>hacia la estudiante."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¿Te gustaría... ver los fuegos<n>artificiales juntas?"
+    },
+    {
+      "name": "Monólogo interno",
+      "text": "<i>¡Piiiuu! ¡Bum!</i>"
+    },
+    {
+      "name": "Uma Musume Sincera",
+      "text": "¡Vaya, son tan bonitos! No estaba segura<n>de venir al festival sola, pero ¡me<n>alegro mucho de haber reunido valor!"
+    },
+    {
+      "name": "Uma Musume Sincera",
+      "text": "Encontrarte, mirar cosas bonitas<n>juntas—ah, ¡perdón! Espero no<n>aburrirte con esta conversación..."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "No, por favor continúa. ¿Encuentras<n>estas explosiones disfrutables?"
+    },
+    {
+      "name": "Uma Musume Sincera",
+      "text": "¡Sí, me encantan! No importa si son<n>grandes o pequeños, solo estar<n>alrededor me hace sentir que puedo<n>hacer cualquier cosa! Me encanta<n>experimentar cosas que normalmente<n>no puedo, como fuegos artificiales o<n>incluso estar"
+    },
+    {
+      "name": "Uma Musume Sincera",
+      "text": "¡con gente!"
+    },
+    {
+      "name": "Uma Musume Sincera",
+      "text": "...Por eso me emocioné un poco. Lo<n>siento si te hice sentir incómoda<n>antes cuando te llamé. A veces no soy<n>buena manteniendo mi distancia..."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Entiendo. Si calcular distancias no es<n>tu fuerte, entonces puedo ser de gran<n>ayuda."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Por ejemplo, hay treinta y cuatro<n>centímetros de espacio entre nosotras.<n>El puesto de hielo raspado detrás de<n>ti a las cuatro en punto está a ocho<n>metros y veinticuatro centímetros."
+    },
+    {
+      "name": "Uma Musume Sincera",
+      "text": "¿Eres... así naturalmente?"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Si te refieres a mi composición<n>física, entonces sí, soy totalmente<n>natural. No poseo componentes<n>mecánicos."
+    },
+    {
+      "name": "Uma Musume Sincera",
+      "text": "Jeje, ¡creo que ahora te entiendo!"
+    },
+    {
+      "name": "Monólogo interno",
+      "text": "Bajo las espectaculares iluminaciones,<n>las dos estudiantes charlan como si<n>los fuegos artificiales nunca fueran a<n>terminar."
+    },
+    {
+      "name": "Monólogo interno",
+      "text": "Al día siguiente."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Hola, padre, soy Mihono Bourbon. Llamo<n>para informarle que su orden ha<n>sido ejec—"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "En realidad, mis disculpas. Prefiero<n>reportar un cambio en asuntos<n>personales."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Yo... hice una amiga."
+    }
+  ]
 }

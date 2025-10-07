@@ -1,39 +1,41 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Pheee～w! Bakushin on a day off is truly \nsomething special! \nI seem to have come all the way to the \nprefecture border without noticing…"
-        },
-        {
-            "text": "(Whooosh… Clatter…)"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Hmhm!? \nRunning over there, my rival――"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "It's the Shinkansen…! \nAs expected, what a magnificent run!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "…But I'm no slouch either! \nAllow me to show to you the fruits of my \ntraining!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Bakushinbakushiiiii――n!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Hah… Haaaah… I never thought I'd… lose \nsight of it… A, and――"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Where… am I…?"
-        },
-        {
-            "text": "By the time she got back to Tracen \nAcademy, even Sakura Bakushin O was \nexhausted…"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Mmm, mi energía Bakushin es<n>particularmente\nfuerte en mis días libres.<n>Accidentalmente\ncorrí hasta el límite de<n>la prefectura..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Whoosh!</i>"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Oh! ¡Justo a tiempo, mi rival!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Un tren bala! ¡Como esperaba!<n>¡Qué\nrendimiento! ¡Corriendo a tales<n>velocidades!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "...¡Pero no perderé! ¡Te mostraré<n>los frutos de\nmi entrenamiento!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Bakushin, BAKUSHIIIN!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "<i>Jadeo, jadeo...</i> No puede ser.<n>¿Cómo pude...\nperderlo de vista..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Dónde... dónde terminé?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Para cuando Sakura Bakushin O<n>regresa a la\nAcademia Tracen, está<n>completamente agotada."
+    }
+  ]
 }

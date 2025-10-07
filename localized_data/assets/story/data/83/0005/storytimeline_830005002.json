@@ -1,111 +1,113 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "One day, when I stopped \nby the riverbank…"
-        },
-        {
-            "name": "Vodka",
-            "text": "Heh. Are you here to enjoy the \nsunset, too?"
-        },
-        {
-            "name": "TM Opera O",
-            "text": "No, I'm not. I'm here to swear."
-        },
-        {
-            "name": "Vodka",
-            "text": "…A vow?"
-        },
-        {
-            "name": "TM Opera O",
-            "text": "Oh, the sun is about to set."
-        },
-        {
-            "name": "TM Opera O",
-            "text": "Right now, she's very anxious. \nWhat will happen to the world \nafter losing its brilliance?"
-        },
-        {
-            "name": "TM Opera O",
-            "text": "That's why I wanted you to be able \nto relax. With my oath as the \nfuture 'end of the century'."
-        },
-        {
-            "name": "TM Opera O",
-            "text": "Come on, Sun. Rest in peace. \nI'll continue lighting the \nworld for you."
-        },
-        {
-            "name": "Vodka",
-            "text": "………"
-        },
-        {
-            "name": "Vodka",
-            "text": "(Haaaaah?!)"
-        },
-        {
-            "name": "Vodka",
-            "text": "(The Hegemon?! There's no \nway she'd swear on the sun! \nThat can't be…!)"
-        },
-        {
-            "name": "Vodka",
-            "text": "(Isn't she too cool?!)"
-        },
-        {
-            "name": "Vodka",
-            "text": "Y-Yeah… I swear to the \nsun, too, right?"
-        },
-        {
-            "name": "TM Opera O",
-            "text": "Oh? Is that vow more grand than \nthe founding of the undefeated \nking, the Temple of Operaau?"
-        },
-        {
-            "name": "Vodka",
-            "text": "…The temple!? Y-You're \nright! I mean, I…!!"
-        },
-        {
-            "name": "Vodka",
-            "text": "Be a good girl who can't lose no \nmatter how far away she is! With \nthe highest GI record, everyone's \nguts are blown!"
-        },
-        {
-            "name": "Vodka",
-            "text": "Become a legend with the \ngreatest sparkle of all! \nAnd a huge vodka statue!!"
-        },
-        {
-            "name": "Vodka",
-            "text": "I'm going to make history as \nbright as the sun!!"
-        },
-        {
-            "name": "TM Opera O",
-            "text": "………Eckserend!!"
-        },
-        {
-            "name": "TM Opera O",
-            "text": "Vodka, your goal is noble… cool! \nJust as elegant as mine!"
-        },
-        {
-            "name": "Vodka",
-            "text": "…Heh, heheh♪ W-Well? \nLike that? Maybe?"
-        },
-        {
-            "name": "TM Opera O",
-            "text": "Hey, you. Do you still have \ntime? Want to go tell her \nmore about our vows?"
-        },
-        {
-            "name": "Vodka",
-            "text": "…Heh."
-        },
-        {
-            "name": "Vodka",
-            "text": "Opera Au! Of course!"
-        },
-        {
-            "text": "The two of them start running. \nBeyond the riverbank, beyond \nthe sun――!"
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "…Huh? What are those \ntwo doing here?"
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "I came all this way to train \non my own, but I can't concentrate \nat all!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día, mientras deambulo por la<n>orilla del río..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Je, Opera O. ¿Tú también viniste a ver<n>la puesta de sol\n?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "No exactamente. He venido aquí... a hacer un<n>juramento."
+    },
+    {
+      "name": "Vodka",
+      "text": "...¿Un juramento?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Así es. Al mismísimo sol poniente."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Debe sentirse intranquilo. Pues<n>pensar—¿qué sería\nde este mundo<n>sin su gloriosa luz?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Me pareció apropiado que yo fuera quien<n>lo\nconsolara—y diera mi palabra como la<n>ascendente\nSeñora Suprema Centenaria."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ahora, Sol. Puedes descansar en paz. Juro<n>iluminar el mundo en tu lugar."
+    },
+    {
+      "name": "Vodka",
+      "text": "..."
+    },
+    {
+      "name": "Vodka",
+      "text": "(¡¿Qué demonios?!)"
+    },
+    {
+      "name": "Vodka",
+      "text": "(¡¿Y ese título de \"Señora Suprema\"?!<n>¡Es imposible\nque pueda hacer una<n>promesa con el sol! Esto es tan\ndemasiado...)"
+    },
+    {
+      "name": "Vodka",
+      "text": "<i>(¡Demasiado guaaaay!)</i>"
+    },
+    {
+      "name": "Vodka",
+      "text": "Ah, eh... En realidad, ahora que lo mencionas...<n>yo también\nestaba pensando en hacerle un<n>juramento al sol."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Vaya. ¿Podrías prometer algo<n>más grandioso\nque consagrar la conquista<n>operística de la\nSeñora Suprema invicta?"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Cons...agrar? ¡Claro que sí! ¡Por supuesto que puedo!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Mi juramento es convertirme en la estrella de<n>cualquier\ndistancia! Ganar más G1 que<n>nadie jamás, y\nmostrarle al mundo<n>de qué estoy hecha!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Haré que mi legado brille más que<n>todos los\ndemás! ¡Y luego me haré una<n>estatua gigantesca!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Juro que me haré un nombre. ¡Un<n>nombre que\nbrille más que el mismísimo<n>sol!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "<i>...¡Excelente!</i>"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Vodka, tu ambición es indiscutiblemente...<n>¡guay! Me\natrevería a decir que tu estilo<n>rivaliza incluso\ncon mi elegancia."
+    },
+    {
+      "name": "Vodka",
+      "text": "Jejeje. ♪ Bueno, digo, eh... así soy yo,<n>¿sabes?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Oye, ¿tienes tiempo libre? Compartamos<n>todos\nnuestros juramentos con el sol."
+    },
+    {
+      "name": "Vodka",
+      "text": "...Je."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Opera O, sería un honor!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La pareja corre por la orilla del río,<n>persiguiendo el\núltimo destello del sol sobre<n>el horizonte."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Eh, ¿qué les pasa a esas dos?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Vine aquí para entrenar sola,<n>pero ahora no\npuedo concentrarme nada."
+    }
+  ]
 }

@@ -2,95 +2,97 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "Winning Ticket has been waiting her whole life for today. This is her \nchance to accomplish her dream of winning the Derby."
+      "text": "Winning Ticket ha estado esperando toda su<n>vida por hoy. Esta es su\noportunidad de<n>cumplir su sueño de ganar el<n>Derby."
     },
     {
       "name": "Winning Ticket",
-      "text": "<i>Exhale…</i>"
+      "text": "<i>Exhala...</i>"
     },
     {
-      "text": "Hand on her chest, she lets out a deep breath. She slowly opens her \neyes and gazes at the turf at the end of the tunnel."
+      "text": "Con la mano en el pecho, deja escapar un<n>suspiro profundo. Abre\nlentamente los<n>ojos y mira el césped al final del túnel."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Even standing behind her, I can tell she's never been so focused."
+      "text": "Incluso parada detrás de ella, noto que nunca<n>ha estado tan concentrada."
     },
     {
       "name": "Gold Ship",
-      "text": "Yeah, she's normally making a racket screaming our ears off."
+      "text": "Sí, normalmente arma un alboroto<n>gritándonos en los oídos."
     },
     {
       "name": "Rice Shower",
-      "text": "Oooh… Even I'm getting nervous…"
+      "text": "Oooh... Hasta yo me estoy poniendo nerviosa..."
     },
     {
-      "text": "All of Team Sirius is waiting with bated breath as they watch Winning \nTicket's valiant figure from afar. But the stoic competitor breaks the \nsilence."
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "Nnngh! Hrrrgh! It's no good, I'm all itchy!"
+      "text": "Todo el Team Sirius espera conteniendo la<n>respiración mientras observan la\nvaliente<n>figura de Winning Ticket desde lejos. Pero la<n>competidora estoica\nrompe el silencio."
     },
     {
       "name": "Winning Ticket",
-      "text": "I get all tense when I focus! And when I get tense, I get itchy!"
+      "text": "¡Nnngh! ¡Hrrrgh! No sirve, ¡me pica todo!"
     },
     {
-      "text": "That's the Tickezo I know."
+      "name": "Winning Ticket",
+      "text": "¡Me pongo toda tensa cuando me concentro! Y cuando<n>me tensiono, ¡me da comezón!"
     },
     {
-      "text": "That's the Tickezo I know."
+      "name": "<username>",
+      "text": "Esa es la Tickezo que conozco."
+    },
+    {
+      "name": "<username>",
+      "text": "Esa es la Tickezo que conozco."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "If you're really that itchy, we can use our special trick to give you a \ndecent send off."
+      "text": "Si realmente te pica tanto, podemos usar nuestro<n>truco especial para darte una\ndespedida decente."
     },
     {
       "name": "Winning Ticket",
-      "text": "Special trick?"
+      "text": "¿Truco especial?"
     },
     {
-      "text": "Mejiro McQueen gives the signal to the others, and they all raise their \nopen palms up behind Winning Ticket's back."
+      "text": "Mejiro McQueen da la señal a las<n>demás, y todas levantan sus\npalmas<n>abiertas detrás de la espalda de Winning Ticket."
     },
     {
       "name": "Rice Shower",
-      "text": "O-one, two… three!"
+      "text": "U-uno, dos... ¡tres!"
     },
     {
-      "name": "Everyone",
-      "text": "Good luck!"
+      "name": "Todas",
+      "text": "¡Buena suerte!"
     },
     {
-      "text": "<i>Whack!</i>"
+      "text": "<i>¡Golpe!</i>"
     },
     {
-      "text": "All at once, they slap Winning Ticket on the back."
+      "text": "Todas a la vez le dan una palmada a Winning Ticket en<n>la espalda."
     },
     {
       "name": "Winning Ticket",
-      "text": "Hyaaah! That was hard!"
+      "text": "¡Hyaaah! ¡Eso sí que fue fuerte!"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "You're good to go! Now, have the best Derby ever, Ticket!"
+      "text": "¡Estás lista! Ahora, ¡ten el mejor<n>Derby de todos, Ticket!"
     },
     {
       "name": "Winning Ticket",
-      "text": "You know I will! I'm gonna run the race of my life!"
+      "text": "¡Ya sabes que lo haré! ¡Voy a correr la carrera de<n>mi vida!"
     },
     {
       "name": "Winning Ticket",
-      "text": "Until now, the Derby has been something exciting that I aspired to. \nBut this time, I'm actually in it…"
+      "text": "Hasta ahora, el Derby ha sido algo<n>emocionante a lo que aspiraba.\nPero esta vez, estoy<n>realmente en él..."
     },
     {
       "name": "Winning Ticket",
-      "text": "I've got my rivals, my team, and my trainer with me… Now this is <i>my</i>\nDerby!",
+      "text": "Tengo a mis rivales, mi equipo y mi entrenador<n>conmigo... Ahora este es <i>mi</i>\nDerby!",
       "choice_data_list": [
-        "Time to seize your dream!"
+        "¡Es hora de apoderarse de tu sueño!"
       ]
     },
     {
       "name": "Winning Ticket",
-      "text": "Yeah! Just watch me!"
+      "text": "¡Sí! ¡Solo mírame!"
     }
   ]
 }

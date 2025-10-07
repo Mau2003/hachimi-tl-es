@@ -1,186 +1,196 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "I tried to catch up, but I lost sight of her in no time. \nCan't expect to outpace an Umamusume. \nBut I couldn't bring myself to abandon her."
-        },
-        {
-            "text": "Her excitement turned against her, making her incredibly late, \nshe messed up at practice, and despite her best intentions, the \ndrinks and towels she offered were a complete failure...",
-            "choice_data_list": [
-                "(Is she doing all right...?)",
-                "(Is she doing all right...?)"
-            ]
-        },
-        {
-            "text": "I was worried. \nI searched the area around the school for about half an hour――"
-        },
-        {
-            "text": "<i>Huff, huff, huff, huff...!</i>",
-            "name": "Meisho Doto"
-        },
-        {
-            "text": "Next time... I'll run well... \nI'll be more helpful to Opera O-san...",
-            "name": "Meisho Doto"
-        },
-        {
-            "text": "I'll put on a good race at the meet... Then one day, I can also... \n...................! One more lap...!",
-            "name": "Meisho Doto"
-        },
-        {
-            "text": "<i>Taaaaaahhhhhhh!</i>",
-            "name": "Meisho Doto"
-        },
-        {
-            "text": "She wiped off her puffy eyes, and started running along the \nriverbank with all her might――"
-        },
-        {
-            "text": "(THUNK!)"
-        },
-        {
-            "text": "<i>Hweeehhhhhh!?</i>",
-            "name": "Meisho Doto"
-        },
-        {
-            "text": "Falling right into the ditch."
-        },
-        {
-            "text": "That was dangeroush... Thang you for shabing me... shniff...",
-            "name": "Meisho Doto",
-            "choice_data_list": [
-                "Are you alright?"
-            ]
-        },
-        {
-            "text": "I'm okay... I'm used to it... <i>Sigh...</i>",
-            "name": "Meisho Doto"
-        },
-        {
-            "text": "........... \n...........Why... why am I always...",
-            "name": "Meisho Doto"
-        },
-        {
-            "text": "Her clothes were all dirty, and it was already so late. \nI assumed she'd want to call it for the night, and I was about to \nsuggest that she head back to the dorm――"
-        },
-        {
-            "text": "...I have to work harder...! \nOkay. I'm going off on a long-distance run...!",
-            "name": "Meisho Doto",
-            "choice_data_list": [
-                "You're still running!?",
-                "You're still running!?"
-            ]
-        },
-        {
-            "text": "Ah, ah, s-s-sorry...! Am I... causing trouble for you...?",
-            "name": "Meisho Doto",
-            "choice_data_list": [
-                "<size=35>I was thinking more that you're a hard worker.</size>"
-            ]
-        },
-        {
-            "text": "N-no...! I'm not a hard worker, that's not it, I really just, um, \ndon't know when to give up.",
-            "name": "Meisho Doto"
-        },
-        {
-            "text": "Whenever I feel like giving up, I start to remember... \nAnd remembering always makes me drag my useless self back \nup...",
-            "name": "Meisho Doto",
-            "choice_data_list": [
-                "What do you remember?"
-            ]
-        },
-        {
-            "text": "Huh...? Um, well... It's not really much to talk about, but――",
-            "name": "Meisho Doto"
-        },
-        {
-            "text": "This was back when I saw my first GI race... \nAll those shining Umamusume, running such a shining race...",
-            "name": "Meisho Doto"
-        },
-        {
-            "text": "At first I thought a clumsy dope like me could never be part of \ntheir world... I felt like I was totally different from them... \nBut the winner said――",
-            "name": "Meisho Doto"
-        },
-        {
-            "text": "I used to think I couldn't do anything right. I didn't have any \nconfidence in myself. But winning races helped me learn to love \nthat self.",
-            "name": "GI Umamusume"
-        },
-        {
-            "text": "And now, I especially love myself for running, and winning...!",
-            "name": "GI Umamusume"
-        },
-        {
-            "text": "<i>......!</i>",
-            "name": "Little Doto"
-        },
-        {
-            "text": "If I also work really, really hard... \nMaybe I can change, just like she did...",
-            "name": "Little Doto"
-        },
-        {
-            "text": "So, I got caught up in the moment, took Tracen Academy's \nentrance exam... And managed to pass, haha...",
-            "name": "Meisho Doto",
-            "choice_data_list": [
-                "So that's why."
-            ]
-        },
-        {
-            "text": "...I'm a klutz and bad at everything I do, but I just can't give up...",
-            "name": "Meisho Doto"
-        },
-        {
-            "text": "I think, if I keep trying, one day I might be able to change like \nshe did... I might even get to be as confident as Opera O-san.",
-            "name": "Meisho Doto"
-        },
-        {
-            "text": "I can't stop thinking like this, and it keeps me from stopping... \nYou already know I'm clumsy, and now I sound stupid, too, don't \nI...?",
-            "name": "Meisho Doto"
-        },
-        {
-            "text": "She was already negative to begin with, and it looked like that \nnegativity was starting to spiral. But――",
-            "choice_data_list": [
-                "<size=42>...Isn't persistence a strength, though?</size>",
-                "<size=42>...Isn't persistence a strength, though?</size>"
-            ]
-        },
-        {
-            "text": "The fact of the matter was, despite everything she'd been \nthrough, she was still putting in her best effort to prepare for the \nRace Meet."
-        },
-        {
-            "text": "Wh... A, a strength...? \nS-s-sorry, I must have misheard you, right...?",
-            "name": "Meisho Doto",
-            "choice_data_list": [
-                "<size=36>Not knowing when to give up is your strength.</size>",
-                "<size=36>Not knowing when to give up is your strength.</size>"
-            ]
-        },
-        {
-            "text": "<i>I heard you right!?</i>",
-            "name": "Meisho Doto"
-        },
-        {
-            "text": "Uh, d-d-d-do you really think so...? \nNo, I really just- just don't know what to do with myself, really, \nthat's all...",
-            "name": "Meisho Doto",
-            "choice_data_list": [
-                "<size=41>It takes a lot to be as persistent as you.</size>"
-            ]
-        },
-        {
-            "text": "It... does...?",
-            "name": "Meisho Doto"
-        },
-        {
-            "text": "............. \n...Ehehe. I'm happy to hear that...",
-            "name": "Meisho Doto"
-        },
-        {
-            "text": "――So, um, I'm going to, well... I really want to run some more \nbefore heading back...! Good night...!",
-            "name": "Meisho Doto"
-        },
-        {
-            "text": "As I watched her run off, I could see in her, however faint, the \ntraces of a strength that I'd never seen before."
-        },
-        {
-            "text": "Huff... Huff....! ....Okay...!",
-            "name": "Meisho Doto"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Perseguir a una Uma Musume no fue mi<n>mejor idea. La he perdido de<n>vista por completo... Su expresión angustiada sigue vívida en<n>mi mente, mientras continúo mi búsqueda."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su entusiasmo le salió completamente mal<n>hoy. Entre llegar tarde,<n>tropezar durante la carrera y hacer que Opera O tuviera una<n>experiencia cercana a la muerte...",
+      "choice_data_list": [
+        "(Espero que esté bien...)",
+        "(Espero que esté bien...)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Preocupado, busco en los terrenos de la academia.<n>Después de lo que parecen media<n>hora..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "<I>¡Uff, puff, uff, puff!</I>"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Yo... puedo hacerlo mejor... ¡Yo <I>lo haré</I> mejor! ¡Por<n>Opera O!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Tengo que correr correctamente el día de la<n>carrera... E-entonces... quizás<n>algún día yo... ¡U-una vuelta más!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Grrraah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Meisho Doto se seca las lágrimas de sus<n>ojos hinchados y enrojecidos<n>y sale corriendo<n>hacia la ribera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<I>¡Zas!</I>"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡¿Gyaaaah?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Solo para caer en la zanja."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Eso pudo ser grave... Gracias...<n><I>Snif...</I>",
+      "choice_data_list": [
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Sí... Estoy, eh... un poco acostumbrada a caerme a estas<n>alturas... <I>Suspiro...</I>"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "...¿Por qué soy... así?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su ropa está completamente cubierta de<n>lodo, y ya es muy tarde.<n>Justo cuando estoy<n>a punto de pedirle que regrese a casa, Meisho<n>Doto levanta la<n>cabeza."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡Yo... tengo que esforzarme más! ¡Sí! ¡Hora de hacer<n>carrera de larga distancia!",
+      "choice_data_list": [
+        "¡¿Ahora?!",
+        "¡¿Ahora?!"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Eh? ¡Ah, p-p-perdón! ¿Eso es un...<n>problema?",
+      "choice_data_list": [
+        "Solo me sorprende lo trabajadora que eres."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡N-no, para nada! Diría que soy más, eh...<n>terca que trabajadora..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Cada vez que pienso en rendirme, <I>ese</I><n>recuerdo viene a mi cabeza, y<n>empiezo a<n>sentir que quizás... solo quizás... incluso yo<n>pueda—",
+      "choice_data_list": [
+        "¿Qué recuerdo?"
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Eh? Em... No es una historia muy emocionante..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Pasó hace mucho tiempo, cuando fui<n>a ver mi primera carrera G1...<n>Las corredoras, el<n>público, la carrera misma era tan...<n>mágica."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Al principio, pensé que todo era un mundo<n>completamente diferente...<n>Uno en el que alguien como<n>yo nunca podría existir... Eso fue, hasta que<n>escuché el discurso de la<n>ganadora."
+    },
+    {
+      "name": "Uma Musume G1",
+      "text": "Solía no tener confianza en mí misma.<n>Realmente creía que no podía<n>hacer nada bien...<n>Pero al empezar a ganar carreras, comencé a<n>verme bajo una nueva<n>luz."
+    },
+    {
+      "name": "Uma Musume G1",
+      "text": "Ahora, tras ganar una carrera tan increíble,<n>¡puedo decir sinceramente que me<n>amo a mí misma!"
+    },
+    {
+      "name": "Meisho Doto Joven",
+      "text": "...!"
+    },
+    {
+      "name": "Meisho Doto Joven",
+      "text": "¿Qui... Quiere decir que si me esfuerzo<n>lo suficiente, yo también puedo<n>cambiar?"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Después de eso, me emocioné y solicité<n>ingresar a la Academia Tracen... Y<n>de alguna manera entré.<n>Ajaja...",
+      "choice_data_list": [
+        "Vaya historia."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Sí... S-sé que soy torpe, y nada me<n>sale bien... Pero aún así me<n>cuesta saber cuándo es momento de<n>rendirme..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Sigo esperando que si sigo intentándolo,<n>algún día seré como esa corredora G1 de<n>entonces... o quizás incluso una<n>Uma Musume majestuosa como Opera O..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "Y antes de darme cuenta, se volvió aún<n>más difícil rendirse... Así que no solo<n>soy torpe, sino también estúpida..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Meisho Doto ya es dura consigo misma por<n>defecto, pero hoy está aún<n>peor. Es<n>claro que se ve de manera negativa,<n>pero...",
+      "choice_data_list": [
+        "¿No rendirse no es algo bueno?",
+        "¿No rendirse no es algo bueno?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hoy fue un desastre indiscutible, pero<n>incluso así, está aquí afuera<n>preparándose para el Encuentro Tracen.<n>Para mí, eso requiere verdadera determinación."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¿Eh? ¿A-algo bueno? L-lo siento, debí<n>haberte oído mal...",
+      "choice_data_list": [
+        "Creo que la tenacidad es uno de tus puntos fuertes.",
+        "Creo que la tenacidad es uno de tus puntos fuertes."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "¡¿No te oí mal?!"
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "E-em... ¿E-estás segur@ de eso?<n>Quiero decir... todo lo que hago es<n>avanzar con dificultad,<n>sin saber cuándo rendirme...",
+      "choice_data_list": [
+        "No todos pueden hacer eso, sabes."
+      ]
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "N-no estoy tan segura de eso..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "...Ejeje, me alegra que pienses eso, aunque..."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "E-en fin, yo, eem... ¡creo que voy a<n>correr un poco más antes de<n>volver al dormitorio! ¡Q-que tengas una buena noche!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras Meisho Doto corre hacia la distancia,<n>puedo sentir una fuerza tenue<n>viniendo de ella<n>como nada que haya sentido antes."
+    },
+    {
+      "name": "Meisho Doto",
+      "text": "<I>Uff... Uff...</I> ¡Allá voy!"
+    }
+  ]
 }

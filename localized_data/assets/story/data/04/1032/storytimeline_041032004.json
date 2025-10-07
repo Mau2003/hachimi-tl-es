@@ -1,253 +1,269 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Symboli Rudolf",
-            "text": "So, Agnes Tachyon… are you prepared?"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Just say the word, Ms. President."
-        },
-        {
-            "text": "Agnes Tachyon. The culmination of generations of the finest \nbreeding and training. She may be rebellious, but there's no \ndenying her pure speed."
-        },
-        {
-            "text": "Against Symboli Rudolph. The emperor. An extraordinary talent, \nthe pinnacle of the academy's hierarchy."
-        },
-        {
-            "text": "I was about to witness a clash between two unstoppable forces. \nFrom the moment they exploded from the start line, the \natmosphere was transformed, the air crackling with electricity."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Hah, haa…!"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Heh… They don't call her the Emperor for nothing…"
-        },
-        {
-            "text": "Neither held back an ounce of strength, but Symboli \nRudolph opened an early gap, a gap which stretched, \ninexorably, inch by inch…"
-        },
-        {
-            "text": "Until… at the top of the home straight, \nTachyon made her move…"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "(The existence of particles that can move faster \nthan light without violating special relativity \nhas yet to be conclusively disproven…)"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "(And while conventional wisdom says that the physiological limit \nto a horsegirl's speed is about 70 km/h… it has never been \nconclusively proven that we too cannot go even faster!)"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "(Can't you see? The potential! In these legs…! In this \nbody…! They overflow with possibilities yet unknown!!)"
-        },
-        {
-            "text": "At that moment, something changed in Agnes Tachyon's eyes…"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Kuh…!?"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Faster… faster…!! FASTER!!!"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "The untapped power that sleeps in the horsegirl \nbody… The true outer limits of speed…!"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "We have yet to see the barest shadow of what \nlies beyond the veil of our understanding!"
-        },
-        {
-            "text": "Her eyes radiated the innocence of a young girl, yet also the \nmadness of an infernal being possessed by its desires—"
-        },
-        {
-            "text": "A sight so enchanting my breath ceased for a moment."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Haa… heh… fuu…!!"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "I'm exhausted! Really, you gave me \nquite a workout, Agnes Tachyon!"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Heh… really, you're too kind. After all, you won in the end."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Only by a nose… if that. The things you could be capable of…"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "To think we're going to have to let you go. It'll be a terrible \nloss. I suppose you still have your heart set on leaving?"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Ms. President, surely you're not trying to appeal to my sense of \nloyalty to the academy? If so, then I'm afraid you're wasting \nyour time. My mind is quite made up."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "I see… And I suppose there's no point in asking \nthe opinion of your friend here…?"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "I see… And I suppose there's no point in asking \nthe opinion of your friend here…?"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Hm? Him…?"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Hm? Her…?"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "…heh.",
-            "choice_data_list": [
-                "Agnes Tachyon…"
-            ]
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Ah… you. What's that face for?"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "You're looking a little… off-color…"
-        },
-        {
-            "text": "I couldn't stop thinking about the performance I'd just seen…"
-        },
-        {
-            "text": "And if she was right, about the \"untapped power of the Uma \nMusume body\"… that would mean she could go faster still…"
-        },
-        {
-            "text": "Faster… faster!!!",
-            "choice_data_list": [
-                "(I want to see it… I too want to see \nwhat lies beyond our understanding!)",
-                "(I want to see it… I too want to see \nwhat lies beyond our understanding!)"
-            ]
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Hey! Idiot! What are you gawping at?"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Oh, please. You're not going to ask to be my trainer \nor something are you? Give me a break. I have no \nintention of delaying my work any further."
-        },
-        {
-            "text": "Of course, Agnes Tachyon wasn't looking for a trainer. For her, \ntraining is nothing more than one element of her research."
-        },
-        {
-            "text": "But if that's the case…",
-            "choice_data_list": [
-                "Do you still have that serum from before?",
-                "Do you still have that serum from before?"
-            ]
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "What are you going on about? Yes, but…"
-        },
-        {
-            "text": "She pulled out three vials of mysterious liquid, each a more \ntroubling color than the last. I grabbed them and…"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "H… hey! What are you…"
-        },
-        {
-            "text": "And downed all three!"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Well I'll be…"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Well how do you like that! Haaahahaha!"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "I've never seen anyone so eager to subject themselves \nto testing! You truly are a born guinea pig!",
-            "choice_data_list": [
-                "That's fine by me!"
-            ]
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "—Hmm?"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "You do say some amusing things, don't you? Are \nyou sure you want to be my lab rat? To relinquish \nyour human rights in the name of science?"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Tell me, what has brought on this sudden change of heart?",
-            "choice_data_list": [
-                "I want to see it too. I want to see what lies \nbeyond the veil of our understanding!",
-                "I want to see it too. I want to see what lies \nbeyond the veil of our understanding!"
-            ]
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Hmmmmmmmmm…",
-            "choice_data_list": [
-                "Let me be your trainer!",
-                "Let me be your trainer!"
-            ]
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "I've heard those words before… but not quite like this…"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Then it's decided! Come with me.",
-            "choice_data_list": [
-                "Where to…?"
-            ]
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Do try to keep up. To the staff room, of course! \nNow that I have my trainer, we can put an end \nto this talk of leaving the academy…",
-            "choice_data_list": [
-                "So… I can be your trainer?!",
-                "So… I can be your trainer?!"
-            ]
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Your position will be that of \"guinea pig\"… or maybe a step \nbelow that… If you're happy with that, then come with me."
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Come with me… and I will show you things \nnone have dared to dream possible…"
-        },
-        {
-            "text": "And so began our research…!"
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Hmmm… hold on. We should probably wait for your \nsymptoms to subside first. Better to avoid any unnecessary \nconfusion and misunderstanding.",
-            "choice_data_list": [
-                "Huh?"
-            ]
-        },
-        {
-            "name": "Agnes Tachyon",
-            "text": "Haven't you noticed? You're luminescing! A beautiful lime green!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Symboli Rudolf",
+      "text": "Bien entonces. ¿Están completas tus<n>preparaciones, Agnes Tachyon?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Estoy lista cuando tú lo estés, Presidenta."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Agnes Tachyon es la joya de un linaje<n>distinguido, con talento tan grande que<n>otros pasaron por alto su comportamiento<n>normalmente ausente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y se enfrenta a Symboli Rudolf—la<n>Emperatriz que reina sobre la Academia<n>Tracen con su abrumadora destreza."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y aquí estoy yo, un testigo inesperado de<n>esta lucha entre titanes—¡la intensidad de<n>esta carrera me está dando piel de gallina!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "<i>Jadeo, jadeo...</i>"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "<i>Jadeo...</i> ¡Eres la Emperatriz, claro que sí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las dos van parejas, pero Symboli Rudolf<n>parece tener la ventaja."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Y ahora entran a la recta final!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "(La existencia de partículas virtuales que<n>viajan más rápido que la luz sin<n>contradecir la relatividad especial aún no ha<n>sido refutada.)"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "(La velocidad máxima de una Umamusume<n>está teorizada en unos setenta kilómetros<n>por hora, pero no hay datos que rechacen<n>la posibilidad de superar eso!)"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "(¿Entiendes? ¡Se trata de potencial! Mi<n>cuerpo—y mis piernas—están<n>rebosantes de potencial!)"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La expresión de Agnes Tachyon cambia<n>abruptamente."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¡Hgh?!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Más rápido! ¡Más rápido! ¡Más rápido!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡El potencial latente dentro de las piernas<n>de una Umamusume! ¡Los límites de la<n>velocidad de este cuerpo!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Aún no he vislumbrado ninguno, porque<n>sé que yacen más allá del horizonte!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus ojos brillan como los de una niña<n>inocente... o quizás una científica<n>enloquecida ahogándose en su propio deseo—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su pasión me quita el aliento."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "<i>¡Jadeo... Jadeo, jadeo!</i>"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¡Estoy agotada! ¡Absolutamente increíble,<n>Agnes Tachyon!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Je-je, qué amable de tu parte. Aunque<n>tú eres la victoriosa."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Solo por una nariz—No, terminamos<n>esencialmente al mismo tiempo. Eres una<n>adversaria formidable."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Por eso dejarte ir sería una pérdida<n>demasiado grande. ¿Has cambiado de<n>opinión? ¿Quizás incluso un poco?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Fue esta carrera tu intento de hacerme<n>sentir nostalgia por esta academia? Si es así,<n>lamento informarte—ya tomé mi decisión."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ya veo... Entonces, ¿qué tal después de<n>escuchar su historia?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ya veo... Entonces, ¿qué tal después de<n>escuchar su historia?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Hm? ¿La historia de quién?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Hm? ¿La historia de quién?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Je.",
+      "choice_data_list": [
+        "Agnes Tachyon..."
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...Hm? ¿Por qué esa mirada en tu rostro?"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Cómo decirlo—te ves bastante apasionado.<n>¿Quizás incluso impulsado a la locura?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No puedo dejar de pensar en cómo Agnes<n>Tachyon corrió en esa carrera hace un momento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y aún así dijo que sus límites yacen \"más<n>allá del horizonte\". Lo cual significa—<n>Agnes Tachyon aún puede correr mucho,<n>mucho más rápido."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Más rápido! ¡Más rápido! ¡Más rápido!",
+      "choice_data_list": [
+        "(¡Quiero verlo... quiero ver ese futuro!)",
+        "(¡Quiero verlo... quiero ver ese futuro!)"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Oye, no me tomes el pelo!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Quieres reclutarme, ¿verdad? Bueno,<n>déjalo—no necesito más retrasos para<n>mi investigación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eso es, Agnes Tachyon no busca un<n>entrenador <i>normal</i>. Para ella, incluso el<n>entrenamiento diario es solo otra faceta de<n>su investigación. En ese caso..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Eureka, lo tengo!",
+      "choice_data_list": [
+        "¿Tienes algo de esa medicina contigo?",
+        "¿Tienes algo de esa medicina contigo?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Sí, pero ¿qué te importa?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Agarro las medicinas de color sospechoso<n>directamente de la mano extendida de Agnes<n>Tachyon..."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿Eh? Espera, ¡¿qué?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Y me las tomo todas de un trago!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...Estoy conmocionada."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Me atrevo a decir, incluso impresionada. Ja...<n>¡JA! ¡JAJAJAJAJAJAJA!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¡Nunca había visto un sujeto de prueba tan<n>dispuesto! ¡¿Eras un conejillo de indias en<n>tu vida pasada?!",
+      "choice_data_list": [
+        "¡Soy <i>tu</i> conejillo de indias!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "<i>¿Oh?</i>"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Ciertamente dices cosas encantadoras.<n>¿Estás de acuerdo con ser mi sujeto de<n>prueba? ¿Estás de acuerdo con que te<n>despoje de tus derechos humanos? ¡Je-je-je!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...¿Qué causó este cambio de opinión?",
+      "choice_data_list": [
+        "Yo también quiero ver qué hay más allá de tus<n>límites.",
+        "Yo también quiero ver qué hay más allá de tus<n>límites."
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Mmmm...",
+      "choice_data_list": [
+        "¡Déjame ser tu entrenador!",
+        "¡Déjame ser tu entrenador!"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Y ahí está. Verdaderamente impulsado a la<n>locura, ¿eh? ¡Je-je-je!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Muy bien. Sígueme.",
+      "choice_data_list": [
+        "¿Adónde?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Lento para captar, ¿verdad? A la sala de<n>personal, por supuesto. No puedo abandonar si<n>tengo un entrenador contando conmigo, ¿o sí?",
+      "choice_data_list": [
+        "¿Entonces aceptas mi oferta de reclutamiento?",
+        "¿Entonces aceptas mi oferta de reclutamiento?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Je-je, serás mi conejillo de<n>indias—quizás incluso peor que eso. Pero si<n>estás de acuerdo, entonces ven conmigo."
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "Te mostraré qué hay más allá de nuestros<n>límites—lo que nadie ha visto aún."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Y así, comienzan mis días de ser<n>experimentado por Agnes Tachyon!"
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "...Hm, en realidad, esperemos un segundo. Al<n>menos hasta que los efectos secundarios<n>desaparezcan. Sería una molestia si<n>causaras confusión o caos innecesarios.",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Agnes Tachyon",
+      "text": "¿No te has dado cuenta? Estás brillando.<n>Verde dorado, por añadir más."
+    }
+  ]
 }

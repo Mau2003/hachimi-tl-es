@@ -1,217 +1,230 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Today is a [Selection Race]. A full-scale event for Uma Musume \nthat will heavily influence their future prospects."
-        },
-        {
-            "text": "Gathered on the course were several up-and-coming \nUma Musume, all were the same in that they were fired \nup, aiming for their debut… However-"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Wooow, there are alot of people here! \nIt's almost like we're having a party~!!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Since we have so many people here, \nafter the race how about we all have a barbeque?!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Hey! How about you?"
-        },
-        {
-            "name": "Timid-looking Horsegirl",
-            "text": "Eh?! M-me…? I'll have to decline…?"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Oh, is that so? Too bad, so sad, \nmaybe next time then."
-        },
-        {
-            "text": "-There was an Uma Musume who stood out, in a different way."
-        },
-        {
-            "name": "Veteran Trainer A",
-            "text": "Taiki Shuttle, is it?… She's got talent but, \nthat way she can't seem to stand still is concerning."
-        },
-        {
-            "name": "Experienced Trainer A",
-            "text": "It seems that in mock races, \nshe's had a lot of failed starts. How will she do today…?"
-        },
-        {
-            "text": "And so the race began, \nthe center of attention, Taiki Shuttle was-"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Yahoooooooo!!"
-        },
-        {
-            "name": "Commentator",
-            "text": "Here comes Taiki Shuttle!! \nShe's so fast, what fearsome speed!!"
-        },
-        {
-            "text": "That dash strength she showed out of the gate \nwas definitely eye-catching. But-"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Haa haa haa… Oh?"
-        },
-        {
-            "name": "Commentator",
-            "text": "What's this?! Taiki Shuttle is starting to slow down!! \nShe keeps getting passed by the others~!!"
-        },
-        {
-            "name": "Experienced Trainer A",
-            "text": "Eeh?! Wait, where's she looking now?!"
-        },
-        {
-            "name": "Veteran Trainer A",
-            "text": "Hmmm, it definitely seems like her concentration is a problem…"
-        },
-        {
-            "text": "In the end, Taiki Shuttle only got \nmoderate results after the race."
-        },
-        {
-            "text": "After the mock race was over, \nwhile I was walking down the road…"
-        },
-        {
-            "name": "Timid-looking Horsegirl",
-            "text": "Uuu… my head is spinning…",
-            "choice_data_list": [
-                "(Wasn't she in the race with Taiki…?)"
-            ]
-        },
-        {
-            "name": "Timid-looking Horsegirl",
-            "text": "Kyaa…!"
-        },
-        {
-            "text": "It looked like she was in bad shape, she stumbled \nand looked like she was about to collapse. In a \npanic, I was about to run up to her when-"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "-Daaaaaaaash!!"
-        },
-        {
-            "text": "In that instant, someone came dashing past me…!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "-And Caaaaaaatch!!"
-        },
-        {
-            "name": "Timid-looking Horsegirl",
-            "text": "Eh…?"
-        },
-        {
-            "text": "Like a gust of win, with startling speed Taiki Shuttle ran up \nbeside her, and splendidly caught her in her arms…!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Good! Looks like I made it in time!"
-        },
-        {
-            "name": "Timid-looking Horsegirl",
-            "text": "Ehh, eh, eh? Taiki Shuttle-san…?"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "You didn't look too good during the race either. \nPushing yourself too hard is a no no! Don't do it!"
-        },
-        {
-            "name": "Timid-looking Horsegirl",
-            "text": "Y-you noticed…?"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Yes, of course!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Alright, let's get you to the infirmary! \nMake sure you hold on tight!"
-        },
-        {
-            "name": "Timid-looking Horsegirl",
-            "text": "Huh…?"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Okay!…it's an emergency! \nComing throuuuuuuuugh!"
-        },
-        {
-            "name": "Timid-looking Horsegirl",
-            "text": "Hyaaaaaaaaa-?!"
-        },
-        {
-            "text": "Once again, she took off with amazing speed! With speed like that \nit's hard to believe she's carrying another Uma Musume…!"
-        },
-        {
-            "text": "I was really curious, so without thinking I followed after them-"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "It's good that it wasn't anything to worry about! \nMake sure to take care~!"
-        },
-        {
-            "name": "Timid-looking Horsegirl",
-            "text": "Yeah! Thank you Taiki-san, see you later…!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "See you~!!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Fufuu, getting to see her happy smile was a good thing! \nAs I thought, it's best when everyone is happy!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "-Oh?! \nYou, since when have you…?",
-            "choice_data_list": [
-                "I was just curious about you",
-                "I was just curious about you"
-            ]
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "About me…? \nOh, that badge on your collar…!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Are you perhaps… scouting!? \nScouting me?!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Yahoooooooo!! Okay okay, \nof course it's okay!! I'm so happy~~~~~!!!",
-            "choice_data_list": [
-                "Ehh, wait a-"
-            ]
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "I need to go write my family a letter! \nMy friends too!!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "That's right, we should throw a party too!! \nOf course, Trainer-san should come too!!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "The barbeque I make is a masterpiece, you know~!",
-            "choice_data_list": [
-                "No, like I said-"
-            ]
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "We can work out the details tomorrow! Besides, \nfrom now on we're always going to be together during training!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Well then Trainer-san, see you tomorrow!! \nI look forward to working with you!!"
-        },
-        {
-            "text": "And like that, Taiki Shuttle \ntook off like a storm…"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy son las pruebas—un evento importante para<n>determinar el futuro de los estudiantes de<n>Tracen listos para llevar su juego al<n>siguiente nivel."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ansiosas promesas se han reunido en<n>la pista, esperando destacarse entre<n>la multitud y hacer su debut formal."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Vaya, mira esta multitud! ¡Es como una fiesta!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Ya que todos están aquí, ¡quizá deberíamos<n>hacer una barbacoa después de la<n>carrera!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿Y tú, compañero? ¿Te apuntas?"
+    },
+    {
+      "name": "Umamusume Tímida",
+      "text": "¿Eh? Um... Creo que tendré que pasar..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Aww, ¿en serio? Qué lástima. Quizá la<n>próxima semana entonces."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Entre ellas, una Umamusume en particular<n>destaca de manera diferente."
+    },
+    {
+      "name": "Entrenador Veterano A",
+      "text": "Taiki Shuttle... El talento definitivamente<n>está ahí, pero podría ejercitar un poco<n>más de autocontrol."
+    },
+    {
+      "name": "Entrenador Hábil A",
+      "text": "Suele estropear sus salidas, incluso en<n>ensayos. Me pregunto cómo le irá<n>hoy?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por fin, la carrera comienza con todos los<n>ojos puestos en Taiki Shuttle."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Yeehaaaaaw!"
+    },
+    {
+      "name": "Comentarista",
+      "text": "¡Y aquí viene Taiki Shuttle! ¡Miren cómo<n>va! ¡Esa es una velocidad increíble,<n>amigos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su sprint inicial es ciertamente un espectáculo.<n>Sin embargo..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "<i>Jadeo, jadeo...</i> ¿Eh?"
+    },
+    {
+      "name": "Comentarista",
+      "text": "Oh, ¿qué es esto? ¡Taiki Shuttle parece<n>estar perdiendo fuerza! ¡Se está quedando<n>atrás lentamente en la recta final!"
+    },
+    {
+      "name": "Entrenador Hábil A",
+      "text": "¡¿Qué?! ¡De todos los momentos para distraerse!<n>¿En qué está pensando?"
+    },
+    {
+      "name": "Entrenador Veterano A",
+      "text": "Hmm, parece que su falta de concentración es<n>lo principal que la está frenando."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al final, no logra una posición satisfactoria<n>en las clasificaciones."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al salir del lugar, veo una figura<n>tambaleándose por el rabillo del ojo."
+    },
+    {
+      "name": "Umamusume Tímida",
+      "text": "Urgh... Mi cabeza da vueltas...",
+      "choice_data_list": [
+        "(¿No estaba compitiendo contra Taiki?)"
+      ]
+    },
+    {
+      "name": "Umamusume Tímida",
+      "text": "¡Eek!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aparentemente indispuesta, tropieza y<n>empieza a caer. Pero justo cuando intento<n>correr hacia allí..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Daaash!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una mancha inmediatamente pasa volando junto a mí."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Y atrapaaar!"
+    },
+    {
+      "name": "Umamusume Tímida",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con una velocidad impresionante, Taiki vuela<n>como una ráfaga de viento para hacer un<n>rescate espectacular."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Bien! ¡Justo a tiempo!"
+    },
+    {
+      "name": "Umamusume Tímida",
+      "text": "E-espera, ¿qué? ¿Taiki Shuttle?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Pensé que parecías un poco indispuesta<n>antes! ¡No es bueno esforzarse<n>demasiado!"
+    },
+    {
+      "name": "Umamusume Tímida",
+      "text": "¿T-te diste cuenta?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Sí, por supuesto que sí!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Ahora, mejor te llevamos a la enfermería.<n>Aquí—sube y agárrate fuerte,<n>¿vale?"
+    },
+    {
+      "name": "Umamusume Tímida",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Bien, aquí vamos! ¡Abran paso, todos!<n>¡Emergencia médica, pasando!"
+    },
+    {
+      "name": "Umamusume Tímida",
+      "text": "¡Aaahh!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Taiki vuelve a correr a un ritmo tan<n>tremendo que es difícil creer que<n>lleve a alguien en su espalda!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Lleno de una mezcla de curiosidad y<n>preocupación, los sigo."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Me alegro tanto de que no sea nada serio!<n>¡Cuídate ahora, ¿oyes?!"
+    },
+    {
+      "name": "Umamusume Tímida",
+      "text": "¡Lo haré! ¡Gracias, Taiki! ¡Nos vemos luego!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Nos vemos!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Jeje, ¡estoy tan feliz de verla sonreír!<n>¡La vida es buena cuando todos son felices!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "...¡Oh! ¿Cuánto tiempo llevas ahí?",
+      "choice_data_list": [
+        "Realmente eres interesante.",
+        "Realmente eres interesante."
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿Yo? Espera, esa insignia en tu cuello..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "No me digas... ¡¿Me están reclutando?!<n>¡Eso tiene que ser!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Yeehaaaaaw! Sí, sí, mil veces<n>¡sí! ¡Estoy tan feliz!",
+      "choice_data_list": [
+        "Espera, no dije nada acer—"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Tengo que enviar una carta a mi familia!<n>¡Y a todos mis amigos en casa también!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Ooh, ¡y esto merece una fiesta!<n>¡Tú también estás invitado, por supuesto!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Siempre puedes contar con buena comida<n>en una de <i>mis</i> barbacoas!",
+      "choice_data_list": [
+        "Espera, déjame termi—"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Aclararemos todos los detalles<n>mañana! ¡Seremos compañeros de<n>entrenamiento de ahora en adelante, después de<n>todo!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Bueno, ¡nos vemos mañana, Entrenador!<n>¡No puedo esperar para empezar esto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con un último alegre movimiento de su mano,<n>Taiki sale volando como un torbellino."
+    }
+  ]
 }

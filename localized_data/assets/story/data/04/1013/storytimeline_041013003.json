@@ -1,231 +1,243 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Mejiro McQueen",
-            "text": "<i>Ha… ha…</i> \nThis… this is not enough training…!"
-        },
-        {
-            "text": "When I went to check up on Mejiro Mcqueen, I saw \nthat she was still training intensively as usual."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "As a horsegirl bearing the proud Mejiro name, \nI cannot allow any more room for failure!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "This is not the time to be struggling \nwith mustering strength into my legs…!!"
-        },
-        {
-            "text": "I'm worried about her pushing herself so hard. \nIs she going to be okay…?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "……H-huh? My body feels… weak…"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Ah…!!"
-        },
-        {
-            "text": "Just when I thought I saw Mejiro Mcqueen staggering \nfor a moment, she collapsed onto the ground!",
-            "choice_data_list": [
-                "McQueen! Are you okay?!",
-                "McQueen! Are you okay?!"
-            ]
-        },
-        {
-            "text": "Examination revealed that she had minor anemia."
-        },
-        {
-            "text": "The doctor said it could be due to a nutritional deficiency. \nPerhaps she is not eating properly……?"
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "McQueen! I heard you fell down, are you oka―",
-            "choice_data_list": [
-                "Shh!"
-            ]
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "Ah, I'm s-sorry!"
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "Um… hello. My name is Mejiro Ryan."
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "Are you McQueen's trainer?",
-            "choice_data_list": [
-                "I'm not officially in charge yet, though.",
-                "I'm not officially in charge yet, though."
-            ]
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "I see… But, I can see that you're looking out \nfor McQueen. I am very grateful for that."
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "By the way, did you find out what \ncould have caused her to collapse?"
-        },
-        {
-            "text": "I spoke to Mejiro Ryan about the diagnosis."
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "Anemia due to nutritional deficiencies, I see…"
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "I did have a feeling that she was pushing herself too hard \nbecause of the upcoming Selection Race… I should have \nspoken to her earlier…",
-            "choice_data_list": [
-                "You've been worried about McQueen \nall this time, haven't you?",
-                "You've been worried about McQueen \nall this time, haven't you?"
-            ]
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "That's right. But in the end, I couldn't do anything to help…"
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "As you may have guessed from my name, I'm more or less \na Mejiro horsegirl. Ah, but we are not sisters, though."
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "Because of that, McQueen and I have \nknown each other since we were kids."
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "This girl… she has an excessive sense of responsibility. \nOr rather, it's more like she's too hard on herself."
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "… Even though Mcqueen is doing perfectly \nfine, without needing to do all that."
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "… Oh no! I have to go now…!"
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "Sorry, Trainer. Please excuse me!"
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "Um… about Mcqueen, I leave her in your care."
-        },
-        {
-            "text": "Leaving those words behind, Mejiro Ryan \nhurriedly departed from the scene……"
-        },
-        {
-            "text": "After a while, Mejiro Mcqueen regained consciousness."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Is that what happened…? \nSo during training, I collapsed……"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I deeply apologize for causing so much trouble, Trainer."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "But I'm perfectly fine now! I will resume training immediately―"
-        },
-        {
-            "text": "(Grrrrmble…)"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Ah…!?",
-            "choice_data_list": [
-                "Have you been eating properly…?",
-                "Have you been eating properly…?"
-            ]
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "W-why of course! As a proud Mejiro horsegirl, all aspects \nof my daily life, including my diet, are meticulously organized!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "However, considering the Selection Race is coming up, \nI had implemented some minor dietary restrictions…"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I only collapsed because I wasn't ready! I simply haven't \nbeen training hard enough every day!",
-            "choice_data_list": [
-                "Could I see your meal plan?",
-                "Could I see your meal plan?"
-            ]
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Huh…? Yes, that's fine with me…"
-        },
-        {
-            "text": "I looked through Mejiro Mcqueen's meal plan."
-        },
-        {
-            "text": "Certainly, she is getting the minimum required nutrients, \nbut is this really enough? It's possible this is why she is \nstruggling with mustering strength into her legs…"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "… How did you find the menu plan? \nI do believe there's nothing wrong with it…",
-            "choice_data_list": [
-                "Isn't this meal plan a little too restrictive?",
-                "Isn't this meal plan a little too restrictive?"
-            ]
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Ah, t-that's……"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Since you're so concerned about it, it \nwould be insincere of me to hide it…"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Okay, I will tell you. There is a reason… for that limitation.",
-            "choice_data_list": [
-                "What's the reason?"
-            ]
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "It's about my… constitution, so to speak…"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "It kind of… gets overweight, just a little bit!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Even with an ordinary diet, I quickly put on weight."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I can't afford to show up to the Selection Race looking so \nundisciplined when I'm representing the Mejiro family!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "And that's why I was implementing dietary restrictions―"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "… But I concur collapsing would defeat the purpose. \nI will think of a countermeasure to put in place."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Please excuse me, I must take my leave now. Again, I am truly \nsorry for any inconvenience that I may have caused today."
-        },
-        {
-            "text": "And with that, Mejiro McQueen quickly left the scene."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mejiro McQueen",
+      "text": "<i>Jadeo... jadeo...</i>\n¡Necesito... entrenar más!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Revisando a Mejiro McQueen, veo<n>que se está esforzando<n>especialmente hoy."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "No puedo permitirme deshonrar más el<n>nombre Mejiro."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "\"¿Me resulta difícil canalizar fuerza en<n>mis piernas?\" ¡No lo creo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece estar incredibly nerviosa por<n>algo, y ciertamente está<n>afectando su<n>habilidad para correr."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Q-qué es esto? Todo mi cuerpo está..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Ah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su cuerpo se tambalea un poco antes de<n>desplomarse en el suelo.",
+      "choice_data_list": [
+        "¡McQueen! ¿Estás bien?",
+        "¡McQueen! ¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de un examen en la enfermería de<n>la Academia, parece que<n>sufre de un caso<n>leve de anemia."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La causa principal parece ser una falta de<n>ingesta nutricional. ¿En<n>realidad está<n>comiendo adecuadamente?"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡McQueen! Escuché que te desmayaste. ¿Estás<n>bien—",
+      "choice_data_list": [
+        "Shh."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Oh, eh... ¡Perdón!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Um, hola. Soy Mejiro Ryan."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Eres el entrenador de McQueen?",
+      "choice_data_list": [
+        "Todavía no oficialmente, no.",
+        "Todavía no oficialmente, no."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Ya veo... pero aún así te tomaste la<n>molestia de ayudarla, ¿verdad?<n>Gracias."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¿Sabes por qué terminó<n>desplomándose allá afuera?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le cuento todo a Mejiro Ryan lo que<n>escuché del personal de la<n>enfermería."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Anemia causada por falta de nutrientes... Ya<n>veo."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Pensé que algo andaba mal antes de su<n>carrera de prueba. Realmente<n>debería haberle<n>hablado...",
+      "choice_data_list": [
+        "Parece que la estabas vigilando.",
+        "Parece que la estabas vigilando."
+      ]
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Sí. Pero no pude hacer nada por<n>ella..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Probablemente ya lo haya deducido,<n>pero también soy miembro de la<n>familia Mejiro.<n>No somos hermanas, pero..."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "McQueen y yo crecimos juntas en la<n>propiedad."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Siempre se ha tomado sus objetivos futuros<n>muy en serio; hasta el punto\nen que creo<n>que a veces se exige demasiado."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Ojalá se diera cuenta de que es perfecta tal<n>y como es."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Ay, cielos! ¡Tengo que irme!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Disculpa por irrumpir. ¡Con permiso!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "Y, eh... ¡por favor, cuida de McQueen!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Encomendándome a su familia, Mejiro Ryan<n>sale apresuradamente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Poco después, Mejiro McQueen despierta."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Así que eso fue lo que pasó... Perder<n>el conocimiento en medio del\nentrenamiento..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Lamento mucho haberte causado tantas<n>molestias, Entrenador."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Ya me siento perfectamente bien! Debería<n>volver a entrena—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Gluu...</i>"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Ay!",
+      "choice_data_list": [
+        "¿Estás comiendo bien?",
+        "¿Estás comiendo bien?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡P-por supuesto que sí! Una Mejiro siempre<n>tiene su día planeado a la\nperfección,<n>¡y eso incluye consumir tres<n>comidas nutritivas!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Aunque con las pruebas, quizá haya<n>reducido la cantidad que como\ndurante esas<n>comidas..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Mi desmayo no tuvo nada que ver con mis<n>hábitos alimenticios! ¡Simplemente\nno me he<n>estado esforzando lo suficiente en el<n>entrenamiento!",
+      "choice_data_list": [
+        "¿Puedes mostrarme tu plan de alimentación?",
+        "¿Puedes mostrarme tu plan de alimentación?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Qué? Eh, supongo que está bien..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "McQueen pasa sus apuntes de alimentación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si realmente sigue este plan, entonces<n>solo está obteniendo lo\nmínimo<n>indispensable en nutrición. Esta podría ser<n>la razón por la que\ntiene problemas de<n>fuerza."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Y bien? Como dije, esto debería ser más<n>que suficiente.",
+      "choice_data_list": [
+        "Creo que quizá es un poco restrictivo.",
+        "Creo que quizá es un poco restrictivo."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Q-qué? ¿En serio?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Supongo que no debería ocultarte<n>nada, considerando todo lo que\nhas<n>hecho por mí..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Muy bien. La verdad es que tengo una<n>buena razón para seguir este\nplan.",
+      "choice_data_list": [
+        "¿Y cuál sería?"
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Es que... Verás..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Tengo tendencia a subir de peso fácilmente."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Incluso puede pasar solo por seguir un<n>plan alimenticio normal."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡No podría permitir que nadie vea una<n>barriga flácida de Mejiro en las\npruebas!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Por eso pensé que era mejor limitarme..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Pero al final, tenía mis prioridades al<n>revés."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Parece que tengo que reflexionar. Me<n>disculpo de nuevo por todas las\nmolestias<n>que te causé hoy."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con esas palabras, Mejiro McQueen se<n>dirige a las puertas de la\nenfermería."
+    }
+  ]
 }

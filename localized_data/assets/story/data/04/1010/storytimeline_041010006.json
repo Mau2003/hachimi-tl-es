@@ -1,226 +1,236 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Taiki Shuttle",
-            "text": "Mumuu~…mumumuu~…"
-        },
-        {
-            "text": "While I was in the middle of shopping, \nI found Taiki Shuttle crouched in the middle of the road…!",
-            "choice_data_list": [
-                "Are you okay?!"
-            ]
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Oh! Trainer-san, howdy~! \nI'm fine, I'm fine, I got a good picture!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "The best shot of this manhole! \nThe angle is important in photos, isn't it?",
-            "choice_data_list": [
-                "You were taking a picture?",
-                "You were taking a picture?"
-            ]
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Yes! Japan's manhole covers have a bunch of unique designs. \nIf I share them, my family will probably be happy!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Fufu~! The truth is, yesterday I was talking with my family \nand they said [We want to see the city you live in]."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "That's why I'm looking for some nice photo spots! \nThat said~…"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Trainer-san, let's go look together!",
-            "choice_data_list": [
-                "I was going to go shopping though…"
-            ]
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Oh… even though we just met by coincidence, \nthat makes me a little lonely…"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Shopping… can't we just do that some other time? \nThat's fine! C'mon, let's do that!",
-            "choice_data_list": [
-                "Okay, okay"
-            ]
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Yes! That makes me really happy!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "If we get a lot, my family will definitely be happy. \nTo Japan's nice spots, here we go!"
-        },
-        {
-            "text": "And so it was decided, \nI would be accompanying the high-spirited Taiki Shuttle…"
-        },
-        {
-            "text": "(pashaa! pashaa!)"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Great! Japan's vending machines are really incredible. \nNot just drinks, there's even food."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Oden, udon, ramen… there's alot!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "…Oh, but I haven't seen any sushi. \nEven though it's the top soul food."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Have we just not found one yet? \nTrainer-san, if you find one, let me know!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Oh! Those look like photo booths! \nTHIS is Japanese pop culture!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "It's exciting, isn't it?! Trainer-san, let's go in!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Let's match up with the countdown! \nThree, two-… one-"
-        },
-        {
-            "text": "(pashaa!)"
-        },
-        {
-            "text": "From the dispenser, Taiki Shuttle's photo came out. \nIt was filled with filters and seals that she had chosen."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Ahahahahahaa! Trainer-san, you were hiding behind me!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "But it's still cool! \nThese seals, I need to share them with my family!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Mmmmm~! It was really lucky \nthat we found a taiyaki stall!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Trainer-san! Make sure you hold on to that taiyaki for me. \nI need to get a picture of it!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Sniff sniff. \n…Haa~~, it seems like it'll be really delicious."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Hot and fresh… and, that crunchy-looking tail. \nI want to eat it as soon as I can…"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Uuu, I-I need to properly get a photo of it! \nWait for it… just wait…"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "…drool."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Uuuuu~~! Trainer-san! \nCan you stand a little further away please?!"
-        },
-        {
-            "text": "After that, Taiki Shuttle and I went \nnon-stop to several different places-"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Good! THIS is the Japanese aethestic - like wasabi!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "It'd be nice if there was a samurai… Oh, yes! \nNext, let's get a picture of a samurai!",
-            "choice_data_list": [
-                "The sun's going to set soon though?",
-                "The sun's going to set soon though?"
-            ]
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Oh, it's already this late… I guess it can't be helped. \nLet's make our way back, lickety split!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Fufu! I got a lot of wonderful shots. \nWith this much, it should be… Ah!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Stooooooooop!!",
-            "choice_data_list": [
-                "W-what?!",
-                "W-what?!"
-            ]
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "I forgot a really important shot! \nTrainer-san, please!",
-            "choice_data_list": [
-                "Eh? Eh?"
-            ]
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "C'mon, c'mon, over here."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "I'm taking it~!"
-        },
-        {
-            "text": "(pashaa!)"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Yes! I got a nice 2-shot!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "…Fufuu. I've been thinking this for a while now. \nTrainer-san, I should introduce you to my family."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "You're always there by my side cheering me on… \nTrainer-san is an important person to me.",
-            "choice_data_list": [
-                "I'm happy you feel that way"
-            ]
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Oh! E-ehehe. \nMe too… I'm very happy!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "They're all nice shots but, \nthis one is the one I like the most."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Trainer-san, thank you very much for today. \nLet's go look for more nice spots in Japan again sometime!"
-        },
-        {
-            "text": "…Several days later, I received a mail \ntitled [American pop culture!] from America."
-        },
-        {
-            "text": "Attached was a photo of a fun-looking barbeque \nwith a younger Taiki Shuttle and her family-"
-        },
-        {
-            "text": "Written in hiragana was a short message, \n[Thanks for taking care of our daughter!]."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Taiki Shuttle",
+      "text": "Mmm... Uff..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "De camino a hacer compras, me encuentro<n>a Taiki Shuttle agachada<n>en medio de la calle.",
+      "choice_data_list": [
+        "¡¿Estás bien?!"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh! ¡Hola, Entrenador! Sí, no te<n>preocupes—encontré lo que buscaba..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡La mejor toma posible de esta tapa de<n>alcantarilla! La fotografía se trata de<n>encontrar el ángulo perfecto.",
+      "choice_data_list": [
+        "Ah, estabas tomando una foto.",
+        "Ah, estabas tomando una foto."
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Sí, exacto! Las tapas de alcantarilla en Japón<n>tienen diseños tan únicos.<n>¡Mi familia se va a poner contentísima cuando las comparta!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Jeje. ♪ Verás, ayer mi familia dijo<n>que quería ver más de la ciudad donde<n>vivo."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Por eso estoy buscando buenos<n>lugares para fotos! Pero es mucho<n>trabajo para una sola persona..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Así que ven a ayudarme a buscar, Entrenador!",
+      "choice_data_list": [
+        "La verdad es que tengo que hacer compras..."
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Ayy, qué lástima. Y después de que nos<n>encontramos y todo..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿Podrías hacer tus compras en otro<n>momento? ¡Te lo agradecería mucho!<n>¿Por fi?",
+      "choice_data_list": [
+        "Está bien, está bien."
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Sí! ¡Estoy tan feliz!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Si tomamos montones de fotos, estoy segura<n>de que mi familia también estará feliz.<n>¡Es hora de encontrar todos los lugares<n>bonitos que Japón tiene para ofrecer! ¡Allá vamos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con Taiki avanzando emocionada, partimos<n>en busca de los mejores lugares para fotos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Flash, flash!</i>"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Genial! Las máquinas expendedoras<n>japonesas sí que son de otro nivel.<n>Digo, el jugo es una cosa, ¡pero hasta puedes comprar comida!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oden, udon, ramen—y la lista sigue!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh, pero nunca he visto una que tenga sushi!<n>Aunque encabeza la lista de comidas<n>cómodas japonesas."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¿Tal vez solo he tenido mala suerte?<n>Avísame si te encuentras con una, ¿vale?"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh! ¿Eso es una cabina de fotos adhesivas?<n>¡Un verdadero ícono de la cultura pop japonesa!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Me tiene emocionadísima! ¡Vamos, Entrenador!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Voy a contar por nosotros, ¿vale? Tres, dos,<n>u—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Flash!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una calcomanía con un primer plano extremo de<n>Taiki intentando tomar una foto sale<n>de la ranura."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Jajaja! ¡Qué tonto, Entrenador! ¡Te escondiste detrás de mí!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Pero esto sí que es genial! ¡También voy a<n>tener que compartir esta calcomanía con mi familia!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Mmm! ♪ Qué suerte tuvimos al encontrar un<n>puesto de taiyaki."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Muy bien, Entrenador! Sostén ese taiyaki<n>firme por mí, ¿vale? ¡Voy a tomar una foto rápida!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "<i>Snif, snif...</i> Ahh, huele tan bien."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Está recién salido de la parrilla! Mira esa<n>cola crujiente y bonita. Da pena no<n>comérselo enseguida..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Urgh... P-pero ¡la foto es primero! Tengo<n>que ser... fuerte..."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "<i>Baba...</i>"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Urk! Lo siento, Entrenador—¡necesito que te<n>alejes un poco más!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de eso, Taiki y yo visitamos un<n>lugar tras otro sin siquiera parar<n>a descansar."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Bien! Esto es—¡wasabi japonés<n>auténtico con <i>wabi-sabi</i>!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Si tan solo hubiera un samurái por aquí...<n>¡Oh, sí! ¡Vamos a tomar una foto de un<n>samurái después!",
+      "choice_data_list": [
+        "Sabes que el sol está por ponerse.",
+        "Sabes que el sol está por ponerse."
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Oh, ¿cuándo se hizo tan tarde? Mejor<n>demos por terminado el día y ¡regresemos a casa!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Jeje. ♪ Conseguí un montón de buenas tomas.<n>Estoy segura de que esto será suficiente<n>para—¡ah!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Altooooo!",
+      "choice_data_list": [
+        "¿Q-qué pasa?",
+        "¿Q-qué pasa?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Se me olvidó la toma más importante! Ven<n>aquí, Entrenador! ¿Por favor?",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Apúrate y acércate un poquito."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Di whisky!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Flash!</i>"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Sí! ¡Conseguí una buena foto de los dos!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Jeje. Hace tiempo que quería presentarte a<n>mi familia."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Eres muy importante para mí. Sé que siempre<n>puedo contar contigo para que me apoyes<n>pase lo que pase.",
+      "choice_data_list": [
+        "Me alegra que sientas eso."
+      ]
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oh! Ejeje... ¡Yo también estoy feliz! ¡Muy feliz!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Conseguimos muchas fotos bonitas, pero<n>creo que esta es mi favorita."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "Muchas gracias por hoy, Entrenador.<n>¡Busquemos más lugares bonitos por<n>Japón otra vez!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Más tarde ese día, llega un correo de Estados<n>Unidos a mi bandeja de entrada con el asunto<n>\"¡Cultura Pop Estadounidense!\""
+    },
+    {
+      "name": "Monólogo",
+      "text": "Adjunto hay una foto familiar con una<n>joven Taiki Shuttle disfrutando una<n>barbacoa..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Debajo hay un mensaje corto que dice:<n>\"¡Gracias por cuidar de nuestra hija!\""
+    }
+  ]
 }

@@ -2,224 +2,239 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narita Brian",
-      "text": "Triple Crown champion, victory at the Arima Kinen, five G1 wins…"
+      "name": "Monólogo",
+      "text": "El torbellino de récords de Brian, Triple<n>Corona y más allá, continúa en el nuevo<n>año."
+    },
+    {
+      "name": "Comentarista",
+      "text": "¡Han pasado la última curva hacia la<n>recta final! ¡Narita Brian ya ha tomado<n>la delantera!"
+    },
+    {
+      "name": "Comentarista",
+      "text": "¡Se ha adelantado a toda velocidad! ¡La<n>ventaja de Brian solo crece ahora!"
+    },
+    {
+      "name": "Comentarista",
+      "text": "Está imbatible—nadie puede alcanzar su<n>ventaja de seis—¡no, siete cuerpos! ¡Y<n>ahí está la meta!"
+    },
+    {
+      "name": "Comentarista",
+      "text": "¡Nunca hubo duda! ¡Narita Brian ha<n>ganado el Hanshin Daishoten!"
     },
     {
       "name": "Narita Brian",
-      "text": "This gnawing in my stomach won't stop though. I'm hungry for more…"
-    },
-    {
-      "name": "Narita Brian",
-      "text": "When… When is the next race?!"
-    },
-    {
-      "text": "Brian's whirlwind of a record, Triple Crown and beyond, continues \ninto the next year."
-    },
-    {
-      "name": "Caster",
-      "text": "They're past the final turn into the last stretch! Narita Brian has \nalready taken the lead!"
-    },
-    {
-      "name": "Caster",
-      "text": "She's blasted ahead! Brian's lead is only growing now!"
-    },
-    {
-      "name": "Caster",
-      "text": "She's unchallenged—no one can catch up to her six—no, seven-length \nlead! And that's the finish!"
-    },
-    {
-      "name": "Caster",
-      "text": "There's no doubt about it! Narita Brian's won the Hanshin Daishoten!"
-    },
-    {
-      "name": "Narita Brian",
-      "text": "…"
+      "text": "..."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Well done, Brian."
+      "text": "Bien hecho, Brian."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "I can't believe you made a personal best time in a long-distance race. \nYou truly have no bounds."
+      "text": "No puedo creer que hayas hecho un<n>tiempo personal mejor en una carrera de<n>larga distancia. Realmente no tienes<n>límites."
     },
     {
       "name": "Gold Ship",
-      "text": "You've been chosen as Racer of the Year, you're winning all these \nraces…"
+      "text": "Te han elegido como Corredora del Año,<n>estás ganando todas estas carreras..."
     },
     {
       "name": "Gold Ship",
-      "text": "Narita Brian! You're not just making Team Sirius happy, you're making \nthe whole Twinkle Series ecstatic! Keep it up!"
+      "text": "¡Caray, Brian! No solo haces feliz al<n>Team Sirius, ¡estás haciendo feliz a<n>toda la Twinkle Series! ¡Sigue así!"
     },
     {
       "name": "Narita Brian",
-      "text": "You're welcome."
+      "text": "De nada."
     },
     {
-      "text": "Next is the Tenno Sho (Spring), the race your sister won. Let's make it \na win for both sisters!"
+      "name": "<username>",
+      "text": "Lo siguiente es el Tennō Shō de primavera,<n>que Hayahide ganó el año pasado.<n>¡Hagamos que sea una victoria para<n>ambas hermanas!"
     },
     {
-      "text": "Next is the Tenno Sho (Spring), the race your sister won. Let's make it \na win for both sisters!"
+      "name": "<username>",
+      "text": "Lo siguiente es el Tennō Shō de primavera,<n>que Hayahide ganó el año pasado.<n>¡Hagamos que sea una victoria para<n>ambas hermanas!"
     },
     {
       "name": "Narita Brian",
-      "text": "Of course I'll win… But first I've got a winning concert to go to."
+      "text": "Por supuesto que ganaré... Pero primero<n>tengo un concierto ganador al que ir."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Everyone says she'll beat President Rudolph's seven-crown record. \nThis looks to be quite a year for Brian."
+      "text": "Todos dicen que superará el récord de<n>siete coronas de la Presidenta Rudolph.<n>Este parece ser un gran año para Brian."
     },
     {
-      "text": "Yes. Everyone, including me, has high hopes for Brian."
+      "name": "Monólogo",
+      "text": "Ciertamente. Todos, incluido yo, tenemos<n>grandes esperanzas en ella."
     },
     {
-      "text": "I'm like one of her fans, unable to hold in my excitement for what \nshe'll accomplish next."
+      "name": "Monólogo",
+      "text": "Soy como uno de sus fans, incapaz de<n>contener mi emoción por lo que<n>logrará a continuación."
     },
     {
       "name": "Fan A",
-      "text": "Briaaan! Your race was the best today!"
+      "text": "¡Briaaan! ¡Tu carrera fue la mejor hoy!"
     },
     {
       "name": "Fan B",
-      "text": "We know you'll win the Tenno Sho (Spring) too!"
+      "text": "¡Sabemos que también ganarás el Tennō<n>Shō de primavera!"
     },
     {
       "name": "Mayano Top Gun",
-      "text": "Hwaaa… Brian… So that's how a Triple Crown winner races!"
+      "text": "¡Buaaa! ¡Brian! ¡Así es como corre una<n>campeona de la Triple Corona!"
     },
     {
       "name": "Mayano Top Gun",
-      "text": "I wanna soar high in a race like that too!"
+      "text": "¡Yo también quiero volar alto en una<n>carrera así!"
     },
     {
       "name": "Narita Brian",
-      "text": "…"
+      "text": "..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I wouldn't expect to find you anywhere else."
+      "text": "Tenía la sensación de que te encontraría<n>aquí."
     },
     {
       "name": "Narita Brian",
-      "text": "Big Sis… How's your leg?"
+      "text": "Hermana... ¿Cómo está tu pierna?"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I'll need a little longer until I've recovered. I'm starting to get out of \nshape."
+      "text": "Necesitaré un poco más hasta<n>recuperarme. Estoy empezando a<n>desentrenarme."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "You're doing as well as ever, Racer of the Year. After that landslide \nvictory at the Hanshin Daishoten, I can't help but wonder how much \nhigher you'll soar."
+      "text": "Te va tan bien como siempre, Corredora<n>del Año. Después de esa tremenda<n>victoria en el Hanshin Daishoten, no<n>puedo evitar preguntarme cuánto más<n>alto volarás."
     },
     {
       "name": "Narita Brian",
-      "text": "I don't really have a goal in mind for that stuff. I'm just trying to get to \nthe finish before anyone else. That's all."
+      "text": "Realmente no tengo un objetivo en mente<n>aún. Solo intento terminar antes que<n>nadie. Eso es todo."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Of course. Your goalpost is ever-moving, always leaving you hungry \nfor more."
+      "text": "Por supuesto. Tu meta siempre se mueve,<n>dejándote siempre hambrienta de más."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "You do look like you're having fun though. You really love nothing \nmore than to run."
+      "text": "Aunque pareces estar divirtiéndote.<n>Realmente no amas nada más que correr."
     },
     {
       "name": "Narita Brian",
-      "text": "I look like I'm having fun? Even though I'm never satisfied by any \nrace?"
+      "text": "¿Parezco que me divierto? ¿Aunque nunca<n>esté satisfecha con ninguna carrera?"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Yes, I'm sure of it."
+      "text": "Sí, estoy segura."
     },
     {
       "name": "Narita Brian",
-      "text": "…"
+      "text": "..."
     },
     {
-      "text": "With the Hanshin Daishoten behind her, Narita Brian is back to \ntraining."
+      "name": "Monólogo",
+      "text": "Con el Hanshin Daishoten detrás de ella,<n>Narita Brian vuelve al entrenamiento."
     },
     {
-      "text": "She needs to be in top shape for her next big race, the Tenno Sho \n(Spring)."
-    },
-    {
-      "name": "Narita Brian",
-      "text": "<I>Exhale…</I>"
-    },
-    {
-      "text": "You look a little tired. Everything good?"
-    },
-    {
-      "text": "You look a little tired. Everything good?"
+      "name": "Monólogo",
+      "text": "Necesita estar en plena forma para su<n>próxima gran carrera, el Tennō Shō de<n>primavera."
     },
     {
       "name": "Narita Brian",
-      "text": "It's no problem. I'm not even running at full strength."
+      "text": "<i>Exhala...</i>"
     },
     {
-      "text": "Glad to hear it. Let's play it safe and run the woodchip course next."
+      "name": "<username>",
+      "text": "Pareces un poco cansada. ¿Todo bien?"
+    },
+    {
+      "name": "<username>",
+      "text": "Pareces un poco cansada. ¿Todo bien?"
     },
     {
       "name": "Narita Brian",
-      "text": "All right, got it."
+      "text": "No es problema. Ni siquiera estoy<n>corriendo a toda fuerza."
+    },
+    {
+      "name": "<username>",
+      "text": "Me alegra oírlo. Juguemos seguro y<n>corramos en la pista de astillas de madera<n>después."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Está bien, entendido."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Brian has the drive to keep running forever."
+      "text": "Brian tiene el impulso para seguir<n>corriendo para siempre."
     },
     {
-      "text": "That's what makes her so strong. We'd better raise our expectations \nto match her."
+      "name": "<username>",
+      "text": "Eso es lo que la hace tan buena.<n>Deberíamos elevar nuestras expectativas<n>para igualarla."
     },
     {
       "name": "Rice Shower",
-      "text": "I'm excited to see her next race too."
+      "text": "También estoy emocionada por ver su<n>próxima carrera."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "I feel the same, but we can't simply expect her to do everything. We \nneed to follow her example.",
+      "text": "Siento lo mismo, pero no podemos simplemente<n>esperar que ella haga todo. Necesitamos<n>seguir su ejemplo."
+    },
+    {
+      "name": "<username>",
+      "text": "Haré todo lo posible para asegurarme de<n>que esté lista para rendir al máximo."
+    },
+    {
+      "name": "<username>",
+      "text": "Haré todo lo posible para asegurarme de<n>que esté lista para rendir al máximo."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Oh!",
       "choice_data_list": [
-        "I'll do my best to make sure she's ready to \nperform at her peak."
+        "¿Qué pasa?"
       ]
     },
     {
-      "text": "I'll do my best to make sure she's ready to perform at her peak."
-    },
-    {
       "name": "Mejiro McQueen",
-      "text": "Oh!"
+      "text": "La carrera—¿no es casi la fecha límite<n>para que Brian se registre?"
     },
     {
-      "name": "Trainer",
-      "text": "What's wrong?"
-    },
-    {
-      "name": "Mejiro McQueen",
-      "text": "The race—isn't it almost the deadline for Brian to register?"
-    },
-    {
-      "text": "I think you're right."
+      "name": "<username>",
+      "text": "Creo que tienes razón."
     },
     {
       "name": "Rice Shower",
-      "text": "Oh my… It'd be bad to forget that."
+      "text": "Oh, cielos... Sería malo olvidar eso."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "However high her performance, it's meaningless if she can't enter the \nrace."
+      "text": "Por muy buena que sea su actuación, no<n>tiene sentido si no puede entrar en la<n>carrera."
     },
     {
-      "text": "I'll go right now before I forget. Look after everyone's training, \nMcQueen."
-    },
-    {
-      "name": "Mejiro McQueen",
-      "text": "…?!"
+      "name": "<username>",
+      "text": "Iré ahora mismo antes de que se me olvide.<n>McQueen, cuida del entrenamiento de<n>todos—"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Brian?!"
+      "text": "...?!"
     },
     {
-      "text": "Wh-what happened?!"
+      "name": "Mejiro McQueen",
+      "text": "¡¿Brian?!"
+    },
+    {
+      "name": "<username>",
+      "text": "¡¿Q-qué pasó?!"
+    },
+    {
+      "name": "<username>",
+      "text": "¡¿Q-qué pasó?!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "<i>Jadeo... Resuello...</i>"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Ugh!"
     }
   ]
 }

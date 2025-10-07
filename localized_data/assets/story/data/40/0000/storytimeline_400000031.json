@@ -1,20 +1,21 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Otonashi Etsuko",
-            "text": "Hmmm… is this your current practice plan?\n… I see, I see."
-        },
-        {
-            "name": "Otonashi Etsuko",
-            "text": "Oh, please don't play games with me.\nThis isn't a real plan, is it?"
-        },
-        {
-            "name": "Otonashi Etsuko",
-            "text": "I mean you, trainer. You're still\nhiding some grand self-sacrificial\nplan aren't you…!?"
-        },
-        {
-            "text": "… Apparently there's more to come!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Reportera Otonashi",
+      "text": "Hmm, ¿este es el régimen de<n>entrenamiento de\nhoy? Qué interesante..."
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "Vamos, basta con tus juegos.<n>Esto no puede\nser el plan real, ¿verdad?"
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "Sé que aún debes estar ocultando algún<n>esquema\nmagnífico que sacrificaste<n>todo para desarrollar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Bueno, parece que todavía me queda<n>camino por\nrecorrer!"
+    }
+  ]
 }

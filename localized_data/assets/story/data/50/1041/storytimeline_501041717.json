@@ -1,102 +1,105 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "I decided to let Sakura Bakushin O rest in \nthe infirmary as she was getting tired."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Rest is an honor student's duty, you know! \nRight then, good night!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Mmu, where in the world…?"
-        },
-        {
-            "name": "Horsegirl A",
-            "text": "Yikes! Look, look, look! \nIt's Ms. Sakura Bakushin O, our class \npresident!"
-        },
-        {
-            "name": "Horsegirl B",
-            "text": "It's your chance to say hello! \nGood morning! Class president!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "What's this!? What an ideal greeting! \nA very good morning to you, everyone!"
-        },
-        {
-            "name": "Prime Minister from Somewhere",
-            "text": "Sakura Bakushin O, your excellence \nis famous even in my country!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Oyaya, you're that foreign guy who's on \nTV a lot…!?"
-        },
-        {
-            "name": "Royalty from Somewhere",
-            "text": "You are just magnificent! \nWe're all Bakushin-ing, following your \nexample!"
-        },
-        {
-            "name": "Alien",
-            "text": "〇☆※！■＠；；～～！？ \n♪※△＊＠＆％☆＃～～！！"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Fu… Of course, you're right, spaceman. \nAfter all, I am――"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I am the honor student of the world! \nClass president of the galaxy! \nI am Sakura Bakushin O!!!"
-        },
-        {
-            "name": "Everyone",
-            "text": "Wow…! \nBakushin O! \nBakushin O!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Come on, everybody! Pure! Righteous! \nBakushinbakushiiiiiiiiin!!!!!!!!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Ha! \nIt seems to have been a dream."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "But the class president, is a role model for \nthe world……"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "This must be a prophetic dream!!"
-        },
-        {
-            "text": "Waking up in a great mood, Sakura \nBakushin O seems to have had enough rest."
-        },
-        {
-            "name": "Prime Minister from Somewhere",
-            "text": "… I'm sorry to say, but it seems \nthat there is a girl more qualified to be \nclass president than you."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Wh…… \nWhat did you say――!?"
-        },
-        {
-            "name": "Royalty from Somewhere",
-            "text": "Next election, a clean vote. I'm going to \nvote for that other girl……"
-        },
-        {
-            "name": "Alien",
-            "text": "※×＠■〇～…… \nWell, something like that. See ya later!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Ha, a dream!?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Agghhh～! I have to work harder and harder \nto be worthy of being class president～……!"
-        },
-        {
-            "text": "Sakura Bakushin O couldn't get much rest \nbecause her shoulders were so tense from \nher dream."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "La fatiga se ha apoderado de Sakura<n>Bakushin"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Descansar también es uno de los deberes de una estudiante<n>modelo!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿D-dónde diablos estoy?"
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡Wow! ¡Mira, mira! ¡Es Sakura Bakushin O!"
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¡Es una oportunidad para presentarnos!<n>¡Delegada!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡¿Ooh?! ¡Qué lindo saludo! Buenos<n>días,"
+    },
+    {
+      "name": "Foreign Prime Minister",
+      "text": "Sakura Bakushin O, tu brillantez es<n>bien conocida"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Wow! ¡Eres esa super importante<n>famosidad extranjera"
+    },
+    {
+      "name": "Foreign King",
+      "text": "¡Eres tan maravillosa! Todos nuestros ciudadanos<n>"
+    },
+    {
+      "name": "Alien",
+      "text": "〇☆※！■ @ ; ;~~?! ♪ ※△＊＠＆％☆#~~!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Heh... Por supuesto, señor Alien. Después de todo, yo..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡En efecto soy la estudiante modelo de este<n>mundo! La"
+    },
+    {
+      "name": "Everyone",
+      "text": "¡SÍÍÍ! ¡BAKUSHIN O! ¡BAKUSHIN O!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Muy bien, todos! ¡Rectitud!<n>¡Justicia!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "<i>¡Jadeo!</i> ¿Acaso fue solo un sueño?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Pero ser una delegada idolatrada<n>como modelo"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Definitivamente es una visión del futuro!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Sakura Bakushin O despierta de excelente<n>ánimo. Es"
+    },
+    {
+      "name": "Foreign Prime Minister",
+      "text": "...Es una pena, pero hay otra<n>persona más adecuada"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Q-qué dijiste?!"
+    },
+    {
+      "name": "Foreign King",
+      "text": "Ciertamente... también tienen mi voto. Te<n>deseo"
+    },
+    {
+      "name": "Alien",
+      "text": "※×＠■〇～... Bueno, supongo que así es.<n>¡Nos vemos!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Eh, ¡¿un sueño?!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Argh! Tengo que esforzarme aún más y<n>convertirme en una"
+    },
+    {
+      "name": "Monologue",
+      "text": "Lamentablemente, el tenso sueño de<n>Sakura Bakushin O"
+    }
+  ]
 }

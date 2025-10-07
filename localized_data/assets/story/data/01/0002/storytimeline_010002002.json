@@ -1,32 +1,25 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "First, let's go meet the horsegirl who we \nwill be working with!"
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "The horsegirl you are in charge of is called \na trainable horsegirl.",
-            "color_text_info_list": [
-                "trainable horsegirl"
-            ]
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "Please note you can't train a horsegirl until \nyou have obtained her training version.",
-            "color_text_info_list": [
-                "obtained her training version",
-                "can't train a horsegirl"
-            ]
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "In this gacha, you'll meet the horsegirl you \nwill be training!"
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "Well then, let's draw from \nthe Pretty Derby gacha!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Primero, ¡vamos a conocer a algunas<n>\nde las Umamusume con las que trabajarás!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Las Umamusume que puedes entrenar en<n>\nuna partida de Carrera se conocen como<n>Umamusume\nPupilas."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ten en cuenta que si no has agregado<n>una\nUmamusume a tu lista de Pupilas,<n>\nno podrás entrenarla en una partida de<n>\nCarrera."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Puedes conocer nuevas pupilas<n>\npotenciales reclutándolas!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Bueno, entonces, ¡probemos suerte en el<n>\nReclutamiento Pretty Derby!"
+    }
+  ]
 }

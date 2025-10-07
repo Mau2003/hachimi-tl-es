@@ -1,45 +1,45 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Gallop… gallop……!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Now it's time… for the last one!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "This will take us to the farthest \npoint, 3600 meters…!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "If I win today… I'm \na stayer, aren't I?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I can even conquer the entire \nBakushin Road now, don't you think!?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Because I'm going to run \nthe whole 3600 meters!!",
-            "choice_data_list": [
-                "……Yeah!",
-                "……Yeah!"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I guess that's Trainer's habit! \nLots of nodding, thank you very much for \nthat!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Come now, let's go, Bakushin O!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "――The strongest stayer who simultaneously \npossesses speed will have her \nBaku-birthday today!!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Uno... dos, uno... dos!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Y ahora... para la recta final!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡He llegado a la empinada cima que<n>son 3,600\nmetros!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Si gano la carrera de hoy... bien<n>podría ser una\nfondista, ¿verdad?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Esto significará que he<n>dominado completamente\nel Camino Bakushin, ¿verdad?!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "3,600 metros ya no son un<n>obstáculo para mí,\n¡los correré limpiamente!",
+      "choice_data_list": [
+        "...¡Sí!",
+        "...¡Sí!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Es un gesto tuyo, Entrenador?<n>¡Gracias por el\nasentimiento tranquilizador!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Vamos, yo!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Hoy es el día en que nacerá una<n>fondista con\ninmensa velocidad!"
+    }
+  ]
 }

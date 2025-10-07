@@ -1,187 +1,196 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "4 times a year, a \"Selection Race\" is held, where horse girls \nshow off the fruits of their training and get scouted by trainers \nwho will shape their very futures."
-        },
-        {
-            "text": "A wide array of trainers, from rookies to veterans can be seen \ngathered around the area… It's not difficult to guess that \neveryone's eyes are on <i>those</i> two girls today."
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "Please consider scouting me!"
-        },
-        {
-            "name": "Rookie Trainer A",
-            "text": "Daiwa Scarlet… \nGood grief, you did a great job out there!"
-        },
-        {
-            "name": "Experienced Trainer A",
-            "text": "She kept her lead all the way from the 3rd corner in yesterday's \nmock race, I hear. There's no telling who will win today… \nSpeaking of, that girl approaching us must be…!"
-        },
-        {
-            "name": "Vodka",
-            "text": "Sup."
-        },
-        {
-            "name": "Veteran Trainer A",
-            "text": "Hmm, Vodka on the other hand seems to be unfazed \nby the pressures of a big race. Now then, which \nof them is the better competitor, I wonder?"
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "…Hmph. \nThat's not even up for debate."
-        },
-        {
-            "name": "Vodka",
-            "text": "Hey, I can hear you. \nHeh. Don't come running to me if you start crying later, okay?"
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "Oh my, who could this person be talking to? \nJust so you know, I'm the number one horse girl, Daiwa Scarlet."
-        },
-        {
-            "text": "Just like that, a fiery rivalry between two up and coming horse \ngirls is born… This is building up to be one hell of a race…!"
-        },
-        {
-            "text": "(…And the race begins!)"
-        },
-        {
-            "name": "Commentator",
-            "text": "All of the horse girls have left their gates and started running!"
-        },
-        {
-            "name": "Commentator",
-            "text": "Standing out from the rest of the pack is Daiwa Scarlet! \nShe's taken the lead in no time with her incredible speed!"
-        },
-        {
-            "name": "Rookie Trainer A",
-            "text": "Is she really going to be alright at that pace!? \nI mean, she's <i>the</i> Daiwa Scarlet, but…!"
-        },
-        {
-            "name": "Experienced Trainer A",
-            "text": "No, she's only been able to hold her stamina precisely \nbecause this is her way of doing things… Also, \ntake a closer look at what's going on."
-        },
-        {
-            "name": "Veteran Trainer A",
-            "text": "She's making everyone else take a faster approach to match her \nspeed, but that'll only tire them out by the end. I'm sure this \nis exactly what she wants."
-        },
-        {
-            "text": "Daiwa Scarlet had held the lead from start to finish \nwith her impeccable running. However, something big \nhappened in the final moments of the race!"
-        },
-        {
-            "name": "Vodka",
-            "text": "<i>Pant… pant…</i> Dammit all… \nDon't… you dare think…"
-        },
-        {
-            "name": "Vodka",
-            "text": "Don't you dare think that I'm going to just let you win!"
-        },
-        {
-            "name": "Commentator",
-            "text": "Turning on the final corner is Vodka! She's caught up! \nShe's practically right up to Daiwa Scarlet!"
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "Huh!?"
-        },
-        {
-            "name": "Vodka",
-            "text": "ORAAAAAAAAAAAAAAA!!"
-        },
-        {
-            "name": "Commentator",
-            "text": "She's fast! Vodka's fast! \nLook at that marvelous stride! Daiwa Scarlet's only a nose away!"
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "Ugh… ughh…!! \nNo… Anything but that!"
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "The number one spot! \n…That's mine and mine alone!!"
-        },
-        {
-            "name": "Commentator",
-            "text": "Daiwa Scarlet, Vodka! Daiwa Scarlet, Vodka! They're closing in on \nthe finish line! And the winner of the race is…"
-        },
-        {
-            "name": "Commentator",
-            "text": "VODKA!! She takes first place by a small margin! \nDaiwa Scarlet takes second place!"
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "<i>Pant… pant…</i>"
-        },
-        {
-            "name": "Vodka",
-            "text": "Phew… hehe! \nSeems like I'm the winner today, Scarlet!"
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "…!"
-        },
-        {
-            "name": "Vodka",
-            "text": "Ahh, hey!!"
-        },
-        {
-            "name": "Vodka",
-            "text": "The heck's up with that? \nAnd here I was starting to think you're a fun guy…"
-        },
-        {
-            "text": "-(…And so, the Selection Race \nends with Vodka as the victor.)"
-        },
-        {
-            "text": "On that same night…"
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "<i>Pant, pant, pant―.</i> No… I can't let this happen…! \nI just need to build up my stamina a bit more!"
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "I don't ever want to think about that again…!",
-            "choice_data_list": [
-                "Hey, are you…",
-                "Hey, are you…"
-            ]
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "Hya!? W-Who was that!?"
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "Wait, you're… a trainer? \nAnd you were at the Selection Race too… I think."
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "…Excuse me, but could you please leave? \nI'm currently training in private."
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "I'm terribly busy… knocking my disappointing \nand weak self into shape.",
-            "choice_data_list": [
-                "2nd place is worth being proud of, though…?"
-            ]
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "2nd place means nothing to me! \nI have to be number one or else!"
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "Ah… my apologies for being rude."
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "In any case, I'll be leaving now. \nPlease take care."
-        },
-        {
-            "text": "Daiwa Scarlet… \nA horse girl obsessed with being \"number one…\""
-        },
-        {
-            "text": "I'm not really sure why, \nbut I couldn't stop thinking about her…"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy se llevan a cabo las carreras de<n>prueba de la academia. El que una<n>estudiante pueda rendir lo suficiente<n>como para ser reclutada puede afectar<n>significativamente su futuro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al mirar alrededor, veo montones de otros<n>entrenadores pululando, desde<n>novatos hasta veteranos. Parece que<n>todos tienen puestos los ojos en<n>esas dos hoy."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Hoy daré lo mejor de mí!"
+    },
+    {
+      "name": "Entrenador Nuevo A",
+      "text": "Así que esa es Daiwa Scarlet... ¡Definitivamente<n>tiene potencial, eso digo!"
+    },
+    {
+      "name": "Entrenador Experto A",
+      "text": "Mantuvo una ventaja dominante después de la<n>tercera curva en el entrenamiento de<n>ayer... lo que significa que será una<n>lucha difícil convertirse en su<n>entrenador. Y ¡vaya, ahí está su competencia!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Qué onda."
+    },
+    {
+      "name": "Entrenador Veterano A",
+      "text": "Ya veo. Vodka está manejando mejor sus<n>nervios. Ahora, la pregunta es—<n>¿quién prevalecerá?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...Hum. Como si estuviéramos al mismo<n>nivel."
+    },
+    {
+      "name": "Vodka",
+      "text": "Oye, eso lo oí. Je, solo no vengas<n>llorando después, ¿de acuerdo?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Oh, ¿y tú quién te crees que eres? ¡Yo soy<n>la corredora número uno, Daiwa Scarlet!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ya chispean estas dos prometedoras<n>novatas. ¡Parece que esta será una<n>carrera para recordar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Pum!</i>"
+    },
+    {
+      "name": "Comentarista",
+      "text": "¡Y arrancan! ¡Las corredoras salieron de<n>la meta!"
+    },
+    {
+      "name": "Comentarista",
+      "text": "¡Y liderando el grupo—es Daiwa Scarlet!<n>¡Tomó una ventaja temprana con su<n>velocidad impresionante!"
+    },
+    {
+      "name": "Entrenador Nuevo A",
+      "text": "P-pero ¿va a poder mantener ese<n>ritmo?! Incluso para ella, esto podría<n>ser un poco..."
+    },
+    {
+      "name": "Entrenador Experto A",
+      "text": "Nah, si hay algo seguro, es que Daiwa<n>Scarlet tiene montones de energía en<n>el tanque. Mira otra vez."
+    },
+    {
+      "name": "Entrenador Veterano A",
+      "text": "Los demás aceleran para intentar<n>igualarla, pero no podrán mantener<n>ese ritmo por mucho tiempo. Todo<n>según el plan."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Daiwa Scarlet ha mantenido el liderazgo<n>desde el inicio de la carrera. Pero al<n>entrar en la recta final, ¡aparece una<n>retadora!"
+    },
+    {
+      "name": "Vodka",
+      "text": "<i>Jadea, jadea...</i> Demonios... No voy—"
+    },
+    {
+      "name": "Vodka",
+      "text": "—¡No voy a darme por vencida y dejarte<n>ganar!"
+    },
+    {
+      "name": "Comentarista",
+      "text": "¡Vodka, doblando la curva final! ¡Vodka,<n>persiguiendo! ¡Daiwa Scarlet está justo<n>delante de ella!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡¿Tch?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Grrrrrr!"
+    },
+    {
+      "name": "Comentarista",
+      "text": "¡Velocidad! ¡Vodka es velocidad! ¡Una<n>remontada asombrosa! ¡Vodka y Daiwa<n>Scarlet están codo a codo!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ugh... ¡Ughhh! No... ¡No la dejaré!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡Porque—ese primer lugar es mío!"
+    },
+    {
+      "name": "Comentarista",
+      "text": "¡Daiwa Scarlet, Vodka! ¡Daiwa Scarlet,<n>Vodka! ¡La meta está justo ahí! ¡La<n>ganadora es—"
+    },
+    {
+      "name": "Comentarista",
+      "text": "—Vodka! Fue reñido, pero ¡Vodka toma<n>el primero! ¡En segundo, Daiwa Scarlet!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>Jadea... Resopla...</i>"
+    },
+    {
+      "name": "Vodka",
+      "text": "Uff... Je-je. Parece que hoy gano yo,<n>¡Scarlet!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "...!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Oye, espera!"
+    },
+    {
+      "name": "Vodka",
+      "text": "...¿Qué diablos? Pensé que sería más<n>tranquila que eso."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, las pruebas terminan con Vodka<n>como victoriosa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Más tarde esa noche..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "<i>Jadea, jadea, jadea...</i> ¡No, esto no es<n>suficiente! ¡Más, necesito más resistencia!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡No así, nunca más!",
+      "choice_data_list": [
+        "Tú eres...",
+        "Tú eres..."
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡¿Eek?! ¡¿Q-quién está ahí?!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Espera, ¿un entrenador? Te vi en las<n>pruebas antes..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Mis disculpas. Actualmente estoy<n>entrenando, ¿podría pedirte que te vayas?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Estoy... un poco ocupada<n>moldeando a mi inútil yo.",
+      "choice_data_list": [
+        "¿No es ya increíble terminar en segundo lugar?"
+      ]
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡El segundo lugar no es suficiente! ¡Yo<n><i>DEBO</i> ser la número uno!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Ah... L-lo siento."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "En fin, me retiro ahora. Con permiso."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Daiwa Scarlet. Para ella, nada es más<n>importante que ser la número uno."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y por alguna razón, no puedo sacármela de<n>la cabeza..."
+    }
+  ]
 }

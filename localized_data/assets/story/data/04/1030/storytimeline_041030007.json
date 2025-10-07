@@ -1,242 +1,250 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Today, Rice Shower and I were at the beach for the first \nday of summer training camp. Wasting no time, we dove \nstraight into our training, however ——"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "<i>Haa, haa, haa, phew… </i> \nHow was my time, big brother?",
-            "choice_data_list": [
-                "You're making steady progress, but…"
-            ]
-        },
-        {
-            "name": "Rice Shower",
-            "text": "<i>Haa, haa, haa, phew… </i> \nHow was my time, big sister?",
-            "choice_data_list": [
-                "You're making steady progress, but…",
-                "You're making steady progress, but…"
-            ]
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Ahh… we haven't quite reached our goal, right? \nI'm sorry… it's because I'm not good enough…"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "… But, you know, I understand where I'm having issues. \nS-So I want to keep trying until I overcome them.",
-            "choice_data_list": [
-                "Good stuff! Keep giving it your all!"
-            ]
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Yeah! If I keep working on one weakness at a time… \nkeep learning new things, then slowly, but surely……"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "… Even someone like me can run faster!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "I'm going to go for one more lap, big brother!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "I'm going to go for one more lap, big sister!"
-        },
-        {
-            "text": "Eyes filled with determination, Rice Shower sprinted ahead \nwith bold strides that reflected her unwavering resolve. \nWhile watching over her, I heard a little voice ——"
-        },
-        {
-            "name": "Small Horsegirl",
-            "text": "… Wow, that's so amazing! Even though she's \nbeen at it for a while, she's still running!",
-            "choice_data_list": [
-                "And you were…?",
-                "And you were…?"
-            ]
-        },
-        {
-            "name": "Small Horsegirl",
-            "text": "… Ah! E-Excuse me. Please ignore what I said…!"
-        },
-        {
-            "text": "The small horsegirl frantically dashed away into the distance…"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Ahhh, I'm beat…!!",
-            "choice_data_list": [
-                "Well done, Rice! We reached our goal!",
-                "Well done, Rice! We reached our goal!"
-            ]
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Ah… R-Really?!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Y-Yay… Yaaaaayyy～!!! We did it!!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "It took a while… but I'm glad I was able to pull it off in the end!"
-        },
-        {
-            "name": "Small Horsegirl",
-            "text": "… Wow, that's incredible."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Hmm…?"
-        },
-        {
-            "text": "As I glanced over to Rice Shower, I noticed the small \nhorsegirl from earlier standing by her side."
-        },
-        {
-            "name": "Small Horsegirl",
-            "text": "You're Rice, right? You're so amazing… \nI've never seen anyone work so hard before!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Amazing? Huh… me?! \n… N-No way, not at all! Far from it…!"
-        },
-        {
-            "name": "Small Horsegirl",
-            "text": "It's true though! I saw you running this whole time \nwithout taking any breaks. Completely different from \nme, I always give up so easily……"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "T-There's been many times when I want to give up, too! \n… Really… lots of times……"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "You see, I'm always failing, and I'm not very talented… \nBecause I don't like that about myself, I keep thinking, \n\"I want to change! I'm done with staying like this!\"."
-        },
-        {
-            "name": "Small Horsegirl",
-            "text": "Is that so? But… But then, how are you able to work so hard?"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Well, that's because ——"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "…… Because I found my ideal self that I want to pursue."
-        },
-        {
-            "name": "Small Horsegirl",
-            "text": "Your ideal self…?"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Yeah, that's right. I wanted to become someone who \ncould do all sorts of things, like being good at racing, \nmaking everyone happy. Those kind of things!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Once I made up my mind, there was no turning back. \nI needed to push myself further to achieve my goal. \nI wanted to run… I <i>had</i> to run. Harder, and faster…!"
-        },
-        {
-            "name": "Small Horsegirl",
-            "text": "……!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "A-Ah, umm… I'm sorry. I'm not very good with words…! \nSo I might not have answered your question very well!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "H-Huh…… <i>whaaaaa</i>?!"
-        },
-        {
-            "text": "(<i>WOOOOOOSHHH</i>!!)"
-        },
-        {
-            "text": "Out of nowhere, a massive wave came roaring \ndown and drenched all of us from head to toe!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "<i>Cough, cough…! </i> Aaaaahhhh, I'm so sorry! \nIt's because you're with me this happened…!"
-        },
-        {
-            "name": "Small Horsegirl",
-            "text": "<i>Cough, cough! </i> \n…… Pfffftt, bahahahahaha!!!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "H-Huh? What's so funny…?"
-        },
-        {
-            "name": "Small Horsegirl",
-            "text": "Ahahaha, sorry. Maybe it's because of that big wave hitting it, \nbut my head feels all clear and refreshed now!"
-        },
-        {
-            "name": "Small Horsegirl",
-            "text": "Thank you, Rice… Thanks to you, I was able \nto remember something very important."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Hm… Hmm…?"
-        },
-        {
-            "name": "Small Horsegirl",
-            "text": "I almost forgot the feeling of wanting to become stronger, \nto become faster… If I hold on to those feelings, then that \nmeans there's no time to be thinking about giving up, right?"
-        },
-        {
-            "name": "Small Horsegirl",
-            "text": "I get it now! I'm gonna go for a quick run～! \nThanks for the help, Rice! I'll see you in a race next!!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Ah……"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "W-Why…? It's because of me that she's all drenched like this… \nSo… why is she thanking me…?",
-            "choice_data_list": [
-                "Because you're the one who inspired her."
-            ]
-        },
-        {
-            "name": "Rice Shower",
-            "text": "H-Huh, me? I… inspired her…? \n<i>Sob… sob…</i>"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "<i>Uwaaaahh!!</i>"
-        },
-        {
-            "text": "The weight of all her struggles and emotions came \ncrashing down on her at once. I decided to stay with \nher to give her comfort until night time."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "I'm sorry… for suddenly crying on you like that… \nBut… I was just so happy."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "That just never happened before. It's the first time that I could \ninspire someone instead of bringing them unhappiness…",
-            "choice_data_list": [
-                "You definitely lit up her world!",
-                "You definitely lit up her world!"
-            ]
-        },
-        {
-            "name": "Rice Shower",
-            "text": "……! Mm… If that's the case then I'm really happy about that…!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "You see, up until now, I've always hated myself for who I am…"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "But, maybe… maybe, just a <i>tiny</i> bit, I don't \nmind myself that much today… Ehehe."
-        },
-        {
-            "text": "Rice Shower's slightly bashful smile illuminated the night \nsky more than any of its twinkling stars, radiating warmth \nand joy amidst the cool night air."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "Hoy comienza nuestro campamento de verano.<n>Para aprovechar al máximo\nnuestro tiempo, nos<n>dirigimos directamente a la playa."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Jadeo, jadeo...</i> <i>Buf, buf...</i> Hermano, ¿cómo<n>fue mi tiempo?",
+      "choice_data_list": [
+        "Definitivamente está mejorando, pero..."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Jadeo, jadeo...</i> <i>Buf, buf...</i> Hermana, ¿cómo<n>fue mi tiempo?",
+      "choice_data_list": [
+        "Definitivamente está mejorando, pero...",
+        "Definitivamente está mejorando, pero..."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Pero aún no alcanzo nuestra meta, ¿verdad?<n>Uf, lo siento mucho. Es\nporque no soy<n>buena..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Aún así, sé en qué debo trabajar. A-así que...<n>solo necesito trabajar en\nello hasta que<n>lo perfeccione.",
+      "choice_data_list": [
+        "¡Ese es el espíritu—sigamos adelante!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Sí! Trabajaré en las cosas paso a paso,<n>mejorándome poco a poco..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Haré lo que sea necesario... ¡para volverme más rápida!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Aquí voy, hermano!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Aquí voy, hermana!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Rice sale corriendo sin mostrar ni un ápice<n>de fatiga. Mientras superviso\nsu progreso, una<n>pequeña figura se acerca."
+    },
+    {
+      "name": "Short Umamusume",
+      "text": "Increíble. Simplemente no se detiene.",
+      "choice_data_list": [
+        "¿Y tú eres?",
+        "¿Y tú eres?"
+      ]
+    },
+    {
+      "name": "Short Umamusume",
+      "text": "¡Ah! L-lo siento. ¡Olvídalo!"
+    },
+    {
+      "name": "Monologue",
+      "text": "La chica misteriosa desaparece tan rápido<n>como había llegado..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Jadeo, jadeo...</i> ¡Uf!",
+      "choice_data_list": [
+        "Bien hecho, Rice—¡eso fue un nuevo récord!",
+        "Bien hecho, Rice—¡eso fue un nuevo récord!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Eh... ¿¿E-en serio?!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "L-lo logré... ¡Realmente lo logré!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Tomó un montón de tiempo... pero estoy feliz<n>de haberlo hecho."
+    },
+    {
+      "name": "Short Umamusume",
+      "text": "Realmente eres alguien especial."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Monologue",
+      "text": "De repente, la chica de antes está parada<n>junto a Rice Shower."
+    },
+    {
+      "name": "Short Umamusume",
+      "text": "Rice, ¿verdad? Eres increíble... No puedo<n>creer que simplemente sigas\nasi."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Increíble? Espera... ¿quieres decir yo? ¡N-no<n>es cierto! ¡E-eso no es verdad!"
+    },
+    {
+      "name": "Short Umamusume",
+      "text": "¡Sí lo es! Nunca te rendiste al correr...<n>Mientras que yo quiero\ndarme por vencida<n>tan pronto como algo sale mal..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Y-yo también he pensado en rendirme antes!<n>Más veces... de las que\npuedo contar."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Apenas puedo hacer algo bien... Odio<n>verme tan inútil. No puedo\ndecirte<n>cuántas veces casi me rindo por la<n>frustración."
+    },
+    {
+      "name": "Short Umamusume",
+      "text": "¿En serio? Entonces... ¿qué te hace seguir<n>adelante?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Es que..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "He descubierto... la yo que quiero ser."
+    },
+    {
+      "name": "Short Umamusume",
+      "text": "\"¿La yo que quiero ser?\""
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Mhm. Quiero entrar en un montón de carreras, ganar<n>muchas, y hacer feliz a\ntodos. Esa es<n>la yo... que quiero ser."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Y cuando pienso en ese sueño, no puedo<n>detenerme. No puedo rendirme—\ntengo que<n>correr—¡no, <i>quiero</i> seguir corriendo!"
+    },
+    {
+      "name": "Short Umamusume",
+      "text": "...!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "E-esto, perdón por no darte una buena<n>respuesta! N-no soy la mejor\nhablando—"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Espera... ¡¿Eep?!"
+    },
+    {
+      "name": "Monologue",
+      "text": "<i>¡Splash!</i>"
+    },
+    {
+      "name": "Monologue",
+      "text": "De la nada, una ola gigante se estrella<n>sobre nosotros, dejándonos\ncompletamente empapados."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Tos, tos...</i> ¡Ah, lo siento mucho! ¡Te involucré<n>en mi mala suerte!"
+    },
+    {
+      "name": "Short Umamusume",
+      "text": "<i>¡Tos, tos!</i> Jeje. ¡Jeje, jajaja!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿E-eh? ¿Por qué te ríes?"
+    },
+    {
+      "name": "Short Umamusume",
+      "text": "Jaja... Mi error. No sé si fue la ola<n>de ahora, pero mi cabeza se\nsiente mucho más<n>clara."
+    },
+    {
+      "name": "Short Umamusume",
+      "text": "Gracias, Rice. Me ayudaste a recordar<n>algo importante."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Eh? ...¿Qué?"
+    },
+    {
+      "name": "Short Umamusume",
+      "text": "Querer ser más rápida, más fuerte... Casi<n>olvido cómo se sentía eso. No\npuedo<n>rendirme cuando aún no he logrado mis metas,<n>¿verdad?"
+    },
+    {
+      "name": "Short Umamusume",
+      "text": "Muy bien, ¡voy a correr! Rice, la próxima<n>vez que nos veamos, ¡será en una\ncarrera!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ah..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿P-por qué? Fue mi culpa que se<n>empapara. Pero luego ella... ¿me\ndio las gracias? ¿Por qué?",
+      "choice_data_list": [
+        "Le diste el valor para seguir adelante."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Yo... lo hice? Yo... W-wa—"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "—¡waaaaah!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Para cuando termino de consolar a Rice, ya<n>está oscuro afuera."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Snif...</i> Perdón por llorar. Es que... estaba<n>tan feliz."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Es la primera vez, sabes. La primera vez<n>que animo a alguien... en lugar\nde<n>traerle mala suerte.",
+      "choice_data_list": [
+        "La hiciste feliz.",
+        "La hiciste feliz."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Mhm! Si ese es el caso... ¡entonces yo también estoy feliz!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Desde que tengo memoria, siempre me he<n>odiado a mí misma."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Pero después de hoy... Tal vez pueda aprender a<n>quererme. Jejeje."
+    },
+    {
+      "name": "Monologue",
+      "text": "Rice sonríe de oreja a oreja, sus ojos<n>brillando más que el cielo\nestrellado<n>nocturno."
+    }
+  ]
 }

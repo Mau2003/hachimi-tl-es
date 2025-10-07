@@ -2,254 +2,268 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narita Brian",
-      "text": "Very well, I'll leap at the chance to run!"
+      "text": "Tras unirse al equipo, el rendimiento de<n>Narita Brian no solo se estabiliza—<n>sino que mejora cada vez más."
     },
     {
-      "text": "And so, Narita Brian becomes the newest member of Team Sirius."
+      "text": "Con el Satsuki Sho ganado, lo siguiente es<n>la carrera más celebrada de la<n>Twinkle Series, el Tokyo Yushun—<n>el Derby Japonés."
     },
     {
-      "text": "I'll soon get to see exactly how boundless her talent really is."
-    },
-    {
-      "text": "After joining the team, Narita Brian doesn't just maintain her \nperformance levels—she exceeds them."
-    },
-    {
-      "text": "With the Satsuki Sho won, next will be the Twinkle Series' most \ncelebrated race, the Tokyo Yushun, Japanese Derby."
-    },
-    {
-      "name": "Reporter A",
-      "text": "After your last race, some are predicting you'll be a Triple Crown \nchampion! Are you confident you can become the fifth ever to do it?"
+      "name": "Reportero A",
+      "text": "Tras tu última carrera, algunos predicen<n>que serás campeona de la Triple<n>Corona! ¿Confías en poder convertirte<n>en la quinta en lograrlo?"
     },
     {
       "name": "Narita Brian",
-      "text": "I didn't even get the second crown in the Japanese Derby yet. Why \nwould I be confident about anything?"
+      "text": "Ni siquiera tengo la segunda corona del<n>Derby Japonés todavía. ¿Para qué<n>adelantarse?"
     },
     {
-      "name": "Reporter B",
-      "text": "Racers who didn't participate in the Satsuki Sho will be running in the \nJapanese Derby. What's your strategy against these newcomers?"
+      "name": "Reportero B",
+      "text": "Corredoras que no participaron en el<n>Satsuki Sho competirán en el Derby<n>Japonés. ¿Cuál es tu estrategia contra<n>estas nuevas rivales?"
     },
     {
       "name": "Narita Brian",
-      "text": "Strategy? Hmph… All I need to do is get to the finish line first."
+      "text": "¿Estrategia? Hmph... Solo necesito<n>llegar primero a la meta."
     },
     {
-      "name": "Reporter C",
-      "text": "Ms. Brian, please, over here!"
+      "name": "Reportero C",
+      "text": "¡Brian, por aquí, por favor!"
     },
     {
-      "name": "Reporter D",
-      "text": "Huh?! Me first, Ms. Brian!"
+      "name": "Reportero D",
+      "text": "¡¿Eh?! ¡Yo primero, oye Brian!"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Just look at the number of journalists.",
+      "text": "Mira nada más la cantidad de periodistas."
+    },
+    {
+      "name": "<username>",
+      "text": "Todos la tienen en la mira ahora mismo."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Va en una racha de cinco victorias<n>seguidas, con dos de ellas carreras G1.<n>Ese impulso la llevó directo al Derby<n>Japonés."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Cuando llegue el gran día, no dudo que<n>será la favorita.",
       "choice_data_list": [
-        "Everyone's got their eyes on her right now."
+        "...¿Hay algo malo en eso?"
       ]
     },
     {
       "name": "Mejiro McQueen",
-      "text": "She's in the middle of a five-win streak, with two of them being G1 \nraces. That momentum has taken her straight to the Japanese Derby."
+      "text": "La cosa es que las expectativas altas<n>significan que un tropiezo podría<n>causar un daño inmenso... como<n>lo que me pasó a mí."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "I'm sure she'll be favored to win the race…"
+      "text": "¿Cómo enfrentará la presión de ser la<n>favorita en una carrera tan<n>importante? Será su momento de la verdad."
     },
     {
-      "name": "Trainer",
-      "text": "Something wrong?"
+      "name": "Uma Musume A",
+      "text": "¡Déjame hacer un sprint más en la<n>pista con rampa!"
     },
     {
-      "name": "Mejiro McQueen",
-      "text": "High expectations mean one misstep could do immense damage, like \nwhat happened to me once."
+      "name": "Entrenador Veterano A",
+      "text": "¡Buena idea—adelante!"
     },
     {
-      "name": "Mejiro McQueen",
-      "text": "How will she face the pressure of being the favorite in such an \nimportant race? It'll be a moment of truth for her."
+      "name": "Entrenador Veterano B",
+      "text": "El Derby Japonés son 2,400 metros.<n>¡Debemos grabar el ritmo ideal en<n>tu memoria muscular!"
     },
     {
-      "name": "Umamusume A",
-      "text": "Let me do one more sprint on the ramp!"
-    },
-    {
-      "name": "Veteran Trainer A",
-      "text": "Good idea—go for it!"
-    },
-    {
-      "name": "Veteran Trainer B",
-      "text": "The Japanese Derby is 2,400 meters. We've gotta set that pace into \nyour muscle memory!"
-    },
-    {
-      "name": "Umamusume B",
-      "text": "All right, understood!"
+      "name": "Uma Musume B",
+      "text": "¡Está bien, entendido!"
     },
     {
       "name": "Rice Shower",
-      "text": "The mood on the training course has been so tense lately…"
+      "text": "El ambiente en la pista de entrenamiento<n>ha estado tan tenso últimamente..."
     },
     {
       "name": "Winning Ticket",
-      "text": "Yeah, well it's the Derby! Everybody's desperate for this \nonce-in-a-lifetime chance."
+      "text": "Sí, ¡pues es el Derby! Todos están<n>desesperados por esta oportunidad<n>única en la vida."
     },
     {
       "name": "Gold Ship",
-      "text": "That's not all. Heaps of peeps have been watching Narita Brian train!"
+      "text": "Eso no es todo. ¡Montones de personas<n>han estado observando a Brian entrenar!"
     },
     {
-      "text": "They're all devising ways to beat her."
+      "name": "<username>",
+      "text": "Todos están ideando formas de vencerla."
     },
     {
-      "text": "Her rivals are persistent, and they've all marked Brian as their target. \nWinning the Derby's not going to be easy."
+      "text": "Sus rivales son persistentes, y todas<n>han marcado a Brian como su objetivo.<n>Ganar el Derby no será fácil."
     },
     {
-      "text": "Which makes <I>that</I> all the more important…"
+      "text": "Lo que hace que algo en particular sea<n>aún más importante..."
     },
     {
       "name": "Winning Ticket",
-      "text": "Hey, Trainer, aren't you gonna get <I>the call</I> soon?"
+      "text": "Oye, Entrenador, ¿no vas a recibir pronto el gran<n>anuncio?"
     },
     {
-      "text": "Right, I'll go check. Everyone keep training."
+      "name": "<username>",
+      "text": "Cierto, iré a revisar. Que todos sigan<n>entrenando."
     },
     {
-      "text": "Right, I'll go check. Everyone keep training."
+      "name": "<username>",
+      "text": "Cierto, iré a revisar. Que todos sigan<n>entrenando."
     },
     {
       "name": "Gold Ship",
-      "text": "Hey, what's this about a call?"
+      "text": "Oye, ¿de qué se trata esto?"
     },
     {
       "name": "Winning Ticket",
-      "text": "They say only the luckiest racer wins the Derby, right? Well, we're \nabout to find out whether Brian's got the luck."
+      "text": "Dicen que solo la corredora más afortunada gana el<n>Derby, ¿verdad? Bueno, estamos<n>a punto de descubrir<n>si Brian tiene la suerte."
     },
     {
-      "text": "Brian's good at keeping up with the lead pack in a race. So it'll be \nimportant to get into a good position while conserving her stamina as \nmuch as possible."
+      "text": "Brian es buena manteniéndose con el grupo<n>delantero en una carrera. Así que será<n>importante conseguir<n>una buena posición mientras ahorra su<n>resistencia lo<n>más posible."
     },
     {
-      "text": "And the key to that is having the right starting gate."
+      "text": "Y la clave para eso es tener la<n>puerta de salida correcta."
     },
     {
-      "text": "No way…"
+      "name": "<username>",
+      "text": "No puede ser..."
     },
     {
-      "text": "No way…"
+      "name": "<username>",
+      "text": "No puede ser..."
     },
     {
-      "text": "Post eight-seventeen… The farthest from the inside rail, with the most \nground to cover. Luck isn't on Brian's side."
+      "text": "Puerta diecisiete... La más alejada de<n>la barrera interior, con más<n>terreno que<n>cubrir. La suerte no está del lado de Brian."
     },
     {
       "name": "Caster",
-      "text": "It's the big day of the Tokyo Yushun, Japanese Derby!"
+      "text": "¡Por fin es el día del Tokyo<n>Yushun—el Derby Japonés!"
     },
     {
       "name": "Caster",
-      "text": "Will the standout favorite Narita Brian take the win? Or will it be one \nof her many rivals who've pushed so far to make it here?"
+      "text": "¿Ganará la gran favorita Narita Brian?<n>¿O será una de sus muchas<n>rivales que se esforzaron tanto para llegar<n>hasta aquí?"
     },
     {
-      "name": "Veteran Trainer A",
-      "text": "You're in perfect shape! Believe in yourself and run with all you've \ngot!"
+      "name": "Entrenador Veterano A",
+      "text": "¡Estás en perfecta forma! Cree en ti misma<n>y corre con todo lo que<n>tienes!"
     },
     {
       "name": "Umamusume A",
-      "text": "Okay! When I'm out there, I'll remember all the training I did!"
+      "text": "¡Bien! Cuando esté ahí, recordaré<n>todo el entrenamiento que hice!"
     },
     {
-      "name": "Veteran Trainer B",
-      "text": "A good start is key! Take all the advantage that inside post has to \ngive!"
+      "name": "Entrenador Veterano B",
+      "text": "¡Un buen inicio es clave! Aprovecha todas las<n>ventajas que ofrece la<n>puerta interior!"
     },
     {
       "name": "Umamusume B",
-      "text": "Thank you so much for training me! I'll definitely bring you back first \nplace!"
+      "text": "¡Muchas gracias por entrenarme!<n>¡Definitivamente te traeré el<n>primer lugar!"
     },
     {
-      "text": "The stands might be roaring with excitement, but the air back here is \ntense."
+      "name": "<username>",
+      "text": "Puede que las gradas estén rugiendo de<n>emoción, pero el ambiente aquí atrás está<n>tenso,<n>¿eh?"
     },
     {
-      "text": "The stands might be roaring with excitement, but the air back here is \ntense."
-    },
-    {
-      "name": "Narita Brian",
-      "text": "…"
-    },
-    {
-      "text": "You know the Derby's special. Every racer's trained their heart out to \nget the glory here."
-    },
-    {
-      "text": "You know the Derby's special. Every racer's trained their heart out to \nget the glory here."
-    },
-    {
-      "text": "And they've been prepped to go up against you specifically. Plus \nyou're in the worst starting gate."
-    },
-    {
-      "text": "And they've been prepped to go up against you specifically. Plus \nyou're in the worst starting gate."
-    },
-    {
-      "text": "Obviously, winning this is going to be a challenge, so…"
-    },
-    {
-      "text": "Obviously, winning this is going to be a challenge, so…"
+      "name": "<username>",
+      "text": "Puede que las gradas estén rugiendo de<n>emoción, pero el ambiente aquí atrás está<n>tenso,<n>¿eh?"
     },
     {
       "name": "Narita Brian",
-      "text": "So what?"
+      "text": "..."
     },
     {
-      "text": "Huh?"
+      "name": "<username>",
+      "text": "Sabes que el Derby es especial. Cada<n>corredora ha entrenado con el alma para<n>tener una<n>oportunidad de gloria aquí."
+    },
+    {
+      "name": "<username>",
+      "text": "Sabes que el Derby es especial. Cada<n>corredora ha entrenado con el alma para<n>tener una<n>oportunidad de gloria aquí."
+    },
+    {
+      "name": "<username>",
+      "text": "Y se han preparado para enfrentarse<n>a ti específicamente. Además,<n>estás en la<n>peor puerta de salida."
+    },
+    {
+      "name": "<username>",
+      "text": "Y se han preparado para enfrentarse<n>a ti específicamente. Además,<n>estás en la<n>peor puerta de salida."
+    },
+    {
+      "name": "<username>",
+      "text": "Obviamente, ganar esto será un<n>desafío, así que..."
+    },
+    {
+      "name": "<username>",
+      "text": "Obviamente, ganar esto será un<n>desafío, así que..."
     },
     {
       "name": "Narita Brian",
-      "text": "I don't need to worry about any of that. All I need to do is rip through \nthe pack and win."
+      "text": "¿Y qué?"
     },
     {
-      "text": "Ready or not, the Derby gates open, and I'm reminded once again…"
+      "name": "<username>",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No necesito preocuparme por nada de eso.<n>Solo necesito abrirme paso entre<n>el grupo<n>y ganar."
+    },
+    {
+      "text": "Listas o no, las puertas del Derby se abren, y<n>me acuerdo una vez más..."
     },
     {
       "name": "Caster",
-      "text": "They're at the last turn, and Narita Brian's sweeping in from far \noutside! Just like that, she's taken the lead!"
+      "text": "¡Están en la última curva, y Narita<n>Brian se acerca desde muy<n>afuera! ¡Así<n>nomas, ha tomado la delantera!"
     },
     {
       "name": "Caster",
-      "text": "She blasts ahead—that's it! Brian wins it!"
+      "text": "¡Avanza a toda velocidad—eso es todo! ¡Brian gana!"
     },
     {
       "name": "Caster",
-      "text": "Narita Brian has her second crown! With an unbelievable five-length \nlead, the Satsuki Sho winner has claimed another amazing victory!"
+      "text": "¡Narita Brian tiene su segunda corona! Con una<n>increíble ventaja de cinco<n>longitudes, la ganadora del Satsuki<n>Sho ha conseguido otra victoria asombrosa!"
     },
     {
-      "text": "<I>Cheers!</I>",
-      "choice_data_list": [
-        "No matter the opponent, no matter their \nstrategy, no matter the odds, she still wins!",
-        "Hey, rockstar! You tore up the competition!"
-      ]
+      "text": "¡Wuuuuu!"
     },
     {
-      "name": "Winning Ticket",
-      "text": "Uwaaagh! That was better than anyone could hope for! Another \nDerby legend is born <I>TODAAAY</I>!"
-    },
-    {
-      "name": "Trainer",
-      "text": "She always does the unexpected!"
-    },
-    {
-      "name": "Trainer",
-      "text": "She always does the unexpected!"
-    },
-    {
-      "name": "Narita Brian",
-      "text": "I don't care how other people see me."
-    },
-    {
-      "name": "Narita Brian",
-      "text": "I've said it before—the Derby, the Triple Crown… They're all just \nstepping stones."
+      "text": "¡No importa la rival, no importa su<n>estrategia, no importan las probabilidades,<n>ella igual gana!"
     },
     {
       "name": "Gold Ship",
-      "text": "Um, hey, didn't she just run 2,400 meters? Does she breathe like the \nrest of us?"
+      "text": "¡Oye, superestrella! ¡Destrozaste a la<n>competencia!"
     },
     {
       "name": "Winning Ticket",
-      "text": "Now that you mention it…"
+      "text": "¡Uuuuuh! ¡Eso fue mejor de lo que nadie<n>podría haber esperado!<n>¡Otra leyenda del Derby<n>nace <i>HOOOY</i>!",
+      "choice_data_list": [
+        "¡No dejas de subir el listón, Brian!",
+        "¡No dejas de subir el listón, Brian!"
+      ]
+    },
+    {
+      "name": "Narita Brian",
+      "text": "No me importan las expectativas de los<n>demás. Como dije antes..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "El Derby, la Triple Corona... Todas son<n>solo peldaños."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Um, oye, ¿acaba de correr 2,400 metros?<n>¿Respira como el resto de<n>nosotras?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Ahora que lo mencionas..."
+    },
+    {
+      "name": "<username>",
+      "text": "Jajaja, tienes que estar bromeando..."
+    },
+    {
+      "name": "<username>",
+      "text": "Jajaja, tienes que estar bromeando..."
+    },
+    {
+      "text": "Soy su entrenadora, pero ni siquiera yo sé<n>realmente de lo que es capaz. Apenas<n>puedo<n>ocultar lo emocionada que eso me pone."
     }
   ]
 }

@@ -1,123 +1,128 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Sakura Bakushin O",
-            "text": "…Excuse me, Trainer."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "You look like you're on edge. \nWhat's wrong?",
-            "choice_data_list": [
-                "I want you to win…"
-            ]
-        },
-        {
-            "text": "If you're a sprinter, this is the pinnacle stage \nthat everyone dreams of standing on, at \nleast once. \nThis is a race I really want her to win."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Well, I'll win it. Because I'm the class \npresident."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Besides, we've got to get \nback on track from here on out!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I'm a little off the Bakushin Road that I \nstarted out on…"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "With my overwhelming speed, I'll win this \nSprinters Stakes in a world record!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Then, we'll head to the Tenno Sho and \nArima Kinen, as originally planned!"
-        },
-        {
-            "text": "…She wants to call it quits on short \ndistances, once and for all."
-        },
-        {
-            "text": "But I'd love to see her run next year, \nwhen she'll be even faster than she \nis now. How to convince her…… \nAh, over there."
-        },
-        {
-            "text": "(Knock, knock)"
-        },
-        {
-            "name": "???",
-            "text": "Um, is it okay if I come in now…?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Certainly, go right ahead! \nWe'll take you any time at all!"
-        },
-        {
-            "name": "Nishino Flower",
-            "text": "Hello, Ms. Bakushin O."
-        },
-        {
-            "text": "Nishino Flower. A sprinter who debuted at \nthe same time as Sakura Bakushin O. \nShe's a talented Uma who is rapidly making \na name for herself.",
-            "color_text_info_list": [
-                "Nishino Flower"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Oya, Ms. Nishino Flower! \nWelcome to the class president's humble \nabode!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "What can I do for you? \nYou can count on me for anything at \nall―and don't hold back!"
-        },
-        {
-            "name": "Nishino Flower",
-            "text": "Huh? \nNo, I just wanted to say hello to you…"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Is it about today's race? \nIf so, ask me anything!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I'll give advice to my rivals, because I'm an \nhonor student!"
-        },
-        {
-            "name": "Nishino Flower",
-            "text": "Uuuh… um, I'm glad to hear you're \ndoing well!"
-        },
-        {
-            "text": "Her meek demeanor belies the fact that she \nhas great speed. She'll be Bakushin's \nbiggest rival in today's race."
-        },
-        {
-            "text": "Competing against Nishino Flower will surely \nbe an inspiration for Sakura Bakushin O. \nI can't wait to see it!",
-            "choice_data_list": [
-                "Do your best today, both of you.",
-                "Do your best today, both of you."
-            ]
-        },
-        {
-            "name": "Nishino Flower",
-            "text": "Yes! \nI'm looking forward to it."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Now then, let's get to it! \nFor the sake of going down the Bakushin \nRoad…!"
-        },
-        {
-            "name": "Nishino Flower",
-            "text": "Bakushin Road? \n…What is that?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "It's the path the class president will take!!"
-        },
-        {
-            "name": "Nishino Flower",
-            "text": "…? \nIs, is that… so?"
-        },
-        {
-            "text": "…I'm looking forward to this!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Sakura Bakushin O",
+      "text": "...Em, ¿Entrenador?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Pareces nervioso por algo,<n>¿qué sucede?",
+      "choice_data_list": [
+        "Solo quiero que ganes..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Todo velocista sueña al menos una<n>vez con\ncompetir con los mejores de<n>los mejores. Esta es una\ncarrera que<n>definitivamente quiero verla ganar."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Yo <i>sí</i> ganaré. Después de todo, soy<n>la representante\nde clase."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Sin embargo, creo que hay necesidad<n>de algo de\ncorrección de curso!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Creo que quizás me he desviado del<n>Camino\nBakushin, el camino que tuve<n>desde el principio..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Así que estableceré un récord en<n>las Sprinters\nStakes con mi velocidad sónica!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Dicho todo esto, ¡apuntemos al Tenno<n>Sho y al\nArima Kinen, como<n>planeamos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que quiere hacer de esta<n>carrera su último\nsprint..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero quiero que siga<n>sprinteando, especialmente\ncuando pienso en<n>cuánto más rápida será el\npróximo año.<n>Estoy tratando de idear alguna\nforma de<n>convencerla, cuando..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Toc, toc.</i>"
+    },
+    {
+      "name": "???",
+      "text": "Disculpe, ¿podría darme un<n>momento?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Claro, pasa! ¡Siempre estoy<n>lista para una\nvisita!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Hola, Bakushin O."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nishino Flower. Debutó como<n>velocista al mismo\ntiempo que Sakura<n>Bakushin O. Tiene\nhabilidades, y<n>su nombre rápidamente se está\nhaciendo conocido."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Vaya si no es Nishino Flower! ¡Te<n>doy la\nbienvenida a la morada de la<n>representante de clase!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Necesitas consejo? Definitivamente<n>prestaré\noido, ¡así que hablemos!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¿Eh? Oh no, solo pasé a saludar..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Es sobre la carrera de hoy? Si es<n>así, ¡siéntete\nlibre de preguntarme<n>lo que quieras!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Como representante de clase, no<n>me\ncontendré al dar consejos a mi<n>rival y\ncompañera de carrera!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "Oh... em, ¡me alegra verte de buen<n>ánimo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esta chica corre a una velocidad<n>remarkable, a\npesar de lo que su<n>suave actitud sugiere. Seguro\nserá la<n>competencia más feroz de hoy."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Competir contra Nishino Flower<n>definitivamente\nserá un desafío para Sakura<n>Bakushin O. ¡Estoy\nemocionado de<n>ver qué pasará!",
+      "choice_data_list": [
+        "Espero verlas a ambas dándolo todo hoy.",
+        "Espero verlas a ambas dándolo todo hoy."
+      ]
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¡Lo haré! Espero competir contigo."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Ahora, partamos! ¡El Camino<n>Bakushin aguarda!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¿El Camino Bakushin? ¿Qué es eso?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Es el camino que una<n>representante de clase\ndebe recorrer!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¿Es... eso así?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...¡No puedo esperar!"
+    }
+  ]
 }

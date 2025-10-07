@@ -1,11 +1,13 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "There is something wrong with <chrname>…"
-        },
-        {
-            "text": "When I asked him about it, she seemed to be\na bit of a night owl lately."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Algo anda un poco mal con<n>\n<chrname>..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cuando le pregunto al respecto, me<n>entero de que\nno ha estado durmiendo<n>bien recientemente."
+    }
+  ]
 }

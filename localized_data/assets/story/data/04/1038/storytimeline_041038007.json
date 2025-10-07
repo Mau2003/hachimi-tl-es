@@ -1,304 +1,319 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "The summer training camp has finally begun. \nAs I stood with Curren Chan I felt the \noverwhelmingly harsh heat of the sun upon us…"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "It's so hot… \nMy energy is draining away…"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "I'm really bad with the heat… \nI'm gonna fall over and melt…",
-            "choice_data_list": [
-                "Let's do our best, \nbut be sure to not overdo it."
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "So… If I work hard, would \nyou take me on a date as a reward?",
-            "choice_data_list": [
-                "Eh!?"
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "There's a summer festival being held tonight. \nIf you promise to go with me, I think I'll be okay…"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "<i>*glance*</i>",
-            "choice_data_list": [
-                "Alright, it's a promise…",
-                "Alright, it's a promise…"
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Yay☆ Alrighty then, I'm gonna work super hard♪"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Ehehe, I'm so excited for the summer festival♪"
-        },
-        {
-            "text": "As promised, she pushed through the blistering heat… \nOr rather, it seemed more like the heat wasn't having \nany effect on her as she trained. But a promise is a promise…"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Onee-chan♪ Look, they're selling candy apples!"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Onee-chan♪ Look, they're selling candy apples!"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "They're so red, round, and shiny! \nThey're so cute! I want one!",
-            "choice_data_list": [
-                "I'll buy you one.",
-                "I'll buy you one."
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Yay! Thank you so much♪"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Mister! I'd like a candy apple, please. \nAlso, may I take a picture with you in your stand?"
-        },
-        {
-            "name": "Elder Stallkeeper",
-            "text": "Oh, what a cute young lady! Of course, \nif a stall like mine is good enough that is!"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Yay, thank you so much. \nAll these candy apples as my backdrop…"
-        },
-        {
-            "text": "<i>*snap snap*</i>"
-        },
-        {
-            "name": "Elder Stallkeeper",
-            "text": "Ah, what a nice picture! Alright, \nhere's another one on the house!"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Eh? Is that really okay?"
-        },
-        {
-            "name": "Elder Stallkeeper",
-            "text": "Of course, your bright smile \nreminds me of home, young lady. Plus…"
-        },
-        {
-            "name": "Festivalgoer A",
-            "text": "Hey, isn't that girl super cute? \nLet's get ourselves some candy apples too!"
-        },
-        {
-            "name": "Festivalgoer B",
-            "text": "Yeah, I can't wait to try some! \nWe've gotta get some pics too!"
-        },
-        {
-            "name": "Elder Stallkeeper",
-            "text": "Having you eat my candy apples is the \nbest publicity I could ever ask for, young lady!"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Heehee♪ Then, don't mind \nif I take you up on that offer!"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Onee-chan, I got this second candy apple for free! \nWould you like to eat it together with me? ♪"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Onee-chan, I got this second candy apple for free! \nWould you like to eat it together with me? ♪"
-        },
-        {
-            "text": "<UNTRANSLATED>"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "\"#SummerFestival #SoHappy #ILoveFestivals #ILoveSummer\" Ehehe, I \nwonder if seeing my smile will make my followers happy too♪"
-        },
-        {
-            "text": "Thanks to all of this Curren Chan seemed to be \nin a great mood, happily enjoying the festival, until…"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Onee-chan! I want to…"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Onee-chan! I want to…"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "What's with all that noise…?"
-        },
-        {
-            "text": "(Fyuuuuuu… BANG!)"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Kyaa…!?"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Ah… Fireworks…? \nEhh, I didn't know they had those here…",
-            "choice_data_list": [
-                "They're beautiful, huh?",
-                "They're beautiful, huh?"
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Yeah… They are…"
-        },
-        {
-            "name": "Festivalgoer A",
-            "text": "Amazing! The fireworks are like super beautiful! \nThey're hella chic!"
-        },
-        {
-            "name": "Elder Stallkeeper",
-            "text": "Wow, they really went all out this year, huh? Tamaya!!!!"
-        },
-        {
-            "text": "Fireworks bursting throughout the night sky. \nI looked around and noticed that everyone at the \nfestival was looking up to the sky at them. However…"
-        },
-        {
-            "text": "Under the light of the fireworks it seemed \nlike something was bothering Curren Chan.",
-            "choice_data_list": [
-                "Curren…?"
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Onee-chan, can we leave?"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Onee-chan, can we leave?"
-        },
-        {
-            "text": "With her back to the fireworks, \nCurren Chan walked away absent-mindedly."
-        },
-        {
-            "text": "Before I knew it, we were standing on the beach."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "The thing is… I don't really like… fireworks…",
-            "choice_data_list": [
-                "Eh…?"
-            ]
-        },
-        {
-            "text": "That was the last thing I expected her to say. \nShe usually never says anything negative, \nso to hear her say that she didn't like something…"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "You see, when fireworks go off everyone looks \nup and stares at them, right? They do that despite \nme being right here in front of them…"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Fireworks explode so glamorously and in such a loud bang, causing \neveryone to obsessively stare at them. In other words, all of \ntheir attention is being stolen away from me."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "When I was a kid, fireworks would make me so \nfrustrated that I'd end up crying. So that's why I decided…"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "I decided that I would become \ncuter than any firework out there!!",
-            "choice_data_list": [
-                "Hmm…?"
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "I won't continue to lose to fireworks. \nInstead, I'll bloom into a huge, beautiful flower myself!"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Then I'll be able to steal back everyone's attention, forcing \nthem to obsess over me instead. I'm going to make everyone around \nthe world fall in love with me."
-        },
-        {
-            "text": "Her dream seems a bit grandiose, however, the way she spoke was \nfilled with undeniable confidence. She suddenly fell silent, \nstaring at me as if challenging me."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Hey, Onee-chan. I'm…"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Hey, Onee-chan. I'm…"
-        },
-        {
-            "text": "Her eyes shined so brightly that it made me forget the sounds \nof the fireworks as well as the faint moonlight falling upon us.",
-            "choice_data_list": [
-                "You're already cuter than any firework."
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Hehe… Thank you, Onee-chan."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Hehe… Thank you, Onee-chan."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Hehe…♪",
-            "choice_data_list": [
-                "???"
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "You've finally done it… You finally called me \n\"cute\" from the bottom of your heart, Onee-chan♪",
-            "choice_data_list": [
-                "Eh?"
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "You've finally done it… You finally called me \n\"cute\" from the bottom of your heart, Onee-chan♪",
-            "choice_data_list": [
-                "Eh?"
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Onee-chan, you've been obsessing over me lately, huh? \nYou feel like you need to know, need to \nunderstand who the real Curren is, don't you…?"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Onee-chan, you've been obsessing over me lately, huh? \nYou feel like you need to know, need to \nunderstand who the real Curren is, don't you…?"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Hey… Would you mind… obsessing \nover me a little bit more tonight…?",
-            "choice_data_list": [
-                "I-I have to get back home…"
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Nope, you won't be getting away from me! \nYou'll be staying with me until I've had my fill, right?"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Cause if you stay, you'll get to \nhave me all to yourself tonight… Teehee♪"
-        },
-        {
-            "text": "Perhaps Curren Chan was toying with me again. \nOr maybe she was simply trying to make me call her cute again."
-        },
-        {
-            "text": "Well regardless, I was finally able to see a bit \nof what makes Curren Chan sparkle… I think…"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Nuestro campamento de entrenamiento de verano está en pleno apogeo,<n>y Curren está afuera entrenando\nbajo el<n>calor abrasador del sol."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Taaan caaaliente... Demasiado cansada..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Creo que soy alérgica al calor... Me estoy<n>derritiendo...",
+      "choice_data_list": [
+        "¡Hagamos todo lo que podamos!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Entonces, ¿qué tal esto...? Si me esfuerzo mucho, ¿<n>saldrías a una cita\nconmigo?",
+      "choice_data_list": [
+        "¡¿Qué?!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Por lo visto, hay un festival esta<n>noche. Si me prometes que\nirás<n>conmigo, creo que podría aguantar..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Pista pista. ♥",
+      "choice_data_list": [
+        "¡...Es una promesa!",
+        "¡...Es una promesa!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Hurra! ☆ ¡Ahora me siento completamente renovada!<n>♪"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "<i>Jadeo... jadeo...</i> ¡Ahhhh! ♪ Jeje, ¡vamos<n>a un festival! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como prometió, Curren entrena bajo el<n>calor... Aunque, para ser\nsincero, no<n>parece que le moleste para nada. Pero no<n>puedo romper mi\npromesa, así que..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Hermanooo! ♪ Mira, mira—¡tienen<n>manzanas acarameladas!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Hermanaaa! ♪ Mira, mira—¡tienen manzanas<n>acarameladas!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Rojas, redondas y brillantes... ¡Son taaan lindas!<n>Si tan solo pudiera conseguir una...",
+      "choice_data_list": [
+        "Te compro una.",
+        "Te compro una."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Yuju! ¡Muchas gracias! ♪"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Señor, una manzana acaramelada, por favoooor. Oh,<n>¿y le importa si me\ntomo una<n>foto con su puesto también?"
+    },
+    {
+      "name": "Dueño del Puesto",
+      "text": "¡Oye, señorita linda! Adelante—¡claro que sí,<n>si es que mi humilde\npuesto es lo<n>suficientemente bueno para usted!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Sí, muchas gracias, señor! Que salgan todas<n>estas manzanas\nacarameladas en la<n>foto conmigo, y..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Flash, flash!</i>"
+    },
+    {
+      "name": "Dueño del Puesto",
+      "text": "¡Oh, me encanta tu actitud! Toma, otra<n>manzana—¡es cortesía de la casa!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¿Eh? ¿En serio?"
+    },
+    {
+      "name": "Dueño del Puesto",
+      "text": "¡No te preocupes! Tu preciosa sonrisa es<n>más que suficiente pago,\nseñorita. Sin<n>mencionar que..."
+    },
+    {
+      "name": "Asistente A",
+      "text": "Oye oye, ¿no es que es, como, <i>súper</i> linda?<n>¡Deberíamos comprar una\nmanzana acaramelada<n>también!"
+    },
+    {
+      "name": "Asistente B",
+      "text": "¡Tienes razón! ¡De repente también se me antoja una!<n>¡Y tomémonos una foto\nde paso!"
+    },
+    {
+      "name": "Dueño del Puesto",
+      "text": "Que comas en mi puesto está haciendo<n>maravillas para atraer\nclientes."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Jeje! ♪ ¡Entonces, no me hago de rogar!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hermano, conseguí una manzana acaramelada extra<n>para ti. ¡Tomémonos\nuna foto juntos! ♪"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hermana, conseguí una manzana acaramelada extra<n>para ti. ¡Tomémonos\nuna foto juntos! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Flash, flash!</i>"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "\"#FestivalDeVerano #TanFeliz<n>#AmorFestival #AmorDeVerano\" Jeje,<n>¿me pregunto si a todos les gustará mi sonrisa? ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sigo acompañando a Curren mientras<n>disfruta de las vistas y\naromas del<n>festival de verano."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Oye, hermano! Ahora, ¿podemos—"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Oye, hermana! Ahora, ¿podemos—"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¿Mmm? ¿De qué es todo este alboroto?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Puuuuu... ¡Bum!</i>"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Ay!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Oh... ¿fuegos artificiales? Vaya, qué susto<n>me dieron...",
+      "choice_data_list": [
+        "¿Bonitos, verdad?",
+        "¿Bonitos, verdad?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...Sí. Tienes... razón."
+    },
+    {
+      "name": "Asistente A",
+      "text": "¡Vaya, los fuegos artificiales son tan hermosos!<n>Incluso preciosos."
+    },
+    {
+      "name": "Dueño del Puesto",
+      "text": "Hombre, este año se lucieron. Mira,<n>¡otro más!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Deslumbrantes fuegos artificiales iluminan el cielo nocturno.<n>Pronto, casi todos\nlos asistentes<n>contemplan felices el espectáculo. Sin embargo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cuando miro a Curren, su expresión<n>está nublada...",
+      "choice_data_list": [
+        "¿Curren?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...Hermano, vámonos."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...Hermana, vámonos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Curren le da la espalda a los fuegos artificiales y<n>me lleva lejos de la\nmultitud."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al poco tiempo, llegamos a una playa bajo la luz de la luna."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Sabes, yo... no me gustan los fuegos artificiales.",
+      "choice_data_list": [
+        "¿Mmm?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me sorprende un poco. Nunca pensé que<n>escucharía a la siempre\npositiva Curren Chan<n>declarar que simplemente \"no le gusta\"<n>algo."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Cada vez que hay fuegos artificiales, todos miran<n>hacia arriba, ¿verdad?\nAunque yo esté<n>justo aquí abajo..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Son llamativos, ruidosos y roban<n>toda la atención. Me arrebatan toda\nla<n>atención que he trabajado tanto para ganar."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Cuando era niña, eso me frustraba hasta<n>las lágrimas. Por eso... me\nhice una<n>promesa."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Que me volvería más linda que esos<n>fuegos artificiales!",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "No perderé contra esos fuegos artificiales brillantes. Brillaré<n>más—¡volaré más\nalto que lo que<n>ninguno de ellos pueda soñar!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Robaré de nuevo el centro de atención y haré<n>que todos miren <i>hacia\nmí.</i> Un día,<n>todo el mundo tendrá sus ojos pegados<n>solo en mí!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es un sueño ambicioso, por decir lo menos,<n>pero la voz de Curren rebosa\nconfianza.<n>Después de un momento de silencio, me<n>mira fijamente con una\nmirada aguda e inquisitiva."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Oye, hermano. ¿Qué piensas de mí<n>ahora mismo?"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Oye, hermana. ¿Qué piensas de mí<n>ahora mismo?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por un momento, el estruendo de los fuegos<n>artificiales y la tenue\nluz<n>lunar se desvanecen en el fondo, dejando<n>solo sus ojos\nbrillantes frente a los míos.",
+      "choice_data_list": [
+        "¡Eres más linda que todos esos fuegos artificiales!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...Jeje. Gracias, hermano."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...Jeje. Gracias, hermana."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Jejeje... ♪",
+      "choice_data_list": [
+        "...?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Por fin... ¡pude escucharte decir que soy linda con<n>tus propias\npalabras! ♪",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Por fin... ¡pude escucharte decir que soy linda con<n>tus propias\npalabras! ♪",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hermano, has estado pensando en mí<n>mucho últimamente, ¿verdad?\nSobre cómo<n>quieres conocerme y entenderme mejor."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hermana, has estado pensando en mí<n>mucho últimamente, ¿verdad?\nSobre cómo<n>quieres conocerme y entenderme mejor."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Entonces, oye... ¿Por qué no sigues pensando<n>en mí, y solo en mí?",
+      "choice_data_list": [
+        "Eh... ¡vámonos a casa!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "No-no, ¡no te vas a escapar! Te<n>quedarás conmigo hasta que yo\nesté satisfecha, ¿vale?"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Esta noche, te dejaré tenerme <i>toda</i> para ti.<n>¡Jeje! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Quizás todo esto fue solo otra de las<n>bromas de Curren. Quizás todo\nlo que<n>quería era que le dijera lo linda que es."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero quizás, solo quizás... siento que pude<n>vislumbrar a la verdadera\nCurren<n>brillando hoy."
+    }
+  ]
 }

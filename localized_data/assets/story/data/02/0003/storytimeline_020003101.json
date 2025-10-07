@@ -2,175 +2,181 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narration",
-      "text": "They called it the Derby with the greatest racers of all time."
+      "name": "Narración",
+      "text": "Lo llamaron el Derby con las mejores<n>corredoras de todos los tiempos."
     },
     {
-      "name": "Narration",
-      "text": "Among such amazing runners, no one thought of her as special."
+      "name": "Narración",
+      "text": "Entre corredoras tan increíbles, nadie<n>la consideraba especial."
     },
     {
-      "name": "Narration",
-      "text": "But she knew who she was."
+      "name": "Narración",
+      "text": "Pero ella sabía quién era."
     },
     {
-      "name": "Narration",
-      "text": "To leave her past defeats behind, she unleashed all her being into \nthe final sprint and, in a burst of blinding light, stood victorious at the \nfinish."
+      "name": "Narración",
+      "text": "Para dejar atrás sus derrotas pasadas,<n>liberó todo su ser en el\nsprint final<n>y, en un estallido de luz cegadora, se<n>alzó victoriosa en la\nmeta."
     },
     {
-      "name": "Narration",
-      "text": "That light had a name—Eishin Flash."
+      "name": "Narración",
+      "text": "Esa luz tenía un nombre—Eishin Flash."
     },
     {
-      "name": "Narration",
-      "text": "The strongest are always those who believe in themselves and follow \ntheir own path."
+      "name": "Narración",
+      "text": "Los más fuertes siempre son aquellos que<n>creen en sí mismos y siguen\nsu propio<n>camino."
     },
     {
-      "text": "For Winning Ticket, the first race of the Classics, the Satsuki Sho, \nends in failure."
+      "text": "Para Winning Ticket, la primera carrera de<n>los Clásicos, el Satsuki Sho,\ntermina en fracaso."
     },
     {
-      "text": "The day after her defeat…"
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "<i>Huff… Huff…</i> Phew…"
+      "text": "El día después de su derrota..."
     },
     {
       "name": "Winning Ticket",
-      "text": "What was next, incline training?"
+      "text": "<i>Uff... Uff...</i> Uf..."
     },
     {
-      "text": "She's training like any other day, though I told her it's okay to rest \nright after a race.",
+      "name": "Winning Ticket",
+      "text": "¿Qué seguía, entrenamiento en pendiente?"
+    },
+    {
+      "text": "Está entrenando como cualquier otro día,<n>aunque le dije que está bien\ndescansar<n>justo después de una carrera.",
       "choice_data_list": [
-        "You're not too fatigued?",
-        "You're not too fatigued?"
+        "¿No estás demasiado fatigada?",
+        "¿No estás demasiado fatigada?"
       ]
     },
     {
       "name": "Winning Ticket",
-      "text": "Huh? Oh, I'm fine."
+      "text": "¿Eh? Oh, estoy bien."
     },
     {
       "name": "Winning Ticket",
-      "text": "You know, I kinda feel like I can't take a break, even for a day… \nEhehe."
+      "text": "Sabes, siento que no puedo tomar un<n>descanso, ni por un día...\nJeje."
     },
     {
       "name": "Winning Ticket",
-      "text": "So I'm gonna get on with incline training!"
+      "text": "¡Así que seguiré con el entrenamiento en pendiente!"
     },
     {
       "name": "Gold Ship",
-      "text": "She always lets her feelings take the wheel, so I thought she'd be all \nlike, \"Nooo, I lost!\""
+      "text": "Siempre deja que sus sentimientos<n>tomen el control, así que pensé\nque estaría<n>como \"¡Nooo, perdí!\""
     },
     {
       "name": "Mejiro McQueen",
-      "text": "But she doesn't seem to have her normal boundless energy. Losing the \nSatsuki Sho must've been a tremendous shock."
+      "text": "Pero no parece tener su energía<n>inagotable habitual. Perder el\nSatsuki Sho<n>debe haber sido un golpe tremendo."
     },
     {
       "name": "Gold Ship",
-      "text": "'Cause it means she could lose the Derby next."
+      "text": "Porque significa que podría perder el Derby<n>después."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Trainer, make sure to keep an eye on her please.",
+      "text": "Entrenador, por favor asegúrate de<n>vigilarla.",
       "choice_data_list": [
-        "I'm on it."
+        "Estoy en ello."
       ]
     },
     {
-      "text": "I say that, but I have no idea what to do for Winning Ticket right now."
+      "text": "Digo eso, pero no tengo idea de qué hacer<n>por Winning Ticket ahora\nmismo."
     },
     {
-      "text": "I go back to my office after training to find her in there."
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "Oh, Trainer."
-    },
-    {
-      "text": "Did you forget something?"
+      "text": "Regreso a mi oficina después del<n>entrenamiento y la encuentro allí."
     },
     {
       "name": "Winning Ticket",
-      "text": "No, just thought I'd watch a racing video."
+      "text": "Oh, Entrenador."
     },
     {
-      "text": "She's watching another Derby video. She comes here to do that \npretty often."
+      "name": "<username>",
+      "text": "¿Olvidaste algo?"
     },
     {
       "name": "Winning Ticket",
-      "text": "…"
+      "text": "No, solo pensé en ver un video de carreras."
     },
     {
-      "text": "But before, she would always get choked up and start yelling about \nhow emotional it is. This time she's just sitting here quiet as a mouse.",
+      "text": "Está viendo otro video del Derby. Viene<n>aquí a hacer eso con bastante\nfrecuencia."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "..."
+    },
+    {
+      "text": "Pero antes, siempre se emocionaba y<n>empezaba a gritar sobre lo\nconmovedor que<n>es. Esta vez solo está sentada tan<n>quieta como un ratón.",
       "choice_data_list": [
-        "Next it'll be your turn to race in the Derby.",
-        "Next it'll be your turn to race in the Derby."
-      ]
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "Wha?! O-oh, right… Yeah. I'll be in the race I've been watching since \nforever."
-    },
-    {
-      "text": "Usually she can't calm down once she starts talking about the Derby, \nbut she seems uneasy about something today."
-    },
-    {
-      "text": "I'm sorry we didn't win the Satsuki Sho…"
-    },
-    {
-      "text": "I'm sorry we didn't win the Satsuki Sho…"
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "Um, Trainer? Can I say something pretty obvious?"
-    },
-    {
-      "text": "Like what?"
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "In racing, there's times when you lose, huh?"
-    },
-    {
-      "text": "That's true, but we work hard so that doesn't happen, right?"
-    },
-    {
-      "text": "That's true, but we work hard so that doesn't happen, right?"
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "Yeah, but I tried my hardest in the Satsuki Sho. I did everything I \ncould have."
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "Still… it wasn't enough. I feel like I finally understand how hard racing \nreally is."
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "So now the videos I was always so excited to watch… It's like they've \nturned into something else."
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "I used to see the racers who lost and get all worked up like it was \nsome big theater performance."
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "But I had no idea what they were really feeling. How it felt when their \ndreams were shattered…",
-      "choice_data_list": [
-        "Tickezo… you okay?"
+        "Pronto será tu turno de correr en el Derby.",
+        "Pronto será tu turno de correr en el Derby."
       ]
     },
     {
       "name": "Winning Ticket",
-      "text": "Oh, ha ha… Guess I'm a little on edge!"
+      "text": "¿¡Wha?! O-oh, cierto... Sí. Estaré en la<n>carrera que he estado viendo\ndesde<n>siempre."
+    },
+    {
+      "text": "Usualmente no puede calmarse una vez que<n>empieza a hablar del Derby,\npero parece<n>inquieta por algo hoy."
+    },
+    {
+      "name": "<username>",
+      "text": "Lamento que no ganáramos el Satsuki Sho..."
+    },
+    {
+      "name": "<username>",
+      "text": "Lamento que no ganáramos el Satsuki Sho..."
     },
     {
       "name": "Winning Ticket",
-      "text": "Welp, I'd better get back soon or the dorm head will get pretty mad! \nSee you tomorrow!"
+      "text": "Um, ¿Entrenador? ¿Puedo decir algo bastante<n>obvio?"
     },
     {
-      "text": "She's gone, and the room falls silent except for the sound of the \nDerby video still playing."
+      "name": "<username>",
+      "text": "¿Como qué?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "En las carreras, hay veces que se pierde,<n>¿eh?"
+    },
+    {
+      "name": "<username>",
+      "text": "Eso es cierto, pero trabajamos duro para<n>que eso no pase, ¿verdad?"
+    },
+    {
+      "name": "<username>",
+      "text": "Eso es cierto, pero trabajamos duro para<n>que eso no pase, ¿verdad?"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Sí, pero di todo de mí en el Satsuki Sho.<n>Hice todo lo que pude."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Aún así... no fue suficiente. Siento que<n>finalmente entiendo lo difícil\nque son las<n>carreras."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Así que ahora los videos que siempre me<n>emocionaba ver... Es como si se\nhubieran<n>convertido en otra cosa."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Solía ver a las corredoras que perdían y<n>me alteraba como si fuera\nuna gran<n>obra de teatro."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Pero no tenía idea de lo que realmente<n>sentían. Cómo se sentían cuando\nsus sueños<n>se hacían añicos...",
+      "choice_data_list": [
+        "Tickezo... ¿estás bien?"
+      ]
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Oh, ja ja... ¡Supongo que estoy un poco nerviosa!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Bueno, ¡mejor me voy pronto o la jefa de<n>la residencia se enojará\nbastante! ¡Nos<n>vemos mañana!"
+    },
+    {
+      "text": "Se ha ido, y la habitación queda en silencio<n>excepto por el sonido del\nvideo del Derby<n>que sigue reproduciéndose."
     }
   ]
 }

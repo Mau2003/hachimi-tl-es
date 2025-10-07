@@ -1,262 +1,269 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Gold City",
-            "text": "Whoa, is this the training camp? It got a good feeling. This \natmosphere too. It looks like it can be used for shooting!",
-            "choice_data_list": [
-                "Welcome to the summer camp, Gold City!"
-            ]
-        },
-        {
-            "name": "Gold City",
-            "text": "Mm-hmm. I joined you in the middle of it, \nwell, I've got to take my time back."
-        },
-        {
-            "name": "City's Manager",
-            "text": "Thank you for your hard work, Trainer-san. I’m sorry the delivery \narrived late, our work got pushed.",
-            "choice_data_list": [
-                "I’ll take care of her"
-            ]
-        },
-        {
-            "name": "Gold City",
-            "text": "Well then, I’ll leave my luggage and change my clothes.",
-            "choice_data_list": [
-                "Let’s meet at the beach 20 minutes later!"
-            ]
-        },
-        {
-            "name": "Gold City",
-            "text": "Yes? I’ll be there in 10 minutes? Don’t underestimate \nthe preparation speed of a model."
-        },
-        {
-            "name": "City's Manager",
-            "text": "City! Just watch out for sunburn!"
-        },
-        {
-            "name": "Gold City",
-            "text": "Yeah-yeah, I got it, you know!"
-        },
-        {
-            "text": "In this way, the summer training camp of Gold City began."
-        },
-        {
-            "name": "Gold City",
-            "text": "Are we all cooking today? Huh? I have never cooked \nbefore. Wait, I can’t! I can’t! I can’t!"
-        },
-        {
-            "name": "Horsegirl A",
-            "text": "It will be okay! Just calm down. Eh, I’ve never \nseen such a panicked face before. Hehe."
-        },
-        {
-            "name": "Horsegirl B",
-            "text": "City-chan! Let’s go again, all lively from the morning!"
-        },
-        {
-            "name": "Gold City",
-            "text": "Ah~… sleep. I don’t have to practice early \nin the morning. Seriously, not possible…"
-        },
-        {
-            "name": "Gold City",
-            "text": " Then, let’s run 1 more time! But, this time I’ll win!"
-        },
-        {
-            "name": "Horsegirl C",
-            "text": "…Interesting. I won’t lose. You can bet 3 high-grade carrots."
-        },
-        {
-            "name": "Gold City",
-            "text": "That’s my line! I’m in!"
-        },
-        {
-            "text": "After dinner, I was asked to meet outside by Gold City. We came \nto the beach together because she wanted to talk."
-        },
-        {
-            "name": "Gold City",
-            "text": "…You know I, before I gave up on this training camp. I had more \nwork and work, I wondered if I would ever participate."
-        },
-        {
-            "name": "Gold City",
-            "text": "But, I made a fitting schedule with you and talked to the \nmanager. Then, I was able to participate in this way.",
-            "choice_data_list": [
-                "It was good!",
-                "It was good!"
-            ]
-        },
-        {
-            "name": "Gold City",
-            "text": "Mm-hmm, it was good. Really… I think the me from \nbefore, would just have complained about being \nfrustrated that she could not participate.",
-            "choice_data_list": [
-                "You’ve grown so much!",
-                "You’ve grown so much!"
-            ]
-        },
-        {
-            "name": "Gold City",
-            "text": "Popo! Too stiff! But well… I’m grateful to you."
-        },
-        {
-            "name": "Gold City",
-            "text": "Even if I participated in the middle, I learned a lot. I was also \nable to know what the other horse girls are like."
-        },
-        {
-            "name": "Gold City",
-            "text": "I was able to see a lot of the “unknown side to others” . I \nrealized I was also looking at the others just by their image…"
-        },
-        {
-            "name": "Gold City",
-            "text": "Come to think of it, there’s a festival in the \nneighborhood soon. Would you like to go? I want \nto see the faces of all kinds of people!"
-        },
-        {
-            "name": "Girl",
-            "text": "Woah, it’s City! Beautiful!"
-        },
-        {
-            "name": "Fan",
-            "text": "Ah, Umm. I’m cheering for you!"
-        },
-        {
-            "name": "Elder Stallkeepster",
-            "text": "Here, take this. It’s delicious!"
-        },
-        {
-            "text": "Gold City sure is popular. She returned a smile to the people who \ncalled her out, in a familiar manner. "
-        },
-        {
-            "name": "Boy",
-            "text": "City, good luck."
-        },
-        {
-            "name": "Gold City",
-            "text": "Thank you. You watching the race makes me really happy."
-        },
-        {
-            "name": "Gold City",
-            "text": "…Ehehe, my face is cracked more than I expected. How hilarious.",
-            "choice_data_list": [
-                "That’s proof that you’re working hard",
-                "That’s proof that you’re working hard"
-            ]
-        },
-        {
-            "name": "Gold City",
-            "text": "Model and race, I wonder which one of those efforts you are \nwatching. Although, I only want you to see my racing abilities.",
-            "choice_data_list": [
-                "Modelling should also contribute to the race"
-            ]
-        },
-        {
-            "name": "Gold City",
-            "text": "Huh? No way.",
-            "choice_data_list": [
-                "Let’s run and check it out!"
-            ]
-        },
-        {
-            "name": "Gold City",
-            "text": "Run, hey, you mean right now!?"
-        },
-        {
-            "name": "Gold City",
-            "text": "Why should I run here until the end of the festival…!? I don’t \nknow, seriously, I don’t know what it means…!",
-            "choice_data_list": [
-                "Well then, I’ll take the time",
-                "Well then, I’ll take the time"
-            ]
-        },
-        {
-            "name": "Gold City",
-            "text": "Listen to me. Yeah-yeah, I got it. Then I will go. Steady…",
-            "choice_data_list": [
-                "GO!"
-            ]
-        },
-        {
-            "text": "Gold City ran through the sand at once!"
-        },
-        {
-            "name": "Gold City",
-            "text": "Phew… What is the time?…Mm-hmm, so that’s it.",
-            "choice_data_list": [
-                "Next time, let’s run while remembering the cheering"
-            ]
-        },
-        {
-            "name": "Gold City",
-            "text": "Huh~? I don’t think anything will change. Anyway, I’m going!"
-        },
-        {
-            "text": "Gold City ran the same as before.",
-            "choice_data_list": [
-                "City, you can do it!",
-                "City, you can do it!"
-            ]
-        },
-        {
-            "name": "Gold City",
-            "text": "Huh? Ah, Trainer… like that. But… speaking \nof which, at the festival…"
-        },
-        {
-            "name": "Boy",
-            "text": "City, good luck. "
-        },
-        {
-            "name": "Gold City",
-            "text": " …… Alright!"
-        },
-        {
-            "text": "Gold City accelerated further. And thenー"
-        },
-        {
-            "name": "Gold City",
-            "text": "GOAL…!"
-        },
-        {
-            "text": "The result is… the best record time in this training camp."
-        },
-        {
-            "name": "Gold City",
-            "text": "*Pant*… *Pant*… After I heard your voice. I remembered the \ncheering of the children. And then, my legs moved forward…",
-            "choice_data_list": [
-                "That’s the power of the fans",
-                "That’s the power of the fans"
-            ]
-        },
-        {
-            "name": "Gold City",
-            "text": "You mean that power is going to help me \nstep further? Then, then you see…"
-        },
-        {
-            "name": "Gold City",
-            "text": "If you could bring the fans who gathered \nin the face of a model to the raceー",
-            "choice_data_list": [
-                "There’s no doubt about it!"
-            ]
-        },
-        {
-            "name": "Gold City",
-            "text": "Ahaha wow, such impure motives! You’re going to use the fans. You \npretend to be kind but you sure are calculating."
-        },
-        {
-            "name": "Gold City",
-            "text": "But… haha, how interesting. I can show off my \nrun to the fans who only know me as a model."
-        },
-        {
-            "name": "Gold City",
-            "text": "That I’m not just a pretty doll, but an amazing horse girl!",
-            "choice_data_list": [
-                "The effect of running on both paths is great",
-                "The effect of running on both paths is great"
-            ]
-        },
-        {
-            "name": "Gold City",
-            "text": "…Yeah-yeah. I’ll be sure to follow. In order \nto win, It seems I need your power."
-        },
-        {
-            "name": "Gold City",
-            "text": "That’s why… Glad to have you here, Trainer. My partner."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Gold City",
+      "text": "¿Oh? Así que esto es el campamento, ¿eh?<n>Nada mal. Tiene un ambiente<n>agradable. ¡Apuesto a que sería un<n>buen lugar para una sesión de fotos!",
+      "choice_data_list": [
+        "¡Bienvenida al campamento de verano!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Síp. Llegué con estilo tarde, pero,<n>podemos recuperar el tiempo perdido,<n>¿cierto?"
+    },
+    {
+      "name": "Manager de Gold City",
+      "text": "Hola, Entrenadora. Lamento que no<n>pudiera llegar antes—los horarios no<n>cuadraron del todo.",
+      "choice_data_list": [
+        "No te preocupes. Me alegra que haya podido venir."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Bien, voy a dejar mis cosas y cambiarme.",
+      "choice_data_list": [
+        "¡Nos vemos en la playa en veinte!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Perdón? Estaré lista en diez. No<n>subestimes lo rápido que las<n>modelos pueden cambiarse."
+    },
+    {
+      "name": "Manager de Gold City",
+      "text": "¡City! Asegúrate de usar mucho<n>bloqueador solar, ¿okay?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Sí, sí, ¡no necesitas decírmelo dos veces!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y con eso, comienza el entrenamiento<n>de verano de Gold City."
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Hoy todas debemos cocinar? ¿Eh?<n>Apenas he sostenido una sartén.<n>Whoa, ¡nope, nope, nope!"
+    },
+    {
+      "name": "Uma Musume A",
+      "text": "¡Estarás bien! Solo cálmate. Sabes,<n>nunca te había visto en tal pánico<n>antes. Jeje."
+    },
+    {
+      "name": "Uma Musume B",
+      "text": "¡City! Vamos, ¡es una mañana<n>hermosa para entrenar!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Ughhh, estoy tan harta. Cualquier cosa<n>menos mañanas temprano... Nope,<n>no va a pasar."
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Bien, una carrera más! ¡Y esta vez<n>ganaré!"
+    },
+    {
+      "name": "Uma Musume C",
+      "text": "Hecho, pero no perderé. Te apuesto<n>tres zanahorias premium."
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Alguien se siente animada! ¡Acepto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de la cena, Gold City se<n>acerca a mí y dice que quiere hablar<n>afuera."
+    },
+    {
+      "name": "Gold City",
+      "text": "Sabes, casi había renunciado a venir<n>aquí. Con trabajo y más trabajo, no<n>parecía que pudiera hacerlo."
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero, me ayudaste a planificar un<n>horario, y le dije a mi manager cómo<n>me siento... Y, bueno, aquí estoy.",
+      "choice_data_list": [
+        "¡Me alegra que funcionara!",
+        "¡Me alegra que funcionara!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Sí, yo también. Realmente, lo estoy...<n>Antes, probablemente solo me<n>habría enojado y me quejaría.",
+      "choice_data_list": [
+        "<i>Snif.</i> ¡Crecen tan rápido!",
+        "<i>Snif.</i> ¡Crecen tan rápido!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Oh por Dios! ¿¡Puedes no?! Pero,<n>bueno... Estoy agradecida, sabes."
+    },
+    {
+      "name": "Gold City",
+      "text": "Llegué tarde, pero me has mantenido<n>ocupada, y he tenido la oportunidad<n>de conocer a las demás."
+    },
+    {
+      "name": "Gold City",
+      "text": "Nadie es exactamente lo que parece,<n>¿verdad? Supongo que también<n>juzgaba a los demás por lo<n>superficial."
+    },
+    {
+      "name": "Gold City",
+      "text": "Oh sí, aparentemente habrá un<n>festival cerca. ¿Quieres echarle un<n>vistazo? ¡Apuesto a que veremos<n>montones de caras diferentes!"
+    },
+    {
+      "name": "Niña",
+      "text": "¡Oye, es City! ¡Es tan bonita!"
+    },
+    {
+      "name": "Fan",
+      "text": "Yo, eh... ¡S-soy una gran fan!"
+    },
+    {
+      "name": "Personal del puesto",
+      "text": "Toma, llévate uno. ¡Son deliciosos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es popular, claro. Se nota que está<n>acostumbrada a la atención por la<n>forma en que sonríe a las personas<n>que se le acercan."
+    },
+    {
+      "name": "Niño",
+      "text": "City, eres la mejor."
+    },
+    {
+      "name": "Gold City",
+      "text": "Gracias. Me haría muy feliz que<n>también me vieras correr."
+    },
+    {
+      "name": "Gold City",
+      "text": "...Je, no pensé que tanta gente me<n>reconocería aquí. Algo gracioso.",
+      "choice_data_list": [
+        "Los frutos de tu esfuerzo.",
+        "Los frutos de tu esfuerzo."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Qué esfuerzo—modelar o correr?<n>Difícil saber de cuál hablan. Todo<n>lo que realmente quiero que la gente<n>note es mi carrera.",
+      "choice_data_list": [
+        "Quizá tu modelaje pueda ayudar a tu carrera."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Eh? Como si.",
+      "choice_data_list": [
+        "¿Por qué no sales a correr y lo descubres?"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Salir a correr? Espera, ¿¡como ahora?!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Así que ¿por qué exactamente me<n>sacaste del festival para esto? Te<n>juro, nunca <i>nunca</i> te entenderé.",
+      "choice_data_list": [
+        "Vamos, te cronometraré.",
+        "Vamos, te cronometraré."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¡¿Hola?! Ugh, bien, como sea. Okay,<n>aquí voy...",
+      "choice_data_list": [
+        "¡Y... empezar!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Levanta una tormenta de arena por<n>la playa!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Uf... ¿Mi tiempo? Síp, más o menos lo<n>que esperaba.",
+      "choice_data_list": [
+        "Ahora ve otra vez, pero escuchando a tus fans animándote."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Eh? Como si eso fuera a cambiar algo.<n>Como sea, aquí va."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Lo intenta otra vez, pero esta vez...",
+      "choice_data_list": [
+        "¡City, eres la mejor!",
+        "¡City, eres la mejor!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Eh? Ugh, ¿nunca te cansas? Oh<n>espera, de vuelta en el festival..."
+    },
+    {
+      "name": "Niño",
+      "text": "City, eres la mejor."
+    },
+    {
+      "name": "Gold City",
+      "text": "...¡Lo tengo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Algo enciende un fuego bajo sus pies,<n>y..."
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Listo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Establece un nuevo récord personal<n>para el verano."
+    },
+    {
+      "name": "Gold City",
+      "text": "<i>Jadeo, jadeo...</i> Uf. Me recordaste a<n>ese niño del festival, y entonces<n>mis piernas... simplemente, como que,<n>avanzaron con fuerza.",
+      "choice_data_list": [
+        "El poder de los fans.",
+        "El poder de los fans."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Qué, como si me dieran el poder para<n>recorrer esa distancia extra? Bueno,<n>en ese caso..."
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Qué tal si... tomo a todos los fans de<n>mi trabajo de modelaje, y los hago<n>venir a mis carreras?",
+      "choice_data_list": [
+        "¡Las gradas rugirán por ti!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Cielos, ¿qué manipuladora? Usar a mis<n>fans así. <i>Sabía</i> que había una mente<n>maestra malvada detrás de la máscara."
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero... Je. Me gusta. La mayoría de mis<n>fans solo me conocen como modelo,<n>y ahora puedo mostrarles cómo soy<n>en la pista."
+    },
+    {
+      "name": "Gold City",
+      "text": "Entonces verán que no soy solo una<n>muñeca bonita—¡soy una campeona!",
+      "choice_data_list": [
+        "Corres dos caminos, obtienes doble kilometraje.",
+        "Corres dos caminos, obtienes doble kilometraje."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "...Okay, okay, me convenciste. Si<n>quiero ganar, te necesitaré de<n>todos modos."
+    },
+    {
+      "name": "Gold City",
+      "text": "Así que, eh... Sigamos así, ¿sí?<n>Compañera."
+    }
+  ]
 }

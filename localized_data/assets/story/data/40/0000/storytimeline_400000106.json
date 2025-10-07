@@ -1,25 +1,25 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Chairwoman Akikawa",
-            "text": "Bravo! Listen to the cheers! They're\ncelebrating your victory!"
-        },
-        {
-            "name": "Chairwoman Akikawa",
-            "text": "I am sure that in admiration, everyone will \nwork hard to surpass you."
-        },
-        {
-            "name": "Chairwoman Akikawa",
-            "text": "She has left a hoofprint of hope\nin the horse girl world. \nThank you for that ride… and—"
-        },
-        {
-            "name": "Chairwoman Akikawa",
-            "text": "Congratulations on your win!"
-        },
-        {
-            "name": "Chairwoman Akikawa",
-            "text": "Nothing can top you two. The best trainer\nand the best horse girl!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Bravo! ¡Solo escuchen esos<n>vitoreos! ¡Aplauden\nsu victoria!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "No solo tienen la admiración de<n>la multitud,\nsino también de futuras<n>corredoras entre ellos\nque se esforzarán<n>por superar sus logros."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Han dejado una marca de esperanza<n>para que todas\nlas Umamusume vean. Les<n>agradezco por esa\nmuestra de excelencia.<n>Y finalmente..."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Felicidades por su victoria!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Están en la cima—la entrenadora<n>más excelente y\nla Umamusume más<n>excelente!"
+    }
+  ]
 }

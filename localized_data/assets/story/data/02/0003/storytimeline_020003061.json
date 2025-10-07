@@ -2,181 +2,187 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "text": "It's the start of a new year, and Winning Ticket, Biwa Hayahide, and \nNarita Taishin are visiting the shrine to make their first prayer of the \nyear."
+      "text": "Es el inicio de un nuevo año, y Winning<n>Ticket, Biwa Hayahide y Narita\nTaishin<n>visitan el santuario para hacer su primera<n>oración del año."
     },
     {
       "name": "Winning Ticket",
-      "text": "Whoooa! Look at all these people! New Year's around here is like the \nDerby!",
+      "text": "¡Whoooa! ¡Miren toda esta gente! ¡El Año<n>Nuevo por aquí es como el\nDerby!",
       "choice_data_list": [
-        "How so?"
+        "¿Cómo así?"
       ]
     },
     {
       "name": "Winning Ticket",
-      "text": "Just look, it's super crowded, right? Same as the Derby!"
+      "text": "¡Solo miren, está super lleno, verdad? ¡Igual<n>que el Derby!"
     },
     {
       "name": "Narita Taishin",
-      "text": "You make everything about the Derby."
+      "text": "Haces que todo sea sobre el Derby."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Soon she'll be telling us how a washing machine is like the Derby."
+      "text": "Pronto nos dirá cómo una lavadora es<n>como el Derby."
     },
     {
-      "text": "Anyway, all three of you did really well last year."
+      "name": "<username>",
+      "text": "De todos modos, las tres lo hicieron<n>realmente bien el año pasado."
     },
     {
-      "text": "Anyway, all three of you did really well last year."
+      "name": "<username>",
+      "text": "De todos modos, las tres lo hicieron<n>realmente bien el año pasado."
     },
     {
-      "text": "After Winning Ticket's first win, she clinched another two for a \nthree-win streak. Her rivals racked up some nice results too."
+      "text": "Después de su primera victoria, Winning<n>Ticket consiguió otras dos\npara una racha de<n>tres victorias. Sus rivales también<n>obtuvieron buenos\nresultados."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I wish I could've gotten Top Junior though…"
+      "text": "Ojalá hubiera podido obtener el Top Junior<n>aunque..."
     },
     {
       "name": "Winning Ticket",
-      "text": "I was hoping I could too."
+      "text": "Yo también esperaba poder hacerlo."
     },
     {
       "name": "Narita Taishin",
-      "text": "No way, you'd start bawling at the awards ceremony."
+      "text": "No way, empezarías a llorar en la<n>ceremonia de premiación."
     },
     {
       "name": "Winning Ticket",
-      "text": "Wait, could that be why I didn't get picked?!"
+      "text": "Espera, ¿podría ser por eso que no me<n>escogieron?!"
     },
     {
-      "text": "You're all almost at the Classics. You should be proud."
+      "name": "<username>",
+      "text": "Todas están casi en las Clásicas. Deberían<n>estar orgullosas."
     },
     {
-      "text": "You're all almost at the Classics. You should be proud."
+      "name": "<username>",
+      "text": "Todas están casi en las Clásicas. Deberían<n>estar orgullosas."
     },
     {
       "name": "Winning Ticket",
-      "text": "Yeah! First the Satsuki Sho, then the Japanese Derby, and the Kikuka \nSho! But especially the <i>derby!</i>"
+      "text": "¡Sí! ¡Primero el Satsuki Sho, luego el<n>Derby Japonés, y el Kikuka\nSho! ¡Pero<n>especialmente el <i>derby!</i>"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "It's an honor to win any of them… And I want that honor more than \nanything."
+      "text": "Es un honor ganar cualquiera de ellos... Y<n>quiero ese honor más que\nnada."
     },
     {
       "name": "Winning Ticket",
-      "text": "Yeeeah, let's pray on it! I wish to win the Yayoi Sho and move right \non to the Classics!"
+      "text": "¡Siií, recemos por ello! ¡Deseo ganar el<n>Yayoi Sho y pasar\ndirectamente a las<n>Clásicas!"
     },
     {
       "name": "Winning Ticket",
-      "text": "Oh, and, and! I wanna race together with Taishin and Hayahide! The \nend!"
+      "text": "¡Oh, y, y! ¡Quiero correr junto con<n>Taishin y Hayahide! ¡El fin!"
     },
     {
-      "text": "The friendly rivals work hard together toward the goal they've had \nsince they first became classmates—to run in the same race."
+      "text": "Las amistosas rivales trabajan duro juntas<n>hacia la meta que han tenido\ndesde que<n>se convirtieron en compañeras de clase—<n>correr en la misma\ncarrera."
     },
     {
-      "text": "And that race is approaching faster than they could've imagined."
+      "text": "Y esa carrera se acerca más rápido de lo<n>que podrían haber imaginado."
     },
     {
       "name": "Gold Ship",
-      "text": "Extra, extra!"
+      "text": "¡Extra, extra!"
     },
     {
       "name": "Gold Ship",
-      "text": "Read all about it! Not only is Tickezo racing in the Yayoi Sho, Taishin \nwill now too!"
+      "text": "¡Lean todo al respecto! ¡No solo Tickezo<n>correrá en el Yayoi Sho,\nTaishin también<n>lo hará ahora!"
     },
     {
       "name": "Winning Ticket",
-      "text": "Taishin too?! Waaah! Our time to race together's finally cooome!"
+      "text": "¡¿Taishin también?! ¡Waaah! ¡Nuestro<n>tiempo para correr juntas\nfinalmente ha llegaado!"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Eheheh. You shouldn't be all too pleased. Everyone's been talking \nabout how good Taishin's looking."
+      "text": "Ejejeh. No deberías estar tan contenta.<n>Todos han estado hablando de\nlo bien que<n>se ve Taishin."
     },
     {
       "name": "Winning Ticket",
-      "text": "Yeah! All the more reason I need to step it up!"
+      "text": "¡Sí! ¡Con más razón necesito intensificarlo!"
     },
     {
       "name": "Winning Ticket",
-      "text": "Hey, Trainer! I wanna shorten the time I need to go from zero to top \nspeed."
+      "text": "¡Oye, Entrenador! Quiero acortar el tiempo<n>que necesito para ir de cero\na velocidad máxima."
     },
     {
-      "text": "Nice. You're thinking more concretely. That means you've been using \nyour head when you train."
+      "name": "<username>",
+      "text": "Bien. Estás pensando más concretamente.<n>Eso significa que has estado\nusando tu cabeza<n>cuando entrenas."
     },
     {
-      "text": "Nice. You're thinking more concretely. That means you've been using \nyour head when you train."
+      "name": "<username>",
+      "text": "Bien. Estás pensando más concretamente.<n>Eso significa que has estado\nusando tu cabeza<n>cuando entrenas."
     },
     {
-      "text": "The rivalry she has with Biwa Hayahide and Narita Taishin is pushing \nTicket to enhance her game."
+      "text": "La rivalidad que tiene con Biwa Hayahide y<n>Narita Taishin está\nimpulsando a Ticket a<n>mejorar su juego."
     },
     {
-      "text": "Surely Ticket is pushing her rivals too. We'll need to be in top shape \nfor this race—not just for Ticket's sake, but for Taishin's as well.",
+      "text": "Seguramente Ticket también está<n>impulsando a sus rivales.\nNecesitaremos estar en<n>máxima forma para esta carrera—no solo<n>por el bien de Ticket,\nsino también por el<n>de Taishin.",
       "choice_data_list": [
-        "Get ready to give it all you've got!"
+        "¡Prepárate para dar todo lo que tienes!"
       ]
     },
     {
       "name": "Winning Ticket",
-      "text": "Right! Bring it on!"
+      "text": "¡Correcto! ¡Que venga!"
     },
     {
-      "name": "Caster",
-      "text": "We're here today at the Yayoi Sho! The racers are now making their \nway onto the track!"
+      "name": "Comentarista",
+      "text": "¡Estamos hoy en el Yayoi Sho! ¡Las<n>corredoras ahora se dirigen a la\npista!"
     },
     {
       "name": "Winning Ticket",
-      "text": "Hey! We're all walking the runners' tunnel together, Taishin!"
+      "text": "¡Oye! ¡Todas estamos caminando por el<n>túnel de corredoras juntas,\nTaishin!"
     },
     {
       "name": "Narita Taishin",
-      "text": "Quit yelling, the echo's crazy down here."
+      "text": "Deja de gritar, el eco es una locura aquí abajo."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Hehe, you two never change."
+      "text": "Jeje, ustedes dos nunca cambian."
     },
     {
       "name": "Winning Ticket",
-      "text": "'Cause we're rivals! And rivals are friends for life!"
+      "text": "¡Porque somos rivales! ¡Y las rivales son<n>amigas de por vida!"
     },
     {
       "name": "Narita Taishin",
-      "text": "Quit it with that!"
+      "text": "¡Basta con eso!"
     },
     {
       "name": "Narita Taishin",
-      "text": "It does feel special to be running with you, but this doesn't change \nanything for me."
+      "text": "Se siente especial correr contigo,<n>pero esto no cambia nada para mí."
     },
     {
       "name": "Narita Taishin",
-      "text": "I'm still gonna go all out to win this."
+      "text": "Todavía voy a darlo todo para ganar esto."
     },
     {
       "name": "Winning Ticket",
-      "text": "I feel the same way! Running with each other isn't the goal—I've gotta \nwin!"
+      "text": "¡Yo siento lo mismo! Correr juntas<n>no es la meta—¡tengo que ganar!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I'll be watching you two out there. Make me proud to be your rival."
+      "text": "Las estaré observando allá afuera. Háganme<n>sentir orgullosa de ser su\nrival."
     },
     {
       "name": "Winning Ticket",
-      "text": "You got it!"
+      "text": "¡Hecho!"
     },
     {
       "name": "Narita Taishin",
-      "text": "Right, here I go."
+      "text": "Bien, aquí voy."
     },
     {
-      "text": "The Yayoi Sho—the first showdown between friends—begins amid \nresounding fanfare."
+      "text": "El Yayoi Sho—el primer enfrentamiento<n>entre amigas—comienza\namid<n>estruendosa fanfarria."
     },
     {
-      "name": "Caster",
-      "text": "Which runner has what it takes to win the Yayoi Sho?! They're in the \nstarting gate…"
+      "name": "Comentarista",
+      "text": "¿Qué corredora tiene lo necesario para<n>ganar el Yayoi Sho? Están en la\nsalida..."
     },
     {
-      "name": "Caster",
-      "text": "And they're off!"
+      "name": "Comentarista",
+      "text": "¡Y están fuera!"
     }
   ]
 }

@@ -1,219 +1,222 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Symboli Rudolf",
-            "text": "<i>Trainer, in three days' time I will once more \nput this question to you and the others. \n</i>"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "<i>At that time, I want you to exemplify \nyour answer in some manner. \n</i>"
-        },
-        {
-            "text": "The day after Symboli Rudolf had assigned \nme this task, I found myself deep in thought, \npondering my next move, when ——"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Oh… what a coincidence. Is this seat opposite you taken?",
-            "choice_data_list": [
-                "Go ahead."
-            ]
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Great. It starts to get crowded around this time, \nand I'd like to leave some seats available at least."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "By the way… I couldn't help but notice you seem \na bit troubled. Is there something on your mind?",
-            "choice_data_list": [
-                "<size=32>I've been thinking about what you said to me…</size>",
-                "<size=32>I've been thinking about what you said to me…</size>"
-            ]
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Ah, of course. I apologize for causing you concern."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "It might not be my place to say this, but dwelling \ntoo much on things isn't healthy. Sometimes it's \ncrucial to take a breather and clear your mind."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "How about we grab a sweet treat or two \nhere in the cafeteria? It might help."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Carbohydrates provide energy for the brain, and fruits, \nvegetables, and whole grains can enhance mental focus."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Looking at today's menu… \nI'd recommend the seasonal fruit salad.",
-            "choice_data_list": [
-                "You know your stuff…!",
-                "You know your stuff…!"
-            ]
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Whoops… speaking to a professional trainer, \nperhaps I'm simply \"watering the ocean\"."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "These things are often on my mind… It would seem that has \ncaused me to talk on about them inadvertently.",
-            "choice_data_list": [
-                "Are you always that attentive to it?",
-                "Are you always that attentive to it?"
-            ]
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "I am. To us horsegirls, diet is of significant importance \nboth in developing our bodies and feeling fulfilled…"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "\"What is the optimal meal for me at the present moment?\" \n… It's a crucial and endlessly pondered question."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Of course, this concerns not only food. \nIn all aspects of daily life I strive to discover \nand appreciate deeper meanings."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Maintaining a broad perspective allows every aspect of life \nto become a driving force. It's an essential attitude to hold \nif I want to reach the great heights of my ambitions.",
-            "choice_data_list": [
-                "That's impressive…",
-                "That's impressive…"
-            ]
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Hahah, being admired so directly certainly \nmakes me feel a little bashful."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "This way of thinking has been ingrained in me since \nchildhood… It has become a hard-to-break habit."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "… In any case, sometimes having an incurable \nhabit can form a bit of a problem."
-        },
-        {
-            "text": "At those words, I followed Symboli Rudolf's gaze \nand surveyed our surroundings ——"
-        },
-        {
-            "name": "Horsegirl A",
-            "text": "Oh my… It looks like Prez and that trainer \nare having quite the intense conversation…"
-        },
-        {
-            "name": "Horsegirl B",
-            "text": "We shouldn't interrupt them… \nLet's find somewhere else to eat…!"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "… As you can see, despite my efforts to squeeze in with you, \nI've unintentionally created empty seats around us."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "As the student president, I want students to feel comfortable \ncoming to me with their concerns. This way, I can serve as a \nbetter guide to them…"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "However, I seem to come off as intimidating or overly serious."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "If only I could initiate lighthearted and witty \nconversations that entertain everyone ——",
-            "choice_data_list": [
-                "How about we practice having \nthat kind of conversation?",
-                "How about we practice having \nthat kind of conversation?"
-            ]
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "What? ……With you?"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "—— Hahahah!"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "My apologies. How do I put this, you're… \nquite easy to get along with. I didn't expect \nyou to come with a suggestion like that."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Alright, it's worth a shot! Let's give it a try."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "If you don't mind, could you suggest a topic for conversation? \nAnything will do. Just something we can chat about naturally.",
-            "choice_data_list": [
-                "Do you have any hobbies besides running?",
-                "Do you have any hobbies besides running?"
-            ]
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Hobbies! That's a good approach. \nWe can talk about those in a casual manner."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "I'm particularly fond of playing chess. Not only sitting at the \nboard, but also reading scores and game records is enjoyable."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Constantly assessing the battlefield, deciphering the \nopponent's thoughts, and planning each move towards \na desired future — it's like a microcosm of life…"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "…… Wait a minute, we're getting into \nserious territory again, aren't we?",
-            "choice_data_list": [
-                "Yeah……"
-            ]
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Hmm, I suppose it's not something I can \nchange overnight. This is difficult…"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "… Oh, that reminds me! I have been looking into something in \nthe hope that it could be of assistance in some light table talk!"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Namely — jokes! A witty bit of humor \nthat can lighten the mood instantly!",
-            "choice_data_list": [
-                "I see! I'd love to hear one.",
-                "I see! I'd love to hear one."
-            ]
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Alright then!"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "The other day, I was walking down the street, and I saw a dog \nwith a stunning coat. I couldn't resist exclaiming……"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "\"Woof-derful!\""
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "—— How was that, Trainer!?",
-            "choice_data_list": [
-                "…………"
-            ]
-        },
-        {
-            "text": "I discovered an unexpected side of her, but… overall, I felt \nlike I had gained some insight into Symboli Rudolf."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Hmm, \"woof-derful\"… \nI was rather proud of that one……"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Symboli Rudolf",
+      "text": "Dentro de tres días, les pediré a cada una<n>su razonamiento de nuevo."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Me gustaría que me proporcionara un<n>ejemplo concreto de su plan\nentonces."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, estoy perdida en mis<n>pensamientos, tratando de\ndescifrar la mejor<n>forma de abordar la pregunta que Symboli Rudolf planteó."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Bueno, pues... Nos encontramos de nuevo. ¿El<n>asiento de enfrente está\ndesocupado?",
+      "choice_data_list": [
+        "Adelante."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Gracias. La cafetería se está llenando<n>y no quiero ocupar una mesa\nsola."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Mis disculpas si me entrometo, pero...<n>Parece preocupada.",
+      "choice_data_list": [
+        "En realidad estaba pensando en lo que dijiste\\ayer.",
+        "En realidad estaba pensando en lo que dijiste\\ayer."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ah, tenía la sospecha de que podría ser<n>así. Parece que le he\ncolocado una carga<n>sobre sus hombros."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Quizá no me corresponda decirlo, pero<n>intente no darle demasiadas\nvueltas. Hay un<n>momento para reflexionar y un momento para descansar."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Veamos. Ya que está aquí, ¿por qué no<n>nutre la mente con algo\ndulce?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Los azúcares naturales en frutas, verduras<n>y granos ayudan al cerebro\na funcionar, y<n>pueden mejorar su concentración."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Si tuviera que recomendar algo del<n>menú de hoy, diría que la ensalada\nde frutas<n>de temporada es su mejor opción.",
+      "choice_data_list": [
+        "¡Sabes mucho del tema!",
+        "¡Sabes mucho del tema!"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Oh... Supongo que le estoy predicando a<n>los conversos, ¿verdad? Al\nfin y al cabo, usted es<n>una entrenadora profesional."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "No quise sermonearla. Me temo que mi<n>mente tiende a perderse en los\ndetalles.",
+      "choice_data_list": [
+        "¿De verdad lo piensas todo detenidamente, eh?",
+        "¿De verdad lo piensas todo detenidamente, eh?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Por supuesto. La nutrición adecuada es<n>vital para mantener el bienestar\nfísico y<n>mental óptimo."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Elegir la comida óptima para su condición<n>actual es una consideración\nbastante<n>importante."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Naturalmente, esto aplica también a cosas<n>además de la comida. Cada\naspecto de la vida<n>diaria debe contemplarse con atención."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Es clave pensar en la perspectiva más<n>amplia—cómo cada pequeña\ndecisión es un<n>paso invaluable hacia la cima.",
+      "choice_data_list": [
+        "Guau... Estoy impresionada.",
+        "Guau... Estoy impresionada."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Jaja, en realidad no es nada especial. No<n>estoy acostumbrada a que me\nfeliciten por mis<n>elecciones dietéticas."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Me enseñaron a pensar estratégicamente,<n>desde que era pequeña. Se ha\nvuelto tan<n>arraigado en mí, que no tiene arreglo."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Pero, bueno... Supongo que eso es parte<n>del problema."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los ojos de Symboli Rudolf se dirigen a<n>otra parte de la cafetería.\nSigo su mirada."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "A-ay... Parece que la presidenta está<n>teniendo una conversación\nsúper seria con esa<n>entrenadora..."
+    },
+    {
+      "name": "Umamusume B",
+      "text": "Vamos a sentarnos en otro lado. ¡No<n>queremos interrumpirlas con\nnuestra charla!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "...¿Ve lo que quiero decir? Me senté con<n>usted para evitar ocupar esa\nmesa vacía, pero<n>las estudiantes aún no se sientan ahí."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Una presidenta del consejo estudiantil<n>debería ser accesible—alguien a\nquien puedan<n>recurrir en busca de consejo. Una líder<n>en quien puedan confiar para\nguiarlas..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Sin embargo, parece que tiendo a<n>intimidar a mis compañeras, con lo\nrígidas que<n>suelen volverse mis conversaciones."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Si tan solo fuera capaz de tener<n>conversaciones más casuales y\natractivas, podría<n>ser más accesible...",
+      "choice_data_list": [
+        "¿Qué tal si probamos una conversación de práctica ahora?",
+        "¿Qué tal si probamos una conversación de práctica ahora?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Práctica? ¿Quiere decir, con usted?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¡Jajaja!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Oh, mis disculpas. Es solo... ¿Cómo lo<n>digo? Realmente se está\nesforzando mucho<n>por mí. No esperaba una oferta tan amable."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Muy bien, ¿por qué no? Intentémoslo."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Podría comenzar con un tema?<n>Cualquiera sirve—elija con lo que\nse sienta<n>más cómoda.",
+      "choice_data_list": [
+        "¿Cuáles son tus pasatiempos, aparte de correr?",
+        "¿Cuáles son tus pasatiempos, aparte de correr?"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Pasatiempos, dices? Ciertamente es un<n>buen tema para calentar."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Creo que tendría que decir el ajedrez. Es<n>divertido jugar, por\nsupuesto, pero igual de<n>estimulante es analizar partidas<n>pasadas."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Leer el tablero, predecir los movimientos<n>del oponente, planificar cada\nacción para<n>avanzar hacia un objetivo mayor... Incluso<n>podrías decir que el\najedrez es un microcosmos de nuestras vidas—"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Espera. Eso no fue para nada una<n>conversación casual, ¿verdad?",
+      "choice_data_list": [
+        "Quizá no..."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Mmm. Sé que Roma no se construyó en un<n>día, pero esto es más\ndesafiante de lo que<n>pensaba."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¡Oh, eso me recuerda! ¡He estado<n>investigando otras formas de\nmejorar la charla<n>ligera!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Concretamente en forma de chistes. ¡Un<n>poco de réplica ingeniosa para\nanimar el ambiente<n>y relajar a la gente!",
+      "choice_data_list": [
+        "¡Está bien! ¡Dame tu mejor chiste!",
+        "¡Está bien! ¡Dame tu mejor chiste!"
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Muy bien. ¡Ahí va!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "El otro día, caminaba por la calle cuando<n>vi un perro con un pelaje tan\nmaravilloso<n>que no pude evitar exclamar,<n>\"Vaya, ese pelaje es..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "—<i>¡pata-positivamente</i> maravilloso!\""
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Bien? ¡¿Qué le parece?!",
+      "choice_data_list": [
+        "..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Este... es un lado de Symboli Rudolf que<n>no esperaba. Siento que he\nganado algo de<n>perspectiva sobre quién es como persona."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Mmm... \"pata-positivamente maravilloso...\"<n><i>Yo</i> pensé que era bastante\ningenioso..."
+    }
+  ]
 }

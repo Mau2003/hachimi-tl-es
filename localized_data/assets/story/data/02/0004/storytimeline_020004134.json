@@ -2,47 +2,48 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Caster",
-      "text": "It's finally time for the monumental end-of-year race, the Arima Kinen!"
+      "name": "Locutor",
+      "text": "¡Por fin llega la monumental carrera de<n>fin de año, el Arima Kinen!"
     },
     {
-      "name": "Caster",
-      "text": "Fans are excited to see the sisters Biwa Hayahide and Narita Brian \nface each other after their previous matchup fell through!"
+      "name": "Locutor",
+      "text": "Los fans están emocionados por el duelo<n>fraternal de hoy. Desde que\nsu último encuentro<n>no se concretó, hemos esperado ver<n>¡Biwa Hayahide\ncontra Narita Brian!"
     },
     {
-      "name": "Caster",
-      "text": "The stands are packed! This is the race that no one wants to miss!"
+      "name": "Locutor",
+      "text": "¡Las gradas están llenas! ¡Esta es la carrera<n>que nadie se quiere\nperder!"
     },
     {
-      "text": "<I>Cheers!</I>"
+      "name": "Monólogo",
+      "text": "¡Wuuuuu!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "What a profound feeling to have finally made it to this day."
+      "text": "Qué profunda sensación haber llegado<n>finalmente a este día."
     },
     {
       "name": "Narita Brian",
-      "text": "Yeah, I've been waiting for this a long time."
+      "text": "Sí, he esperado esto por mucho<n>tiempo."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I've completed my winning equation. Don't think I'll concede this \nvictory just because you're my sister."
+      "text": "He completado mi ecuación ganadora. No<n>creas que concederé esta\ncarrera solo porque<n>eres mi hermana."
     },
     {
       "name": "Narita Brian",
-      "text": "You're always overthinking things. Our race isn't that complicated."
+      "text": "Siempre estás pensando de más. Nuestra<n>carrera no es tan\ncomplicada."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "<I>Chuckle…</I> True enough. We've been heading to this moment since we \nwere kids."
+      "text": "Jeje, es cierto. Estuvimos destinadas a<n>esto desde que éramos niñas."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Shall we go resolve our little sibling rivalry?"
+      "text": "¿Vamos a resolver nuestra pequeña<n>rivalidad entre hermanas?"
     },
     {
       "name": "Narita Brian",
-      "text": "I'd like nothing more!"
+      "text": "¡Inténtalo!"
     }
   ]
 }

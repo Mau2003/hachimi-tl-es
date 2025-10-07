@@ -1,251 +1,259 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "The day after the mock race in which Special Week came in 7th, \nshe showed up again for training, but-"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Pant, pant… All righ ty! Here I goooo!!"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "I'm not backing down either…!"
-        },
-        {
-            "name": "Special Week",
-            "text": "Ah…!"
-        },
-        {
-            "text": "During which-she made way for El Condor Pasa \nand Grass Wonder, who were catching up."
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Wha, huh!?"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Spe-chan…?"
-        },
-        {
-            "text": "Her sluggish- or rather, half-hearted run bewildered \nthe two, who were running alongside…"
-        },
-        {
-            "name": "Special Week",
-            "text": "Pant, pant…"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Woah, woah, Spe-chan!! What's gotten into you!?"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "You were always so agile, tenacious, and \ngutsy!! Where did they all go!!?"
-        },
-        {
-            "name": "Special Week",
-            "text": "El-chan… E-Err… S-Sorry…"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "…Sigh. I've had enough today!! Sorry, \nbut allow me to call it a day."
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "I don't want to run with a Spe-chan who's in such a sorry state!!"
-        },
-        {
-            "name": "Special Week",
-            "text": "E-El-chan…!!"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Spe-chan… I'm sorry, I'll have to \ntake my leave for today here too."
-        },
-        {
-            "name": "Special Week",
-            "text": "Grass-chan… U-Um, I'm sorry, I-!"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Don't say sorry, Spe-chan. We never wanted you to blame yourself."
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Still… it's perilous to run with your mind astray. \nA disturbed mind leads to a disturbed run, which \nmay lead to unforeseen injuries."
-        },
-        {
-            "name": "Special Week",
-            "text": "Grass-chan…"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "There's no need to rush, okay, Spe-chan? Calm down, and come to \nterms with yourself. What do you say?"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "…Besides, it seems the person with the strongest desire to aid \nyou just so happens to be right here.",
-            "choice_data_list": [
-                "Spe…"
-            ]
-        },
-        {
-            "name": "Special Week",
-            "text": "Trainer-san…! Uuu, I… I…!"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "( Chuckles ) Now if you'll ex cuse me~"
-        },
-        {
-            "name": "Special Week",
-            "text": "Alright… Thanks, Grass-chan."
-        },
-        {
-            "name": "Special Week",
-            "text": "…Trainer-san, I'm really sorry. I just couldn't run at all."
-        },
-        {
-            "name": "Special Week",
-            "text": "I think Grass-chan was on point… My mind really went astray…",
-            "choice_data_list": [
-                "Was your friend's plea bothering you?",
-                "Was your friend's plea bothering you?"
-            ]
-        },
-        {
-            "name": "Special Week",
-            "text": "Eh…? Trainer-san, you knew…?",
-            "choice_data_list": [
-                "Sorry, I overheard your conversation.",
-                "Sorry, I overheard your conversation."
-            ]
-        },
-        {
-            "name": "Special Week",
-            "text": "So you did… Sorry, that must've surprised you."
-        },
-        {
-            "name": "Special Week",
-            "text": "I'm… surprised too, myself."
-        },
-        {
-            "name": "Special Week",
-            "text": "It was my first time being surrounded by fellow \nhorse girls and having peers… so this was also \nmy first time getting yelled at by a friend."
-        },
-        {
-            "name": "Special Week",
-            "text": "It was all so shocking. I could never have \nimagined… that it'd be this chilling."
-        },
-        {
-            "name": "Special Week",
-            "text": "…I've gotten weird since then."
-        },
-        {
-            "name": "Special Week",
-            "text": "Whenever I tried to pull ahead and win, I felt that feeling back \nthen creeping back… I felt my body draining out of energy."
-        },
-        {
-            "name": "Special Week",
-            "text": "Trainer-san, what should I do…? \nHave I bec ome inept at running?"
-        },
-        {
-            "name": "Special Week",
-            "text": "Am I going to be… a failure…?"
-        },
-        {
-            "name": "Special Week",
-            "text": "Please, tell me… what I am supposed to do…!!"
-        },
-        {
-            "text": "As Special Week crouched down, she broke down in tears."
-        },
-        {
-            "text": "Until she settled down, I stayed by her side watching over her…"
-        },
-        {
-            "name": "Special Week",
-            "text": "…Sigh. I'm sorry, Trainer-san… I've settled down now."
-        },
-        {
-            "name": "Special Week",
-            "text": "…It's already evening, huh. When I first got here, I thought \nthe sunsets were pretty late here-"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Spe-chan! There you are… Oh, ah, uhh, I'm \nsorry, did I interrupt your moment?"
-        },
-        {
-            "name": "Special Week",
-            "text": "Ah, no, it's all good, Suzuka-san! What's the matter…?"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "You see, your mother's letter arrived in today's post, so I \nthought I'd quickly bring it to you…"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Spe-chan, you've always been looking forward to \nreading her letters, right? That's why…"
-        },
-        {
-            "name": "Special Week",
-            "text": "Suzuka-san… T-Thank you so much for going out \nof your way just to deliver it to me…!"
-        },
-        {
-            "text": "Silence Suzuka handed over the letter, and promptly went off. Was \nthis her way of sho wing concern for her roommate…?"
-        },
-        {
-            "text": "-Subsequently, Special Week slowly read through the letter."
-        },
-        {
-            "name": "Special Week",
-            "text": "(Chuckles)… She's saying the same thing again.",
-            "choice_data_list": [
-                "Same thing?"
-            ]
-        },
-        {
-            "name": "Special Week",
-            "text": "Ah… yes. Mom always signs off her letters \nfor me with the same message."
-        },
-        {
-            "name": "Special Week",
-            "text": "\"Spe, may you always be blessed with happiness.\" That's what my \nMoms always, and I mean always, say to me."
-        },
-        {
-            "name": "Special Week",
-            "text": "Both my birth mo ther… and my adoptive mother."
-        },
-        {
-            "name": "Special Week",
-            "text": "…My birth mother passed away before I opened my eyes for the \nfirst time. I' ve only seen her face through pho tos."
-        },
-        {
-            "name": "Special Week",
-            "text": "But my other mother, who was a dear friend of my birth mo ther, \nand took good care of me, always tell me,"
-        },
-        {
-            "name": "Special Week",
-            "text": "that until my birth mother breathed her last, \nshe always prayed for my happiness,"
-        },
-        {
-            "name": "Special Week",
-            "text": "…Ehehe, incredible, right? That I have 2 mothers… Both of \nthem are really wonderful mothers."
-        },
-        {
-            "name": "Special Week",
-            "text": "Really… wonderful…"
-        },
-        {
-            "name": "Special Week",
-            "text": "…and yet, what am I even doing?"
-        },
-        {
-            "name": "Special Week",
-            "text": "…Trainer-san, please ex cuse me. I'm… \ngoing for a short run nearby."
-        },
-        {
-            "text": "…said Special Week, before proceeding to leave the spot."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El día después de su entrenamiento a<n>medias, Special Week llega al\nentrenamiento<n>para una práctica."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "<i>Jadeo... jadeo...</i> ¡Aún no termino! ¡Allá voy!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡No me rendiré sin luchar!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Ah!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras El Condor Pasa y Grass Wonder<n>comienzan a aumentar su\nritmo, Special<n>Week cede su espacio y deja pasar a las<n>otras dos."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Espera, ¿qué?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Spe?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Está desmotivada, y se nota en su carrera.<n>Durante el entrenamiento en\nparejas, sus<n>amigas también parecen confundidas al ver<n>una Special\nWeek tan desanimada."
+    },
+    {
+      "name": "Special Week",
+      "text": "<i>Buf... buf...</i>"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Muy bien, basta de esto! ¿Qué pasa, Spe?<n>¡Dilo de una vez!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Dónde está tu motivación de siempre?<n>¡Tenacidad! ¡Determinación!\n¿Qué te pasó?!"
+    },
+    {
+      "name": "Special Week",
+      "text": "El... Em, bueno... Lo s-siento..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "<i>Suspiro.</i> ¿Sabes qué? Bien, ¡como quieras!<n>Terminamos el\nentrenamiento en parejas<n>por hoy."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡No puedo correr contigo cuando estás así,<n>Spe!"
+    },
+    {
+      "name": "Special Week",
+      "text": "E-Eh..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Lo siento, Spe... Creo que también lo dejaré<n>por hoy."
+    },
+    {
+      "name": "Special Week",
+      "text": "Grass... E-em... ¡Lo siento! Yo—"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "No lo sientas, Spe. Sea lo que sea, sabemos<n>que no es tu culpa, así que\nno te<n>culpes."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Es solo que... Pareces perdida, y correr sin<n>sentido de dirección es\npeligroso. Paz<n>mental, paz al correr, ¿sí? Podrías<n>lastimarte."
+    },
+    {
+      "name": "Special Week",
+      "text": "Césped..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "No hay necesidad de apresurarse, ¿vale, Spe?<n>Tómate tu tiempo para\ncalmarte. Enfrentarte<n>a ti misma viene después."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Resulta que la persona que mejor puede<n>ayudarte ya está aquí.",
+      "choice_data_list": [
+        "Hab..."
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Entrenador! Em, yo... Yo..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Jeje... Ahora entonces, me retiro."
+    },
+    {
+      "name": "Special Week",
+      "text": "Está bien... Gracias, Grass."
+    },
+    {
+      "name": "Special Week",
+      "text": "Entrenador, lo siento. Simplemente no<n>encuentro motivación para\ncorrer."
+    },
+    {
+      "name": "Special Week",
+      "text": "Grass tiene razón... Creo que estoy perdida.",
+      "choice_data_list": [
+        "Lo que dijo tu amiga antes... ¿Es eso lo que te preocupa?",
+        "Lo que dijo tu amiga antes... ¿Es eso lo que te preocupa?"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Eh? ¿Cómo sabes eso?",
+      "choice_data_list": [
+        "Lo siento, medio que escuché tu conversación.",
+        "Lo siento, medio que escuché tu conversación."
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Ah, ya veo... Eso debe haberte sorprendido."
+    },
+    {
+      "name": "Special Week",
+      "text": "Yo... también estaba un poco impactada."
+    },
+    {
+      "name": "Special Week",
+      "text": "Nunca he estado realmente cerca de otras<n>Umamusume, y es mi primera\nvez<n>haciendo amigos, así que... también es la<n>primera vez que un amigo\nme grita..."
+    },
+    {
+      "name": "Special Week",
+      "text": "Estaba tan sorprendida. Fue como una oleada<n>de escalofríos por todo mi\ncuerpo."
+    },
+    {
+      "name": "Special Week",
+      "text": "Y desde entonces, me he sentido... rara."
+    },
+    {
+      "name": "Special Week",
+      "text": "Cada vez que intento correr más rápido—<n>intento ganar—esa oleada de\nescalofríos<n>vuelve, y mi cuerpo se niega a obedecer."
+    },
+    {
+      "name": "Special Week",
+      "text": "Entrenador, ¿qué debo hacer? ¿Podré volver<n>a correr alguna vez?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¿Voy a estar así para siempre?"
+    },
+    {
+      "name": "Special Week",
+      "text": "Es que... No... ¡¿Qué hago siquiera?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Special Week se agacha y se abraza<n>firmemente las rodillas, con\nlágrimas<n>rodando por su rostro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Decido sentarme a su lado para vigilarla<n>hasta que finalmente se calme."
+    },
+    {
+      "name": "Special Week",
+      "text": "<i>Hipo...</i> Uf... Lo siento de nuevo, entrenador.<n>Creo que me siento mejor\nahora."
+    },
+    {
+      "name": "Special Week",
+      "text": "El sol ya se está poniendo, ¿eh? Sabes...<n>Cuando me mudé aquí,\npensé que los días<n>eran súper largos, pero—"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Spe! Al fin te encuentro... Oh. Em, ¡lo<n>siento! ¿Estoy interrumpiendo\nalgo?"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Oh, estás bien, Suzuka! ¿Necesitas algo de mí?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Bueno, llegó una carta de tu mamá al<n>dormitorio, así que pensé que\ndebería<n>traértela."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Digo, siempre te emocionas tanto cuando<n>recibes una carta de tu mamá,\nasí que..."
+    },
+    {
+      "name": "Special Week",
+      "text": "¡G-gracias, Suzuka! ¡Realmente no debías!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Silence Suzuka le entrega la carta y se<n>retira rápidamente. A su manera,\ntambién<n>está preocupada por su compañera de cuarto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con la carta ahora en sus manos, Special<n>Week abre lentamente el\nsobre y lee la<n>carta de principio a fin."
+    },
+    {
+      "name": "Special Week",
+      "text": "Jeje... Lo de siempre, lo de siempre.",
+      "choice_data_list": [
+        "¿Qué cosa?"
+      ]
+    },
+    {
+      "name": "Special Week",
+      "text": "Oh, eh... cierto. La despedida de mi mamá.<n>Siempre es la misma."
+    },
+    {
+      "name": "Special Week",
+      "text": "\"Spe, querida. Te deseo una vida de<n>felicidad, por siempre y para\nsiempre.\" Me<n>ha dicho lo mismo desde que tengo<n>memoria."
+    },
+    {
+      "name": "Special Week",
+      "text": "Mi mamá que me crió... y mi Mamá que me<n>dio a luz."
+    },
+    {
+      "name": "Special Week",
+      "text": "Mi Mamá en realidad falleció antes de que<n>pudiera abrir los ojos. Solo\nla he visto<n>en fotos."
+    },
+    {
+      "name": "Special Week",
+      "text": "Pero su mejor amiga me acogió y me crió<n>como suya. Ella me hizo la\npersona que<n>soy hoy."
+    },
+    {
+      "name": "Special Week",
+      "text": "Mamá me dijo que todo lo que deseaba Mama era<n>que encontrara paz y<n>felicidad—que todas las<n>esperanzas y sueños de Mama residen<n>en mí."
+    },
+    {
+      "name": "Special Week",
+      "text": "Jeje... ¿No es increíble? ¡Tengo dos<n>madres! ¡Y las dos<n>me aman más que a<n>nada!"
+    },
+    {
+      "name": "Special Week",
+      "text": "De verdad son... las mejores..."
+    },
+    {
+      "name": "Special Week",
+      "text": "...¿Qué estoy haciendo?"
+    },
+    {
+      "name": "Special Week",
+      "text": "Disculpa, si me permites un momento...<n>Quiero un tiempo a solas para<n>correr por esta<n>zona."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin decir otra palabra, Special Week<n>sale corriendo, y yo veo su espalda<n>desaparecer en la distancia."
+    }
+  ]
 }

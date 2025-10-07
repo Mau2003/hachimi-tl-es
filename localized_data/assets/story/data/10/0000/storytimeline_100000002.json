@@ -1,45 +1,45 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Taiki Shuttle",
-            "text": "Okay everyone! We'll be doing vocal lessons \nin preparation for the live concert!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Here on this farm!!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Why the heck!?"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Hawawawa! The blue sky, the white clouds, \nand that wild smell…! For what reason!? \nWhy!? Please tell me, Shiraoki-sama!"
-        },
-        {
-            "name": "Vodka",
-            "text": "Oh! Scarlet, look over there! \nIt's a restless bull! It's huge! \nI wonder if I could ride it like a motorbike!"
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "Why are you so excited!? Jeez, they said this \nwas going to be a lesson, so why did they force \nme onto a train and bring me here…!?"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "No no, there's a reason we had to come all the way out here! I \nheard that the anniversary live concert venue will be so so big!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "That's why we needed to come to this big farm! \nLet's practice using our outdoor voices!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Okay, are you ready?…Aaahh!!"
-        },
-        {
-            "name": "All 3",
-            "text": "Aaaaahh!!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "タイキシャトル",
+      "text": "と、いうことデ！　エブリワン、\nライブに向けて、ボーカルレッスンでーす！！"
+    },
+    {
+      "name": "タイキシャトル",
+      "text": "牧　場　で　！　！"
+    },
+    {
+      "name": "マチカネフクキタル",
+      "text": "な　ぜ　に　！　？"
+    },
+    {
+      "name": "マチカネフクキタル",
+      "text": "はわわわわ、青い空、白い雲、えも言われぬ野生的なかほり……！\nでもどうして！？　ホワイ！？　お答えくださいシラオキ様！？"
+    },
+    {
+      "name": "ウオッカ",
+      "text": "お！　見ろよスカーレット、あっちに暴れ牛がいるぜ！\nデケェな～、バイクみてぇに跨がれたりすっかなぁ！？"
+    },
+    {
+      "name": "ダイワスカーレット",
+      "text": "はしゃいでる場合！？　ああもうっ、レッスンって聞いてたのに\nなぜか電車に乗せられたあたりでちゃんとツッコめてたら……！！"
+    },
+    {
+      "name": "タイキシャトル",
+      "text": "ノンノン、ここまで来たのにはちゃんと意味がありマス！\n記念ライブの会場、ソー・ソー・ビッグと聞きマシタ。"
+    },
+    {
+      "name": "タイキシャトル",
+      "text": "なので、このビーッグな牧場で！\nビーッグな声を出す練習、みんなでしまショ～～～！"
+    },
+    {
+      "name": "タイキシャトル",
+      "text": "オーケイ、アーユーレディ？\r\n……ア～～～～～～！！"
+    },
+    {
+      "name": "3人",
+      "text": "ア～～～～～～！！"
+    }
+  ]
 }

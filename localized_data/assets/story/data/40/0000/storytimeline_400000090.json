@@ -1,14 +1,17 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "We were not able to achieve our goals…"
-        },
-        {
-            "text": "But the dream has not ended."
-        },
-        {
-            "text": "As long as she keeps running, I vowed to\nkeep pushing her forward as her trainer."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "No alcanzamos nuestros objetivos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero eso no significa que nuestros<n>sueños estén\narruinados."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como su entrenadora, estaré allí<n>para apoyarla\nmientras siga corriendo."
+    }
+  ]
 }

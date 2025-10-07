@@ -1,379 +1,371 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "One evening, as I was passing through \nthe shopping district…"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Hmmmm!?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I'm getting the feeling of a big commotion!! \nA.K.A., a feeling that the class president is \ngoing to be playing a very active part!!"
-        },
-        {
-            "name": "Market Person",
-            "text": "Come, now, it's time for the New Year's \nHuge Lucky Draw Festival! \nThe special prize is a hot spring trip ticket!",
-            "color_text_info_list": [
-                "hot spring trip ticket"
-            ]
-        },
-        {
-            "name": "Market Person",
-            "text": "First prize is a \"special carrot hamburger \nsteak,\" second prize is a \"pile of carrots,\" \nand third prize is a \"carrot\"!"
-        },
-        {
-            "name": "Market Person",
-            "text": "You two look close! \nWhy don't you go ahead and give it a try～?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "What's this, a lucky draw―! \nThen, there's no problem with all the fuss!",
-            "choice_data_list": [
-                "…Is that so?",
-                "…Is that so?"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Trainer! \nActually, I have one of those lucky draw \ntickets!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "One of my classmates said, \"Bakushin \nO-chan seems like she would like this,\" \nand so she gave it to me!",
-            "color_text_info_list": [
-                "Bakushin O"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "\"I can just see myself spinning that lottery \nwheel now\"…was the assessment \nI gave her!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "This is a typical example of me being \nrecognized as the class president \non a daily basis!",
-            "choice_data_list": [
-                "…Sure looks like it!",
-                "…Sure looks like it!"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "So let's get to it and try our hand at the \nLucky Draw!! \nWe only have one chance!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Of course, we're aiming for!! \nAll the prizes!!",
-            "choice_data_list": [
-                "All of them!?"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Well, then at least one special prize, I \nsuppose. \nThere's no way I won't get it, though!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Because, as you can see, I'm a very good \ngirl! There's no way the God of Fortune \nwould abandon me in my time of need!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Come!! Now is the time!!!! For God to \nendlessly adore the class president! \nTo this exemplary class president right \nhere――",
-            "choice_data_list": [
-                "Hurry up and spin it already!?"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Very well!! \nHere we go! Bakushin!!"
-        },
-        {
-            "text": "While trying to calm Sakura Bakushin O, \nwho was wildly running about trying to \nspin the machine, I held the lever and \nmanaged to spin the lottery together with \nher."
-        },
-        {
-            "text": "The results were――"
-        },
-        {
-            "name": "Market Person",
-            "text": "Well, I'll be! Coooongratulations!! \nThe special prize, a ticket for a trip to the \nhot springs, has been claimed～～～～!!"
-        },
-        {
-            "text": "We got \"<itemname>\".",
-            "color_text_info_list": [
-                "<itemname>"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Ohhhh～!! \nThe Special Prize!!!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "And, and!? \nAren't the other balls supposed to be \npopping out too!?",
-            "choice_data_list": [
-                "The special prize alone is fantastic!",
-                "The special prize alone is fantastic!"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Fufufuu―, \nthat's true, too!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "As expected, the class president is the one \nwho's the very best at lottery drawings―!",
-            "choice_data_list": [
-                "You're very lucky, huh.",
-                "You're very lucky, huh."
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Indeed!! \nAfter all, they say luck tends to suit the \nsuperior!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Just as I thought, it seems even the lottery \nballs want to follow me, what with my \nsheer charisma～."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "When I think about it, I feel like somehow \nthese balls are starting to look kind of \ncute…?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Trainer! Can I keep this ball in my room!?",
-            "choice_data_list": [
-                "No you can't!?",
-                "No you can't!?"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Ha-ha～! It's a joke! \nI possess a superior sense of humor, too!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Now, then, \nI shall give this ticket to Trainer!",
-            "choice_data_list": [
-                "Huh?"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I still have a lot of work \nto do as class president!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I don't have time! to soak in some nice, \nrelaxing, leisurely hot spring… I don't! \nI don't have time to be submerged in \npure relaxation!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "When the world is so exemplary \nthat it no longer needs a class president, \nlet us go to that hot spring."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I trust the Trainer's reliable \neyes, so!! Please!"
-        },
-        {
-            "text": "…I'm not sure what that means, but I was \nsupposed to keep the special prize ticket."
-        },
-        {
-            "name": "Market Person",
-            "text": "Congratulations, first prize～! \nThe prize is a \"Special Carrot Hamburger\"!"
-        },
-        {
-            "text": "We got \"<itemname>\".",
-            "color_text_info_list": [
-                "<itemname>"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Ohh! Amazing! \nExtra special, first class plus!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Speaking of special, even going to an eel \nrestaurant couldn't possibly compare to \nthe top-class quality of this prize \nhamburger! This is precisely a hamburger \nintended for the class president!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "The class president and the hamburger \nmade for the class president. \nOnce these two come together, what comes \nnext is――"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "――just eating it!!!!!",
-            "choice_data_list": [
-                "Good for you!",
-                "Good for you!"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Oh, and of course, I'll share it \nwith Trainer!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Because the class motto for this month is! \n\"Cherish a thoughtful heart.\""
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "The class president, the hamburger made \nfor the class president, and the Trainer \nwatching over me!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "If I have that much, I'm absolutely sure I \ncould eat an extra special hamburger, \nwith exemplary-ness!"
-        },
-        {
-            "text": "After that, I enjoyed the extra special taste \nof Sakura Bakushin O's kindness together \nwith her."
-        },
-        {
-            "name": "Market Person",
-            "text": "Second prize～!! \nThe prize is a \"mountain of carrots\"!"
-        },
-        {
-            "text": "We got \"<itemname>\".",
-            "color_text_info_list": [
-                "<itemname>"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "A mountain of them!! \nMmm, that sounds great!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "After all, more is always better!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "However, with such a large amount of food, \nI worry how I could possibly eat it all～.",
-            "choice_data_list": [
-                "Why don't you try cooking it?"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Haaaaaaah!? \nSo that's what this was about～～～～!!!!",
-            "choice_data_list": [
-                "!?"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Food tastes better when it's cooked, right!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "In other words, this heaping pile of carrots \nis just waiting for me to lead them to \ndeliciousness!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Leave it to me! This Sakura Bakushin O \nright here shall bestow upon you the \nclass president's wondrous existence!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "All of you!! I'll make sure you graduate \nas delicious carrooots～～!!"
-        },
-        {
-            "text": "……I'm kind of nervous about this, so I \ndecided to help her whenever she ends up \ncooking."
-        },
-        {
-            "name": "Market Person",
-            "text": "Third prize～! \nThe prize is \"one carrot\"!"
-        },
-        {
-            "text": "We got \"<itemname>\".",
-            "color_text_info_list": [
-                "<itemname>"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Uuuuu―ghhh…… \nOne single carrot, huh."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Ha!? Isn't it possible that there's \nsomething important hidden inside \nthis singular carrot!?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "It really is just one carrot… Truly, \nit isn't symbolic of anything!?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Hmm! If you look closely at this carrot, \nyou'll see a shape in it that doesn't make \nany sense!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Just as I thought, the item bestowed \nupon the class president can't be just \na mere carrot…!",
-            "choice_data_list": [
-                "…Did you watch any detective dramas yesterday?"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "What do you mean!? \nA great detective is always close by!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "If that's the case, then it's up to the \npresident detective and the Trainer \ndetective to compete over this one carrot!!"
-        },
-        {
-            "text": "On the way home, Sakura Bakushin O and \nI had a great discussion about the \ntrue meaning of a carrot…"
-        },
-        {
-            "name": "Market Person",
-            "text": "Too bad, you lost! \nThe participation prize is a tissue～!"
-        },
-        {
-            "text": "We got \"<itemname>\".",
-            "color_text_info_list": [
-                "<itemname>"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Shoooock…! A, a tissue…! \nAnd it's just a participation prize!?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "… N, no! There's no way I was only given \na mere tissue!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "In other words, this must be―― a \"You Did \nYour Best Award\"!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "In the childhood quiz competitions, \nmarathons, and other competitions that I \nhave challenged as class president…"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I received many tissues! \nAs an accompaniment to my proud \"You \nDid Your Best Award\"!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "So therefore, this tissue is also a good \nthing――a good…?",
-            "choice_data_list": [
-                "What's wrong?",
-                "What's wrong?"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "No, it's just… Did you also have that \n\"Shoooock!\" feeling when you got those \ntissues?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "But, I'm the only one who got the \"You Did \nYour Best Award\"…… \nW, what? The other kids got one too…?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "No, no, that can't be…? \nEhhhhhh～……? H～nnnnn…?"
-        },
-        {
-            "text": "Sakura Bakushin O experienced a \ndepressing feeling that could not be \nput into words…"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Una tarde, mientras paseamos por el<n>distrito\ncomercial..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Ah!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Siento problemas y son grandes! En otras<n>palabras, ¡la\noportunidad perfecta para que<n>una representante de\nclase intervenga!"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Acérquense y prueben suerte con nuestra<n>rifa de\nAño Nuevo! ¡El gran premio de este<n>año son unas\nvacaciones en aguas<n>termales para dos personas!"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Los ganadores del primer premio obtienen<n>un\nhamburguesa de zanahoria de<n>lujo! ¡Los del\nsegundo premio se<n>llevan una cesta de\nzanahorias! ¡Y los del<n>tercero pueden llevarse una\nsola zanahoria!"
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Ustedes dos de allí! ¿Quieren probar<n>suerte?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Jaja, es solo una rifa! Si eso es un<n>problema,\n¡apenas lo es!",
+      "choice_data_list": [
+        "...¿Supongo que tienes razón?",
+        "...¿Supongo que tienes razón?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Entrenador! ¡Resulta que tengo un<n>boleto de rifa\nconmigo!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Me lo dio una compañera de clase. ¡Dijo<n>que\nprobablemente me gustaría!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡También dijo que era fácil imaginarme<n>dominando\ngirar la ruleta de la rifa!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Solo otro ejemplo de que mis esfuerzos<n>diarios\ncomo representante de clase<n>son apreciados!",
+      "choice_data_list": [
+        "¡Qué bien!",
+        "¡Qué bien!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Ahora, voy a probar suerte en la<n>rifa! ¡Solo\ntengo una oportunidad!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Todos los premios serán míos!",
+      "choice_data_list": [
+        "¡¿Todos?!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Bueno, al menos un gran premio. ¡No<n>fallaré!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Como puedes ver, soy muy bien<n>educada! ¡El\ndios de las rifas no me<n>abandonará!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Hoy es el día! ¡Oh, espíritu cuyo amor es<n>infinito\npor las representantes de<n>clase! Mira con\nbuenos ojos a esta<n>ejemplar representante ante\nvos—",
+      "choice_data_list": [
+        "¿Qué tal si nos apuramos?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Entendido! ¡Allá voy! ¡Bakushin!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras calmo el deseo de Sakura<n>Bakushin O\nde emocionarse un poco<n>demasiado, tomamos la\npalanca juntos y<n>giramos el tambor."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Una pequeña bola de plástico cae de la<n>abertura\ndel tambor..."
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Santo cielo! ¡Tenemos un ganador del<n>gran\npremio! ¡Vengan por su<n>cupón para las vacaciones\nen aguas<n>termales! ¡Felicidades!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste:<n><itemname>"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Whoooaa! ¡Ganamos el gran premio!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡¿Y ahora qué?! ¡¿Por qué no hay más<n>bolas de\ndonde vino esa?!",
+      "choice_data_list": [
+        "¡Un gran premio es más que suficiente!",
+        "¡Un gran premio es más que suficiente!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Jeje. Ahora que lo mencionas, ¡tienes<n>razón!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Naturalmente, una representante de<n>clase como\nyo también destacaría<n>ganando rifas!",
+      "choice_data_list": [
+        "¡Eres muy afortunada!",
+        "¡Eres muy afortunada!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Eso soy! ¡Parece que mi suerte está en<n>los\nrangos superiores!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "No me sorprende que incluso los<n>premios de\nrifa se sientan atraídos por<n>alguien con tanto\ncarisma como yo."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Es mi imaginación, o... esta bola se ve<n>bastante\nlinda?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Entrenador! ¿Está bien si la guardo en mi<n>habitación\ncomo mascota?!",
+      "choice_data_list": [
+        "¡No, no está bien!",
+        "¡No, no está bien!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Jaja! ¡Es broma! ¡Mi buen sentido del<n>humor\nsiempre está listo!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Y ahora te daré este cupón a ti,<n>Entrenador!",
+      "choice_data_list": [
+        "¿A mí?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Todavía tengo muchas más cosas que<n>hacer como\nrepresentante de clase!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "No hay tiempo que perder<n>relajándose,\nrefrescándose o calentándose!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Si llegara el momento en que la sociedad<n>haga\nobsoletas a las representantes<n>de clase por su\nestatus<n>excesivamente ejemplar, entonces\nvisitaré las aguas termales."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Creo que sabrás cuándo llegue ese<n>momento!\n¡Por favor, permíteme<n>encomendarte esta\ntarea!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...No estoy segura de qué quiere decir,<n>pero\nguardaré el cupón por ella."
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Parece que tenemos otro ganador del<n>primer\npremio! ¡Felicidades! ¡Obtienes una<n>hamburguesa\nde zanahoria de lujo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste:<n><itemname>"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Whoa! ¡Esto es genial! ¡Y es de lujo también!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Dice de lujo, pero esto va más allá de<n>primera\nclase! ¡Es el tipo de cosa que verías<n>en un\nlugar de comida fina!<n>¡Esta es una hamburguesa\nprácticamente<n>hecha para representantes de\nclase!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Una representante de clase más una<n>hamburguesa\nperfectamente adecuada<n>para representantes de\nclase. Solo hay un<n>resultado aquí..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡COMÉRSELA!",
+      "choice_data_list": [
+        "¡Me alegra que te guste!",
+        "¡Me alegra que te guste!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Uy. ¡Por supuesto que te guardaré un<n>bocado!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Compartir es cuidar. ¡Ese es el lema que<n>nuestra\nclase eligió para este mes!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Una representante de clase más una<n>hamburguesa\nperfectamente adecuada<n>para representantes de\nclase <i>más</i> el<n>entrenador que siempre me\ncuida!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Con una alineación como esta, no hay<n>duda de\nque esta hamburguesa de<n>lujo será degustada de\nuna manera ejemplar!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gracias a la amabilidad de Sakura<n>Bakushin O,\npuedo disfrutar el sabor del<n>lujo con ella."
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Tenemos un ganador del segundo<n>premio! ¡Es tu\ndía de suerte! ¡Te vas a<n>casa con una cesta de\nzanahorias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste:<n><itemname>"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Wow, una cesta! ¡Eso suena bien!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Cuanto más grandes son las cosas,<n>mejor!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Sin embargo, estoy un poco<n>perpleja sobre\ncómo podré terminarme todo esto.",
+      "choice_data_list": [
+        "¿Por qué no preparas algo?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Oh! ¡Así que eso es lo que se supone<n>que debo\nhacer con ellas!",
+      "choice_data_list": [
+        "...?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Cocinar se trata de hacer que los<n>ingredientes\nsepan mejor, ¿verdad?!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Eso significa que estas zanahorias<n>han estado\nesperando a que las convierta<n>en una sensación\ndeliciosa!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Solo déjamelo a mí! Yo, Sakura<n>Bakushin O,\n¡arriesgaré mi título como<n>representante de clase!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Haré que todos se transformen en los<n>dulces más\ndeliciosos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Me siento un poco inquieta, así que<n>decido\nayudarla a cocinar cuando llegue el<n>momento."
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Miren aquí! ¡Ganaste el tercer<n>premio! ¡Aquí\ntienes tu zanahoria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste:<n><itemname>"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "...Solo una zanahoria, ¿eh?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡¿Oh?! ¡¿Y si hay un gran secreto<n>escondido\nadentro?!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Puede parecer solo una zanahoria...<n>pero\n¡¿quizás es simbólica?!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Hm! Tras una inspección más cercana,<n>la forma\nparece tener algún tipo de<n>significado!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Para que este premio sea otorgado a<n>una\nrepresentante de clase, es<n>imposible que sea\nuna zanahoria ordinaria!",
+      "choice_data_list": [
+        "...¿Viste ese programa de detectives ayer?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡¿Cómo lo supiste?! ¡Parece que había<n>un\ndetective justo bajo mi nariz!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Quién puede revelar los secretos de<n>esta\nzanahoria, la Detective<n>Representante de Clase o\nla Detective<n>Entrenadora? ¡Que comience el\njuego!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "De regreso, discutimos fervientemente<n>el\nsignificado de esa única zanahoria."
+    },
+    {
+      "name": "Empleado de la rifa",
+      "text": "¡Ohhh, mala suerte! Parece que sacaste<n>un\nboleto en blanco! Toma este paquete<n>de pañuelos\ncomo premio de consolación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Obtuviste:<n><itemname>"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Ack! ¡¿P-pañuelos?! ¡¿<i>Y</i> es el premio de<n>consolación?!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "...¡N-no! ¡Simplemente no hay manera<n>de que me\nconvierta en la receptora de<n>un simple paquete\nde pañuelos!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Es un mísero trofeo de participación!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Recibí uno de esos en el concurso de<n>cultura\ngeneral del pueblo cuando era<n>niña... Y el\ntorneo de maratón...<n>Y cada otro torneo en el que\nparticipé<n>como representante de clase..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡He recibido montones de pañuelos!<n>¡El premio\nde participación definitivo!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Entonces estos pañuelos deben ser<n>algo bueno...\n¿Verdad?",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Es que... en ese entonces, tampoco<n>estaba\nsuper emocionada por los<n>pañuelos..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Pero yo era la única que recibió ese<n>premio...\n¿Espera? ¿No los recibieron<n>los otros niños\ntambién?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Espera... ¿eh? ¿Hm? ¿Hmm?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sakura Bakushin O agoniza en su mente,<n>perdida\npor palabras..."
+    }
+  ]
 }

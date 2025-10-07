@@ -1,201 +1,209 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "It had been a few days since I met Matikanefukukitaru ——"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Trainer! Excuse my interruption!",
-            "choice_data_list": [
-                "What's up?",
-                "What's up?"
-            ]
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "I was thinking I should really get down to training \nfor the Selection Race from today forward."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "My horoscope did inform me that this period is \na terrifically important one to my development."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Therefore, I am relying on your guidance, if you please!",
-            "choice_data_list": [
-                "<size=36>Do I have to remind you I'm not your trainer!?</size>"
-            ]
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "The <i>Fortune Corner TV</i> segment indicated that \nI should heed the insights of an expert, and so \nI kindly ask of thee, I beg of theee～!"
-        },
-        {
-            "text": "Our exchange concluded with me being pushed \ninto accompanying her for training……"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "A m-mock race?! That is to be my training, a mock race?!",
-            "choice_data_list": [
-                "Well, you wanted to \"really get down\" to it."
-            ]
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "I may have a recollection of that indeeeed, but even so…!"
-        },
-        {
-            "text": "My opinion was that, to do well in the race, she would \nfind great benefit to amassing experience. I therefore \ndecided to schedule her a mock race."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Howdy～! How are y'all doing today!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "<i>Hiiiie!?</i> Out of all the choices, you set me up against Taiki?!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Trainer called me here as your friend!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Not a chance in all nine hells! Taiki's in such a different league \nshe could be making her debut any day, you know!?",
-            "choice_data_list": [
-                "I thought you were listening to an expert?"
-            ]
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "<i>Pyaaaaaah～!!</i> I am unable to refute that…"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Then let me at least consult the spirits about this!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "<i>Eko Eko Azarashi… Eko Eko Ottosei…</i> \nO victory… <b>come to me</b>～～～～～!"
-        },
-        {
-            "text": "Cryptic sounds flowing forth from her mouth, she conjured up \na pencil out of the blue, which she stood upright and let fall."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "<i>Nuooh!?</i> Would you look at that… Great Luck!!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "I will be accepting this mock race, Trainer! \nAnd I won't treat it any different from a real race!!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "I'm sure you don't mind, Taiki?"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Not at all! I'm ready go to! \nLet's have a fun time racing together!"
-        },
-        {
-            "text": "So their mock race began, Matikanefukukitaru vs Taiki Shuttle."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "<i>Hufh… hufh… hufh… hufh…!</i>"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Taiki's speed really is in a different league. \nI can't afford to lose focus for a split second…"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Nevertheless, I have the power of Great Luck at my side! \nFame and bettered fortune await me at the finish line～～～!!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "I looost!!",
-            "choice_data_list": [
-                "Well, so much for your Great Luck.",
-                "Well, so much for your Great Luck."
-            ]
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "<i>Gueeeeh…!</i> My Great Luck still applies!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "If I think of this as a frustrating experience leading \nme to putting in more hard work, I'd say the result \nis greatly positive!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "To get right on it then, I will go running so \nthat I may win next time! <i>Uwaaaaaah～～!!</i>"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Aww, we're done already? \nI wanted to run together some more!!"
-        },
-        {
-            "text": "That evening, as I was heading home, I identified \nsome curious sounds as a horsegirl's voice."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "<i>Funyakaaa～… Hanyakaaa～</i> \nReveal to me tonight's lucky course!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "… Oh, hm? If it isn't my trainer.",
-            "choice_data_list": [
-                "What are you up to here?",
-                "What are you up to here?"
-            ]
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "I am planning on going running, so I was divining \nthe most appropriate course to use!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Divine Shiraoki would be very cross with me if I tried to gain \nfortune without expending any effort myself, after all!",
-            "choice_data_list": [
-                "Divine Shiraoki?"
-            ]
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Yes, she is a deity who appears to me only in dreams, \nleading me to prosperity! I am very grateful for her."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "She always guides me to the right path whenever I feel \nlost and anxious, as she did after my race with Taiki."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "For me to even be here running is all thanks \nto my trust in her and the powers of divination. \nTruly, I am not worthy～",
-            "choice_data_list": [
-                "I can tell she's extremely important to you.",
-                "I can tell she's extremely important to you."
-            ]
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "That she is! Have you perhaps already understood \nthe magnitude of Divine Shiraoki's blessings!?"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Either way, I must be off for training! \nFortune guide me to my lucky course!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "<i>Wu-hoaaaah!?</i> Why is there a puddle of water here!?"
-        },
-        {
-            "text": "The arcane forces of divination must be what support \nMatikanefukukitaru in her desire to run."
-        },
-        {
-            "text": "I feel like I have gotten a glimpse of \nwhat this peculiar girl is really like."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Unos días después de toparme con<n>Matikanefukukitaru..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Oye! ¿Me prestas un minuto?",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Estaba pensando en empezar mi<n>entrenamiento para las pruebas hoy—¡como,<n>entrenamiento <i>de verdad</i>!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Mi horóscopo me reveló que desempeñarme<n>bien en las próximas pruebas es crucial para<n>mi éxito."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Lo que significa que necesitaré tu guía! ¿No<n>te molesta, verdad?!",
+      "choice_data_list": [
+        "¡Pero si ni siquiera soy tu entrenador aún!"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Un psíquico de TV dijo que \"prestes oído a<n>los expertos\". Y tú eres un experto<n>entrenador, ¿verdad?! Así que debes<n>entrenarme—¡es obligatorio!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Matikanefukukitaru no acepta un no por<n>respuesta, así que finalmente accedo a su<n>petición de entrenar un poco con ella."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡¿En serio?! ¿Mi entrenamiento es correr un<n>partido de práctica?!",
+      "choice_data_list": [
+        "Dijiste que querías \"entrenamiento <i>de verdad</i>\", ¿no?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Bueno, sí... Lo dije, pero..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pensando que la mejor manera de mejorar es<n>ganar tanta experiencia como sea posible, lo<n>más rápido posible, ya organicé un partido<n>de práctica para ella."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Hola, hola! ¡Que gane la mejor corredora!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Wow! ¿Voy a competir contra Taiki?!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Tu entrenador vino a pedirme que echara<n>una mano! ¡Es lo menos que puedo hacer como<n>tu amiga!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Pero prácticamente eres lo suficientemente<n>buena para debutar! Entrenador, no puedo<n>competir contra ella!",
+      "choice_data_list": [
+        "¿Qué pasó con lo de escuchar a los expertos?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Aaarg! Me pillaste ahí..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Podría al menos tratar de leer mi fortuna<n>primero?!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Eko, eko, sello azul! ¡Eko, eko, muro de<n>óxido! Diosa de la victoria, ¡atiende mi<n>llamado!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella canta una especie de invocación<n>misteriosa, saca un lápiz de la nada y lo<n>hace rodar por el suelo."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Whoa! ¡Grandes fortunas me esperan al final<n>de esta carrera!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Decidido! <i>Sí</i> correré en este partido de<n>práctica! ¡Presencia cómo vuelo más rápido<n>que nunca!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Estás lista, Taiki?!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Claro que sí! ¡Estoy preparada! ¿Por qué no<n>nos divertimos un poco?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así comienza el partido de práctica entre<n>Matikanefukukitaru y Taiki Shuttle."
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "<i>Jadeo... jadeo... jadeo...</i>"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Wow... Taiki realmente es increíble. Mejor<n>acelero el paso!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Pero no perderé! Después de todo, ¡la<n>fortuna está de mi lado hoy! ¡Adelante—hacia<n>un futuro glorioso lleno de suerte!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡¿Perdí?! ¡¿Pero cómo?!",
+      "choice_data_list": [
+        "Supongo que se te acabó la suerte.",
+        "Supongo que se te acabó la suerte."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Grrrn... ¡Para nada es eso!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Necesito convertir esta frustración en<n>motivación! Eso es lo que mi gran fortuna<n>es—¡estoy segura!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "En fin, ¡debo apurarme! ¡La próxima carrera<n>no se ganará sola! ¡Waaaah!"
+    },
+    {
+      "name": "Taiki Shuttle",
+      "text": "¡Oye, ¿ya terminamos?! ¡Pero quería correr<n>contigo un poco más!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Esa noche, justo cuando salgo del campus de<n>la academia, escucho una voz extraña."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Woiya... Haiya... ¡Revela a mis ojos la pista<n>de la suerte de esta noche!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Eh? Oh, eres tú.",
+      "choice_data_list": [
+        "¿Qué estás haciendo?",
+        "¿Qué estás haciendo?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Bueno, quiero salir a correr, pero primero<n>necesito averiguar la mejor pista para<n>hacerlo! ¡Nada que un poco de adivinación<n>no pueda resolver!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡La gran Shiraoki se disgustaría si alguna vez<n>intentara confiar solo en la suerte! ¡La buena<n>fortuna bendice a quienes trabajan por ella!",
+      "choice_data_list": [
+        "¿La gran... Shiraoki?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Shiraoki es una diosa increíble que aparece<n>en mis sueños! ¡Me dice qué es de suerte y<n>me guía por un camino de gran fortuna!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Si alguna vez me siento perdida, deprimida o<n>ansiosa, ella me anima—¡me hace sentir<n>mejor! ¡Incluso me ayudó durante mi partido<n>de práctica con Taiki!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "La razón por la que estoy aquí ahora es<n>gracias a la gran Shiraoki! Elegí creer en<n>ella, y eso me trajo hasta donde estoy hoy...",
+      "choice_data_list": [
+        "¿Una diosa benevolente e irremplazable, eh?",
+        "¿Una diosa benevolente e irremplazable, eh?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Exacto! ¡Ahora lo entiendes! Ella es<n>increíble, ¿verdad?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "En cualquier caso, ¡debo volver al<n>entrenamiento! ¡Me voy a la pista de la<n>suerte! ¡Super Carrera de la Fortuna!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Espera, ¿qué?! ¿Por qué hay un charco aquí?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estas adivinaciones parecen servir como<n>algún tipo de motivación para que ella<n>cumpla su propio deseo de correr."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Matikanefukukitaru definitivamente es una<n>Umamusume con muchos peculiaridades, pero<n>siento que empiezo a ver quién es realmente<n>detrás de su caparazón de fortuna."
+    }
+  ]
 }

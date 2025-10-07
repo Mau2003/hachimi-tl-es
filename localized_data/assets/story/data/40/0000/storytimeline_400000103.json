@@ -1,27 +1,28 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Chairwoman Akikawa",
-            "text": "Haahahahaha! I've been waiting\nfor you, trainer <username>!"
-        },
-        {
-            "name": "Chairwoman Akikawa",
-            "text": "The look on her face as she takes\non the final… Mmm! She's practically\nglowing with motivation."
-        },
-        {
-            "name": "Chairwoman Akikawa",
-            "text": "Excellent! Then I have but one thing to say."
-        },
-        {
-            "name": "Chairwoman Akikawa",
-            "text": "Believe in the strength of your horse girl,\nand grasp victory together!",
-            "choice_data_list": [
-                "Yes…!"
-            ]
-        },
-        {
-            "text": "The gate to the finals of the\nURA Finals is finally open!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Jajaja! Te he estado esperando,<n>\n¡Entrenadora <username>!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Esa cara tuya me dice que estás<n>lista para un\ndesafío... ¡Bien! Eso es<n>exactamente lo que\nquiero ver."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Toma nota! Solo tengo un consejo<n>para ti."
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Cree en la fuerza de tu aprendiz y<n>aprovecha la\nvictoria juntas!",
+      "choice_data_list": [
+        "¡Lo haré!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Final URA... ¡Por fin, las puertas<n>se abrirán a\nla final!"
+    }
+  ]
 }

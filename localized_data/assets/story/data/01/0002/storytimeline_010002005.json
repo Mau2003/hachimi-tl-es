@@ -1,13 +1,13 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "First, let's start by preparing for training \nour horsegirls."
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "Select a scenario to play."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Primero, ¡hagamos preparativos para tu<n>\npartida de Carrera!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Elijamos un Escenario para jugar."
+    }
+  ]
 }

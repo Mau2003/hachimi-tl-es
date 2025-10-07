@@ -2,306 +2,309 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narration",
-      "text": "The Japanese Derby."
+      "name": "Narración",
+      "text": "El Derby Japonés."
     },
     {
-      "name": "Narration",
-      "text": "How cruel that the race with the greatest history, tradition, and \nrenown can only be entered once in a runner's life."
+      "name": "Narración",
+      "text": "Qué cruel que la carrera con la mayor<n>historia, tradición y\nrenombre solo se pueda<n>disputar una vez en la vida de una corredora."
     },
     {
-      "name": "Narration",
-      "text": "Many famed racers have suffered defeat in the face of their \ndream—the dream of every Umamusume—to reach the pinnacle of \nracing and become Derby champion."
+      "name": "Narración",
+      "text": "Muchas corredoras famosas han sufrido derrotas<n>ante su\nsueño—el sueño de<n>toda Uma Musume—de alcanzar la cima<n>de\nlas carreras y convertirse en campeonas del Derby."
     },
     {
-      "name": "Narration",
-      "text": "On that day, an astounding 200,000 fans watched as the gates \nopened."
+      "name": "Narración",
+      "text": "Ese día, unos asombrosos 200,000 fanáticos<n>observaron cómo se\nabrieron las<n>compuertas."
     },
     {
-      "name": "Narration",
-      "text": "In the Derby, it's no easy feat to take an early lead and keep it. But \nthe runner in pink insisted on doing it her own way."
+      "name": "Narración",
+      "text": "En el Derby, no es fácil tomar la<n>delantera inicial y mantenerla. Pero\nla<n>corredora de rosa insistió en hacerlo a su manera."
     },
     {
-      "name": "Narration",
-      "text": "What unfolded was not a race to outrun the rest. It was a high-speed \nwar of attrition."
+      "name": "Narración",
+      "text": "Lo que ocurrió no fue una carrera para<n>superar a las demás. Fue una\nguerra de<n>desgaste a alta velocidad."
     },
     {
-      "name": "Narration",
-      "text": "She'd barely shaken off her opponents when she crossed the finish \nline. Her body exhausted, she hadn't the energy left for one more \nstep."
+      "name": "Narración",
+      "text": "Apenas había sacudido a sus rivales<n>cuando cruzó la meta. Su cuerpo\nagotado,<n>no le quedaba energía ni para<n>un paso más."
     },
     {
-      "name": "Narration",
-      "text": "Her only way to win was to put every ounce of her being into it."
+      "name": "Narración",
+      "text": "Su única forma de ganar era poner cada<n>pizca de su ser en ello."
     },
     {
-      "name": "Narration",
-      "text": "The champion's name was Ines Fujin."
+      "name": "Narración",
+      "text": "El nombre de la campeona era Ines Fujin."
     },
     {
-      "name": "Narration",
-      "text": "The roaring applause that echoed throughout the racecourse in Fuchu \nthat day still resounds in the mind of every fan."
+      "name": "Narración",
+      "text": "Los aplausos atronadores que resonaron<n>por el hipódromo de Fuchu\nese<n>día aún resuenan en la mente de cada fanático."
     },
     {
-      "text": "Wooooo!"
+      "text": "¡Wuuuuu!"
     },
     {
-      "name": "Caster",
-      "text": "It's the final straight! Which racer has what it takes to stand \nvictorious?!"
+      "name": "Comentarista",
+      "text": "¡Es la recta final! ¡¿Qué corredora tiene lo<n>que se necesita para\nsalir victoriosa?!"
     },
     {
-      "name": "Young Umamusume",
-      "text": "You can do iiit!"
+      "name": "Uma Musume Joven",
+      "text": "¡Tú puedes lograrlo!"
     },
     {
-      "name": "Young Umamusume",
-      "text": "Wooow! They're all so fast!"
+      "name": "Uma Musume Joven",
+      "text": "¡Guau! ¡Son todas tan rápidas!"
     },
     {
-      "name": "Caster",
-      "text": "The leader has a burst of speed! Now, the runner in second place \nadvances from the opposite side of the pack!"
+      "name": "Comentarista",
+      "text": "¡La líder acelera de repente! ¡Ahora, la<n>corredora en segundo lugar\navanza por el<n>lado opuesto del grupo!"
     },
     {
-      "name": "Young Umamusume",
-      "text": "Ah! The girl in front is gonna lose the lead!"
+      "name": "Uma Musume Joven",
+      "text": "¡Ah! ¡La chica de adelante va a perder la delantera!"
     },
     {
-      "name": "Caster",
-      "text": "And she takes the lead! Just like that, she pushes ahead! She widens \nthe gap between herself and her rival!"
+      "name": "Comentarista",
+      "text": "¡Y toma la delantera! Así de simple, ¡avanza!<n>Amplía la ventaja\nfrente a<n>su rival!"
     },
     {
-      "name": "Young Umamusume",
-      "text": "Oh no, I feel so bad for her…"
+      "name": "Uma Musume Joven",
+      "text": "Oh no, me siento tan mal por ella..."
     },
     {
-      "name": "Young Umamusume's Mother",
-      "text": "Look, she hasn't given up yet. So you shouldn't give up either. Why \ndon't you keep cheering her on?"
+      "name": "Madre de Uma Musume Joven",
+      "text": "Mira, aún no se ha rendido. Así que<n>tú tampoco deberías hacerlo.\n¿Por qué no<n>sigues animándola?"
     },
     {
-      "name": "Young Umamusume",
-      "text": "<i>Sob…</i> You can do it! Keep going!"
+      "name": "Uma Musume Joven",
+      "text": "<i>Sollozo...</i> ¡Tú puedes! ¡Sigue adelante!"
     },
     {
-      "name": "Caster",
-      "text": "She's going all the way! There's the finish! She bested her rivals, \ntaking the crown in a stunning victory!"
+      "name": "Comentarista",
+      "text": "¡Va por todo! ¡Ahí está la meta!<n>Superó a sus rivales,\nconsiguiendo la corona con una<n>victoria impresionante!"
     },
     {
-      "name": "Young Umamusume",
-      "text": "Awww, she lost… She's crying…"
+      "name": "Uma Musume Joven",
+      "text": "Ayyy, perdió... Está llorando..."
     },
     {
-      "name": "Young Umamusume's Mother",
-      "text": "Yes, it's sad after she ran so well. But look, the winner's crying too."
+      "name": "Madre de Uma Musume Joven",
+      "text": "Sí, es triste después de correr tan bien. Pero mira,<n>la ganadora también está llorando."
     },
     {
-      "name": "Young Umamusume",
-      "text": "You're right… Why?"
+      "name": "Uma Musume Joven",
+      "text": "Tienes razón... ¿Por qué?"
     },
     {
-      "name": "Young Umamusume's Mother",
-      "text": "The Derby is the dream of every one of these racers."
+      "name": "Madre de Uma Musume Joven",
+      "text": "El Derby es el sueño de cada una de<n>estas corredoras."
     },
     {
-      "name": "Young Umamusume's Mother",
-      "text": "So whether they win or lose, they'll cry. Because they gave it their \nvery all to make their dream come true. They worked so hard for this."
+      "name": "Madre de Uma Musume Joven",
+      "text": "Así que ganen o pierdan, llorarán.<n>Porque dieron todo de sí para\nhacer<n>realidad su sueño. Se esforzaron<n>tantísimo por esto."
     },
     {
-      "name": "Young Umamusume",
-      "text": "Dream… Derby…"
+      "name": "Uma Musume Joven",
+      "text": "Sueño... Derby..."
     },
     {
-      "text": "At Tracen Academy, the swelteringly hot days are beginning to cool \ndown."
+      "text": "En la Academia Tracen, los días<n>sofocantemente calurosos empiezan\na refrescar."
     },
     {
-      "text": "And the academy's annual autumn event, the Solefall Faire, is almost \nhere."
+      "text": "Y el evento anual de otoño de la academia,<n>la Feria Solefall, está a punto de\nllegar."
     },
     {
       "name": "Gold Ship",
-      "text": "All right! Landed a cabbage supplier!"
+      "text": "¡Bien! ¡Conseguí un proveedor de repollo!"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Cabbage? <i>What</i> are you talking about?"
+      "text": "¿Repollo? ¡¿De qué estás hablando?!"
     },
     {
       "name": "Gold Ship",
-      "text": "The Solefall Faire, you ding-dong! I've been planning to sell my \nspecial Golshi yakisoba there since forever ago!"
+      "text": "¡La Feria Solefall, boba! ¡He estado<n>planeando vender mi yakisoba\nespecial Golshi<n>desde hace montones de tiempo!"
     },
     {
       "name": "Gold Ship",
-      "text": "And I need you and our trusty trainer to pitch in. You'd better start \npracticing your griddle skills."
+      "text": "Y necesito que tú y nuestro confiable<n>entrenador echen una mano.\nMejor que<practiques tus habilidades con el sartén."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "I don't like the sound of this at all… I'll have you taste it first, Trainer. \nSomeone needs to check if it's safe.",
+      "text": "No me gusta nada cómo suena esto...<n>Haré que lo pruebes primero,\nEntrenador.<n>Alguien tiene que verificar que sea seguro.",
       "choice_data_list": [
-        "Safe? Don't you mean I should check if it tastes \ngood?"
+        "¿Seguro? ¿No querrás decir que debería comprobar si sabe bien?"
       ]
     },
     {
       "name": "Gold Ship",
-      "text": "Don't worry your pretty face. I'm not gonna use anything inedible. \nJust cabbage, carrots, wasabi paste, grated wasabi, and diced wasabi."
+      "text": "No te preocupes, carita bonita. No voy<n>a usar nada no comestible.\nSolo<n>repollo, zanahorias, pasta de wasabi,<n>wasabi rallado y wasabi en cubos."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "How much wasabi are you using?!"
+      "text": "¡¿Cuánto wasabi estás usando?!"
     },
     {
-      "text": "The whole academy is frantically preparing for the festival. In the \nmidst of all the uproar, someone comes to see me."
+      "text": "Toda la academia se prepara frenéticamente<n>para el festival. En medio\nde todo el<n>alboroto, alguien viene a verme."
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "There you are."
+      "text": "Ahí estás."
     },
     {
-      "text": "Tazuna Hayakawa, assistant to the director of Tracen, approaches \nwith a big smile.",
+      "text": "Tazuna Hayakawa, asistente de la directora<n>de Tracen, se acerca con\nuna gran sonrisa.",
       "choice_data_list": [
-        "You were looking for me?"
+        "¿Me estabas buscando?"
       ]
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "I have big news. ♪ Your predecessor is being given an award by the \nURA."
+      "text": "Tengo grandes noticias. ♪ Tu predecesor<n>recibirá un premio de la\nURA."
     },
     {
       "name": "Gold Ship",
-      "text": "An award? For what? Getting a kitten out of a tree?"
+      "text": "¿Un premio? ¿Por qué? ¿Por sacar un<n>gatito de un árbol?"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Don't you know? It's an honor given to racers and trainers who've \nmade outstanding achievements."
+      "text": "¿No lo sabes? Es un honor que se otorga a<n>corredoras y entrenadores\nque han logrado<n>hazañas sobresalientes."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Some make it their mission to get it. Winners get their photo and race \nrecord displayed in the Umamusume Museum at the Tokyo \nRacecourse."
+      "text": "Algunas lo hacen su misión obtenerlo.<n>Los ganadores tienen su foto y\nrécord de<n>carreras exhibidos en el Museo Uma Musume<n>del\nHipódromo de Tokio."
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "And who more fitting than him? Oguri's final race is still a favorite \namong fans."
+      "text": "Y ¿quién más merecedor que él? La<n>carrera final de Oguri sigue\nsiendo favorita<n>entre los fanáticos."
     },
     {
-      "text": "It's not just the fans. Mejiro McQueen and I will never forget that \nArima Kinen run either."
+      "text": "No son solo los fanáticos. Mejiro McQueen y<n>yo tampoco olvidaremos\nesa carrera del<n>Arima Kinen."
     },
     {
-      "text": "It's not just the fans. Mejiro McQueen and I will never forget that \nArima Kinen run either."
+      "text": "No son solo los fanáticos. Mejiro McQueen y<n>yo tampoco olvidaremos\nesa carrera del<n>Arima Kinen."
     },
     {
-      "text": "My mentor really was out of this world. Truly amazing."
-    },
-    {
-      "name": "Tazuna Hayakawa",
-      "text": "The awards ceremony will be broadcast live, so don't miss it!"
+      "name": "<username>",
+      "text": "Mi mentor realmente era fuera de serie.<n>Realmente asombroso."
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "In other matters, I have a small favor to ask…"
+      "text": "La ceremonia de premiación se<n>transmitirá en vivo, ¡así que no te\nla pierdas!"
     },
     {
-      "text": "Tazuna directs me to the academy library, where I've been asked to \nhelp a student prepare something for the Solefall Faire."
+      "name": "Tazuna Hayakawa",
+      "text": "En otros asuntos, tengo un pequeño favor<n>que pedirte..."
+    },
+    {
+      "text": "Tazuna me dirige a la biblioteca de la<n>academia, donde me han\npedido ayudar a una<n>estudiante a preparar algo para la Feria Solefall."
     },
     {
       "name": "???",
-      "text": "Waaaaah! I'm gonna CRY!"
+      "text": "¡Buaaaaah! ¡Voy a LLORAR!"
     },
     {
       "name": "???",
-      "text": "No matter how many defeats or injuries, she kept on running. This \nracer had SO much heart. <i>Sob…</i>"
+      "text": "Sin importar cuántas derrotas o lesiones,<n>ella siguió corriendo. Esta\ncorredora tenía<n>TANTA determinación. <i>Sollozo...</i>"
     },
     {
-      "text": "Her voice shatters the silence of the library. With no one else around, \nI know who it is I'm supposed to assist.",
+      "text": "Su voz rompe el silencio de la<n>biblioteca. Sin nadie más alrededor,\nsé<n>a quién debo asistir.",
       "choice_data_list": [
-        "Are you the one who needs help with the \nSolefall Faire?",
-        "Are you the one who needs help with the \nSolefall Faire?"
+        "¿Eres tú la que necesita ayuda con la Feria Solefall?",
+        "¿Eres tú la que necesita ayuda con la Feria Solefall?"
       ]
     },
     {
       "name": "???",
-      "text": "Ah! Are you the trainer Ms. Tazuna was talking about? Thank \ngoodneeess! Finally some help! I'm SAVED!"
+      "text": "¡Ah! ¿Eres el entrenador del que hablaba<n>la Srta. Tazuna? ¡Gracias\na Diooos! ¡Por fin<n>alguien me ayuda! ¡Estoy SALVADA!"
     },
     {
       "name": "Winning Ticket",
-      "text": "Wait… I didn't introduce myself! Nice to meet ya! I'm Winning Ticket!"
+      "text": "Espera... ¡No me presenté! ¡Mucho<n>gusto! ¡Soy Winning Ticket!"
     },
     {
       "name": "Winning Ticket",
-      "text": "Really though, I volunteered 'cause I had this rad idea, but now that \nI'm in the thick of prepping, I can't manage at all.",
+      "text": "En serio, me ofrecí porque tenía<n>esta idea genial, pero ahora que\nestoy en<n>plena preparación, no puedo con todo.",
       "choice_data_list": [
-        "I'm here to help. What do you need?"
+        "Estoy aquí para ayudar. ¿Qué necesitas?"
       ]
     },
     {
       "name": "Winning Ticket",
-      "text": "Straight to the point! I need to make displays for a Derby history \nexhibit!"
+      "text": "¡Directo al grano! Necesito hacer<n>exhibiciones para una exposición\nsobre la<n>historia del Derby!"
     },
     {
       "name": "Winning Ticket",
-      "text": "We're gonna display it all! The passion and excitement of each and \nevery racer who took on the Derby, with no details left out!"
+      "text": "¡Vamos a exhibirlo todo! La pasión y<n>emoción de cada corredora que\nenfrentó<n>el Derby, ¡sin dejar ningún detalle fuera!"
     },
     {
       "name": "Winning Ticket",
-      "text": "Like this racer who sprinted into first place from <i>way</i> outside! After all \nthe hard work it took to reach the Derby, it's like she knew that was \nher moment!"
+      "text": "¡Como esta corredora que esprintó al primer<n>lugar desde <i>muy</i> atrás!\nDespués de todo<n>el esfuerzo para llegar al Derby, ¡es como si<n>supiera\nque era su momento!"
     },
     {
       "name": "Winning Ticket",
-      "text": "And this one—she took a <i>huge</i> lead right from the start, kept it all the \nway to the end and took first! It's super hard to pull off a win like \nthat, but she knew she could do it. <i>Sob…</i>"
+      "text": "¡Y esta—tomó una <i>enorme</i> ventaja<n>desde el inicio, la mantuvo hasta\nel final<n>y ganó! Es súper difícil lograr una<n>victoria así, pero ella sabía\nque podía<n>hacerlo. <i>Sollozo...</i>"
     },
     {
-      "text": "The Derby is a prestigious race, and it's often thought to be the top \nevent of the Twinkle Series."
+      "text": "El Derby es una carrera prestigiosa, y<n>a menudo se considera el\nevento principal de<n>la Serie Twinkle."
     },
     {
-      "text": "Some people even think the year begins and ends with it. It's \ndefinitely a big deal."
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "The Derby really is the best! Yeeeah! I wanna be Derby champiooon!"
-    },
-    {
-      "text": "Her eyes tear up as she talks. She must really love it…"
+      "text": "Algunas personas incluso piensan que el año<n>comienza y termina con\nél. Definitivamente es<n>algo importante."
     },
     {
       "name": "Winning Ticket",
-      "text": "Thanks for staying so late! When it comes to the Derby, I just get so \npumped up, you know?"
+      "text": "¡El Derby realmente es lo mejor! ¡Sííí!<n>¡Quiero ser campeona del\nDerby!"
     },
     {
-      "text": "No problem. It's super interesting. It's really special for you, huh?"
-    },
-    {
-      "text": "No problem. It's super interesting. It's really special for you, huh?"
+      "text": "Sus ojos se llenan de lágrimas al hablar.<n>Realmente debe amarlo..."
     },
     {
       "name": "Winning Ticket",
-      "text": "Yeah! The Derby's my dream!"
+      "text": "¡Gracias por quedarte hasta tan tarde!<n>Cuando se trata del Derby, me\nemociono<n>mucho, ¿sabes?"
+    },
+    {
+      "name": "<username>",
+      "text": "No hay problema. Es súper interesante.<n>Realmente es especial para\nti, ¿verdad?"
+    },
+    {
+      "name": "<username>",
+      "text": "No hay problema. Es súper interesante.<n>Realmente es especial para\nti, ¿verdad?"
     },
     {
       "name": "Winning Ticket",
-      "text": "I'm gonna enter someday and win it! It's my dream to stand among the \ngreats and make my own amazing story!"
-    },
-    {
-      "text": "Looking at the excited racer as she cries with emotion, it's hard to \nbelieve how she can be so breathtakingly earnest."
+      "text": "¡Sí! ¡El Derby es mi sueño!"
     },
     {
       "name": "Winning Ticket",
-      "text": "Well, first I need to be scouted to do it. And it's gotta be a trainer \nwho can take me all the way there!"
+      "text": "¡Voy a entrar algún día y ganarlo! Es mi<n>sueño estar entre las\ngrandes y<n>crear mi propia historia increíble!"
+    },
+    {
+      "text": "Mirando a la emocionada corredora mientras<n>llora con emoción, es\ndifícil creer cómo<n>puede ser tan increíblemente sincera."
     },
     {
       "name": "Winning Ticket",
-      "text": "Oh, but I have to focus on the exhibit! We can't fail if we work \ntogether!"
+      "text": "Bueno, primero necesito ser reclutada para<n>hacerlo. ¡Y tiene que ser\nun entrenador<n>que pueda llevarme hasta allí!"
     },
     {
       "name": "Winning Ticket",
-      "text": "And you know, you can call me Tickezo. Easier than saying my full \nname, right?",
+      "text": "Oh, ¡pero debo concentrarme en la<n>exposición! ¡No podemos fallar si\ntrabajamos<n>juntos!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Y sabes, puedes llamarme Tickezo.<n>Más fácil que decir mi nombre\ncompleto, ¿no?",
       "choice_data_list": [
-        "You got it, Tickezo."
+        "Entendido, Tickezo."
       ]
     },
     {
       "name": "Winning Ticket",
-      "text": "Hehe! Thanks, Trainer!"
+      "text": "¡Jeje! ¡Gracias, Entrenador!"
     },
     {
-      "text": "Who knows whether she can get into the Derby, let alone win it?"
+      "text": "¿Quién sabe si podrá entrar al Derby,<n>y mucho menos ganarlo?"
     },
     {
-      "text": "But one thing's for sure. Her chasing that purehearted dream is a story \nI'd love to watch unfold."
+      "text": "Pero una cosa es segura. Verla perseguir<n>ese sueño de corazón puro es\nuna historia<n>que me encantaría ver desarrollarse."
     }
   ]
 }

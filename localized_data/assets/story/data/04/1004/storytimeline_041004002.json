@@ -1,291 +1,294 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "One day, the weather was nice so I decided to have lunch on \nthe roof… and found I wasn't the first one."
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Mmm… Yeah! Really? I'm glad to hear you're all doing well."
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Me? Yeah, I'm getting by… Oh, \nyou heard about the Selection Race?"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Ah, uh, about that… Uuh. I don't have a trainer yet. \nYeah, so my debut will be a little longer—"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Nnno, it's not that I'm unreliable! It's just \nthat I'm kind of… well, you know."
-        },
-        {
-            "name": "Maruzensky",
-            "text": "… Yeah. Mmm, thanks. I know you're all looking forward \nto it, I'll do my best to make it work!"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "See you later… Yes, yeeeah. See you."
-        },
-        {
-            "name": "Maruzensky",
-            "text": "… Pheeeeeew～～～～～.",
-            "choice_data_list": [
-                "That's a long sigh.",
-                "That's a long sigh."
-            ]
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Wahh!? You, you're the one from the other day…"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Wahh!? Oh, it's you, from the other day…"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Ah? Oh dearie. Did you want to have lunch here by \nany chance? I'm sorry if I'm in your way."
-        },
-        {
-            "name": "Maruzensky",
-            "text": "You've got good taste, though—. It's such a beautiful day, \neating on the rooftop sure sounds great."
-        },
-        {
-            "name": "Maruzensky",
-            "text": "You have good taste, though—. It's such a beautiful day, \neating on the rooftop sure sounds great."
-        },
-        {
-            "name": "Maruzensky",
-            "text": "I'm sure it's very refreshing… Hmm.",
-            "choice_data_list": [
-                "Phone not leaving you too happy?",
-                "Phone having you feel a little down?"
-            ]
-        },
-        {
-            "name": "Maruzensky",
-            "text": "What? Oh, you mean the call?"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Ahaha, no way! My cute \njuniors from my hometown called me. Of course I'm happy!"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Bless them, they still keep in touch with me after I moved to \nTracen Academy. They're all such good kids."
-        },
-        {
-            "name": "Maruzensky",
-            "text": "I wouldn't have thought of coming to the \nschool if they hadn't talked to me about it in the first place…",
-            "choice_data_list": [
-                "Is that so?",
-                "Is that so?"
-            ]
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Ahaha, I knew you'd be surprised. But it's true."
-        },
-        {
-            "name": "Maruzensky",
-            "text": "As you said the other day, I was only running \nbecause it was fun and felt good."
-        },
-        {
-            "name": "Maruzensky",
-            "text": "As you said the other day, I only ran because \nit was fun and felt good to do so."
-        },
-        {
-            "name": "Maruzensky",
-            "text": "And then the kids around me had high hopes… \nTelling me they \"wanted to see more of me running and winning\"."
-        },
-        {
-            "name": "Maruzensky",
-            "text": "So as their senior, how could I not respond?",
-            "choice_data_list": [
-                "So that's how you ended up at Tracen Academy…"
-            ]
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Heheh, that's how."
-        },
-        {
-            "name": "Maruzensky",
-            "text": "… But well, that's all I can really say as well."
-        },
-        {
-            "name": "Junior Horsegirl A",
-            "text": "—Aah, it's her!! Maruzenskyyyyy!!"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Oh my! …Hiii, you're off to independent training? Good luck!"
-        },
-        {
-            "name": "Junior Horsegirl A",
-            "text": "Thank you so much! I'll be sure to teach my \nbody everything you've taught me! See you!"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Have a good daaay! Don't push yourself too hard～!"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "… Heheh, how cute.",
-            "choice_data_list": [
-                "You're very popular with the juniors here, too.",
-                "You're really popular with the juniors here, too."
-            ]
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Bless them. They're all so nice and adorable."
-        },
-        {
-            "name": "Maruzensky",
-            "text": "… That girl… She said she has a much younger sister who was \nreally shy and scared to go outside at one point."
-        },
-        {
-            "name": "Maruzensky",
-            "text": "She took her to see the Twinkle series together, and apparently \nshe really enjoyed it. It healed her fright quickly, she said."
-        },
-        {
-            "name": "Maruzensky",
-            "text": "So, she's working hard at this school to show \nher sister more fun sights.",
-            "choice_data_list": [
-                "That's a nice goal.",
-                "That's a wonderful goal."
-            ]
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Isn't it just～! It's so beautiful!"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "… Almost a little dazzling."
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Hey, what's your dream? Let me hear it!"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Hey, what's your dream? Tell me about it!"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "As a trainer at the world-famous Tracen Academy, \nI guess you'd like to train G1 horsegirls? Or \nare you aiming for the world stage～?",
-            "choice_data_list": [
-                "I'd certainly be proud to be in charge of such a girl."
-            ]
-        },
-        {
-            "name": "Maruzensky",
-            "text": "I would expect so. That's what being a \ntrainer is all about, isn't it?"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Especially the people who work as trainers here \nare all very talented. It's not surprising that \nthey're all hungry for success."
-        },
-        {
-            "name": "Maruzensky",
-            "text": "… I wish I could reciprocate those feelings.",
-            "choice_data_list": [
-                "I don't think you need to force it."
-            ]
-        },
-        {
-            "name": "Maruzensky",
-            "text": "… Oh, my. You really are a strange one, aren't you?"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "… Oh, my. You really are a strange one, aren't you?"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Hmmmmmmm…"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "… Hey, kiddo. We've got a free trainer \nand a horsegirl right here, don't we?"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "… Hey, honey. We've got a free trainer \nand a horsegirl right here, don't we?"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "And since you seemed to be so interested in me that \nyou couldn't stop staring at me running—"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "And since you seemed to be so interested in me that \nyou couldn't stop staring at me running—"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Right now, I'm facing a new type of trainer who doesn't \ngreedily speak about \"Chasing the big prizes\" and \"Victories\", \nand it has me really excited."
-        },
-        {
-            "name": "Maruzensky",
-            "text": "And, now, do you think this situation… \nmake you want to say anything to me?",
-            "choice_data_list": [
-                "Would you allow me to work with you?",
-                "Would you mind joining me?"
-            ]
-        },
-        {
-            "name": "Maruzensky",
-            "text": "And, now, given this situation… don't \nyou want to say anything to me?",
-            "choice_data_list": [
-                "Would you allow me to work with you?",
-                "Would you mind joining me?"
-            ]
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Ahahah, you get it don't you, trainer! I'm digging it♪"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Ahahah, you know what you're on about \ndon't you, trainer! I'm digging it♪"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "—Thank you. I'd like to ask you the same."
-        },
-        {
-            "name": "Maruzensky",
-            "text": "I look forward to it, trainer!"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "I look forward to it, trainer!"
-        },
-        {
-            "text": "And thus I came to be in charge of Maruzensky…!"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Oh, right, right! Now that we've taken a step forward in our \nrelationship, can I count on you for something right away?"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "My juniors asked if we could talk through this \n\"chat app\" instead of only over the phone."
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Is a \"chat app\" something different from e-mail…?"
-        },
-        {
-            "text": "The first thing I did for my horsegirl \nwas to explain a \"chat app\"…"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Huuh～, they call this an \"app\"… These smartphones \nare so confusing these days…"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "En un día despejado, decido almorzar en la<n>azotea... Pero cuando\nsubo, veo que<n>alguien me ganó de mano."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ajá... ¡Claro! Oh bien, parece que a<n>todos les va bien."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Yo? Sí, me va bien... Oh,<n>¿oíste sobre la carrera de\nprueba?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Eh, sí, sobre eso... Verás, no he<n>encontrado un entrenador aún.\nCierto,<n>así que mi debut tendrá que esperar—"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Oh no, no es que no sean lo<n>suficientemente buenos! Es solo\nque... ya<n>sabes, les falta algo."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ajá... Ajá, gracias. Sé que todos<n>me apoyan, ¡así que no los\ndefraudaré!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Muy bien entonces... Ok, hablamos luego."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Fiuuuuu...",
+      "choice_data_list": [
+        "Ese sí que fue un suspiro largo.",
+        "Ese sí que fue un suspiro largo."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Wah! Oh, eres tú..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Wah! Oh, eres tú..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oh no, ¿planeabas almorzar aquí?<n>Disculpa por ocupar el lugar."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Seguro sabes elegir un lugar. Comer<n>aquí arriba con este clima\ntan lindo es una<n>idea maravillosa."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Seguro sabes elegir un lugar. Comer<n>aquí arriba con este clima\ntan lindo es una<n>idea maravillosa."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Sería muy refrescante... <i>Suspiro.</i>",
+      "choice_data_list": [
+        "¿Supongo que la llamada no salió bien?",
+        "¿Supongo que la llamada no salió bien?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Mmm? Oh, ¿la llamada de hace rato?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Ajaja, para nada! Esas eran mis<n>lindas juniors de back home.\nDisfruto hablar<n>con ellas todo el tiempo!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Mantenemos el contacto desde que cambié de<n>escuela y vine a Tracen.\nSon buenas<n>chicas."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Honestamente, si no me hubieran convencido,<n>nunca habría considerado\nvenir a la<n>academia.",
+      "choice_data_list": [
+        "¿En serio?",
+        "¿En serio?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Jaja, ¿es tan increíble? Bueno, es<n>cierto."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Lo mencionaste antes, pero solo corro<n>por lo mucho que me divierto\nhaciéndolo."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Lo mencionaste antes, pero solo corro<n>por lo mucho que me divierto\nhaciéndolo."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Pero antes de darme cuenta, todos me<n>admiraban... Me dijeron que\nquieren verme<n>ganando allá afuera."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Soy como su hermana mayor—¿cómo podría<n>defraudarlas?",
+      "choice_data_list": [
+        "Y así te uniste a la Academia Tracen."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Jeje, así es. ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Bueno, supongo que eso es todo."
+    },
+    {
+      "name": "Uma Musume Joven A",
+      "text": "¡Ah, Maruzensky! ¡Oye, Maruzenskyyy!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Oh! ¡Heeey! ¿Vas a hacer algo de<n>entrenamiento? ¡Sigue así!"
+    },
+    {
+      "name": "Uma Musume Joven A",
+      "text": "¡Graciaaas! Voy a poner en práctica todo<n>lo que me enseñaste! ¡Nos\nvemos!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Diviértete! ¡Y ten cuidado por ahí!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Jeje, ¿no es linda?",
+      "choice_data_list": [
+        "Veo que también eres popular con las estudiantes\nmás jóvenes aquí.",
+        "Veo que también eres popular con las estudiantes\nmás jóvenes aquí."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Estoy muy agradecida. Todas son tan<n>buenas chicas."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Y esa—tiene una hermanita terriblemente<n>tímida que tenía tanto miedo\nde salir, que<n>solo se encerraba en su habitación."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Pero fueron juntas a ver la Twinkle Series<n>y se divirtieron un montón.\nAhora ya no<n>tiene miedo de salir para nada."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "La mayor quiere seguir mostrándole a su<n>hermana más cosas\nasombrosas, por eso<n>se esfuerza tanto aquí en la escuela.",
+      "choice_data_list": [
+        "¡Qué bonita meta tener.",
+        "¡Qué bonita meta tener."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡¿Verdad?! ¡Creo que es simplemente fantástico!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Como un sueño deslumbrante, incluso."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oye, ¿cuál es tu sueño? ¡De verdad quiero<n>saberlo!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oye, ¿cuál es tu sueño? ¡De verdad quiero<n>saberlo!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Para un especialista en entrenamiento de la<n>famosa Academia Tracen, apuesto a que el tuyo es<n>entrenar a un<n>corredor de G1, ¿verdad? ¿O quizás tienes<n>ambiciones más<n>mundanas?",
+      "choice_data_list": [
+        "Claro, me enorgullecería entrenar a alguien así."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Por supuesto. Eso es lo que todo entrenador quiere,<n>¿verdad?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Especialmente los entrenadores de aquí son todos<n>excelentes. Están muy motivados para<n>triunfar."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Yo... desearía tener la misma energía para igualarlo.",
+      "choice_data_list": [
+        "No deberías forzarte si no la tienes."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Bueno, mírate. De verdad eres extraño,<n>justo como pensaba."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Bueno, mírate. De verdad eres extraño,<n>justo como pensaba."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Mmmm..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Escucha un momento. En este preciso instante, en<n>esta azotea, hay un entrenador<n>y una corredora, ambos<n>libres."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Escucha un momento. En este preciso instante, en<n>esta azotea, hay un entrenador<n>y una corredora, ambos<n>libres."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Y te gusta tanto mi forma de correr que<n>te pillo mirándome<n>siempre que puedes."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Y te gusta tanto mi forma de correr que<n>te pillo mirándome<n>siempre que puedes."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Mi corazón está bailando, porque por fin he<n>conocido a un entrenador que no está<n>obsesionado con<n>ganar el premio mayor."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Entonces, a la luz de nuestras circunstancias...<n>¿hay algo especial que<n>quieras pedirme?",
+      "choice_data_list": [
+        "Me encantaría ser tu entrenador, si me aceptas.",
+        "Me encantaría ser tu entrenador, si me aceptas."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Entonces, a la luz de nuestras circunstancias...<n>¿hay algo especial que<n>quieras pedirme?",
+      "choice_data_list": [
+        "Me encantaría ser tu entrenador, si me aceptas.",
+        "Me encantaría ser tu entrenador, si me aceptas."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Jajaja, bien, ¡sabes captar una<n>indirecta! Y lo hiciste perfecto. ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Jajaja, bien, ¡sabes captar una<n>indirecta! Y lo hiciste perfecto. ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...Gracias. Me encantaría que lo fueras."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Espero con ansias trabajar juntos,<n>Entrenador!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Espero con ansias trabajar juntos,<n>Entrenador!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Y así, me convertí en el entrenador de Maruzensky!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Ah, es cierto! Ahora que somos<n>oficialmente compañeros, ¿puedo pedirte un<n>favor rápidamente?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Los pequeños dijeron que llamar está bien y<n>todo, pero preferirían usar<n>algo llamado<n>una \"app de chat\"."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "No logro entenderlo. ¿Eso es algo<n>diferente de enviar mensajes?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y lo primero que tengo que hacer es...<n>explicar qué es una app de chat."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oooh, así que esas cosas se llaman \"apps\"...<n>Los teléfonos de hoy son tan<n>complicados."
+    }
+  ]
 }

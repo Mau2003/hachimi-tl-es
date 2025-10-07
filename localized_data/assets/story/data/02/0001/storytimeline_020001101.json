@@ -1,245 +1,266 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Announcer",
-            "text": "The winner of the race, Mejiro McQueen, unfortunately blocked the \nUma Musume behind her from progressing through the course…"
-        },
-        {
-            "name": "Announcer",
-            "text": "Therefore, we will be lowering her placement to 18th place."
-        },
-        {
-            "text": "On that day, Mejiro Mcqueen had an amazing start and rushed into \nthe inside of the track to ensure she'd be able to stay in a \ngood position moving forward in the race."
-        },
-        {
-            "text": "However, doing this left the Uma Musume behind her with nowhere \nto go, putting them at risk of toppling over."
-        },
-        {
-            "text": "This devastating incident was the result of the Uma Musume that \nwas most favored to win, Mejiro McQueen. As such, her actions \nwere widely reported in the media."
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "McQueen… Are you okay?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Eh!? Oh, of course I am."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "While it is true that I was unable to live up \nto my fan's expectations, and that I put the other \nUma Musume in that race in danger…"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "That is exactly why I mustn't feel dejected."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I will make up for my blunder during that race."
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "You're beating yourself up over this, aren't you? Please don't \nblame yourself more than necessary."
-        },
-        {
-            "name": "Horsegirl with Straight-cut Bangs",
-            "text": "I agree! You're going to do great in the next race, I know it!"
-        },
-        {
-            "name": "Droopy-eyed Horsegirl",
-            "text": "You can do it, McQueen-san!",
-            "choice_data_list": [
-                "Let's use this as a learning experience."
-            ]
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Yes, of course I will."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Oye, I'm back!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "There were some people out there with cameras and stuff. Don't \nworry though, I caused a scene by calling ‘em degenerates for ya!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Those were reporters… weren't they?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "They must have been waiting outside to interview me."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Hmm? Isn't it better this way then? To come this far into campus \nwithout being a student, there's no doubt they were scoundrels."
-        },
-        {
-            "text": "I'd imagine they'd leave soon enough, but maybe we should call \noff training for today since they're here…"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I don't mind if they're here. In fact, if they have any questions \nI would be happy to answer them with sincerity."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Moreover, I need to make sure that I win my next race so that we \ncan have some favorable news coverage."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Now then, I've gotten myself all excited for some \nexercise. I'm heading out, Trainer-san!"
-        },
-        {
-            "text": "Ah… okay…"
-        },
-        {
-            "text": "Ah… okay…"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "The dormitory is right there, you know? I won't \nget lost, so you don't need to walk me back…"
-        },
-        {
-            "text": "But I'm sure the reporters will by lying in wait for you."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I told you that I didn't mind answering them though…"
-        },
-        {
-            "name": "Reporter A",
-            "text": "Ah, McQueen-san! Do you have a comment regarding \nwhat happened durin the Spring Tenno Sho?"
-        },
-        {
-            "name": "Reporter B",
-            "text": "Why did you run in such a dangerous manner!?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I apologize immensely for any inconvenience my actions may have \ncaused to the other individuals participating in that race."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I lacked experience, and as such was not conscious of those \naround me, which led to that incident occurring."
-        },
-        {
-            "name": "Reporter A",
-            "text": "What have you done to appease those that \nyou have hindered with your actions?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I have apologized to each and every one of them."
-        },
-        {
-            "name": "Reporter B",
-            "text": "Is it true that your trainer instructed you to force \nyour way into the inside of the course?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Trainer-san instructed me to do that!? I \ncan assure you that is not the case!!"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "My actions were purely based on my own judgement! Trainer-san has \nnothing to do with what happened!"
-        },
-        {
-            "text": "Until now, all of Mejiro McQueen's answers were filled with \ncomposure. However, that all changed in an instant."
-        },
-        {
-            "text": "She said that she “would be happy to answer them with sincerity.” \nIf this is what she believes is the right thing to do then it \nisn't my place to interfere."
-        },
-        {
-            "text": "That being said, I can't just stand here quietly as she attempts \nto put all of the blame onto herself.",
-            "choice_data_list": [
-                "McQueen, let's go."
-            ]
-        },
-        {
-            "text": "That being said, I can't just stand here quietly as she attempts \nto put all of the blame onto herself.",
-            "choice_data_list": [
-                "McQueen, let's go."
-            ]
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "But if we do that, they'll think that \nyou're to blame for what I did…!"
-        },
-        {
-            "text": "Regardless of what I instructed her to do, the \nresponsibility lies with me since I am her trainer. \nFor that, I too apologize."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Trainer-san!!"
-        },
-        {
-            "text": "Now let's go, McQueen."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "…"
-        },
-        {
-            "text": "Don't worry about what happened, McQueen. You gave it your all in \nthat race, so there's no need to beat yourself up over it."
-        },
-        {
-            "text": "Don't worry about what happened, McQueen. You gave it your all in \nthat race, so there's no need to beat yourself up over it."
-        },
-        {
-            "text": "You don't plan on feeling dejected, right? Then let's \nconcentrate on the upcoming race instead."
-        },
-        {
-            "text": "You don't plan on feeling dejected, right? Then let's \nconcentrate on the upcoming race instead."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Understood…"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Umm… Trainer-san…"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I know that we had planned for the Arima Kinen to be my next \nrace, but I would like to race in the Japan Cup before that."
-        },
-        {
-            "text": "Are you sure? You're probably still \nfatigued from your previous race…"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Don't worry about that. I'm already ready for another race."
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "So please allow me to race in the Japan Cup."
-        },
-        {
-            "text": "Mejiro McQueen likely wanted to make up for her blunder at the \nSpring Tenno Sho as soon as possible by entering the Japan Cup."
-        },
-        {
-            "text": "She would use this race as a way to atone for what she did to \nappease those who had put their faith in her, and to appease \nthose who she had inconvenienced.",
-            "choice_data_list": [
-                "Fine… You can race in the Japan Cup next.",
-                "Fine… You can race in the Japan Cup next."
-            ]
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Thank you. I will… I will definitely win this race."
-        },
-        {
-            "text": "(Wooooooaaaaah!!)"
-        },
-        {
-            "name": "Commentator",
-            "text": "McQueen is struggling to bridge the gap! In fact, the gap between \nher and first place is only widening!"
-        },
-        {
-            "name": "Commentator",
-            "text": "The favorite to win, Mejiro McQueen, has finished in 4th place!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Locutor",
+      "text": "Los jueces han dictaminado que la<n>finalizadora en primer lugar Mejiro<n>McQueen obstruyó<n>ilegalmente a otras Uma Musume durante<n>la carrera."
+    },
+    {
+      "name": "Locutor",
+      "text": "Su colocación se ajustará al<n>decimoctavo lugar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La carrera se desarrolló con un gran inicio<n>para Mejiro McQueen. Se<n>dirigió a la<n>pista interior en un intento de encontrar una<n>buena posición."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Desafortunadamente, esto dificultó el<n>movimiento de las corredoras detrás<n>de ella,<n>resultando en una situación donde muchas<n>estaban en peligro de caer."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como esto fue causado por la favorita de la<n>carrera, la reacción del<n>público fue significativa."
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "McQueen, ¿estás bien?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Eh? Oh, sí, por supuesto."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "No puedo negar que mis acciones<n>representaron un riesgo para otras<n>competidoras,<n>traicionando las altas expectativas<n>puestas en mí."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Simplemente necesito seguir adelante y<n>mejorarme."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Dejaré atrás este fracaso de carrera<n>triunfando en la próxima."
+    },
+    {
+      "name": "Mejiro Dober",
+      "text": "Sólo no seas tan dura contigo misma, ¿vale?<n>Podemos ver claramente que<n>has reflexionado<n>lo suficiente sobre esto."
+    },
+    {
+      "name": "Uma Musume Animada",
+      "text": "¡Tiene razón! ¡Estaré esperando tu<n>próxima carrera!"
+    },
+    {
+      "name": "Uma Musume Cariñosa",
+      "text": "¡Sigue adelante, McQueen!",
+      "choice_data_list": [
+        "Tratemos esto como una experiencia de aprendizaje."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Sí, planeo hacerlo."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Eh, ¿alguien me extrañó?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Había un montón de tipos raros con cámaras<n>allá afuera, así que grité:<n>\"¡Miren, un montón de tipos raros!\""
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Sin duda esos eran reporteros."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Sólo puedo imaginar que estaban<n>esperando una oportunidad para<n>atraparme."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Bueno, no te preocupes. No se<n>suponía que estuvieran en la academia<n>de todos modos, así que<n>realmente eran tipos raros."
+    },
+    {
+      "name": "<username>",
+      "text": "El último de ellos debería irse pronto.<n>Pero abstengámonos de cualquier<n>entrenamiento<n>real hoy."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "No es que me moleste particularmente la<n>idea de responder sus preguntas.<n>Lo haría<n>con completa honestidad."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Y en algún momento, necesitaré hablar<n>con ellos sobre mis planes para<n>ganar mi próxima<n>carrera."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Tengo ganas de mover mi cuerpo. ¡Vamos,<n>Entrenador!"
+    },
+    {
+      "name": "<username>",
+      "text": "...De acuerdo."
+    },
+    {
+      "name": "<username>",
+      "text": "...De acuerdo."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "La residencia está justo allí. No creo que<n>necesites acompañarme más<n>tiempo."
+    },
+    {
+      "name": "<username>",
+      "text": "No quiero que te encuentres sola con un<n>montón de reporteros<n>rabiosos."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Como dije, no me importa responder sus<n>preguntas."
+    },
+    {
+      "name": "Reportero A",
+      "text": "Ah, ¡McQueen! ¿Puedo obtener tus<n>comentarios respecto a la Tenno Sho<n>de otoño?"
+    },
+    {
+      "name": "Reportero B",
+      "text": "¿Por qué elegiste correr de una manera<n>tan peligrosa?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Me disculpo por causar tan grave<n>inconveniente hacia todos los<n>involucrados<n>con la carrera."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Este incidente fue resultado de mi propia<n>inexperiencia tonta. No puedo<n>poner excusas."
+    },
+    {
+      "name": "Reportero A",
+      "text": "¿Has hablado con las corredoras que<n>estuvieron detrás de ti?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Visité a cada una para disculparme<n>personalmente."
+    },
+    {
+      "name": "Reportero B",
+      "text": "¿Fue tu entrenador quien te instruyó a<n>abrirte paso hacia el interior?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¿Instrucciones de mi entrenador? ¡No<n>discutimos nada por el estilo!"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Eso fue enteramente resultado de mi<n>propio juicio. ¡Mi entrenador no<n>tiene nada que ver<n>con este incidente!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de mantener la calma hasta ahora,<n>McQueen se indigna cuando se<n>enfrenta<n>a esta pregunta."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sé que quiere responder sus preguntas<n>con honestidad, y pretendía<n>dejarla hacerlo<n>si eso la ayudara a ordenar sus propias<n>emociones."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo, la visión de ella tratando de<n>asumir toda la responsabilidad<n>por su<n>cuenta es demasiado para mí.",
+      "choice_data_list": [
+        "Vamos, McQueen."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo, la visión de ella tratando de<n>asumir toda la responsabilidad<n>por su<n>cuenta es demasiado para mí.",
+      "choice_data_list": [
+        "Vamos, McQueen."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Pero si me voy ahora, ¡asumirán que esto<n>fue tu culpa de alguna manera!"
+    },
+    {
+      "name": "<username>",
+      "text": "Independientemente de cuya decisión fue,<n>como su entrenador, asumo toda<n>la responsabilidad por<n>lo sucedido. Mis más profundas disculpas."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "¡Entrenador!"
+    },
+    {
+      "name": "<username>",
+      "text": "Vamos, sigamos adelante."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "..."
+    },
+    {
+      "name": "<username>",
+      "text": "No dejes que te moleste, McQueen. Tú<n>simplemente estabas corriendo con<n>todo tu corazón. No<n>hay nada que culparte."
+    },
+    {
+      "name": "<username>",
+      "text": "No dejes que te moleste, McQueen. Tú<n>simplemente estabas corriendo con<n>todo tu corazón. No<n>hay nada que culparte."
+    },
+    {
+      "name": "<username>",
+      "text": "Dijiste que ibas a dejar esto<n>atrás, ¿verdad? Pongamos toda nuestra<n>energía<n>hacia la próxima carrera."
+    },
+    {
+      "name": "<username>",
+      "text": "Dijiste que ibas a dejar esto<n>atrás, ¿verdad? Pongamos toda nuestra<n>energía<n>hacia la próxima carrera."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "...Entendido."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Pero eh... ¿Entrenador?"
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "He decidido que quiero correr en la Japan<n>Cup antes de la Arima Kinen."
+    },
+    {
+      "name": "<username>",
+      "text": "Eso es tan pronto, though. Seguramente<n>todavía estás cansada de la<n>carrera que acabas de correr..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "No, estoy perfectamente bien. Estoy<n>lista para darle mi poder<n>completo."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Por favor, permíteme entrar a la Japan Cup."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me imagino que espera dejar este<n>incidente atrás lo más rápido<n>posible."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No sólo eso, sino que probablemente lo<n>significa como una forma de<n>redimirse ante los ojos de los fans<n>y aquellos a quienes molestó.",
+      "choice_data_list": [
+        "De acuerdo. Nuestra próxima carrera será la Japan Cup.",
+        "De acuerdo. Nuestra próxima carrera será la Japan Cup."
+      ]
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Gracias. Absolutamente... absolutamente<n>voy a ganar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Wooooooo!"
+    },
+    {
+      "name": "Comentarista",
+      "text": "McQueen está luchando por mantenerse al<n>día. ¡La brecha se está ampliando!"
+    },
+    {
+      "name": "Comentarista",
+      "text": "¡La favorita de hoy, Mejiro McQueen,<n>termina en cuarto lugar!"
+    }
+  ]
 }

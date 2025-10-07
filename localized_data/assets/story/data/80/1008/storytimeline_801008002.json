@@ -1,68 +1,69 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "One weekend, on my way out, I \npassed by the Academy gate…"
-        },
-        {
-            "name": "Vodka",
-            "text": "Uhyaaaaaaaaaaaaaa!!"
-        },
-        {
-            "name": "Vodka",
-            "text": "D-D-D-Don't do something so soft \nin the middle of town, you idiot!"
-        },
-        {
-            "name": "Vodka",
-            "text": "Ngaah?!"
-        },
-        {
-            "name": "Vodka",
-            "text": "I-It's a nosebleed!"
-        },
-        {
-            "name": "Vodka",
-            "text": "D-Dammit… If we don't hurry, we're \ngonna run out of photo books!"
-        },
-        {
-            "name": "Vodka",
-            "text": "Hey, you! Don't you know how to \navoid the guys on the main street?!",
-            "choice_data_list": [
-                "Use side roads",
-                "At full speed."
-            ]
-        },
-        {
-            "name": "Vodka",
-            "text": "A side road…! Oh, right! I forgot \nthere was another way!"
-        },
-        {
-            "name": "Vodka",
-            "text": "It's a bit of a mess, but it can't \nbe helped! Hurry up and go around!"
-        },
-        {
-            "name": "Vodka",
-            "text": "Alright, I'm off!! Thanks!!"
-        },
-        {
-            "name": "Vodka",
-            "text": "…Just so you know, I'm not scared \nof you or anything! Don't get the \nwrong idea!"
-        },
-        {
-            "name": "Vodka",
-            "text": "Sprinting at full speed……! \nYou want me to run through \nbefore I see you!?"
-        },
-        {
-            "name": "Vodka",
-            "text": "No, I can do it! I can do it! I \ncan run faster than the light!"
-        },
-        {
-            "name": "Vodka",
-            "text": "Alright, that settles it! Thanks!"
-        },
-        {
-            "name": "Vodka",
-            "text": "…No, don't be scared. I \njust hate soft stuff! Don't \nget the wrong idea!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Un día libre en particular, paso por<n>la entrada de\nla academia cuando..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡AAAAAAHHHHH!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿P-por qué hay tantas parejas<n>hoy? ¿Y se están\nbesando? ¡¿EN PÚBLICO?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡¿Bwah?!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡N-no puedo con esto!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Maldición! ¡Ese libro de fotos de<n>motocicletas se\nva a agotar si no me doy prisa!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Oye, tú! ¿Conoces alguna forma de<n>evitar el\nfestival de amor que hay en la<n>calle principal?",
+      "choice_data_list": [
+        "Usa las calles laterales.",
+        "Corre lo más rápido que puedas."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Las calles laterales! ¡Se me olvidó<n>completamente\nque podía usarlas!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Son todas enredadas, ¡pero es mi<n>única opción!\n¡Tendré que pisar a fondo!"
+    },
+    {
+      "name": "Vodka",
+      "text": "Bueno, ¡luego te veo! ¡Gracias!"
+    },
+    {
+      "name": "Vodka",
+      "text": "...Para que sepas, ¡no es que me<n>den miedo las\nb-bes—esas cosas! ¡Así que<n>no te confundas!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡¿Correr lo más rápido que pueda?!<n>¡Ah, ya\nentiendo! ¡Si paso volando,<n>no tendré que verlos\nbesuqueándose!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Sí, eso haré! ¡Solo tengo que correr<n>más rápido\nque la velocidad de la luz!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Ah, sí! ¡Ahora nada me asustará!<n>¡Gracias!"
+    },
+    {
+      "name": "Vodka",
+      "text": "...¡N-no es que fuera para tanto<n>de todos modos!\n¡Es que odio esa basura<n>romántica\nempalagosa! ¡No te<n>confundas!"
+    }
+  ]
 }

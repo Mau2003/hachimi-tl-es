@@ -1,259 +1,266 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Summer training starts this week, King was \nworking hard at the beach but…"
-        },
-        {
-            "name": "King Halo",
-            "text": "Trainer, we've done enough beach training.",
-            "choice_data_list": [
-                "What's this all of a sudden?",
-                "What's up all of a sudden?"
-            ]
-        },
-        {
-            "name": "King Halo",
-            "text": "Ufufu… ♪ \nLet's see, I'll let you in on it too trainer."
-        },
-        {
-            "name": "King Halo",
-            "text": "I heard of a secret training plan! A training plan \ntaken on by many G1 horse girls, a first-class training plan!"
-        },
-        {
-            "name": "King Halo",
-            "text": "Behind the forest on the training grounds, there's a super \nadvanced course! You didn't know either, did you?",
-            "choice_data_list": [
-                "I had no idea…"
-            ]
-        },
-        {
-            "name": "King Halo",
-            "text": "Ohhohoho! Of course. \nAfter all, I only recently heard about it on the net!"
-        },
-        {
-            "name": "King Halo",
-            "text": "Well, it said \"beginners will be in for a rude awakening\". \nBut there's no way I'd fail!"
-        },
-        {
-            "name": "King Halo",
-            "text": "You have nothing to worry about. \nJust leave everything to me!"
-        },
-        {
-            "text": "Is what King Halo told me-"
-        },
-        {
-            "name": "Bob-cut Horsegirl",
-            "text": "Eh～!? King, are you really gonna run in the forest tomorrow～!?"
-        },
-        {
-            "name": "King Halo",
-            "text": "Yes, what of it?"
-        },
-        {
-            "name": "Cat-eyed Horsegirl",
-            "text": "B-But is this course safe? \nI heard the course itself is pretty fishy…"
-        },
-        {
-            "name": "King Halo",
-            "text": "Fufu, it's fine! King is a first-class horse girl! \nNo matter what course, I'll run at full power!"
-        },
-        {
-            "text": "…For now, let's just prepare for tomorrow."
-        },
-        {
-            "text": "―The next day."
-        },
-        {
-            "name": "King Halo",
-            "text": "Ohhohoho! So you came trainer. Today I'll \ngive you the right to observe King's perfect training course!"
-        },
-        {
-            "name": "King Halo",
-            "text": "My preparations are perfect."
-        },
-        {
-            "name": "King Halo",
-            "text": "Last night, I checked all the rumored super advanced \ncourses! The mark on my phone map is perfect!",
-            "choice_data_list": [
-                "It it okay to not bring a backup map?",
-                "Are we okay without a backup map?"
-            ]
-        },
-        {
-            "name": "King Halo",
-            "text": "Don't need it. We're in the digital age. You've got \nto leave everything to your phone and live smartly."
-        },
-        {
-            "name": "King Halo",
-            "text": "In comparison, you've still got a long way to go. \nWhere do you intend to go with that equipment?"
-        },
-        {
-            "name": "King Halo",
-            "text": "Well. if you're not going to be extra luggage. I don't mind. \nNow, be sure to keep up with me!"
-        },
-        {
-            "text": "And so King's mountain training begun, but-"
-        },
-        {
-            "name": "King Halo",
-            "text": "Hmm… it really is hard to run on mountain trails. \nThere's too many natural obstacles and bumps."
-        },
-        {
-            "name": "King Halo",
-            "text": "Plus the road isn't paved at all, and it's super humid… \nHow many times does this make… my phone…"
-        },
-        {
-            "name": "King Halo",
-            "text": "Te, UWAGH!? B-B-BUGS!?"
-        },
-        {
-            "name": "King Halo",
-            "text": "TR-TR-TRAINER, DO SOMETHING ABOUT THIS～!!!"
-        },
-        {
-            "name": "King Halo",
-            "text": "Ha… Ha… Ha…",
-            "choice_data_list": [
-                "You okay?",
-                "Are you alright?"
-            ]
-        },
-        {
-            "name": "King Halo",
-            "text": "I-I'm fine. I'm not the kind of King to fall down over something \nlike this… Now, onto our next destination…"
-        },
-        {
-            "name": "King Halo",
-            "text": "…Huh?"
-        },
-        {
-            "name": "King Halo",
-            "text": "Hey, trainer. Have you seen my phone around?",
-            "choice_data_list": [
-                "you lost it…?",
-                "Did you lose it…?"
-            ]
-        },
-        {
-            "name": "King Halo",
-            "text": "O-of course not! I was just asking! \nAs if a first-class horse girl would lose her phone…"
-        },
-        {
-            "name": "King Halo",
-            "text": "…Remember, remember… me… ah!"
-        },
-        {
-            "name": "King Halo",
-            "text": "Yes, that's it. Trainer! \nWe passed by the spot with the bugs right!? Let's go back there!"
-        },
-        {
-            "name": "King Halo",
-            "text": "Um, it was at the 2nd resting point. It's okay, it's okay. \nI already marked it on my phone map…"
-        },
-        {
-            "name": "King Halo",
-            "text": "…Wait, my phone!!",
-            "choice_data_list": [
-                "Are you sure you're okay…?",
-                "Are you really okay…?"
-            ]
-        },
-        {
-            "name": "King Halo",
-            "text": "O-of course I'm okay… \nTh-there's no way I'd give up over something like this…"
-        },
-        {
-            "name": "King Halo",
-            "text": "I'm going to PROPERLY find my phone, PROPERLY get \nout of this forest, and return to the training camp…"
-        },
-        {
-            "text": "…At this rate she, ll end up in distress. I memorize the routes \nwe've been through, while looking at my map-"
-        },
-        {
-            "name": "King Halo",
-            "text": "Geez, what are you doing at a time like this…",
-            "choice_data_list": [
-                "I figured this might happen."
-            ]
-        },
-        {
-            "name": "King Halo",
-            "text": "Wait, isn't that a map! You've even got a compass! And this red \nline… is this the path we've been running till now?"
-        },
-        {
-            "name": "King Halo",
-            "text": "You've done it, trainer! If we have this we can even find my ph-",
-            "choice_data_list": [
-                "Let's go look for it."
-            ]
-        },
-        {
-            "name": "King Halo",
-            "text": "Urgh… I-I'm, counting on you."
-        },
-        {
-            "name": "King Halo",
-            "text": "Looks like we came back safe somehow…",
-            "choice_data_list": [
-                "Are you injured?",
-                "Are you hurt?"
-            ]
-        },
-        {
-            "name": "King Halo",
-            "text": "Yes, no problems at all. \nAs you can see my phone is fine too…"
-        },
-        {
-            "name": "King Halo",
-            "text": "That said… you were rather prepared. \nEven though I spurred this onto you only yesterday.",
-            "choice_data_list": [
-                "Well, I am aiming to be a first-class trainer after all.",
-                "Well, I am aiming to be a first-class trainer after all."
-            ]
-        },
-        {
-            "name": "King Halo",
-            "text": "…Hmph, cheeky… but, yes. I admit it… \nthis was my fault, I didn't prepare properly."
-        },
-        {
-            "name": "King Halo",
-            "text": "If you hadn't prepared the map and compass, \nI think this would have turned out much worse."
-        },
-        {
-            "name": "King Halo",
-            "text": "So… sorry, for causing you trouble.",
-            "choice_data_list": [
-                "I'm just glad you're okay.",
-                "I'm just glad you're safe."
-            ]
-        },
-        {
-            "name": "King Halo",
-            "text": "…Hmph."
-        },
-        {
-            "name": "King Halo",
-            "text": "Just for today, I'll praise you. Respecting a first-class horse \ngirl like this is first-class treatment."
-        },
-        {
-            "name": "King Halo",
-            "text": "Then, let's reflect on this for now. \nTomorrow we're going to perfect that forest training!",
-            "choice_data_list": [
-                "We are!?",
-                "We are!?"
-            ]
-        },
-        {
-            "name": "King Halo",
-            "text": "Of course!! I'm the first. class horse girl King Halo. Things \nlike \"give up\" and \"impossible\" don't exist in my dictionary!"
-        },
-        {
-            "name": "King Halo",
-            "text": "Let's hurry and return to the training grounds! If you're a \nfirst. class trainer you won't keep me waiting, right?"
-        },
-        {
-            "text": "And so, being dragged along by King Halo, it was \ndecided we'd both reflect on what happened today."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El campamento de verano ha comenzado<n>oficialmente esta semana, con\nKing Halo<n>pasando por mi programa de entrenamiento<n>playero."
+    },
+    {
+      "name": "King Halo",
+      "text": "Entrenador, creo que ya he practicado<n>suficiente en la playa.",
+      "choice_data_list": [
+        "¿Qué sucede?",
+        "¿Qué sucede?"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Jejeje. ♪ Supongo que tendré que<n>iluminarte."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Un pajarito me contó sobre un área de<n>entrenamiento de primera\nclase y secreta usada<n>por corredoras G1!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Supuestamente hay un circuito súper<n>avanzado en el bosque detrás de\nnuestro campamento. Apuesto<n>a que no estás al tanto.",
+      "choice_data_list": [
+        "Ajá..."
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Ohohoho! Claro que no lo sabes, ¡no es<n>fácil conseguir esta\ninformación después de todo!<n>¡Hasta yo solo pude encontrarla gracias a mis<n>habilidades de\ninvestigación en internet!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Bueno, muchos posts advirtieron que los<n>aficionados se enfrentan a un\nmundo de dolor, pero eso<n>no aplica para mí."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Yo me encargaré de toda la planificación, así que no te preocupes!<n>¡Solo sígueme la corriente!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque King Halo parece segura de su<n>decisión..."
+    },
+    {
+      "name": "Uma musume con corte bob",
+      "text": "¿Quééé? King, ¿de verdad vas a correr<n>en el bosque mañana?"
+    },
+    {
+      "name": "King Halo",
+      "text": "Sí, ¿por qué lo preguntas?"
+    },
+    {
+      "name": "Uma musume con ojos de gato",
+      "text": "¿Estás segura de que es buena idea? Escuché que<n>el circuito es un poco\ncuestionable..."
+    },
+    {
+      "name": "King Halo",
+      "text": "Je-je, ¡no hay por qué preocuparse! Como una<n>corredora de primera,\n¡te mostraré que puedo<n>correr cualquier circuito que me pongan!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Me siento inseguro. Será mejor que prepare<n>algunos suministros para\nmañana."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, llega el día. "
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Ohohoho! ¡Buenos días, Entrenador! Hoy, te<n>concedo el honor de\nacompañarme<n>mientras pongo en acción mi plan de<n>práctica perfecto!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Me he preparado a fondo para este momento."
+    },
+    {
+      "name": "King Halo",
+      "text": "Pasé la noche anterior investigando todo lo<n>que pude sobre el circuito.\n¡Cada lugar<n>importante ha sido marcado en el mapa de<n>mi teléfono!",
+      "choice_data_list": [
+        "¿Es ese el único mapa que trajiste?",
+        "¿Es ese el único mapa que trajiste?"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Oh por favor, ahora estamos en la era digital. No<n>necesito nada más\ncuando tengo<n>todo en mi teléfono."
+    },
+    {
+      "name": "King Halo",
+      "text": "Por otro lado, parece que aún te falta<n>mucho por aprender. No sé por\nqué<n>trajiste una mochila tan pesada."
+    },
+    {
+      "name": "King Halo",
+      "text": "Bueno, mientras yo no tenga que cargar<n>equipaje extra, estoy\nperfectamente feliz. De<n>acuerdo, ¡no perdamos más tiempo aquí!<n>¡Sígueme!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La aventura de King Halo en las montañas<n>comienza."
+    },
+    {
+      "name": "King Halo",
+      "text": "Uf... correr en este sendero montañoso es<n>agotador. Hay montones de<n>zonas irregulares y obstáculos naturales en el camino."
+    },
+    {
+      "name": "King Halo",
+      "text": "Los caminos no están pavimentados y la humedad es<n>demasiado alta. Me pregunto<n>qué temperatura hace ahora... Ah, ¿dónde está mi celular?—"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Aaaah! ¡Hay un b-b-bicho!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡E-e-entrenador! ¡Haz algo rápido!"
+    },
+    {
+      "name": "King Halo",
+      "text": "<i>Jadeo, jadeo...</i>",
+      "choice_data_list": [
+        "¿Estás bien?",
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "E-estoy bien. Esto no es suficiente para<n>hacerme rendir. Muy bien, déjame<n>revisar el siguiente destino..."
+    },
+    {
+      "name": "King Halo",
+      "text": "...¿Eh?"
+    },
+    {
+      "name": "King Halo",
+      "text": "Oye, entrenador, ¿has visto mi<n>teléfono por casualidad?",
+      "choice_data_list": [
+        "¿Acaso... lo perdiste?",
+        "¿Acaso... lo perdiste?"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "¡P-por supuesto que no! ¡Solo pregunto!<n>Una corredora de primera<n>nunca perdería su teléfono..."
+    },
+    {
+      "name": "King Halo",
+      "text": "Vamos, piensa... piensa... ¡Ajá!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Debe ser eso! Entrenador, ¿recuerdas el<n>lugar donde ese bicho nos atacó?<n>¡Tenemos que volver allí!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Creo que fue en la segunda área de descanso.<n>Bien, es un buen comienzo. Tengo<n>todo bajo control. Solo necesito<n>revisar el GPS de mi teléfono..."
+    },
+    {
+      "name": "King Halo",
+      "text": "—¡que no tengo!",
+      "choice_data_list": [
+        "...¿Segura de que estás bien?",
+        "...¿Segura de que estás bien?"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "¡E-estoy perfectamente bien! Este pequeño<n>contratiempo no me va a afectar..."
+    },
+    {
+      "name": "King Halo",
+      "text": "Voy a encontrar mi teléfono, voy a salir<n>de este bosque, y voy a regresar<n>al campamento..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "A este paso, está claro que las cosas van<n>de mal en peor. Despliego mi mapa y<n>empiezo a marcar los lugares por donde hemos estado."
+    },
+    {
+      "name": "King Halo",
+      "text": "Nnngh, ¿qué podrías estar haciendo<n>ahora mismo?",
+      "choice_data_list": [
+        "Me he preparado para este momento."
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Espera, ¿eso es un mapa y una brújula en tus<n>manos? ¿Y esa línea roja... es<n>el camino que hemos tomado hasta ahora?"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Oh, cielos, eso es increíble, entrenador! Con<n>esto, podré encontrar mi—",
+      "choice_data_list": [
+        "—¿teléfono? Sí, vamos a buscarlo. "
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Nngh... Sí... por favor..."
+    },
+    {
+      "name": "King Halo",
+      "text": "De alguna manera, logramos regresar<n>sanos y salvos...",
+      "choice_data_list": [
+        "¿Te lastimaste en algún lado?",
+        "¿Te lastimaste en algún lado?"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "No, ni un solo rasguño en mí, ni en mi<n>teléfono..."
+    },
+    {
+      "name": "King Halo",
+      "text": "Pero me sorprende lo mucho que<n>te preparaste en tan poco<n>tiempo. Solo te hablé del<n>recorrido ayer.",
+      "choice_data_list": [
+        "Bueno, intento ser un entrenador de primera. ",
+        "Bueno, intento ser un entrenador de primera. "
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "Hmph, no dejes que se te suba a la cabeza. Pero<n>admito que esta vez fue mi culpa. No<n>planeé lo suficiente."
+    },
+    {
+      "name": "King Halo",
+      "text": "Si no hubieras traído ese mapa y<n>esa brújula, probablemente<n>estaríamos en un lío aún mayor."
+    },
+    {
+      "name": "King Halo",
+      "text": "Así que... lamento haberte hecho pasar<n>por todo eso.",
+      "choice_data_list": [
+        "Me alegra que estés a salvo. ",
+        "Me alegra que estés a salvo. "
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "...Hmph."
+    },
+    {
+      "name": "King Halo",
+      "text": "Como hoy es especial, te daré un poco de<n>elogio. Has demostrado<n>cualidades dignas de estar con una<n>corredora de primera como yo."
+    },
+    {
+      "name": "King Halo",
+      "text": "De todos modos, deberíamos repasar lo que<n>hicimos hoy y prepararnos para<n>el entrenamiento de mañana en el bosque.<n>Esta vez será perfecto.",
+      "choice_data_list": [
+        "¡¿Quieres ir otra vez mañana?!",
+        "¡¿Quieres ir otra vez mañana?!"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Por supuesto! ¿Quién crees que soy?<n>Palabras como \"imposible\" y \"rendirse\"<n>no existen en mi diccionario!"
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Vamos, regresemos al campamento ahora!<n>Un entrenador de primera no<n>soñaría con hacerme esperar, ¿verdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al regresar, inmediatamente empezamos<n>a idear una estrategia para<n>la excursión de mañana."
+    }
+  ]
 }

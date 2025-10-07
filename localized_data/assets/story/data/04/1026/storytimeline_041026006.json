@@ -1,225 +1,256 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Today is a day off, the perfect time to head to the local \nshopping mall for some grocery shopping. Except..."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "......"
-        },
-        {
-            "text": "I found Mihono Bourbon standing motionless \nin front of the arcade inside the mall.",
-            "choice_data_list": [
-                "What are you up to, Bourbon?",
-                "What are you up to, Bourbon?"
-            ]
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "I went to investigate the arcade in an attempt to \nimprove my social skills. But I'm hesitant to enter..."
-        },
-        {
-            "text": "I asked her for more details, and she explained that she \nwanted to master a social skill known as 'small talk' at \nthis arcade, which is popular among her classmates."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Seeing the size of those arcade machines triggered my \nrisk management system. There is a high risk of the \nmachines breaking if I were to touch them."
-        },
-        {
-            "text": "So she's afraid of breaking the machines. \nIn that case..."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "I appreciate your help with my observation."
-        },
-        {
-            "text": "I decided to help her out by playing the games for her, \nso she could observe in peace.",
-            "choice_data_list": [
-                "Let's just enjoy ourselves today!"
-            ]
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Order accepted. Starting 'enjoy ourselves' procedure."
-        },
-        {
-            "text": "And thus started her observation."
-        },
-        {
-            "name": "Rock Paper Scissors Machine",
-            "text": "Rock, paper, scissors! \nYou lose!"
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "1 win, 9 losses. I detect a sudden negative change in your \nmood, Master. Sweet foods have a relaxing effect. \nHow about getting some ice cream?"
-        },
-        {
-            "name": "Slot Machine",
-            "text": "Ding-ding-ding! You win the jackpot!"
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "I detect a huge output of coins from the machine. \nDid it break?"
-        },
-        {
-            "name": "Boxing Machine",
-            "text": "16,000 points! Hooray, you sent the monster flying!"
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Determining Master's punching strength as 16,000. \nI am trying to log the value, but what unit of \nmeasurement is this?"
-        },
-        {
-            "text": "Even though she was still a bit disconnected, \nshe was still satisfied at the end of the day."
-        },
-        {
-            "text": "Yet, I couldn't call it a day without having <i>her</i> \ntry at least one game."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "You want me to use the claw machine with you? \nSadly, I will not touch it. It might break if I do.",
-            "choice_data_list": [
-                "<i>I</i> will use the buttons.",
-                "<i>I</i> will use the buttons."
-            ]
-        },
-        {
-            "text": "I told her to look at the claw from the side of the \nmachine and give me instructions. She gave me \nan understanding nod."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Order accepted. I will help you \nwith accurate measurements."
-        },
-        {
-            "text": "With that, I chose to play 3 times for 500 yen. \nMy target is a small bunny plush that seems easy to get."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Please move the claw 22 centimeters across. \nAccording to my calculations, there should be \na 98% chance of success."
-        },
-        {
-            "text": "Just as planned, the claw lowered and gripped \nthe bunny around its neck. But then..."
-        },
-        {
-            "text": "*thump*"
-        },
-        {
-            "text": "As the claw raised up, the bunny slipped through \nits grasp and fell right back down."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Observed the claw's lack of strength. Recalculating..."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Switching to strategy 'push the bunny'. \nWith this strategy, the winning chance is 91%."
-        },
-        {
-            "text": "*bump*"
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "I overestimated the claw's ability to push. \nRecalculating..."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "According to my new strategy, the chance is 75%..."
-        },
-        {
-            "text": "*slip*"
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "...... \nDetermined that this is a near-impossible mission..."
-        },
-        {
-            "text": "We tried many things but in the end, \nwe could not get the bunny out..."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "My apologies, Master. My calculations were off because \nI could not fully understand the claw's strength."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "But I'm certain that there is a 70% chance \nof success, were we to try again..."
-        },
-        {
-            "text": "I'm surprised she wants to keep going. \nMaybe she's more into it than I thought.",
-            "choice_data_list": [
-                "Sure, let's try one more time!"
-            ]
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Order accepted. I will make sure we get that bunny \nwith all that I have."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Stop now. Move 14 centimeters forward. \nUse the arm to push the bunny towards the chute."
-        },
-        {
-            "text": "I do as she says and the bunny is pushed towards the \nedge of the chute. It slowly tilts over, towards the chute..."
-        },
-        {
-            "text": "I watch it tilt with my breath held... \nActually, Mihono Bourbon is holding her breath as well."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "...!!"
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Go!"
-        },
-        {
-            "text": "The bunny falls over into the chute."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Thank you for your help today. Experiencing the arcade \nfirst-hand has taught me a lot and resulted in some \nvaluable insights."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "The feeling of excitement in my chest, and how my \nfacial muscles relaxed on their own... I added these \nsensations to the topic of 'small talk' in my database.",
-            "choice_data_list": [
-                "I'm glad you enjoyed yourself."
-            ]
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "\"Enjoyed myself?\""
-        },
-        {
-            "text": "I explained to her that the sensations she felt are called \n'fun' and how that caused her to enjoy herself."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "That's what 'fun' is..."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "I do not understand how using the claw machine \ncaused these feelings of 'fun' when it was \nvery counterproductive.",
-            "choice_data_list": [
-                "<size=40>You call it counterproductive...</size>"
-            ]
-        },
-        {
-            "text": "I had to choose my words in such a way \nthat she would understand.",
-            "choice_data_list": [
-                "<size=36>The goal of using the machine is to have fun.</size>"
-            ]
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "...... \nI see. Status changed to 'shocked.'"
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "New values inserted. <i>Even if something seems useless \nat first glance, it may not be the case in the end.</i>"
-        },
-        {
-            "text": "As she speaks, she lightly strokes \nthe bunny plush we won today."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Finalmente es fin de semana. Voy al centro comercial<n>para hacer algunas compras<n>y veo a la única e<n>inconfundible Mihono Bourbon."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Está parada afuera de una arcade, con los ojos<n>fijos en los artilugios de neón<n>del interior.",
+      "choice_data_list": [
+        "...¿Bourbon? ¿Qué sucede?",
+        "...¿Bourbon? ¿Qué sucede?"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "He observado que esta arcade es<n>frecuentada por Umamusume con un alto<n>parámetro de \"sociabilidad\". Sin embargo, estoy<n>indecisa sobre entrar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tras presionar por más detalles, me dice<n>que la arcade es popular entre sus<n>compañeros de clase, así que vino a revisarla como<n>un tema de conversación."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...Tengo dificultad operando maquinaria y<n>soy propensa a destruir<n>dispositivos electrónicos con los que<n>entro en contacto. Evalué las<n>máquinas en la arcade y concluí que<n>sería necesario gestionar riesgos"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "debido<n>a su tamaño."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por el bien de Bourbon y de las<n>máquinas, me ofrezco a mostrarle el lugar."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Agradezco enormemente tu cooperación. "
+    },
+    {
+      "name": "Monólogo",
+      "text": "Moviendo mi mano, indico que no hay<n>problema. Decido que sería más seguro<n>que yo controlara las máquinas de arcade<n>en lugar de ella.",
+      "choice_data_list": [
+        "No es común que tengamos días libres. ¡Vamos a divertirnos!"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Entendido. Iniciando protocolo \"vamos a divertirnos\"."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, comienza nuestro recorrido por la arcade."
+    },
+    {
+      "name": "Juego de Piedra, Papel o Tijeras",
+      "text": "¡Piedra, papel o tijeras, ya! Lo siento, ¡perdiste!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Una victoria, nueve derrotas. Se ha detectado una<n>caída sustancial en tu<n>felicidad. ¿Puedo<n>ofrecerte un helado? Se sabe que los dulces<n>tienen propiedades<n>mejoradoras del ánimo."
+    },
+    {
+      "name": "Máquina Tragamonedas",
+      "text": "¡Redoble de tambores por favor... Felicitaciones! ¡Ganaste!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Una cantidad considerable de monedas está<n>cayendo de esta máquina. ¿Está<n>fallando?"
+    },
+    {
+      "name": "Máquina de Saco de Boxeo",
+      "text": "¡16,000 puntos! ¡Enviaste a ese monstruo<n>volando!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "El poder de golpe ha sido registrado como<n>16,000 puntos en mi base de datos.<n>Unidad de<n>medida desconocida."
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de sus reacciones poco ortodoxas,<n>puedo ver que Mihono Bourbon está<n>disfrutando la arcade."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sería una pena irse a casa sin que<n>ella jugara al menos un<n>juego, sin embargo.<n>Tras unos minutos de búsqueda, señalo una<n>máquina de garra."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "¿Es esto lo que deseas que juegue? Agradezco<n>tu invitación, pero mis<n>estimaciones muestran que podría<n>dejar este dispositivo fuera de<n>servicio permanentemente.",
+      "choice_data_list": [
+        "No te preocupes. Yo me encargaré de los controles.",
+        "No te preocupes, yo me encargaré de los controles."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le pido que observe desde un lado y<n>proporcione instrucciones. Contenta,<n>Mihono<n>Bourbon asiente y se posiciona."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Entendido. Calcularé distancias y<n>proporcionaré direcciones."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Deslizando una moneda en la ranura, la máquina<n>cobra vida. Comenzamos a<n>apuntar a un conejo posado encima de los juguetes."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Por favor mueve veintidós centímetros—sí,<n>detente justo ahí. Según mi análisis,<n>tenemos un 98% de probabilidad de éxito."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Asintiendo, presiono el botón para agarrar el<n>premio. La garra de plástico se envuelve<n>alrededor del cuello del juguete."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Plop.</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El premio se escapa y aterriza de nuevo donde<n>comenzó."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...Falta de fuerza de agarre, anotado. Ajustando<n>cálculos."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Iniciando un nuevo curso de acción—empujar.<n>Con esto, tenemos un<n>91% estimado de<n>probabilidad de—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Plop.</i>"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...He sobreestimado la capacidad de<n>maniobra del brazo una vez más.<n>Reanalizando."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Predigo un 75% de probabilidad de éxito—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Plop.</i>"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "... ...Este artilugio está demostrando ser un<n>adversario temible."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Uso todos los trucos que conozco, pero el<n>peluche permanece inalcanzable."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Mis disculpas, Entrenador. Mi fallo al<n>determinar la fuerza del brazo<n>llevó a tan<n>decepcionantes resultados."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...Sin embargo, creo que hay un 70% de<n>probabilidad de que obtengamos el<n>premio en<n>nuestro próximo turno. Sugiero un intento final."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La propuesta repentina contradice su actitud<n>usual pasiva. Debe estar<n><i>REALMENTE</i><n>determinada a ganar.",
+      "choice_data_list": [
+        "¡Hagámoslo! ¡Definitivamente lo conseguiremos esta vez!"
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Entendido. Intentaré mi absoluto mejor."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Por favor detente ahí. Ahora avanza<n>catorce centímetros. Empujaremos el juguete<n>hasta el mismo borde y permitiremos que caiga<n>naturalmente en la caja de premios."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mordiéndome el labio, presiono el botón para<n>agarrar el conejo. Cae, balanceándose<n>precariamente<n>en el borde del agujero."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Contengo la respiración como si cualquier<n>movimiento lanzara el peluche<n>de vuelta hacia sus<n>amigos. Mirando a mi lado, noto que<n>Mihono Bourbon hace lo mismo."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...!"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...¡Vamos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Tras perder su batalla con la gravedad, el<n>conejo se desliza gracefulmente hacia la<n>caja de premios."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Gracias por tu apoyo. Ahora estoy<n>equipada para manejar<n>conversaciones sobre<n>arcades. Sin embargo, lo más interesante<n>es que<n>experimenté nuevas sensaciones hoy."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Durante nuestros intentos en el juego de garra,<n>observé nuevas respuestas<n>físicas. Una<n>sensación de cosquilleo ocurrió dentro de mi pecho,<n>junto con<n>movimientos involuntarios de mis<n>músculos faciales. He añadido estas nuevas"
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "respuestas a mis parámetros de \"conversación casual\".",
+      "choice_data_list": [
+        "Parece que te divertiste un montón."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...¿Es esto lo que defines como \"diversión\"?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mihono Bourbon deja caer lentamente la palabra<n>de su boca, como si estuviera<n>incierta sobre su<n>pronunciación. Explico suavemente lo que<n>significan esos sentimientos."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Ya veo. "
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Parece ilógico experimentar \"diversión\" mientras<n>se hace algo<n>improductivo como<n>capturar peluches con brazos mecánicos<n>implausiblemente débiles.",
+      "choice_data_list": [
+        "Bueno, yo no lo llamaría así..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Eligiendo cuidadosamente mis palabras, expreso el<n>valor de hacer cosas llamadas<n>\"improductivas\"<n>de vez en cuando.",
+      "choice_data_list": [
+        "El propósito principal es disfrutar nosotros mismos."
+      ]
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "...Ya veo. Toda esta información es bastante<n>novedosa para mí. Parece que he<n>entrado en un<n>estado de \"shock\" ahora."
+    },
+    {
+      "name": "Mihono Bourbon",
+      "text": "Ingresaré esta nueva información también.<n>Quizás eventos aparentemente<n>sin significado no sean tan<n>sin significado después de todo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Acariciando suavemente el conejo que conseguimos juntas,<n>Mihono Bourbon reflexiona<n>sobre sus nuevas<n>perspectivas adquiridas."
+    }
+  ]
 }

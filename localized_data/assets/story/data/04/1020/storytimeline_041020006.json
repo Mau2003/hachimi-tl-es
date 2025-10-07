@@ -1,206 +1,206 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "After a training session I saw \nSeiun Sky looking at something on her phone."
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Haa… Such a comfy design, \nand that cute, curly tail…"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "For this perfect gem to fit in the palm of my hand, \nthis truly is the perfect form of therapy.",
-            "choice_data_list": [
-                "What're you talking about?",
-                "What're you talking about?"
-            ]
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Ah, don't worry about it."
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "More importantly, Trainer-san, \nare you free on your next day off?"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "I was thinking of getting a new pair of shoes and was \nwondering if you'd like to come and look at some with me.",
-            "choice_data_list": [
-                "Of course.",
-                "Of course."
-            ]
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Great, then let's go to the mall this weekend!"
-        },
-        {
-            "text": "On my next day off, Seiun Sky and I \nwent to a shopping mall that had a sports store."
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Hmm, now where's that \nsporting goods store at…"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Oh…?",
-            "choice_data_list": [
-                "What's up?",
-                "What's up?"
-            ]
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Nothing, I just saw something intriguing is all."
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Isn't that mug in that \nstore over there super cute?"
-        },
-        {
-            "text": "When I looked to where she was pointing, \nI noticed a mug with a cat painted on it."
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Haa… The cat on that mug looks \nso comfy, like it's about to fall asleep."
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "I'd feel much more motivated if I could have a \ncup of tea out of it before every training session."
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "What should I do…? \nShould I buy it…? Oh!?",
-            "choice_data_list": [
-                "What is it this time?",
-                "What is it this time?"
-            ]
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Trainer-san, look over there!"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "It says, \"buy two mugs and \nget a cat-shaped keyholder for free!\""
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "I didn't realize this before, but if I buy two mugs \nI'd also get that super cute cat-shaped keyholder too!"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "That's great value! \nI want them both so bad!"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "But I wouldn't have a \nuse for two mugs… Hmm…"
-        },
-        {
-            "text": "After thinking about it for \nsome time, Seiun Sky said…"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Ah, I've got it…"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Trainer-san, I've got a completely \nunrelated question to ask you…"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Trainer-san… \nDo you happen to own a mug?"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "If I remember correctly, \nI'm pretty sure you don't have one.",
-            "choice_data_list": [
-                "Was this your plan?",
-                "Was this your plan?"
-            ]
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Oh? I have no idea what you're talking about."
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "We just happened to pass by here, and \njust so happened to see that mug with \nthe cute cat on it that I want."
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "You seem like the type of person to use mugs… \nPlus, if you don't have one, \nnow's the perfect time to get one, doncha think?"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Come on now, imagine this. Right before \ntraining, you and your Uma Musume are both \ndrinking tea out of matching mugs…"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Symbolizing the deep bond between us… \nWouldn't that be wonderful?"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Plus, I know for a fact it would help \nmake me feel more pumped for training… \n<i>*Glance* *Glance*</i> \n<i>*Glance* *Glance*</i>",
-            "choice_data_list": [
-                "Fine…"
-            ]
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Oh, really?",
-            "choice_data_list": [
-                "This'll make you happy, right?",
-                "This'll make you happy, right?"
-            ]
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Ahaha, now that's my trainer!"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "You're pretty good at making sure your Uma \nMusume's motivation is always as high as can be, huh?"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Now then, why don't we each buy one?",
-            "choice_data_list": [
-                "I'll pay for both."
-            ]
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Wha…?"
-        },
-        {
-            "text": "I had Seiun Sky wait there and \ndecided to pay for the mugs on my own."
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Wowie! Trainer-san, you're so mature! \nAnd so cool!"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "To think you'd pay for my mug too!"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Sei-chan's bond level has \nrisen by one once again. Pirorirorin ♪",
-            "choice_data_list": [
-                "Well, you're in a good mood.",
-                "Well, you're in a good mood."
-            ]
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Hehe… To say that after buying that mug for me. \nTrainer-san, you're not being \nhonest with your feelings, are you?"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Now then, why don't we head back \nhome and drink some tea out of these mugs?"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Después del entrenamiento, encuentro a Sky<n>buscando algo en su teléfono."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "<i>Suspiro...</i> La expresión calmada y esa<n>cola inocente enroscada..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Y conservar tanto detalle, incluso<n>reducido para caber en tu mano. Verdaderamente<n>una obra maestra que calma el alma...",
+      "choice_data_list": [
+        "¿Qué cosa?",
+        "¿Qué cosa?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ah. No te preocupes, solo estoy divagando."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Eso me recuerda, ¿tienes planes para<n>nuestro próximo día libre?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "He estado queriendo conseguir zapatos<n>nuevos y me preguntaba si querías venir<n>conmigo?",
+      "choice_data_list": [
+        "Claro que sí.",
+        "Claro que sí."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Muy bien, entonces ¡vamos al centro<n>comercial este fin de semana!"
+    },
+    {
+      "text": "Y así, en nuestro día libre, visito el centro<n>comercial con Sky para buscar algunos<n>zapatos."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Mmm, la tienda de artículos deportivos<n>debería estar justo por—"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Eh?",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Nah, solo vi algo que llamó mi atención por<n>un segundo."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Mira esas tazas que venden en esa tienda de<n>allá. Son bastante lindas, ¿no crees?"
+    },
+    {
+      "text": "Sigo su mirada hacia un estante de tazas<n>con diseños caprichosos de gatos."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Aw... Estos gatitos se ven tan tranquilos,<n>como si pudieran quedarse dormidos en<n>cualquier momento."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Apuesto a que mi motivación se dispararía<n>si pudiera tomar té de una taza así antes<n>del entrenamiento."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Qué debería hacer? Tal vez la compre—¡ah!",
+      "choice_data_list": [
+        "¿Qué pasa ahora?",
+        "¿Qué pasa ahora?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Mira! ¡Allá!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Dice que si compras un set de dos tazas, te<n>dan un llavero con forma de gato gratis!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Un llavero de gatito <i>súper</i> lindo, todo por<n>el mísero precio de dos tazas!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Es un <i>chollo</i>! ¡Me han atrapado!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Dicho eso, solo necesito una taza. Mmm..."
+    },
+    {
+      "text": "Sky sigue actuando conflictuada un poco<n>más..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...Oh, eso es cierto."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Por cierto, esto es totalmente sin relación,<n>pero..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Entrenador... ¿tú por casualidad tienes una<n>taza propia?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Por lo que recuerdo, tengo la sensación de<n>que <i>no</i>, ¿verdad?",
+      "choice_data_list": [
+        "...¿Este era tu plan desde el principio?",
+        "...¿Este era tu plan desde el principio?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oye, ¿qué estás insinuando?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Solo pasé por aquí por casualidad cuando<n>de repente me dieron ganas de comprar esta<n>taza de gatito. Eso es todo."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Tú podrías usar una taza también, y como<n>no tienes, ¿no es esta una oportunidad<n>perfecta?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Vamos, solo imagínalo—beber té de tazas<n>coordinadas con tu aprendiz antes del<n>entrenamiento..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿No da esa vibra de \"unión estrecha\"?<n>Extravagantemente encantador, ¿no crees?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Al menos, yo ciertamente lo creo...<n>Insinuación, insinuación.",
+      "choice_data_list": [
+        "Si tanto lo deseas..."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oh, ¿aceptas?",
+      "choice_data_list": [
+        "Esto te motivará más, ¿verdad?",
+        "Esto te motivará más, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Ja, ja, ¡ese es mi entrenador!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Puedo contar contigo para mantener la<n>motivación de tu aprendiz al máximo en<n>todo momento."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Bien entonces, compremos una cada uno.",
+      "choice_data_list": [
+        "Yo compro ambas. Ahora vuelvo."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...¿Eh?"
+    },
+    {
+      "text": "Dejo a Seiun Sky esperando mientras voy a<n>la caja y compro dos tazas."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Vaya, eres tan maduro! ¡Qué smooth!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡No pensé que comprarías mi taza también!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Creo que acabas de subir nuestro vínculo<n>otra vez. ¡Da-dada-daaah! ♪",
+      "choice_data_list": [
+        "Estás en un ánimo sospechosamente alto...",
+        "Estás en un ánimo sospechosamente alto..."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Je, je, dices eso como si no me hubieras<n>comprado un regalo. Sé más honesto<n>contigo mismo, zorro astuto."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Muy bien, ¡en cuanto volvamos, llenemos<n>estas chuladas con algo de té!"
+    }
+  ]
 }

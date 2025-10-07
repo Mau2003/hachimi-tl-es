@@ -1,277 +1,277 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "On one of my days off I decided to visit this cafe. \nI saw that Curren Chan had come here \nearlier when I checked her Umastagram."
-        },
-        {
-            "text": "I figured there might be a clue here to help me learn more about \nher. With that in mind, I scanned the open area…"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Mmmm ♪ This is so sweet ♪ \nParfaits make me so happy ♪"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Phew… Ah, I ended up finishing it too quickly. \nHow unfortunate."
-        },
-        {
-            "text": "It seems like Curren Chan came here to relax. \nIt looks like she hasn't noticed me…",
-            "choice_data_list": [
-                "I guess I'll just watch her for now…"
-            ]
-        },
-        {
-            "text": "I feel a little guilty for watching her in secret like this, but \nthis might be my chance to have a glimpse of her private life."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Now then…♪ Guess it's time to do some shopping."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Wah, this one piece outfit is so cute ♪ \nI love its crimson color!"
-        },
-        {
-            "name": "Shop Assistant",
-            "text": "So you prefer darker colors? \nThey do seem to look good on you."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Ehehe, thank you very much ♪ I love darker colors \nbecause they help to bring out the beauty of my skin."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "That's why when I was younger I'd wear magenta to my recitals. \nAnd when I was 4 years old I started to wear violet."
-        },
-        {
-            "name": "Shop Assistant",
-            "text": "To have a grasp of color contrasts at 4 years old! \nI would expect nothing less of \"Curren\"!"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Okay, I've decided! I'd like this one piece outfit."
-        },
-        {
-            "text": "After purchasing that outfit Curren \nChan continued her shopping venture…"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Wah, it's so cute! \nLook at the kitty cat plushie ♪"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "It's almost like it's screaming \"Curren Chan, take me with you!\" \nHmm, maybe I should take him home… Oh, what should I do?"
-        },
-        {
-            "name": "Young Passerby",
-            "text": "…!? …!!!! Sh… She's… She's so… Cute…!?"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Hmm? Are you okay?"
-        },
-        {
-            "name": "Young Passerby",
-            "text": "A-Are… Are you… Are you a goddess? No… An angel? No, that's not \nit… I think this is the first time I've truly opened my eyes…?"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Aha, so you've been enlightened by me, huh? \nWelcome to the world of Curren♪"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "I actually happen to be active on Umastagram, so if you wouldn't \nmind, please follow me. My handle's \"@Curren,\" got it♪"
-        },
-        {
-            "name": "Young Passerby",
-            "text": "Of course… I will…! You're just… \nYou're just so cute, Curren Chan…!!"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Glad to have you as a follower ♪"
-        },
-        {
-            "text": "And that's when I realized… There is no separation of her public \nand private lives. She exudes cuteness in all aspects of her \nlife, living her life in a pure and happy way.",
-            "choice_data_list": [
-                "What the hell am I doing…",
-                "What the hell am I doing…"
-            ]
-        },
-        {
-            "text": "I began to feel embarrassed for following her in secret \nlike this, so I decided to apologize for doing so when…"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "So? When were you planning \non talking to me, Onee-chan?",
-            "choice_data_list": [
-                "…!!"
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "So? When were you planning \non talking to me, Onee-chan?",
-            "choice_data_list": [
-                "…!!"
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Jeez, I was waiting for you to talk to me for so long. You're so \nmean, making a girl wait that long, Onee-chan!",
-            "choice_data_list": [
-                "I can explain…"
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Jeez, I was waiting for you to talk to me for so long. You're so \nmean, making a girl wait that long, Onee-chan!",
-            "choice_data_list": [
-                "I can explain…"
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Why don't we go somewhere more private first…?"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Onee-chan… You don't trust me, do you?",
-            "choice_data_list": [
-                "Huh?"
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Onee-chan… You don't trust me, do you?",
-            "choice_data_list": [
-                "Huh?"
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "You followed me because… \nyou didn't know enough about me, right?"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "I appreciate the fact that you want to learn more about me. But, \nI always show everyone exactly what I want them to see."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "If you only look at that part you will understand my \"cuteness.\" \nThe mysterious, unknown parts only add to that charm."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "That's why I want you to just love this \ncute Curren, Onee-chan. That's all I want…"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "That's why I want you to just love this \ncute Curren, Onee-chan. That's all I want…"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "So, could you do that for me…?"
-        },
-        {
-            "text": "Sure, if I were only trying to be her associate I could go along \nwith that. And she would likely be happy with that. However…",
-            "choice_data_list": [
-                "I have to refuse.",
-                "I have to refuse."
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Eh…?",
-            "choice_data_list": [
-                "As your trainer I have to refuse.",
-                "As your trainer I have to refuse."
-            ]
-        },
-        {
-            "text": "As her trainer, I will make her dreams come true… \nI can't sit around simply admiring \nher charms like everyone else is.",
-            "choice_data_list": [
-                "So please tell me more about yourself.",
-                "So please tell me more about yourself."
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "……!"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "You hate losing too, huh…"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "I get it. I'll consider it, okay? \nI guess I have to since I upset you to the point \nwhere you began stalking me, isn't that right?",
-            "choice_data_list": [
-                "I'm really sorry about that…"
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Hmm… Fine, I'll forgive you ♪ \nBecause you love me, \ndon't you, Onee-chan?",
-            "choice_data_list": [
-                "Huh!?"
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Hmm… Fine, I'll forgive you ♪ \nBecause you love me, \ndon't you, Onee-chan?",
-            "choice_data_list": [
-                "Huh!?"
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Hmph, what's with that reaction? \nSo, you actually hate me…?",
-            "choice_data_list": [
-                "I-I love you, Curren!"
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Aha, so you love me♪ Well I love…"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Nope, can't tell you that yet…♪"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Maybe if we go on plenty of dates after this… \nI'd want to actually say it?"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Plus you'd get to learn a lot more about me, \ndon't you think? So what're you gonna do, Onee-chan♪",
-            "choice_data_list": [
-                "I'll take you on plenty of dates!"
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Plus you'd get to learn a lot more about me, \ndon't you think? So what're you gonna do, Onee-chan♪",
-            "choice_data_list": [
-                "I'll take you on plenty of dates!"
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Aha, yay ♪ We're gonna go on dates ♪ \nAnd we'll even link arms!"
-        },
-        {
-            "text": "We then spent the rest of the day together. \nIt seems like I grew a little closer to her…"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Onee-chan, I really want a cafe latte right now… \nCould you get me one♪"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Onee-chan, I really want a cafe latte right now… \nCould you get me one♪"
-        },
-        {
-            "text": "Or maybe not…"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Hoy es nuestro día libre, así que decido visitar un<n>café del que Curren hablaba<n>en Umastagram."
+    },
+    {
+      "text": "Espero que me dé una nueva perspectiva<n>sobre qué tipo de persona es ella tras<n>bambalinas. Solo hay un problema..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Mm! ♪ ¡Ñam, ñam! ♪ ¡Nada me hace más<n>feliz que un parfait! ♪"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Uf, me lo acabé rapidito. Qué<n>lástima."
+    },
+    {
+      "text": "Parece que Curren <i>también</i> escogió hoy para<n>visitar este café. Al menos<n>no parece haberme visto todavía...",
+      "choice_data_list": [
+        "(Voy a vigilarla un rato nada más...)"
+      ]
+    },
+    {
+      "text": "Me siento un poco raro con esto, pero<n>también es la oportunidad perfecta para<n>aprender algo sobre su misteriosa vida<n>privada."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Bueeeno! ♪ Creo que ya es hora de ir<n>de compras."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Wow, este vestido es tan lindo! ♪ ¡Me<n>encantan los rojos intensos!"
+    },
+    {
+      "name": "Dependiente",
+      "text": "¿Supongo que te gustan los colores oscuros?<n>Te quedan muy bien."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Jeje, ¡muchas gracias! ♪ Me gusta cómo<n>los colores oscuros resaltan los<n>tonos de tu piel."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Como esa vez que recuerdo, en una<n>presentación de primaria, usé<n>un look magenta justo por eso! ¡Y<n>cuando tenía cuatro años, creo que<n>usé violeta?"
+    },
+    {
+      "name": "Dependiente",
+      "text": "¿¡Tú—tú usaste contraste en tu outfit a<n>los <i>cuatro años</i>!? ¡Eso sí que es<n><i>pura</i> Curren!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Ya decidí! Me llevo este vestido."
+    },
+    {
+      "text": "Después de eso, Curren sigue de compras,<n>yendo de una tienda a otra."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Wow, qué lindoo! ¡Un peluche de gato! ♪"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "\"¡Curren Chan, llévame contigo!\" Hmm,<n>¿debería llevarte a casa? ¿Qué<n>hago?"
+    },
+    {
+      "name": "Transeúnte",
+      "text": "¿Mm? ¡Urk! ¡Ngh! ¡T-t-tan linda!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¿Hmm? ¿Estás bien?"
+    },
+    {
+      "name": "Transeúnte",
+      "text": "¿U-u-una diosa? O... ¿un ángel? No, espera...<n>¿acabo de abrir los ojos<n>de verdad por primera vez?"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Jaja, pareces iluminado. ¡Bienvenido a<n>tu nuevo mundo Curren-tástico! ♪"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Estoy en Umastagram, ¡así que me<n>encantaría que me siguieras en @Curren! ♪"
+    },
+    {
+      "name": "Transeúnte",
+      "text": "¡Como... ordene! ¡Linda... Linda Curren Chan!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Muchaaas gracias! ♪"
+    },
+    {
+      "text": "...Ahora entiendo. Ella no tiene idea de<n>separar su vida pública y privada.<n>No importa cuándo ni dónde, siempre<n>vive de la manera más linda que conoce.",
+      "choice_data_list": [
+        "(...¿Qué estoy haciendo ahora mismo?)",
+        "(...¿Qué estoy haciendo ahora mismo?)"
+      ]
+    },
+    {
+      "text": "Sintiéndome avergonzado por espiarla<n>en secreto cuando ella no tiene nada que<n>ocultar, decido disculparme con ella<n>y—"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¿Y bien? Hermano, ¿cuándo vas a hablarme?",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¿Y bien? Hermana, ¿cuándo vas a hablarme?",
+      "choice_data_list": [
+        "...!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Vaya, te he estado esperando, ¿sabes?<n>¡Eres tan provocador, hermano!",
+      "choice_data_list": [
+        "Bueno, yo... este..."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Vaya, te he estado esperando, ¿sabes?<n>¡Eres tan provocadora, hermana!",
+      "choice_data_list": [
+        "Bueno, yo... este..."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...¿Quieres tomar un poco de aire fresco?"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hermano... no confías en mí, ¿verdad?",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hermana... no confías en mí, ¿verdad?",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hoy me espiaste... porque querías<n>saber más sobre mí, ¿cierto?"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Digo, me alegra que tengas curiosidad y<n>eso. Es solo que... me gusta elegir qué<n>lado mío ven las personas."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Elijo solo los momentos más lindos para<n>mostrarle a todos. Y si eso deja al \"verdadero\"<n>yo como un misterio, bueno... eso es parte<n>de mi encanto."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¿Tiene sentido? Quiero que mires las<n>partes mías que amarás. Quiero que<n>ames a \"Curren Chan.\""
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¿Tiene sentido? Quiero que mires las<n>partes mías que amarás. Quiero que<n>ames a \"Curren Chan.\""
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¿Bien? Puedes hacer eso, ¿verdad?<n>¿Por fi?"
+    },
+    {
+      "text": "...Si estuviera en cualquier otra posición,<n>quizá estaría dispuesto a hacer lo que<n>pide. Incluso podría ser la opción más<n>feliz para ambos. Pero...",
+      "choice_data_list": [
+        "Eso no está bien para mí.",
+        "Eso no está bien para mí."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¿Eh?",
+      "choice_data_list": [
+        "No está bien, porque soy tu entrenador.",
+        "No está bien, porque soy tu entrenador."
+      ]
+    },
+    {
+      "text": "Es mi trabajo hacer realidad sus sueños.<n>Y para hacer eso, necesito ver más allá de<n>la imagen encantadora que muestra al mundo.",
+      "choice_data_list": [
+        "Quiero que me cuentes más sobre ti.",
+        "Quiero que me cuentes más sobre ti."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...Odias perder tanto como yo."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Está bien. Lo consideraré un poquitín. Digo,<n><i>sí</i> querías saber tanto que empezaste a<n>acecharme y todo.",
+      "choice_data_list": [
+        "Lo siento mucho por eso..."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hmmm, entonces supongo que... ¡te perdono! ♪<n>Después de todo, estás<n>enamorado de mí, ¿no?",
+      "choice_data_list": [
+        "¡¿Qué?!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hmmm, entonces supongo que... ¡te perdono! ♪<n>Después de todo, estás<n>enamorada de mí, ¿no?",
+      "choice_data_list": [
+        "¡¿Qué?!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¿Eh? ¿Qué pasa con esa reacción? Entonces...<n>¿me odias?",
+      "choice_data_list": [
+        "¡M-me gustas!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Jaja, ¿quieres decir que me <i>amas</i>, verdad? ♪<n>¿Y sabes qué? Creo que quizá..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...¡<i>no</i> termine esa frase todavía! ♪"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¿Qué tal esto—si sales en una cita conmigo...<n>¡entonces quizá te diga lo que<n>iba a decir!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Y quizá también aprendas más sobre mí!<n>¿Y bien? ¿Qué dices, hermano?",
+      "choice_data_list": [
+        "...¡Iré!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Y quizá también aprendas más sobre mí!<n>¿Y bien? ¿Qué dices, hermana?",
+      "choice_data_list": [
+        "...¡Iré!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Jaja, ¡yay! ♪ ¡Entonces es una cita! ♪<n>Ahí—¡te tomé del brazo!"
+    },
+    {
+      "text": "Paso el resto del día con una Curren<n>contenta. De algún modo, siento que los<n>eventos de hoy nos han acercado un poco..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hermano, ¡me apetece un café latte ahora<n>mismo! Así que, ¡por favoooor! ♪"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hermana, ¡me apetece un café latte ahora<n>mismo! Así que, ¡por favoooor! ♪"
+    },
+    {
+      "text": "...Pero por otro lado, quizá no."
+    }
+  ]
 }

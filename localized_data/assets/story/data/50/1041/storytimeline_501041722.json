@@ -1,47 +1,48 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Uuuu……it's here it's here it's hereee! \nI've got a headache!!",
-            "choice_data_list": [
-                "Are you alright?"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Yessir! This is simply a side effect from my \nteacher's passionate instruction during \nsupplementary lessons!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "This is, shall we say, a muscle ache for the \nbrain……"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Sore muscles are a harbinger of growth…!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "In other words! I'm smart, and I'm about to \nget even smarter!",
-            "choice_data_list": [
-                "S, so that's how it works…?",
-                "S, so that's how it works…?"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Affirmative! \nBased on my experience and theories, there \nis no doubt!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Let's ride this wave of growth! \nBoth physically and mentally, \nBakushinbaku――"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "<i>Piiiiiiing!!</i> \nOww, ow, ow, ow, ow――!?"
-        },
-        {
-            "text": "Despite her enthusiasm, Sakura Bakushin \nO was plagued by a headache."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Ay no, ya llegó! ¡Me va a estallar la cabeza!",
+      "choice_data_list": [
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡No temas! Siempre me pasa esto después<n>de recibir"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Podría decirse que es el dolor muscular del<n>cerebro..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Los músculos adoloridos representan crecimiento, así que solo<n>significa"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡En otras palabras! La ya inteligente<n>Bakushin O",
+      "choice_data_list": [
+        "...¿En serio?",
+        "...¿En serio?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Sí! Mi experiencia y mis teorías me<n>dicen que"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Voy a aprovechar este estirón! Lo<n>convertiré en un"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡AAAGH! ¡¿AY-AY-AY?!"
+    },
+    {
+      "name": "Monologue",
+      "text": "A pesar de su determinación, la<n>Sakura Bakushin O"
+    }
+  ]
 }

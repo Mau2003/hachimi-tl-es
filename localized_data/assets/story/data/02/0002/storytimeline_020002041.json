@@ -3,182 +3,189 @@
   "text_block_list": [
     {
       "name": "Mejiro McQueen",
-      "text": "…Gosh, I've really done it this time."
+      "text": "...Vaya, esta vez sí que la hice."
     },
     {
-      "text": "McQueen's injury seems to be more serious than I thought.",
+      "name": "Monólogo",
+      "text": "La lesión de McQueen parece ser más<n>grave de lo que pensaba.",
       "choice_data_list": [
-        "How's it feel?"
+        "¿Cómo te sientes?"
       ]
     },
     {
       "name": "Mejiro McQueen",
-      "text": "I'll be getting a proper diagnosis soon, but it seems I'll have to give \nup on the Takarazuka Kinen."
+      "text": "Pronto me harán un diagnóstico, pero<n>parece que tendré que renunciar<n>al Takarazuka Kinen."
     },
     {
       "name": "Rice Shower",
-      "text": "McQueen…"
+      "text": "McQueen..."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "No need to look so glum. It's unfortunate, but I still have my third \nconsecutive win in the Tenno Sho to work toward."
+      "text": "No pongas esa cara. Es una lástima,<n>pero aún tengo mi tercera victoria<n>consecutiva en el Tenno Sho por delante."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "The race means a lot to me, and if I'm to accomplish this feat, I must \nfocus on recovery above all."
+      "text": "Esa carrera significa mucho para mí, y si<n>quiero lograr esta hazaña, debo<n>enfocarme en recuperarme ante todo."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "This does mean I'll be unable to train with you, but I'm sure the other \nteam members will fill my place."
+      "text": "Esto significa que no podré entrenar<n>contigo, pero estoy segura de que<n>las demás llenarán mi lugar."
     },
     {
       "name": "Rice Shower",
-      "text": "Y-yeah…"
+      "text": "S-sí..."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Our trainer, your teammates—myself included—we all have high \nhopes for you."
+      "text": "Nuestro entrenador, tus compañeras—<n>incluyéndome a mí—todas<n>tenemos grandes esperanzas en ti."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "So please, show us a race that will light a fire in our hearts."
+      "text": "Así que, por favor, muéstranos una carrera<n>que encienda el fuego en nuestros<n>corazones."
     },
     {
       "name": "Rice Shower",
-      "text": "Okay… I'll run with everything I have."
+      "text": "Está bien... Correré con todo lo que tengo."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Hehe. Anyhow, I'll be fine with just Trainer here. Rice, you'd best get \nback to your training."
+      "text": "Jeje. En fin, estaré bien solo con el<n>Entrenador. Rice, será mejor que<n>vuelvas a tu entrenamiento."
     },
     {
       "name": "Rice Shower",
-      "text": "Yeah. I'll check in on you again later."
+      "text": "Sí. Vendré a verte más tarde."
     },
     {
-      "text": "She heads out with determination written on her face. Perhaps she \nwas roused by McQueen's words."
+      "name": "Monólogo",
+      "text": "Sale con determinación escrita en<n>su rostro. Quizás se sintió<n>animada por las palabras de McQueen."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "…Seeing her now, I sense a mysterious power. One that will pull us all \nforward."
+      "text": "...Al verla ahora, siento un poder<n>misterioso. Uno que nos impulsará<n>a todos hacia adelante."
     },
     {
-      "text": "She's right. Having such a hard worker in their midst has done \nwonders for the rest of the team.",
+      "name": "Monólogo",
+      "text": "Tiene razón. Tener a alguien tan<n>trabajadora en medio ha hecho<n>maravillas por el resto del equipo.",
       "choice_data_list": [
-        "Guess that means you can focus on getting \nbetter."
+        "Supongo que así puedes concentrarte en mejorar."
       ]
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Indeed. I'll need to work just as hard as her if I'm to make a full \nrecovery."
+      "text": "Ciertamente. Tendré que esforzarme<n>tanto como ella si quiero<n>recuperarme por completo."
     },
     {
-      "text": "Filling the hole left by McQueen's absence brings the entire team \ntogether in helping Rice train."
+      "name": "Monólogo",
+      "text": "Llenar el vacío dejado por la ausencia de<n>McQueen une a todo el equipo<n>para ayudar a Rice a entrenar."
     },
     {
-      "name": "Upbeat Umamusume",
-      "text": "<i>Pant, pant…</i>"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Just keep following, just keep following…"
-    },
-    {
-      "name": "Caring Umamusume",
-      "text": "Okay Rice, start following me now."
+      "name": "Uma Musume Animada",
+      "text": "<i>Jadeo, jadeo...</i>"
     },
     {
       "name": "Rice Shower",
-      "text": "Got it. Follow the leader."
+      "text": "Solo sigue, solo sigue..."
     },
     {
-      "name": "Upbeat Umamusume",
-      "text": "<i>Pant, pant…</i> Rice is so good at this."
+      "name": "Uma Musume Cariñosa",
+      "text": "Bueno Rice, ahora sígueme a mí."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Entendido. Seguiré a la líder."
+    },
+    {
+      "name": "Uma Musume Animada",
+      "text": "<i>Jadeo, jadeo...</i> Rice es tan buena en esto."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Hard at work, I see. Looks like her training is a boon to the entire \nteam."
+      "text": "Veo que trabajan duro. Parece que su<n>entrenamiento es una bendición<n>para todo el equipo."
     },
     {
       "name": "Gold Ship",
-      "text": "You can say that again. My legs are shaking like a newborn goat's."
+      "text": "Y que lo digas. Mis piernas tiemblan<n>como las de una cabrita recién<n>nacida."
     },
     {
       "name": "Gold Ship",
-      "text": "Hey, now that you can't exercise, you better watch that weight. I saw \nthose extra helpings of dessert yesterday."
+      "text": "Oye, ahora que no puedes ejercitarte,<n>mejor vigila tu peso. Vi esas<n>porciones extra de postre ayer."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Y-you saw that?! Blame the pudding for being excessively flavorsome! \nI've done nothing wrong!"
+      "text": "¡¿Tú viste eso?! ¡Culpable al pudín por<n>ser excesivamente sabroso!<n>¡Yo no hice nada malo!"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Desserts aside, Rice is really coming into form."
+      "text": "Postres aparte, Rice realmente está<n>mejorando."
     },
     {
       "name": "Gold Ship",
-      "text": "Thanks to you and the others. Y'all being there pushes her to work \nharder."
+      "text": "Gracias a ti y a las demás. Que estén<n>allí la impulsa a esforzarse más."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "If anything, seeing her work so hard gives <i>me</i> strength."
+      "text": "Más bien, verla trabajar tan duro me da<n><i>a mí</i> fuerzas."
     },
     {
       "name": "Gold Ship",
-      "text": "Hehe. Welp, I'm gonna go run my heart out. Go lie down or \nsomething!"
+      "text": "Jeje. Bueno, yo iré a correr con el<n>corazón en la mano. ¡Ve a acostarte<n>o algo!"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Hey! …Ugh, she's just rubbing it in because she knows how much I'm \nitching to run again."
+      "text": "¡Oye! ...Uf, solo lo dice porque<n>sabe cuánto ansío volver a correr."
     },
     {
-      "text": "With everyone working together, training proceeds smoothly."
+      "name": "Monólogo",
+      "text": "Con todos trabajando juntos, el<n>entrenamiento avanza sin problemas."
     },
     {
       "name": "Rice Shower",
-      "text": "Ooh… I'm so nervous…"
+      "text": "Ooh... Estoy tan nerviosa..."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Heh. Learn to revel in this feeling, nerves and all."
+      "text": "Je. Aprende a disfrutar de este<n>sentimiento, nervios y todo."
     },
     {
-      "name": "Caring Umamusume",
-      "text": "Rice, you've got this! Just think of all the training we did!"
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Y-yeah… I worked hard for this. I'm going to have fun, and…"
+      "name": "Uma Musume Cariñosa",
+      "text": "¡Rice, tú puedes! ¡Solo piensa en todo<n>el entrenamiento que hicimos!"
     },
     {
       "name": "Rice Shower",
-      "text": "And get my win against Mihono Bourbon."
+      "text": "S-sí... Me esforcé mucho para esto. Voy<n>a divertirme, y..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Y conseguir mi victoria contra Mihono Bourbon."
     },
     {
       "name": "Gold Ship",
-      "text": "Yeah! That's what I like to hear!"
+      "text": "¡Sí! ¡Eso me gusta oír!"
     },
     {
-      "name": "Sincere Umamusume",
-      "text": "We'll be cheering for you!"
+      "name": "Uma Musume Sincera",
+      "text": "¡Te estaremos animando!"
     },
     {
       "name": "Rice Shower",
-      "text": "Thanks. Okay, well, here goes!",
+      "text": "Gracias. Bueno, ¡aquí voy!",
       "choice_data_list": [
-        "Get behind Bourbon, and don't let her get \naway!",
-        "Get behind Bourbon, and don't let her get \naway!"
+        "¡Pégate a Bourbon y no la dejes escapar!",
+        "¡Pégate a Bourbon y no la dejes escapar!"
       ]
     },
     {
       "name": "Rice Shower",
-      "text": "Got it! Follow the leader!"
+      "text": "¡Entendido! ¡Seguiré a la líder!"
     },
     {
-      "text": "I want to win. She last spoke those words to me back on the ferris \nwheel."
+      "name": "Monólogo",
+      "text": "Quiero ganar. Esas palabras me las<n>dijo por última vez en la<n>noria."
     },
     {
-      "text": "Now it's time for her to prove how much she really wants it."
+      "name": "Monólogo",
+      "text": "Ahora es momento de que demuestre<n>cuánto lo desea realmente."
     }
   ]
 }
