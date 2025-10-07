@@ -1,96 +1,97 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "—After the race, on my way back to the\nwaiting room, I ran into a reporter."
-        },
-        {
-            "name": "Otonashi Etsuko",
-            "text": "Thank you for your time. I'm\nOtonashi Etsuko from Twinkle Monthly."
-        },
-        {
-            "name": "Otonashi Etsuko",
-            "text": " … I watched the race. First of all, thank\nyou very much for your hard work."
-        },
-        {
-            "name": "Otonashi Etsuko",
-            "text": "Although she did not take first\nplace, I think her unique personality\ncame out in this race."
-        },
-        {
-            "name": "Otonashi Etsuko",
-            "text": "… Well, trainer. How are you planning\nto adjust next race?",
-            "choice_data_list": [
-                "I will seriously reflect on this result.",
-                "We'll keep pushing forward!"
-            ]
-        },
-        {
-            "name": "Otonashi Etsuko",
-            "text": "I see, I see…"
-        },
-        {
-            "name": "Otonashi Etsuko",
-            "text": "Adjusts training based on result. Personally\ncontacts chairwoman about deficiencies,\ndoing everything for the sake of Uma Musume…"
-        },
-        {
-            "name": "Otonashi Etsuko",
-            "text": "While accepting the results, they are\nlooking to the future. That's the kind of\ntrainer you'd expect at Tracen!"
-        },
-        {
-            "text": "Looks like I handled that well!"
-        },
-        {
-            "text": "I told <chrname> after the race that the\ninterview had been a success and thanked her\nfor her efforts."
-        },
-        {
-            "name": "Otonashi Etsuko",
-            "text": "Yes, I see. I am a little disappointed\nbecause I was expecting to hear something\nmore concrete after this result."
-        },
-        {
-            "name": "Otonashi Etsuko",
-            "text": "Thank you for your comment.\n… I hope you win the next race!"
-        },
-        {
-            "text": "This time, it didn't seem like I was able to\nsway the reporters much…"
-        },
-        {
-            "text": "… Setting aside the coverage, I went to\ncheer up <chrname> after the race.",
-            "color_text_info_list": [
-                "<chrname>"
-            ]
-        },
-        {
-            "name": "Otonashi Etsuko",
-            "text": "…"
-        },
-        {
-            "name": "Otonashi Etsuko",
-            "text": "How… Glorious! You're the quintessential\nTracen Academy trainer!"
-        },
-        {
-            "name": "Otonashi Etsuko",
-            "text": "Only believe in and develop her unique\ntraits! So you mean, yes!? I understand! All\nthat's missing is strategy and experience!"
-        },
-        {
-            "name": "Otonashi Etsuko",
-            "text": "Perhaps you're planning an all-nighter to\ncome up with a hundred strategies!? Of\ncourse! It's to make sure your Uma wins!"
-        },
-        {
-            "name": "Otonashi Etsuko",
-            "text": "Haa… What a passionate relationship of\ntrust…! I'm deeply impressed…!"
-        },
-        {
-            "name": "Otonashi Etsuko",
-            "text": "Our next feature is set! Quick… I need to\nhurry and talk to the editor-in-chief…!"
-        },
-        {
-            "text": "… Looks like things were a little\nembellished, but at least it\nwas taken well (?)."
-        },
-        {
-            "text": "I tended to <chrname> after the race and\ntold her about the interview.",
-            "color_text_info_list": [
-                "<chrname>"
-            ]
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "De regreso a la sala de espera<n>después de la\ncarrera, una reportera me acorrala."
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "Gracias por tomarse el tiempo de<n>hablar conmigo.\nSoy Etsuko Otonashi de<n><i>Twinkle Monthly</i>."
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "Tuve el placer de ver la carrera<n>en persona,\ny solo quería felicitarte<n>por todo tu arduo\ntrabajo."
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "Es una lástima que no quedara primera,<n>pero tu\naprendiz realmente mostró<n>su personalidad única\nal máximo con su<n>desempeño."
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "Entonces, Entrenadora, ¿cómo planea<n>enderezar el\nbarco?",
+      "choice_data_list": [
+        "Estamos considerando cuidadosamente nuestra\nsituación actual.",
+        "¡Solo vamos a seguir adelante!"
+      ]
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "Qué interesante..."
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "Régimen más flexible, consultar con el<n>director\nsobre lo que le falta a la<n>academia... Todo por el\nbien de la<n>Umamusume."
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "Aceptando tus resultados con<n>tranquilidad mientras\nmiras hacia tu<n>próxima carrera—¡justo lo que\nesperaba de una<n>entrenadora de Tracen!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Parece que manejé eso bastante bien!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Luego le cuento a <chrname> sobre<n>la\nentrevista exitosa y felicito su<n>arduo trabajo."
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "¿Es así? Considerando estos resultados,<n>esperaba\nescuchar planes un poco<n>más concretos..."
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "Gracias por su declaración. Espero<n>que encuentren\nmás éxito en la<n>próxima carrera!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que no pude dar una buena<n>impresión a la\nreportera..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Decido no mencionar la entrevista<n>cuando voy a\nfelicitar a<n><chrname> por su arduo<trabajo."
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "..."
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "¡S-simplemente increíble! Debería<n>haber esperado\nnada menos de una<n>entrenadora de la Academia\nTracen!"
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "¿Quieres decir que solo necesitas<n>sacar sus\nhabilidades innatas, ¿verdad?!<n>¡Por supuesto! Todo lo\nque necesita es un<n>poco de estrategia y\nexperiencia!"
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "¿Y ahora planeas renunciar al sueño y<n>idear\ninnumerables estratagemas<n>astutas? ¡Naturalmente!\nCualquier cosa por<n>ayudar a tu aprendiz a\nclaimar la victoria!"
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "La profunda confianza que se<n>tienen—¡es\nsimplemente abrumadora!"
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "¡El próximo artículo especial está<n>decidido! ¡Tengo\nque hablar con el<n>editor en jefe de inmediato!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Se siente como si mi declaración se<n>hubiera tomado\nfuera de proporción, pero<n>supongo que manejé la\nentrevista lo<n>suficientemente bien."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Luego voy y le cuento a <chrname><n>sobre\nla entrevista y felicito su arduo<n>trabajo."
+    }
+  ]
 }

@@ -1,178 +1,205 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "―Umanest continental frontier \"Demon King's Castle\"."
-        },
-        {
-            "text": "Oh no, I ate, I ate! I knew I'd eat seed \nrice risotto with my future on the line!"
-        },
-        {
-            "text": "But what to do with ……? Elle and Glass or…… If only another horse \ngirl didn't come, this Golshi-sama would have been under my \nheaven for a long time…"
-        },
-        {
-            "text": "Let's take care of this before they come barging into this \ncastle. Hey, General A and General B!"
-        },
-        {
-            "text": "You wanted to see me, demon king?"
-        },
-        {
-            "text": "It's not \"Demon King. Make no mistake. \nIt's \"King Horse\", \"King Horse\"!"
-        },
-        {
-            "text": "Hey, you two, go and butt-fuck fighter Elle and healer Glass and \nsend them back to their own worlds!"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "I see. The Demon King…… No, the Uma King is Golshi-senpai! \nIf that is the source of the trouble, we must \ndefeat her as soon as possible."
-        },
-        {
-            "name": "???",
-            "text": "Oh-ho-ho! Not so fast, you two!"
-        },
-        {
-            "text": "You will be defeated right here. You will be defeated right here \nby King Rayjo, the first-rate general in the service of King Uma."
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "King…… Ray Joe! Is this a demon tribe \ncreated on the model of King-chan?"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Evil Ray Joe…… If you leave something \nalone, it's going to ruin itself. ……"
-        },
-        {
-            "text": "That's rude! I will not be ruined!"
-        },
-        {
-            "text": "Besides, there's another Demon General. Here, \nlook at this. Look at this skyline: ……"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "―! Suddenly there is a dark cloud over…… Is this ……?"
-        },
-        {
-            "text": "Oh-ho! Some demons can control the weather at will. The other \ndemon general is this kid!"
-        },
-        {
-            "text": "Hmmm… I am the dark druid \"Bloody Sky\". I am not Seiun, so please \ndon't make a mistake～."
-        },
-        {
-            "text": "Come on, fresh-blood-colored clouds! Dye the world in bright red!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Nah, something about the sky color \njust got creepy deuce! Oh, wow. ……"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Watch out, Elle! Let's see what tricks you come up with next: ……!"
-        },
-        {
-            "text": "Hmmm, hmmm, hmmm, hmmm… ……!"
-        },
-        {
-            "text": "I mean, this is all I can do! Or just change the color of the sky."
-        },
-        {
-            "text": "But you see, I've got a lot of atmosphere. So, King, you're on!"
-        },
-        {
-            "text": "Yeah, yeah, another throw in the middle! Always always always \nyou…… …… Kohon, then I'll take it from here."
-        },
-        {
-            "text": "Come on, Elle. I invite you to a wonderful world. The magic of \nillusion \"King's World\"!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Que ……? Where is this place?"
-        },
-        {
-            "text": "As you can see, we are in the ballroom of the royal castle. \nDaughters compete with each other not in combat, but in dance."
-        },
-        {
-            "text": "Will you dance with me, Miss Elle? \nCan't you at least social dance?"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Na, na, na, what desu, that! Elle's specialty dance is ……"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Here, Deuce! Mambo, mambo! Cha-cha-cha-cha! Woo!"
-        },
-        {
-            "text": "What's that? You are so peculiar, you are like a snow monkey. \nYou're always blabbing about 'the world's strongest' and such, \nbut now you're moving ……"
-        },
-        {
-            "text": "The world sucks!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Geez! World Saiitai!"
-        },
-        {
-            "text": "That's right. You are the world saithe. Say, Say, Say: ……"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Say no more, say no more.…… It's no good…… anymore.…… Elle can't \nget…… back on her feet. ……"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Pull yourself together, Elle! Don't let \nthe illusions get the better of you!"
-        },
-        {
-            "text": "Ho ho ho! If Elle can't fight, the only thing left is the healer. \nWe'll never be able to compete."
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "…… so…… Unlike Elle, I cannot fight \nwith my fists. At best I can ……"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "The only thing to do is to clear this \ndark cloud - to clear it away."
-        },
-        {
-            "text": "What ……! This magical surge of energy is ……! Ms. Glass, what on \nearth are you doing?"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "If evil covers the world, I, as a healer, will exorcise its \ndarkness. Sacred - with the thunder of angels."
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Elle is not the only one who has grown tougher \nin the face of repeated battles!"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Clean judgment, descend! Healer #9 Top Magic \"Angel Thunder\" ！！！！！"
-        },
-        {
-            "text": "Oh, ah ……? Both the fresh blood-colored clouds and the ballroom \nfizzled out in an instant and ……!"
-        },
-        {
-            "text": "Pull back! Skye, retreat!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Glass…… awesome desu ……! You have \nfinally mastered \"Angel Thunder\"!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "With that magic, even the King of Uma will be swept away!"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Is it \"The Phantom Blessed …… looking down from above the clouds, \nwith its innate lightning ……"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Que ……? What's up Death, Glass?"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "No, it's nothing. Let's go. To the decisive battlefield, beneath \nthe castle of King Uma!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monologue",
+      "text": "En una región remota del continente de<n>Umanest se alza el castillo del<n>señor<n>demonio."
+    },
+    {
+      "name": "Uma Lord Golshi",
+      "text": "¡Vaya, eso estuvo delicioso! ¡No hay nada<n>como arruinar una civilización<n>entera por un<n>tazón de risotto!"
+    },
+    {
+      "name": "Uma Lord Golshi",
+      "text": "En fin... ¿qué voy a hacer con El y Grass?<n>Habría sido imparable si<n>no hubieran<n>aparecido."
+    },
+    {
+      "name": "Uma Lord Golshi",
+      "text": "Mejor me preparo antes de que irrumpan<n>en mi castillo. ¡Oye, General<n>Demoníaco A!<n>¡General Demoníaco B!"
+    },
+    {
+      "name": "Demon Generals",
+      "text": "¿Cómo podemos servirle, su demoníaca<n>señoría?"
+    },
+    {
+      "name": "Uma Lord Golshi",
+      "text": "Es <i>Gold</i> Ship, ¿entendido? ¡La Uma Lord<n>Gold Ship!"
+    },
+    {
+      "name": "Uma Lord Golshi",
+      "text": "¡Ahora escuchen—vayan y denle una<n>buena paliza a esa pendenciera El y a<n>su clérigo Grass y<n>envíenlas de vuelta!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ya veo. La \"señoría\" que ese oficial<n>demoníaco reverenciaba tanto...<n>¡en realidad es<n>Gold Ship! Si ella es la causa de estos<n>recientes problemas,<n>necesitamos eliminarla lo antes posible."
+    },
+    {
+      "name": "???",
+      "text": "¡Ohohoho! ¡No voy a permitir que <i>eso</i><n>suceda!"
+    },
+    {
+      "name": "Madam King",
+      "text": "Vas a encontrar tu fin aquí y ahora.<n>Como la general de primera clase<n>del Uma Lord,<n>¡yo, Madam King, me aseguraré de<n>ello!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¿Madam... King? Supongo que un demonio<n>modelado tras King Halo."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Una King malvada... mejor ignóremosla.<n>Probablemente caerá en la ruina por<n>sí sola."
+    },
+    {
+      "name": "Madam King",
+      "text": "¡Qué grosería! ¡No caeré en la ruina de<n>ninguna manera!"
+    },
+    {
+      "name": "Madam King",
+      "text": "Debería advertirles, sin embargo, que no<n>soy la única general aquí para frustrar<n>sus pequeños planes.<n>Miren al cielo."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "<i>¡Gasp!</i> ¿De dónde salieron esas nubes<n>oscuras de repente?"
+    },
+    {
+      "name": "Madam King",
+      "text": "¡Ohohoho! Algunos demonios pueden<n>manipular el clima a su gusto.<n>¡Resulta que mi<n>compañera general es uno de esos<n>demonios!"
+    },
+    {
+      "name": "Bloody Sky",
+      "text": "Jejeje. Soy la druida oscura, Bloody Sky.<n>La Sky pacífica que aman está a punto<n>de<n>desaparecer para siempre!"
+    },
+    {
+      "name": "Bloody Sky",
+      "text": "¡Vengan, nubes carmesí! ¡Bañen este<n>mundo en rojo!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡E-el cielo empieza a verse oscuro y<n>sombrío! Oh no..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Ten cuidado, El! No sabemos qué tipo de<n>magia lanzarán después!"
+    },
+    {
+      "name": "Bloody Sky",
+      "text": "¡Jejejejeje!"
+    },
+    {
+      "name": "Bloody Sky",
+      "text": "Digo, cambiar el color del cielo es<n>prácticamente el límite de mis<n>habilidades."
+    },
+    {
+      "name": "Bloody Sky",
+      "text": "Pero aún así, realmente ambientó, ¿eh?<n>¡Tú puedes encargarte del resto, King!"
+    },
+    {
+      "name": "Madam King",
+      "text": "¿Eh? ¿Pasando la pelota antes de hacer el<n>trabajo de nuevo? ¿Por qué siempre...<n>Oh...<n>Ejem... ¿Dónde estábamos?"
+    },
+    {
+      "name": "Madam King",
+      "text": "Ahora entonces, El. Permíteme darte la<n>bienvenida a mi maravilloso reino de<n>ilusión y magia.<n>¡Bienvenida a El Mundo de King!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Eh? ¿Dónde estoy?"
+    },
+    {
+      "name": "Madam King",
+      "text": "Como seguramente puedes ver, este es el<n>salón de baile del palacio real de mi<n>señoría. En esta arena,<n>nosotras las damas competiremos no por<n>combate, sino<n>a través del baile."
+    },
+    {
+      "name": "Madam King",
+      "text": "Entonces, ¿te gustaría bailar, El? Seguro<n>conoces un baile social amistoso o dos,<n>¿verdad?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡¿U-un qué?! O-sea, conozco <i>un</i> baile,<n>seguro..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Mira esto! ¡Mambo! ¡A-cha-cha-cha!<n>¡Cha-cha-cha-cha! ¡Woo!"
+    },
+    {
+      "name": "Madam King",
+      "text": "¿Qué? Tus movimientos son terribles. Es<n>como ver a un mono de nieve intentar<n>bailar. Tienes el<n>descaro de alardear constantemente de<n>ser la más fuerte del<n>mundo, pero por lo que se ve..."
+    },
+    {
+      "name": "Madam King",
+      "text": "¡Eres la bailarina más <i>débil</i> del mundo!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Gahhhh! ¡¿La más... débil?!"
+    },
+    {
+      "name": "Madam King",
+      "text": "Sí. Eres la absolutamente más débil del<n>mundo. La más débil, la más débil,<n>la más débil..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "La más débil, la más débil... Me rindo... No<n>puedo recuperarme de esto..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Reacciona, El! ¡No dejes que esas<n>ilusiones te influyan!"
+    },
+    {
+      "name": "Madam King",
+      "text": "¡Ohohoho! Con El fuera, ahora solo<n>tenemos que lidiar con la clérigo. No<n>tendrás ninguna<n>oportunidad contra nosotras."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sí... Tienes razón. A diferencia de El, no<n>puedo pelear con mis puños. Todo lo que<n>puedo hacer es..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Aclarar este cielo nublado."
+    },
+    {
+      "name": "Madam King",
+      "text": "¡¿Eh?! ¿De dónde vino esa oleada de<n>poder mágico? Grass, ¿qué estás<n>tramando?!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Si la magia envuelve el mundo en<n>oscuridad, entonces como clérigo, es mi<n>deber<n>despejar esa oscuridad—con la luz<n>atronadora de los cielos."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡El no fue la única que se fortaleció<n>mientras luchábamos batalla tras<n>batalla para llegar aquí!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Juicio divino, desciende y limpia este<n>mundo! Hechizo de clérigo de noveno<n>nivel—¡Rayo<n>Angélico!"
+    },
+    {
+      "name": "Madam King",
+      "text": "¡¿Ehhh?! ¡Las nubes teñidas de sangre y mi<n>salón de baile desaparecieron en un<n>abrir y cerrar de<n>ojos!"
+    },
+    {
+      "name": "Madam King",
+      "text": "¡Retirada, Sky! ¡Tenemos que retirarnos!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Grass... ¡Eso fue increíble! ¡Finalmente<n>dominaste el Rayo Angélico!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Con ese hechizo en tu arsenal, derrotar<n>a la Uma Lord será pan comido!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "\"La fantasía encarnada... contemplará<n>este mundo desde los cielos. Con poder<n>innato y atronador...\""
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Qué? ¿Pasa algo?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "No, no es nada. Ahora entonces, ¿nos<n>vamos? ¡Tenemos un castillo que<n>asediar!"
+    }
+  ]
 }

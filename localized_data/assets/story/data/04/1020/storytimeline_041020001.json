@@ -1,264 +1,266 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "I came to Tracen Academy a few \ndays ago in order to train Uma Musume."
-        },
-        {
-            "text": "I also received a personal trainer's office, \nand as such I was looking over some files there…"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Fuee… This place is so nice… No one's here and it's quiet. \nPlus there's a soft and fluffy sofa there all for me!"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "So I'll be helping myself to…"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Wait, who are you!? \nWhy are you here!?",
-            "choice_data_list": [
-                "I could ask you the same!",
-                "I could ask you the same!"
-            ]
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "This empty Trainer's Office is \nSei-chan's precious naptime spot. Wait…"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "That badge… could it be… are you a rookie trainer? \nAnd if so, did they tell you you could use this office?",
-            "choice_data_list": [
-                "That's correct, but…"
-            ]
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Ah, okay. So that's what happened, got it!"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Well anyways, I'll be borrowing that sofa over there. \nToday's class was real rough, and now I'm just so sleepy."
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "So, I'll be taking a nap."
-        },
-        {
-            "text": "Without waiting for my response, this Uma Musume… \nSeiun Sky, lied down on the sofa and drifted off to sleep.",
-            "choice_data_list": [
-                "She must be really tired…",
-                "She must be really tired…"
-            ]
-        },
-        {
-            "text": "At any rate, I covered her with a blanket that I \nhad in my office so she wouldn't catch a cold."
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Fuwa… That was a great nap…"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Wait, who are you!?",
-            "choice_data_list": [
-                "I told you I'm a trainer!"
-            ]
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Ahaha, I was just kidding. \nThanks for the blanket though."
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Also… Trainer-san? \nWhy didn't you try and wake me up?"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "I was obviously taking advantage of this \nempty room so that I could slack off in school. \nThen, I just fell asleep in front of you."
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "I can't believe I'm saying this but, \nit'd be normal for you to kick me out saying \nsomething like \"stop messing around,\" don't you think?"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "So then why did you bring me a blanket \nand watch over me as I slept?",
-            "choice_data_list": [
-                "I figured you were exhausted…"
-            ]
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Ohoho… I get it now."
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Yup, that's gotta be it! \nWell, thanks for today♪"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "I'll be sure to return this favor… \nif I remember it that is."
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "So see ya later… \nand let's meet again, okay♪"
-        },
-        {
-            "text": "As she said this, Seiun Sky left the room."
-        },
-        {
-            "text": "And a few days after that happened…"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Ah, there you are! Oi, you're the rookie trainer \nfrom before! This is bad, really really bad!",
-            "choice_data_list": [
-                "What's got you so panicked?",
-                "What's got you so panicked?"
-            ]
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Things are really bad, so I'll tell you \nthe details later, just answer me this!!"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Are the two organs on either side of your \nchest that you use to breathe called lungs!?",
-            "choice_data_list": [
-                "Yes…?"
-            ]
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "You're too quiet! Stop answering with a \nquestion and use your outside voice instead!!"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Now say it one more time!",
-            "choice_data_list": [
-                "Yes!"
-            ]
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Now that's better! \nJust one more time now!",
-            "choice_data_list": [
-                "Yes!!"
-            ]
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "So as I was saying Sensei, \nthis person is my trainer!",
-            "choice_data_list": [
-                "Yes!!!"
-            ]
-        },
-        {
-            "name": "Teacher A",
-            "text": "I was wondering why you suddenly ran off… \nbut I see, so they're your trainer."
-        },
-        {
-            "name": "Teacher A",
-            "text": "So, Trainer-san. We are immensely appreciative of you \nfor choosing Sky-san… We leave her in your care!!",
-            "choice_data_list": [
-                "…Yes?"
-            ]
-        },
-        {
-            "name": "Teacher A",
-            "text": "Now then, Seiun Sky-san. \nI would like to congratulate you on finding a trainer."
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Ahaha, thank you, thank you. \nAlrighty then Sensei, see you later."
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "And just like that!"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "You and I are now trainer \nand Uma Musume. Come on, clap!",
-            "choice_data_list": [
-                "You set me up!"
-            ]
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Oi, how scandalous. As they say, \nsimply a means to an end, ya know?"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "More importantly, I was kinda hoping you'd interpret what I did \nas me \"doing this only because I wanted to work with you no \nmatter what\" or something like that.",
-            "choice_data_list": [
-                "But why me of all people…?",
-                "But why me of all people…?"
-            ]
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Eh? Do I really have to spell it out for you?"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "It was love at first sight! Kyaha ☆"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "I'm just messing with you… \nBut the truth is the way you acted the other \nday in the Trainer's Office really surprised me."
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Plus this isn't a half bad arrangement \nfor a rookie trainer like yourself!",
-            "choice_data_list": [
-                "You think so…?",
-                "You think so…?"
-            ]
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Yup. After all… training me is super easy!"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "I'm not looking for you to be super into your \ntraining or for you to make a special training \nregime or anything annoying like that."
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Everything should be done in moderation after all. \nThat's the philosophy Sei-chan lives her life by anyways."
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "So… let's just relax and take \nthis slow and comfortably… Oh!",
-            "choice_data_list": [
-                "O-Oh…?"
-            ]
-        },
-        {
-            "text": "I got swept along and \nended up signing on as her trainer…!"
-        },
-        {
-            "text": "And on the first day of training with Seiun Sky…"
-        },
-        {
-            "text": "(Bzz, bzz)"
-        },
-        {
-            "text": "I received a text, so I opened \nmy phone to see the message, but…"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "\"Trainer-san, I've got big news! I just saw a huge school of \nfish in the floodplains! It would be a disgrace for a master \nfisher such as myself to miss out on this!\""
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "\"P.S. I won't be at today's training. \nFrom Seiun Sky ☆\""
-        },
-        {
-            "text": "She didn't even show \nup on the first day of training…"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Han pasado unos días desde que llegué a<n>la Academia Tracen como entrenador."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ahora que tengo mi propia oficina, puedo<n>revisar estos materiales en pa—"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Uf, dulce paraíso! Nadie viene nunca<n>aquí, y además es tranquilo. ¡Sin<n>mencionar que hay un sofá cómodo en el<n>que puedo hundirme de inmediato!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Y ahora, sin más preámbulos..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Un momento! ¡¿Qué haces tú aquí?!",
+      "choice_data_list": [
+        "¡Eso digo yo!",
+        "¡Eso digo yo!"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oye, esta oficina vacía es mi preciado<n>lugar para la siesta de la tarde—¿hm?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Esa insignia que tienes... ¿Eres un<n>nuevo entrenador? Déjame adivinar,<n>te dijeron que esta habitación era<n>toda tuya?",
+      "choice_data_list": [
+        "Correcto en ambas cuentas..."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Bien, bien, ahora entiendo. Así es como<n>está. Entendííído."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "De todos modos, voy a pedir prestado<n>este sofá, ¿vale? Las clases de hoy<n>fueron muy duras, así que necesito<n>recuperar algunas Z's."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Y con eso, te deseo buenas noches."
+    },
+    {
+      "text": "Sin siquiera esperar una respuesta,<n>Seiun Sky se deja caer en el sofá y<n>comienza a roncar.",
+      "choice_data_list": [
+        "(Supongo que tuvo un día muy duro...)",
+        "(Supongo que tuvo un día muy duro...)"
+      ]
+    },
+    {
+      "text": "Decido cubrirla con una de las mantas<n>adicionales de la oficina para que no<n>se resfríe."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "<i>Bostezo...</i> Otra gran siesta..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Espera, ¡¿quién eres tú?!",
+      "choice_data_list": [
+        "¡Soy un entrenador, ¿recuerdas?!"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Jaja, solo era una broma. Gracias por la<n>manta, por cierto."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Aún así... Solo por curiosidad, ¿por qué<n>no me despertaste?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Básicamente confesé que había estado<n>usando esta habitación vacía para<n>hacer novillos. Encima de eso, me puse<n>a dormir justo frente a ti."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Es un poco raro viniendo de mí, pero<n>estoy bastante segura de que una<n>persona normal me habría echado<n>inmediatamente, ¿sabes?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Entonces, ¿por qué me dejaste dormir<n>tanto tiempo, llegando incluso a<n>cubrirme con una manta?",
+      "choice_data_list": [
+        "Pensé que quizás estabas agotada..."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Hm-hm... Ya veo."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Así es como es! Bueno, ¡gracias por la<n>siesta! ♪"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Definitivamente te devolveré el favor...<n>Eso es, cuando me acuerde."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "De todos modos, adiós. Nos vemos. ♪"
+    },
+    {
+      "text": "Seiun Sky se despide y promptly<n>abandona la oficina."
+    },
+    {
+      "text": "Unos días después..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Ah! ¡Ahí estás! Oye tú, el nuevo<n>entrenador de la vez pasada. Tenemos<n>un problema—¡es una emergencia!",
+      "choice_data_list": [
+        "¿Qué te tiene tan alterada?",
+        "¿Qué te tiene tan alterada?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Dije que estamos en crisis, así que<n>olvida los detalles y contéstame esto!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Pregunta de sí o no: ¿es correcto<n>suponer que la capacidad pulmonar<n>afecta la resistencia de un corredor?",
+      "choice_data_list": [
+        "...¿Sí?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Dilo como si lo sintieras! No busco un<n>tal vez, ¡necesito una respuesta<n>audaz y segura!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Bien, ¡desde el principio!",
+      "choice_data_list": [
+        "¡Sí!"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Le estás agarrando el espíritu! Una<n>vez más: ¿sí o no?",
+      "choice_data_list": [
+        "¡Sí!"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "En fin, Profe, esta es la persona que<n>pedí que fuera mi nuevo entrenador.<n>¿Verdad?",
+      "choice_data_list": [
+        "¡Sí!"
+      ]
+    },
+    {
+      "name": "Profesora A",
+      "text": "Me preguntaba por qué saliste<n>corriendo así, pero ahora entiendo.<n>Muy bien."
+    },
+    {
+      "name": "Profesora A",
+      "text": "Bueno entonces, Entrenador, te deseo<n>suerte con Sky. En serio, buena suerte<n>entrenándola. ¡Les estaré animando a<n>ambas!",
+      "choice_data_list": [
+        "¿S-sí, señorita?"
+      ]
+    },
+    {
+      "name": "Profesora A",
+      "text": "Y Seiun Sky, felicitaciones por<n>encontrarte un entrenador."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Jaja, lo agradezco. Entonces te veo<n>luego, Profe."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Y ahí lo tienes!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Tú y yo ahora estamos oficialmente<n>unidas como aprendiz y entrenadora.<n>¡Que suenen los aplausos!<n>Clap, clap, clap.",
+      "choice_data_list": [
+        "¡¿Me tendiste una trampa?!"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Whoa ahora, fácil con la difamación. Te<n>hice una pregunta de sí o no—<i>tú</i><n>dijiste que sí."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Más importante, ¡sabía que eras la<n>destinada a ser mi entrenadora! ¿No<n>aceptarás mis sentimientos?",
+      "choice_data_list": [
+        "Pero ¿por qué elegirme a mí?",
+        "Pero ¿por qué elegirme a mí?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Eh? ¿Realmente me vas a hacer decirlo?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡Fue <i>amor a primera vista!</i> ¡Jeje! ☆"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...Para que conste, eso fue una broma.<n>Pero todo ese asunto en tu oficina la<n>vez pasada realmente me dejó una<n>buena impresión."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Tambiéén, ¡estoy segura de que no es<n>un mal trato para un entrenador tan<n>novato como tú!",
+      "choice_data_list": [
+        "¿Tú crees?",
+        "¿Tú crees?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Por supuesto. Después de todo, ¡ser mi<n>entrenador es fácil!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Mira, ¡nunca pediré entrenamiento<n>extra! ¡Ninguna rutina<n>personalizada! Si es más trabajo para<n>ti, termina siendo más trabajo para mí."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Hecho es mejor que perfecto, ¿verdad? Es<n>mi filosofía personal que cada atajo<n>tomado es progreso extra a largo plazo."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Lo que digo es que te relajes y te tomes las cosas con calma.<n>Vayamos tranquilos y trabajemos\ntanto como<n>queramos. ¡Woo!",
+      "choice_data_list": [
+        "¿W-woo?"
+      ]
+    },
+    {
+      "text": "¡...Me engañó por completo para aceptar este<n>trato!"
+    },
+    {
+      "text": "Hoy es mi primer día de entrenamiento con Seiun<n>Sky."
+    },
+    {
+      "text": "<i>¡Bzzz, bzzz!</i>"
+    },
+    {
+      "text": "Al notar que mi teléfono suena, reviso mis<n>notificaciones y encuentro..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "\"¡Entrenador, tengo noticias importantes! ¡Hay un<n>cardumen entero junto a la orilla\ndel río!<n>¡No puedo llamarme pescadora si pierdo esta oportunidad!\""
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "\"P.D. Hoy me salto el entrenamiento.<n>\nAtentamente,<n>\nSeiun Sky ☆\""
+    },
+    {
+      "text": "De verdad nos dejó plantados en nuestro primer día de<n>entrenamiento..."
+    }
+  ]
 }

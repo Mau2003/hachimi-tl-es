@@ -2,145 +2,150 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Fans",
-      "text": "Wooooo!"
+      "name": "Aficionados",
+      "text": "¡Wooooo!"
     },
     {
-      "name": "Fans",
-      "text": "TIC-KE-ZO! TIC-KE-ZO!"
+      "name": "Aficionados",
+      "text": "¡TIC-KE-ZO! ¡TIC-KE-ZO!"
     },
     {
-      "text": "The ecstatic chants of the new champion's name ring out toward the \ntrack."
+      "name": "Monólogo",
+      "text": "Los eufóricos cánticos del nombre de la nueva<n>campeona resuenan hacia la\npista."
     },
     {
       "name": "Gold Ship",
-      "text": "Hah! You hearing this?"
+      "text": "¡Ja! ¿Estás oyendo esto?"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "I expected no less. That was an outstanding Derby!"
+      "text": "No esperaba menos. ¡Ese fue un<n>Derby excepcional!"
     },
     {
       "name": "Winning Ticket",
-      "text": "Aaah… The Derby! I won the… I won the…"
+      "text": "Aaah... ¡El Derby! Gané el... Gané el..."
     },
     {
       "name": "Narita Taishin",
-      "text": "Geez, you beat me fair and square."
+      "text": "Vaya, me ganaste limpiamente."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "It was the only possible path. Yours was truly the road to victory."
+      "text": "Era el único camino posible. El tuyo fue<n>verdaderamente el camino a la victoria."
     },
     {
       "name": "Winning Ticket",
-      "text": "Taishin! Hayahide!"
+      "text": "¡Taishin! ¡Hayahide!"
     },
     {
       "name": "Winning Ticket",
-      "text": "That was the best race… The best Derby ever! And it was ours!"
+      "text": "Esa fue la mejor carrera... ¡El mejor Derby<n>de todos! ¡Y fue nuestro!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "But it won't go this way next time. In the Kikuka Sho, it'll be my turn \nto win."
+      "text": "Pero no será así la próxima vez. En el<n>Kikuka Sho, será mi turno\nde ganar."
     },
     {
       "name": "Narita Taishin",
-      "text": "Yeah, our goal isn't just the Derby. There's still plenty of races to go."
+      "text": "Sí, nuestra meta no es solo el Derby. Todavía<n>quedan muchas carreras por delante."
     },
     {
       "name": "Winning Ticket",
-      "text": "Totally! And we'll run them all together! Let's go for it! To what's \nbeyond the Derby!"
+      "text": "¡Totalmente! ¡Y las correremos todas juntas!<n>¡Vamos por ello! ¡A lo que hay\nmás allá del<n>Derby!"
     },
     {
-      "text": "The cheers for Winning Ticket from outside can be heard through the \nwhole length of the runners' tunnel."
+      "name": "Monólogo",
+      "text": "Los vítores por Winning Ticket desde<n>afuera pueden oírse a lo largo de\ntodo el<n>túnel de corredoras."
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "That's quite a chant. You can hear it across the entire racetrack."
+      "text": "Ese es un cántico bastante fuerte. Puede oírse<n>en toda la pista de carreras."
     },
     {
-      "text": "I think Tickezo's enthusiasm may have spread to all her fans."
+      "name": "<username>",
+      "text": "Creo que el entusiasmo de Tickezo puede<n>haberse contagiado a todos sus fans."
     },
     {
       "name": "Winning Ticket",
-      "text": "Ah, Traineeer!",
+      "text": "¡Ah, Entrenador!",
       "choice_data_list": [
-        "Congratulations, Tickezo!"
+        "¡Felicitaciones, Tickezo!"
       ]
     },
     {
       "name": "Winning Ticket",
-      "text": "I did it! I won the Derby! It feels like I'm dreaming!"
+      "text": "¡Lo hice! ¡Gané el Derby! ¡Se siente como si estuviera<n>soñando!"
     },
     {
       "name": "Tazuna Hayakawa",
-      "text": "Congratulations, Winning Ticket. Hehe, are you sure you didn't want \nto take in more of that applause?"
+      "text": "Felicitaciones, Winning Ticket. Jeje,<n>¿estás segura de que no querías\ndisfrutar<n>más de esos aplausos?"
     },
     {
       "name": "Winning Ticket",
-      "text": "Hehe, sure, but there's interviews to do."
+      "text": "Jeje, claro, pero hay entrevistas que hacer."
     },
     {
       "name": "Winning Ticket",
-      "text": "And, you know, this won't be the last I hear it. There's gonna be tons \nof chances in the future!"
+      "text": "Y, sabes, esta no será la última vez que lo<n>oiga. ¡Va a haber montones de oportunidades<n>en el futuro!"
     },
     {
-      "text": "Yes. She fulfilled her dream of conquering the Derby, but this isn't \nthe end."
+      "name": "Monólogo",
+      "text": "Sí. Cumplió su sueño de conquistar<n>el Derby, pero este no es\nel final."
     },
     {
-      "text": "Because her story will go on.",
+      "name": "Monólogo",
+      "text": "Porque su historia continuará.",
       "choice_data_list": [
-        "Make them chant your name again and again!"
+        "¡Haz que canten tu nombre una y otra vez!"
       ]
     },
     {
       "name": "Winning Ticket",
-      "text": "Yeah! Let's make it happen together!"
+      "text": "¡Sí! ¡Hagamos que suceda juntos!"
     },
     {
       "name": "Winning Ticket",
-      "text": "All right, Ms. Tazuna! Let's get to those interviews! I gotta make up \nfor missing the prerace press conference!"
+      "text": "Muy bien, ¡Srta. Tazuna! ¡Vamos a esas<n>entrevistas! Tengo que compensar\npor perderme la<n>rueda de prensa previa!"
     },
     {
-      "name": "Interviewer",
-      "text": "And now, the racer who won the Derby in spectacular fashion—please \nwelcome Winning Ticket!"
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "Heehee, thank you very much!"
-    },
-    {
-      "name": "Interviewer",
-      "text": "First, hearing the audience chant your name after the race—how did it \nmake you feel?"
+      "name": "Entrevistador",
+      "text": "Y ahora, la corredora que ganó el Derby de<n>forma espectacular—demos la\nbienvenida<n>a Winning Ticket!"
     },
     {
       "name": "Winning Ticket",
-      "text": "I gave my all to make this the best Derby ever, so I was really happy \nthat everyone watching picked up on it!"
+      "text": "Jiiji, ¡muchas gracias!"
     },
     {
-      "name": "Interviewer",
-      "text": "You raced against your BNW rivals today. What was the key to your \nvictory?"
-    },
-    {
-      "name": "Winning Ticket",
-      "text": "I trained a whole lot, for sure, but what really motivated me…"
+      "name": "Entrevistador",
+      "text": "Primero, escuchar al público corear tu<n>nombre después de la carrera—¿cómo te\nhizo<n>sentir?"
     },
     {
       "name": "Winning Ticket",
-      "text": "Was my dream of winning the Derby, and the promise I made with my \nbestie rivals. That, and…"
+      "text": "¡Di todo de mí para hacer este el mejor Derby<n>de todos, así que estaba\nmuy feliz de que todos<n>los espectadores lo captaran!"
+    },
+    {
+      "name": "Entrevistador",
+      "text": "Hoy corriste contra tus rivales BNW.<n>¿Cuál fue la clave de tu\nvictoria?"
     },
     {
       "name": "Winning Ticket",
-      "text": "I really wanted to make my trainer a Derby trainer for being so \nsupportive all this time!"
-    },
-    {
-      "name": "Interviewer",
-      "text": "One last thing. A message from the Derby winner!"
+      "text": "Entrené muchísimo, claro, pero lo que<n>realmente me motivó..."
     },
     {
       "name": "Winning Ticket",
-      "text": "My name's Winning Ticket, and I'm the winner of the greatest Derby \never!"
+      "text": "Fue mi sueño de ganar el Derby, y<n>la promesa que hice con mis\nmejores rivales.<n>Eso, y..."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Realmente quería hacer a mi entrenador un<n>entrenador de Derby por ser tan\nsupportivo todo este<n>tiempo!"
+    },
+    {
+      "name": "Entrevistador",
+      "text": "Una última cosa. ¡Un mensaje de la<n>ganadora del Derby!"
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡Mi nombre es Winning Ticket, y soy la<n>ganadora del mejor Derby\nde todos!"
     }
   ]
 }

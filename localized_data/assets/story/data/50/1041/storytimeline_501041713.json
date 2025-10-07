@@ -1,94 +1,98 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Ha-ha-ha! I never thought I'd get injured, \nbeing so brilliantly cautious!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "It seems it's possible that my Bakushin is \nnot in tune with the physical laws of Earth, \nor something to that effect!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Hear me, Earth!! Next time, you shall follow \nmy lead!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "…Alright! Now that's done! Let us resume \ntraining straightaway!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Don't you worry, I'm an honors student! \nEvery single cell in my body is filled to the \nbrim with excellence, so I'll heal in no time \nflat!",
-            "choice_data_list": [
-                "No, you can't.",
-                "No, you can't.",
-                "……Okay, let's do it!"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Don't you worry, I'm an honors student! \nEvery single cell in my body is filled to the \nbrim with excellence, so I'll heal in no time \nflat!",
-            "choice_data_list": [
-                "No, you can't.",
-                "No, you can't.",
-                "……Okay, let's do it!"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "No!? This is completely unreasonable! \nEven though the Earth and I are both \nwilling to go through with it!?",
-            "choice_data_list": [
-                "You're the unreasonable one here!",
-                "You're the unreasonable one here!"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Eeeehhhh～～!?"
-        },
-        {
-            "text": "……She seemed pretty dissatisfied, but \nsomehow I managed to talk her into taking \na break."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Affirmative! \nThen without further delay, let's get going!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Bakushinbakushiiiiin!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Aaoouuww――!?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "H, huh―!? Why in the world is it hurting \nmore than before!?"
-        },
-        {
-            "text": "Her injury was exacerbated by her \nfrolicking about, and she was forced…… \nto focus on healing up."
-        },
-        {
-            "text": "Sakura Bakushin O is running briskly \ndown the training track."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Whoo-hoo-hoo! That's perfect! The earth \nseems to have reflected well on the matter."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "This is the power of honors leadership! It's \nresilience!",
-            "choice_data_list": [
-                "Yup, honors student… awesome…!"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Ahem. Ahem!"
-        },
-        {
-            "text": "As per her mysterious theory, she showed \namazing recovery… and was able to \nresume her training right away!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Ja ja! ¡Pensar que alguien tan<n>brillante y<n>prudente como yo se lesionaría!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Parece que la física de la Tierra<n>no pudo<n>mantenerse al día con mi<n>Bakushin!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Vamos, Tierra! ¡Intenta mantenerte<n>al día la<n>próxima vez!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "...¡Bien! Con esto, ¡es perfecto!<n>¡Apuremos y<n>reanudemos el entrenamiento!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡No te preocupes! ¡Soy una genio!<n>Cada una de<n>mis células es extraordinaria.<n>¡Incluso si me lesiono,<n>me recuperaré rápidamente!",
+      "choice_data_list": [
+        "No, esa es una mala idea.",
+        "No, esa es una mala idea.",
+        "...Bien, intentémoslo."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡No te preocupes! ¡Soy una genio!<n>Cada una de<n>mis células es extraordinaria.<n>¡Incluso si me lesiono,<n>me recuperaré rápidamente!",
+      "choice_data_list": [
+        "No, esa es una mala idea.",
+        "No, esa es una mala idea.",
+        "...Bien, intentémoslo."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡¿Una mala idea?! ¡Por favor, sé<n>razonable!<n>¡Estoy ansiosa por ir! ¡Y también<n>la tierra bajo mis pies!",
+      "choice_data_list": [
+        "¡Tú eres la que no es razonable!",
+        "¡Tú eres la que no es razonable!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡¿Quééé?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...A pesar de estar visiblemente<n>insatisfecha, de<n>alguna manera logro convencerla<n>de que descanse."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Sí! ¡Es hora de ir!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Bakushin, BAKUSHIIIN!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡¿AY?!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿E-eh?! ¡Por alguna razón, el dolor<n>está<n>empeorando?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sus movimientos enérgicos hacen que<n>su lesión<n>empeore... Le pido que se<n>concentre en recuperarse."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sakura Bakushin O corre<n>enérgicamente<n>hacia la pista de entrenamiento."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Je je! Perfecto, ¿verdad? Parece que<n>la Tierra<n>también mostró algo de<n>arrepentimiento."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Este es el poder de liderazgo de una<n>estudiante<n>modelo! ¡El poder de recuperación!",
+      "choice_data_list": [
+        "¡Las estudiantes modelo son<n>realmente asombrosas!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Je je!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Justo como predijo su teoría<n>misteriosa,<n>experimentó una recuperación<n>milagrosa... y se volvió<n>capaz de reanudar su<n>entrenamiento de inmediato!"
+    }
+  ]
 }

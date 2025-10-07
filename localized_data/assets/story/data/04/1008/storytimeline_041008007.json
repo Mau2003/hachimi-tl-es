@@ -1,230 +1,232 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "―We're finally entering the summer training \ncamp! Vodka is breathing heavily through her \nnose on the beach spread out before her."
-        },
-        {
-            "name": "Vodka",
-            "text": "Let's fight, Senpai! Sprinting on the beach, \nelectrifying two Harons. I'll show you my speed!"
-        },
-        {
-            "name": "Senior Horsegirl",
-            "text": "Hmph, who are you talking to? I'm already said \nto be a GI-rank. Do you think you can beat me?"
-        },
-        {
-            "name": "Vodka",
-            "text": "――I can win. If it's the Explode Running Method \nI came up with! Alright! Let's go, Trainer!"
-        },
-        {
-            "name": "Vodka",
-            "text": "Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!"
-        },
-        {
-            "name": "Vodka",
-            "text": "Whoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, \nwhoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, \nwhoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, \nwhoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, \nwhoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, \nwhoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, \nwhoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, \nwhoa, whoa, whoa, whoa, whoa, whoa, whoa, whoa, \nwhoa, whoa, whoa"
-        },
-        {
-            "name": "Vodka",
-            "text": "Dammitttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt!"
-        },
-        {
-            "name": "Senior Horsegirl",
-            "text": "Heheh, you're nothing more than this, after all♪"
-        },
-        {
-            "name": "Vodka",
-            "text": "Damn it! Just you wait. By the time the training \ncamp is over, the beach champion will be…"
-        },
-        {
-            "name": "Vodka",
-            "text": "Wait, no, no, no! This pattern's \nhappening again! I knew it! A guy \nwho's just lame is totally lame!",
-            "choice_data_list": [
-                "Vodka, I need to talk to you…"
-            ]
-        },
-        {
-            "name": "Vodka",
-            "text": "Hm? What's this? A trainer? There's \nno need to comfort me…",
-            "choice_data_list": [
-                "Let's not kick the sand backwards."
-            ]
-        },
-        {
-            "name": "Vodka",
-            "text": "Huh? With the sand behind me…? Oh, \nyou mean the Explode Run? But if I \ndon't kick hard, I'll lose power…"
-        },
-        {
-            "name": "Vodka",
-            "text": "…! I see!! This is the beach. If I kick \nback, my strength will escape. So……what \nshould I do……? Think. Think……"
-        },
-        {
-            "name": "Vodka",
-            "text": "There had to be a way to run. Mom was fast, even \nif it was Dirt. I should be able to run faster \nthan just cool."
-        },
-        {
-            "name": "Vodka",
-            "text": "…! I see. Could this be… Um! Senpai! Could you \nchallenge me again?"
-        },
-        {
-            "name": "Senior Horsegirl",
-            "text": "Wh-What? What's this speed?! It's completely \ndifferent from before…!!"
-        },
-        {
-            "name": "Vodka",
-            "text": "That's right, this is the run! Lower your center \nof gravity and drive your legs into the sand!"
-        },
-        {
-            "name": "Vodka",
-            "text": "It's called the 'Slash Running Method'! Don't \nlet your power escape. Grip the horseshoes with \nall your might and move forward!"
-        },
-        {
-            "name": "Senior Horsegirl",
-            "text": "I-I lost… I was so young…"
-        },
-        {
-            "name": "Vodka",
-            "text": "All right! Thanks for lending me your breasts, \nSenpai! Your power is real!"
-        },
-        {
-            "name": "Vodka",
-            "text": "Let's pick up where we left off with the Twinkle \nSeries. It'll be a piece of cake for you, \nSenpai. If you shine, it'll be a good landmark."
-        },
-        {
-            "name": "Senior Horsegirl",
-            "text": "Vodka, you…"
-        },
-        {
-            "text": "The training camp is almost \nover. After the festival…"
-        },
-        {
-            "name": "Vodka",
-            "text": "Man, festivals are nice every once \nin a while. Ah, I sold it!",
-            "choice_data_list": [
-                "You didn't eat it?"
-            ]
-        },
-        {
-            "name": "Vodka",
-            "text": "Yeah, I think I did. The old man at the yakisoba \nshop asked me to help out at night."
-        },
-        {
-            "name": "Vodka",
-            "text": "I'm really good at making yakisoba. I used to \nhelp out at my dad's stall."
-        },
-        {
-            "name": "Vodka",
-            "text": "Who cares about that? Thanks for everything \nduring the training camp."
-        },
-        {
-            "name": "Vodka",
-            "text": "I think I figured it out during that beach race. \nThe coolness I'm aiming for. In other words, I \njust need both, right?",
-            "choice_data_list": [
-                "Both?"
-            ]
-        },
-        {
-            "name": "Vodka",
-            "text": "That's right! Dad's coolness and Mom's strength. \nWe just need to double it."
-        },
-        {
-            "name": "Vodka",
-            "text": "I'll definitely win with a cool run! \nThen I'll say something cool! That \nway, I'll always be a sore loser."
-        },
-        {
-            "name": "Vodka",
-            "text": "Of course, it's not as easy as it sounds. But \ndon't worry. I can do it!",
-            "choice_data_list": [
-                "You sure are confident.",
-                "You sure are confident."
-            ]
-        },
-        {
-            "name": "Vodka",
-            "text": "That's right. This baseless confidence is also \nmy father's. Come to think of it, Mom said \nsomething about it."
-        },
-        {
-            "name": "Vodka",
-            "text": "I don't get what you're talking about, Dad. That \nwas when we started dating, but…"
-        },
-        {
-            "name": "Vodka",
-            "text": "Dad told Mom during the Summer Festival."
-        },
-        {
-            "name": "Vodka",
-            "text": "At the time, Mom was an open-mouthed \ngirl on active duty. And Dad was just \na cold-hearted older brother."
-        },
-        {
-            "name": "Vodka",
-            "text": "But what do you think was the reason why Mom \nconfessed to you?",
-            "choice_data_list": [
-                "Have you fallen for Hart?"
-            ]
-        },
-        {
-            "name": "Vodka",
-            "text": "I don't think that's quite right. Dad's \nbeen playing a lot of games. Like 'I'll \ndefinitely become big!' and 'I'll be the \nhappiest person in the world!'"
-        },
-        {
-            "name": "Vodka",
-            "text": "”She's an interesting person to say such \nbaseless things out loud.” And that's how she \nended up going along with it. She pushed herself \nforward with the momentum.",
-            "choice_data_list": [
-                "This parent, this child.",
-                "This parent and this child."
-            ]
-        },
-        {
-            "name": "Vodka",
-            "text": "Yeah. My heart is yours, Dad. \nAnd this body is mine."
-        },
-        {
-            "name": "Vodka",
-            "text": "I'll definitely… become one with both of them! A \ngood girl who can challenge and accomplish \nanything reckless."
-        },
-        {
-            "name": "Vodka",
-            "text": "I'm way stronger than I was before I joined you!",
-            "choice_data_list": [
-                "Have you overcome your weaknesses?",
-                "Did you overcome your weaknesses?"
-            ]
-        },
-        {
-            "name": "Vodka",
-            "text": "Of course! I was scared just from hearing about \nlove, but now I'm probably……"
-        },
-        {
-            "name": "Vodka",
-            "text": "(Come to think of it, after Mom and Dad started \ngoing out, they said they rode home together.)"
-        },
-        {
-            "name": "Vodka",
-            "text": "(A two-seater, huh? If I end up like that with a \ntrainer on the way home from the training camp…)"
-        },
-        {
-            "name": "Vodka",
-            "text": "Huh? A trainer driving? Me? Behind you? I see… \nWell then, excuse me…"
-        },
-        {
-            "name": "Vodka",
-            "text": "Wha…? You're holding my waist?! Then…"
-        },
-        {
-            "name": "Vodka",
-            "text": "Boo!!",
-            "choice_data_list": [
-                "What's wrong? Are you okay?",
-                "What's wrong? Are you okay?!"
-            ]
-        },
-        {
-            "name": "Vodka",
-            "text": "No, n-n-no. This is, um…"
-        },
-        {
-            "name": "Vodka",
-            "text": "Chocolate banana! I just ate too \nmany chocolate bananas at the store \nat night! It's true, dammit!!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "¡El campamento de verano ha comenzado<n>oficialmente! Vodka observa los\ngrandes<n>paisajes y respira profundamente el olor del mar."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Vamos, corramos! ¿Qué tal un sprint de<n>dos furlongs en la arena?\n¿Crees que<n>puedes igualar mi velocidad?"
+    },
+    {
+      "name": "Estudiante Mayor",
+      "text": "Hmph, ¿quién crees que soy? ¡Ya soy<n>material G1! ¿Realmente crees\nque<n>ganarías contra mí?"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Absolutamente—con mi nueva técnica de<n>\"carrera explosiva\"! ¡Mírame,\nEntrenadora!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Raaargh! Mira cómo despego de la<n>arena! Cielos, ¡esta técnica es\ntan genial! ¡Estoy<n>justo detrás de mi oponente!"
+    },
+    {
+      "name": "Vodka",
+      "text": "E-espera un segundo. ¿Por qué la brecha se<n>hace más grande de\nnuevo? ¡Rayos, no puedo<n>cerrarla! Las G1s están en otra liga<n>completamente..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Daaammit! ¡¿Por qué?! ¡Juraría que tenía<n>mucho más poder!"
+    },
+    {
+      "name": "Estudiante Mayor",
+      "text": "Je, parece que esto es lo mejor que puedes<n>hacer. ♪"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Esto apesta! Nah, mejor mírame. Para<n>cuando termine este campamento,\nseré<n>la reina de esta playa..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Oh, rayos, lo estoy haciendo de nuevo.<n>Intentar demostrar lo genial\nque soy me está<n>saliendo totalmente mal!",
+      "choice_data_list": [
+        "Oye Vodka, ¿tienes un segundo?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Hm, ¿qué pasa, Entrenadora? Si estás aquí<n>para intentar hacerme\nsentir mejor—",
+      "choice_data_list": [
+        "Intenta no patear la arena desde atrás."
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Eh? Patear la arena... Oh, ¿te refieres a mi<n>técnica de \"carrera\nexplosiva\"? Pero si<n>no pateo, entonces no puedo obtener suficiente poder..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Espera! ¡Creo que lo entendí! La arena es<n>diferente—si sigo\npateándola, en realidad<n>voy a <i>perder</i> poder en lugar de ganarlo. En ese caso,<n>debería... Hm..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Seguro hay una mejor manera de correr. Mamá<n>era súper rápida incluso\nen tierra, pero nunca<n>fue llamativa. Apuesto a que puedo intentar<n>hacer\nalgo así también."
+    },
+    {
+      "name": "Vodka",
+      "text": "Creo que lo tengo... Um, ¡disculpa! ¿Podemos<n>repetirlo? ¿Por favor?"
+    },
+    {
+      "name": "Estudiante Mayor",
+      "text": "¿Q-qué demonios?! ¡¿Qué pasa con tu velocidad?!<n>¡Eres como una\npersona completamente diferente ahora!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Esto es! Solo necesitaba bajar mi centro de<n>gravedad y clavar mis pies\nen el<n>suelo!"
+    },
+    {
+      "name": "Vodka",
+      "text": "¡De ahora en adelante, esta técnica se<n>llamará mi \"estilo cortante\"!\nSolo necesito<n>concentrar todo mi poder en mis pies y<n>¡empujar\nhacia adelante! Raaargh!"
+    },
+    {
+      "name": "Estudiante Mayor",
+      "text": "Yo... perdí... contra esta completa amateur..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Lo logré! ...Oye, gracias por correr contra<n>mí. Eres una oponente\nrealmente dura."
+    },
+    {
+      "name": "Vodka",
+      "text": "Encontremosnos de nuevo... en la Serie<n>Twinkle. Con tus habilidades,\nestoy segura<n>de que llegarás fácilmente a la cima."
+    },
+    {
+      "name": "Estudiante Mayor",
+      "text": "Vodka, tú..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Llega el final del campamento de verano, y<n>con él llegó el festival de\nverano. Después de<n>las festividades, encuentro a Vodka de nuevo."
+    },
+    {
+      "name": "Vodka",
+      "text": "Cielos, los festivales son geniales. ¡También vendí montones!",
+      "choice_data_list": [
+        "¿Querrás decir que <i>comiste</i> montones, seguramente?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Comí un poco, pero también estuve súper<n>ocupada sirviendo comida.\nEstaba ayudando<n>en uno de los puestos de yakisoba."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Sabías que en realidad soy súper buena<n>haciendo fideos? Cuando era\npequeña, el<n>amigo de mi papá me dejaba ayudar en su<n>puesto\ncallejero."
+    },
+    {
+      "name": "Vodka",
+      "text": "Pero ese no es el punto, ¿verdad?<n>Entrenadora, gracias por\nayudarme durante<n>el campamento de verano."
+    },
+    {
+      "name": "Vodka",
+      "text": "Y en cuanto al tipo de genialidad que<n>quiero alcanzar—creo que\nfinalmente hizo clic.<n>Esa carrera en la playa me hizo ver que está<n>bien\ntener ambos tipos.",
+      "choice_data_list": [
+        "¿Ambos tipos?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Sí! Puedo tomar prestada tanto la genialidad<n>de mi papá como la\nfuerza de mi mamá."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Seré la corredora más genial que nunca<n>pierde! Y cuando gane, ¡será\ncuando soltaré<n>mis frases ingeniosas! Así, nunca pareceré<n>una\nperdedora resentida."
+    },
+    {
+      "name": "Vodka",
+      "text": "Por supuesto, es más fácil decirlo que<n>hacerlo, pero ¡puedo con\ntodo!",
+      "choice_data_list": [
+        "¡Ese es el espíritu!",
+        "¡Ese es el espíritu!"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Sí. Tengo esta confianza sin base de mi<n>papá. Oh, hablando de eso, mi\nmamá<n>me contó una historia sobre él."
+    },
+    {
+      "name": "Vodka",
+      "text": "Era sobre su confianza temeraria. Antes<n>de que empezaran a salir..."
+    },
+    {
+      "name": "Vodka",
+      "text": "Papá le confesó su amor a mamá durante el<n>festival de verano."
+    },
+    {
+      "name": "Vodka",
+      "text": "En ese entonces, mamá era una estrella<n>emergente y tan ocupada como\ncualquier<n>corredora podría estarlo. Papá, por otro<n>lado, era un tipo\ncomún y corriente."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Quieres adivinar por qué mi mamá aceptó<n>salir con él?",
+      "choice_data_list": [
+        "¿Amor a primera vista?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Algo así, pero no exactamente. Al parecer,<n>papá empezó a decir todo\ntipo de cosas. Como<n>que se volvería famoso, o que la haría<n>la\npersona más feliz del mundo."
+    },
+    {
+      "name": "Vodka",
+      "text": "Mi mamá pensó que era gracioso cómo se<n>alababa <i>tanto</i>. Básicamente<n>la hizo decir que sí pura determinación.",
+      "choice_data_list": [
+        "De tal palo, tal astilla, ¿eh?",
+        "De tal palo, tal astilla, ¿eh?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "Sí. Tengo el corazón de mi papá, y<n>las piernas de mi mamá."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Eso es justo lo que soy! Y con ambas<n>fortalezas combinadas, ningún\ndesafío es<n>demasiado grande para mí."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Porque me he vuelto muchísimo más fuerte<n>desde que te conocí!",
+      "choice_data_list": [
+        "¿También superaste tu debilidad?",
+        "¿También superaste tu debilidad?"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Por supuesto! Solía ponerme nerviosa solo<n>al oír historias de amor,\npero ahora estoy<n>totalmente bien... creo..."
+    },
+    {
+      "name": "Vodka",
+      "text": "(Ahora que lo pienso... mamá dijo que después<n>de aceptar salir con\npapá, regresaron<n>a casa juntos en su motocicleta.)"
+    },
+    {
+      "name": "Vodka",
+      "text": "(Montar en tandem, huh... ¿Y si regresara<n>al dormitorio con la\nEntrenadora así?)"
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Eh, me darás un aventón? ¿Subir?<n>B-bueno... No me importa hacerlo..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¿Q-qué? ¿Agarrarme de tu cintura? S-si tú<n>lo dices..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Bfgldskdf!",
+      "choice_data_list": [
+        "¿Qué pasa? ¡¿Estás bien?!",
+        "¿Qué pasa? ¡¿Estás bien?!"
+      ]
+    },
+    {
+      "name": "Vodka",
+      "text": "S-sí, e-estoy totalmente bien. E-esto es porque,<n>um..."
+    },
+    {
+      "name": "Vodka",
+      "text": "¡Plátanos con chocolate! ¡Eso es! Comí demasiados<n>plátanos con\nchocolate antes! ¡Créeme,<n>maldecita!"
+    }
+  ]
 }

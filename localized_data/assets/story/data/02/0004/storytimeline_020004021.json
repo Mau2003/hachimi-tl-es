@@ -2,318 +2,341 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Biwa Hayahide",
-      "text": "You've found yourself a good team—your wins are proof of that. I'll \nbe watching what you do next."
+      "text": "Cuando conocí a Narita Brian por primera vez, varios<n>meses antes de su asombrosa victoria en la<n>Satsuki Sho..."
     },
     {
-      "name": "Narita Brian",
-      "text": "When will my appetite be sated? You're the one person who knows \nthat best."
-    },
-    {
-      "name": "Narita Brian",
-      "text": "It'll be the day I beat you."
-    },
-    {
-      "text": "Back when I first met Narita Brian, several months before her \nastonishing win in the Satsuki Sho…"
-    },
-    {
-      "text": "Her running was, in a word, restrained.",
-      "choice_data_list": [
-        "<I>Huff… Puff…</I>",
-        "Gaaah… This's haaard!"
-      ]
-    },
-    {
-      "name": "Gold Ship",
-      "text": "Good run, you two! Keep it up! You'll be ready for the next race in no \ntime!"
-    },
-    {
-      "name": "Trainer",
-      "text": "You should be running too…"
-    },
-    {
-      "name": "Trainer",
-      "text": "You should be running too…"
-    },
-    {
-      "name": "Gold Ship",
-      "text": "There's some things you can't get just by running! What that is \nexactly… I couldn't tell you!"
-    },
-    {
-      "text": "Uhh, okay then. Anyway, that's enough training for today. Good job, \neveryone."
-    },
-    {
-      "name": "Gold Ship",
-      "text": "Whoo-hoo! Time to eat! Later, alligator!"
+      "text": "Su forma de correr era, en una palabra, \"contenida\"."
     },
     {
       "name": "Rice Shower",
-      "text": "Thank you, Trainer."
+      "text": "<i>Uff... Puf...</i>"
     },
     {
       "name": "Winning Ticket",
-      "text": "See you tomorrow… Huh? Who's that over there?"
+      "text": "¡Gaaah... ¡Esto es difíciil!"
     },
     {
-      "text": "I follow Winning Ticket's gaze and find a racer training tirelessly."
+      "name": "Gold Ship",
+      "text": "¡Buen entrenamiento, chicas! ¡Sigan así! ¡Estarán<n>listas para la próxima carrera en un santiamén!",
+      "choice_data_list": [
+        "Tú también deberías estar corriendo...",
+        "Tú también deberías estar corriendo..."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Hay cosas que no se consiguen solo<n>corriendo! Lo que es exactamente...<n>¡Te lo diré cuando se me ocurra!"
+    },
+    {
+      "name": "<username>",
+      "text": "Ehhh, está bien. En fin, suficiente<n>entrenamiento por hoy. Buen trabajo, chicas."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Juuhuu! ¡Hora de comer! ¡Nos vemos, cocodrilo!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Gracias, Entrenador."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "Hasta mañana... ¿Eh? Por allá, ¿es<n>ella...?"
+    },
+    {
+      "text": "Sigo la mirada de Winning Ticket y encuentro a una<n>corredora entrenando incansablemente."
     },
     {
       "name": "???",
-      "text": "<I>Exhale…</I>"
+      "text": "<i>Exhalar...</i>"
     },
     {
       "name": "???",
-      "text": "Hup!",
-      "choice_data_list": [
-        "She moves flexibly, with powerful strides."
-      ]
+      "text": "¡Hup!"
     },
     {
-      "text": "It's not bad running at first glance, but something isn't quite in sync."
+      "text": "Se mueve con flexibilidad, con zancadas poderosas."
     },
     {
-      "name": "Winning Ticket",
-      "text": "That's Hayahide's little sister, Narita Brian."
-    },
-    {
-      "name": "Trainer",
-      "text": "Hayahide's sister?"
+      "text": "No es mala forma de correr a primera vista, pero<n>algo no termina de encajar."
     },
     {
       "name": "Winning Ticket",
-      "text": "Yeah, but why's she out here training alone? Shouldn't she be with \nthe rest of her team?"
-    },
-    {
-      "text": "Her team… So she's debuted already?"
+      "text": "Esa es la hermanita de Hayahide, Narita Brian.",
+      "choice_data_list": [
+        "¿La hermana de Hayahide?"
+      ]
     },
     {
       "name": "Winning Ticket",
-      "text": "Yeah, she's run five races, I think, with two wins so far. It's not bad, \nbut I get the feeling it could be better."
+      "text": "Sí, pero ¿por qué está entrenando<n>sola? ¿No debería estar con el resto de<n>su equipo?"
+    },
+    {
+      "name": "<username>",
+      "text": "Su equipo... ¿Entonces ya debutó?"
     },
     {
       "name": "Winning Ticket",
-      "text": "After all, Hayahide told me she's a huge heap of talent."
+      "text": "Sí, ha corrido en cinco carreras, creo, con dos<n>victorias hasta ahora. No está mal, pero<n>tengo la sensación de que podría mejorar."
     },
     {
-      "text": "A heap of talent, huh?"
+      "name": "Winning Ticket",
+      "text": "Después de todo, Hayahide habla maravillas de Brian—<n>¡dice que es un montón de talento!"
     },
     {
-      "text": "The analytical Biwa Hayahide, a heap of talent in her own right, \nwould praise her sister that much?"
+      "name": "<username>",
+      "text": "¿Un montón de talento, eh?"
     },
     {
-      "text": "Hearing that alone would've peaked my interest, but who would've \nthought I'd see Narita Brian run here of all places?"
+      "text": "¿La analítica Biwa Hayahide, todo un talento<n>en sí misma, elogiaría tanto a su<n>hermana?"
     },
     {
-      "name": "Skilled Trainer A",
-      "text": "There's some major athletes at these tryouts. I've really gotta think \nthings through before scouting anyone."
+      "text": "Escuchar eso solo ya habría despertado mi<n>interés, pero entonces... Poco después,<n>me encuentro con Narita Brian de nuevo en un lugar inesperado."
     },
     {
-      "name": "Skilled Trainer B",
-      "text": "Hm? Narita Brian's up next, but didn't she debut already?"
+      "name": "Entrenador Experto A",
+      "text": "Hay atletas importantes en estas<n>pruebas. Realmente debo pensarlo<n>bien antes de reclutar a alguien."
     },
     {
-      "name": "Skilled Trainer A",
-      "text": "I heard she dropped out of her team. Things weren't working out with \nher trainer."
+      "name": "Entrenador Experto B",
+      "text": "¿Hm? Narita Brian es la siguiente, pero ¿no<n>debutó ya?"
     },
     {
-      "text": "Tryouts are where racers who don't have a team yet try to be scouted \nby a trainer."
+      "name": "Entrenador Experto A",
+      "text": "Escuché que dejó su equipo.<n>Las cosas no funcionaban con su<n>entrenador."
     },
     {
-      "text": "(So she quit her team and was training on her own. But why?)"
+      "text": "Las pruebas son donde las corredoras que aún no<n>tienen equipo intentan ser reclutadas por un<n>entrenador."
     },
     {
-      "text": "(So she quit her team and was training on her own. But why?)"
+      "name": "<username>",
+      "text": "(Ahora entiendo por qué entrenaba por su<n>cuenta, pero ¿qué pasó con su entrenador<n>que la hizo renunciar?)"
     },
     {
-      "text": "While I'm still pondering that, Brian's race begins."
+      "name": "<username>",
+      "text": "(Ahora entiendo por qué entrenaba por su<n>cuenta, pero ¿qué pasó con su entrenador<n>que la hizo renunciar?)"
     },
     {
-      "name": "Caster",
-      "text": "And Narita Brian finishes five lengths behind first! Did she lose all her \nenergy before the last sprint?!"
+      "text": "Mientras aún reflexiono sobre eso, la carrera de<n>Brian comienza."
     },
     {
-      "name": "Caster",
-      "text": "With two Twinkle Series wins under her belt, it's hard to believe her \nresult today!"
+      "name": "Locutor",
+      "text": "¡Y Narita Brian termina cinco cuerpos<n>detrás del primero! ¡¿Perdió toda su energía<n>antes del sprint final?!"
     },
     {
-      "name": "Skilled Trainer A",
-      "text": "That was a great run! I'd love to have you on our team!"
+      "name": "Locutor",
+      "text": "¡Con dos victorias en Twinkle Series en su<n>haber, es difícil creer su resultado de hoy!"
     },
     {
-      "name": "Umamusume A",
-      "text": "Y-yes! I'd love to join!"
+      "name": "Entrenador Experto A",
+      "text": "¡Fue una gran carrera! ¡Me encantaría tenerte<n>en nuestro equipo!"
     },
     {
-      "text": "Seeing the other trainers speak with the racers who just finished, I \nfollow suit and approach one of the runners."
+      "name": "Uma Musume A",
+      "text": "¡S-sí! ¡Me encantaría unirme!"
     },
     {
-      "text": "Seeing the other trainers speak with the racers who just finished, I \nfollow suit and approach one of the runners."
+      "text": "Al ver a los otros entrenadores acercándose a<n>Uma Musume, me dirijo hacia la corredora que<n>despertó mi interés."
     },
     {
-      "name": "Narita Brian",
-      "text": "…"
-    },
-    {
-      "text": "Hey, Narita Brian. Mind if we talk?"
-    },
-    {
-      "name": "Narita Brian",
-      "text": "I don't think I did anything today worthy of being scouted."
-    },
-    {
-      "text": "She's right—she didn't display much of a performance and lost speed \nnear the end."
-    },
-    {
-      "text": "Yet I can't help but think that uneasy running form of hers is to blame. \nAnd I have to know if I'm right."
-    },
-    {
-      "text": "Your flexibility and momentum were good. Perfect form as well."
-    },
-    {
-      "text": "Your flexibility and momentum were good. Perfect form as well."
-    },
-    {
-      "text": "But I think those two things aren't fitting together well somehow."
+      "text": "Al ver a los otros entrenadores acercándose a<n>Uma Musume, me dirijo hacia la corredora que<n>despertó mi interés."
     },
     {
       "name": "Narita Brian",
-      "text": "…"
+      "text": "..."
     },
     {
-      "text": "Your form's too perfect. It's holding back your power."
-    },
-    {
-      "text": "Your form's too perfect. It's holding back your power."
-    },
-    {
-      "text": "You should try letting your strength guide you."
+      "name": "<username>",
+      "text": "Oye, Narita Brian. ¿Te importa si hablamos?"
     },
     {
       "name": "Narita Brian",
-      "text": "Let my strength guide me…"
+      "text": "No creo que haya hecho hoy nada digno<n>de ser reclutada."
+    },
+    {
+      "text": "Tiene razón—no mostró mucho<n>desempeño y perdió velocidad hacia el final."
+    },
+    {
+      "text": "Aún así, no puedo evitar pensar que su<n>incómoda forma de correr es la culpable. Y<n>debo saber si tengo razón."
+    },
+    {
+      "name": "<username>",
+      "text": "Tu flexibilidad e impulso fueron buenos.<n>Forma perfecta también."
+    },
+    {
+      "name": "<username>",
+      "text": "Tu flexibilidad e impulso fueron buenos.<n>Forma perfecta también."
+    },
+    {
+      "name": "<username>",
+      "text": "Pero creo que esas piezas no encajan<n>bien juntas."
     },
     {
       "name": "Narita Brian",
-      "text": "Hup!"
+      "text": "..."
     },
     {
-      "text": "…?!"
+      "name": "<username>",
+      "text": "Tu forma es <i>demasiado</i> manual. Está frenando<n>tu potencia."
     },
     {
-      "text": "Whatever I was expecting, it wasn't this."
+      "name": "<username>",
+      "text": "Tu forma es <i>demasiado</i> manual. Está frenando<n>tu potencia."
     },
     {
-      "text": "Her stance is so low, she looks like an animal on the hunt."
-    },
-    {
-      "name": "Narita Brian",
-      "text": "Haaaaah!"
-    },
-    {
-      "name": "Skilled Trainer B",
-      "text": "Huh? Wh-what's up with that run?!"
-    },
-    {
-      "name": "Umamusume B",
-      "text": "Wow… She going even faster!"
-    },
-    {
-      "text": "Haha… She really is a heap of talent."
-    },
-    {
-      "text": "Haha… She really is a heap of talent."
-    },
-    {
-      "text": "If you ran like that in the race, you would've placed first for sure."
-    },
-    {
-      "text": "If you ran like that in the race, you would've placed first for sure."
+      "name": "<username>",
+      "text": "Intenta correr con más libertad, y deja que tu<n>fuerza te guíe."
     },
     {
       "name": "Narita Brian",
-      "text": "I still have to think about it too much. Once I get the hang of it, I'll be \neven faster."
+      "text": "Con más libertad... como mi fuerza me guíe."
     },
     {
-      "text": "Even faster than that… You're really something."
+      "name": "Narita Brian",
+      "text": "¡Hup!"
     },
     {
-      "text": "Even faster than that… You're really something.",
+      "name": "<username>",
+      "text": "...?!"
+    },
+    {
+      "text": "Lo que sea que esperaba, no era esto."
+    },
+    {
+      "text": "Su postura es tan baja que parece un<n>animal en cacería."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Haaaaah!"
+    },
+    {
+      "name": "Entrenador Experto B",
+      "text": "¿Eh? ¡¿Q-qué pasa con esa forma de correr?!"
+    },
+    {
+      "name": "Uma Musume B",
+      "text": "Guau... ¡Y sigue acelerando!"
+    },
+    {
+      "name": "<username>",
+      "text": "Jaja... Realmente es un montón de talento."
+    },
+    {
+      "name": "<username>",
+      "text": "Jaja... Realmente es un montón de talento."
+    },
+    {
+      "name": "<username>",
+      "text": "Si corrieras así en la carrera,<n>seguro hubieras quedado en primer lugar."
+    },
+    {
+      "name": "<username>",
+      "text": "Si corrieras así en la carrera,<n>seguro hubieras quedado en primer lugar."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Todavía tengo que pensarlo demasiado.<n>Cuando le agarre la onda, seré<n>aún más rápida."
+    },
+    {
+      "name": "<username>",
+      "text": "¿Más rápido que eso? Vaya, no puedo decir<n>que no me emocione."
+    },
+    {
+      "name": "<username>",
+      "text": "¿Más rápido que eso? Vaya, no puedo decir<n>que no me emocione."
+    },
+    {
+      "name": "<username>",
+      "text": "Si no te molesta que pregunte, ¿por qué<n>dejaste tu equipo? Tu entrenador<n>debió estar orgulloso de tus dos victorias."
+    },
+    {
+      "name": "<username>",
+      "text": "Si no te molesta que pregunte, ¿por qué<n>dejaste tu equipo? Tu entrenador<n>debió estar orgulloso de tus dos victorias."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Porque quiero correr más.",
       "choice_data_list": [
-        "So, hey, why'd you leave your last team? Your \ntrainer must've been proud that you racked up \ntwo wins."
+        "¿Más?"
       ]
     },
     {
-      "text": "So, hey, why'd you leave your last team? Your trainer must've been \nproud that you racked up two wins."
+      "name": "Narita Brian",
+      "text": "Al parecer no tengo resultados consistentes<n>porque no sé cómo<n>mantener la compostura."
     },
     {
       "name": "Narita Brian",
-      "text": "Because I want to run more."
+      "text": "Así que dijeron que necesitaba tomar un<n>descanso de las carreras."
     },
     {
-      "name": "Trainer",
-      "text": "More?"
+      "name": "<username>",
+      "text": "Compostura, eh..."
     },
     {
-      "name": "Narita Brian",
-      "text": "Apparently I don't get consistent results because I don't know how to \nkeep my composure."
+      "text": "Seguro no controla bien su emoción<n>cuando compite."
     },
     {
-      "name": "Narita Brian",
-      "text": "So they said I needed to take a break from racing."
-    },
-    {
-      "text": "Composure, huh…"
-    },
-    {
-      "text": "She must not have a good handle on her excitement when she's \ncompeting."
-    },
-    {
-      "text": "It's important to be hyped up, but a racer also needs to keep cool \nwhen making critical, split-second decisions."
+      "text": "Es importante estar motivada, pero una<n>corredora también debe mantener<n>la calma al tomar decisiones cruciales."
     },
     {
       "name": "Narita Brian",
-      "text": "But I didn't accept that explanation or their decision."
+      "text": "Pero no acepté esa explicación ni<n>su decisión."
     },
     {
       "name": "Narita Brian",
-      "text": "I understand <I>why</I> my trainer made that call, but I simply disagree. \nNothing more, nothing less."
+      "text": "Entiendo <i>por qué</i> mi entrenador tomó<n>esa decisión, pero simplemente no estoy<n>de acuerdo. Nada más, nada menos."
     },
     {
-      "text": "Wanting to run is as simple as it gets. Though she's certainly \nstrong-willed to leave her team over that."
+      "text": "Querer correr es algo muy sencillo, y<n>sin duda es muy decidida para<n>dejar su equipo por eso."
     },
     {
-      "text": "And she has the ability to turn that passion into raw physical power!"
+      "text": "¡Y tiene la habilidad de convertir esa<n>pasión en puro poder físico!"
     },
     {
-      "text": "If we started now, we could still make the Kyoto Junior Stakes. \nThere's the G1 Asahi Hai Futurity Stakes too.",
+      "name": "<username>",
+      "text": "Si empezamos ahora, aún podríamos<n>llegar al Kyoto Junior Stakes. También<n>está el G1 Asahi Hai Futurity Stakes."
+    },
+    {
+      "name": "<username>",
+      "text": "Si empezamos ahora, aún podríamos<n>llegar al Kyoto Junior Stakes. También<n>está el G1 Asahi Hai Futurity Stakes."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¿Qué se supone que significa eso?"
+    },
+    {
+      "name": "<username>",
+      "text": "En lugar de contener tus ganas de correr,<n>creo que sería mejor canalizarlas<n>con más carreras. Así que...",
       "choice_data_list": [
-        "If we started now, we could still make the Kyoto \nJunior Stakes. There's the G1 Asahi Hai Futurity \nStakes too.",
-        "What's that supposed to mean?"
+        "¿Te gustaría correr en mi equipo?",
+        "¿Te gustaría correr en mi equipo?"
       ]
     },
     {
-      "text": "Rather than hold back your desire to run, I think it'd be better for you \nto jump right into more races. So…",
+      "name": "<username>",
+      "text": "En lugar de contener tus ganas de correr,<n>creo que sería mejor canalizarlas<n>con más carreras. Así que...",
       "choice_data_list": [
-        "Rather than hold back your desire to run, I think \nit'd be better for you to jump right into more \nraces. So…",
-        "Would you like to race on my team?"
+        "¿Te gustaría correr en mi equipo?",
+        "¿Te gustaría correr en mi equipo?"
       ]
     },
     {
-      "name": "Trainer",
-      "text": "Would you like to race on my team?"
+      "name": "Narita Brian",
+      "text": "Ah, cierto, estaba en las pruebas para<n>ser reclutada. La carrera de ahora fue<n>tan impactante que olvidé por qué<n>estaba aquí."
+    },
+    {
+      "name": "<username>",
+      "text": "¡Probemos ese nuevo estilo de carrera<n>en la próxima competencia!"
     },
     {
       "name": "Narita Brian",
-      "text": "Oh right, today's the big scouting day. My run after the race was all I \ncould think about—I completely forgot."
+      "text": "Hecho. ¡Aceptaré cualquier oportunidad<n>para correr!"
     },
     {
-      "text": "Let's try out that new running style in the next race!"
+      "text": "Y así, Narita Brian se convierte en la<n>nueva integrante del Team Sirius."
     },
     {
-      "text": "こうして、チームシリウスの新しいメンバーとし て \nナリタブライアンが加わることになり——"
-    },
-    {
-      "text": "すぐに彼女の底知れぬ\"才能\"を目撃することとな る。"
+      "text": "Pronto podré ver qué tan ilimitado<n>es realmente su talento."
     }
   ]
 }

@@ -1,237 +1,250 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Heavy rains were forecast to last all through the night. \nHaving finished my tasks, I was about to head back \nto the academy when ——"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Tell me, can you see this earth's most luminous light!?"
-        },
-        {
-            "text": "—— I heard a familiar voice in my vicinity."
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "This is a horsegirl's light, one destined to become the Centurial \nHigh King!! My dear luminescent peer shining down upon \nthe world, allow yourself to revel at its resplendent glow!!"
-        },
-        {
-            "text": "T.M. Opera O stood on the riverbank, sounding even more \nbuoyant than usual.",
-            "choice_data_list": [
-                "What are you up to?",
-                "What are you up to?"
-            ]
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Why, if it isn't my dear trainer. Can you not tell? \nI'm competing with the first star of the evening, of course."
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Our duel of aesthetic is much like running with a partner. \nHaving someone to compete with is what allows us to reach \nour highest potentials."
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Hence why day after day I steadily put in \nthe effort, finding time and a partner."
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "I'd say it's high time we return to our match, my twinkling friend! \nI am here for you! Reveal to me your most exquisite radiance!"
-        },
-        {
-            "text": "A moment after T.M. Opera O struck another pose…"
-        },
-        {
-            "text": "(<i>glintn't</i>……)"
-        },
-        {
-            "text": "… a rain cloud moved itself between her and her starry partner."
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Phew, our great battle will remain in all of our memories. \nTrainer, my dear, please applaud my stellar opponent.",
-            "choice_data_list": [
-                "Has your battle ended…?",
-                "Has your battle ended…?"
-            ]
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "It has indeed. Yours truly stands victorious. You saw as well \nas I, didn't you? That moment when our shining celestial gem \nbashfully withdrew its own brilliance before my charms!"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "In other words, my charm has reached a height that causes \neven the stars to grow timid. Perhaps my next sparring partner \nought to be the moon… no, the sun!"
-        },
-        {
-            "text": "… The moon would not be gracing the sky for a while \nand if anything, the forecast predicted a rainy night."
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Ah, are there no worthy rivals left for me? \nMy dear trainer, have you knowledge of any?",
-            "choice_data_list": [
-                "Umm…"
-            ]
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Heh, I understand it's a difficult question. For the only one \nwho can match yours truly is of course, myself."
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Alas, it is the way of the world. I will let the night winds \nsoothe my solitude as I search for my next rival."
-        },
-        {
-            "text": "…… She does actually come across somewhat lonely."
-        },
-        {
-            "text": "Is there nothing I can do as her trainer? She mentioned \nonly she could match herself… then perhaps ——",
-            "choice_data_list": [
-                "You could try competing with yourself…?"
-            ]
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Whaaat!? Compete with myself!?"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Oh, what audacious ideas you dream up, my dear trainer! \nIndeed it is darkest under the lantern. Yours truly cannot \nknow her own radiance!"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "How wondrous a thought! Let us give it a go at once!"
-        },
-        {
-            "text": "… Thus it was that on our next day off, T.M. Opera O \nrequested my presence at the dance studio."
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "<i>Haa-ha-ha-ha-ha!</i> My dear trainer, observe as, even up \nagainst herself, yours truly soars to an effortless victory."
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "You have the best seat to watch my elegance unfold. \nWe commence… with a showdown of poses!"
-        },
-        {
-            "text": "A competition of aesthetic began, between T.M. Opera O \nand her mirror image ——"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "<i>…… Haah…… haah.</i> I can't believe it. Never before have I ran \ninto a horsegirl as tough and handsome."
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "How can she strike my very own poses, with the exact \ntiming, at the same pace!?"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Please answer me, my dear reflection!"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "…………",
-            "choice_data_list": [
-                "…… Not answering, is she?",
-                "…… Not answering, is she?"
-            ]
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "…… I am certain she must think the very same way \nas yours truly. So be it, I never held the expectation \nto finish this in one round regardless!"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "On to the next round! That's right, the staring contest!"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "<i>…… Heheheh, haa-ha-ha-ha!</i>"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "You can't be serious! How could I be expected to resist \na smile when faced with such a handsome visage!"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Dear me, you have held me to another draw…… \nYou pack quite the punch, my dear optical echo!"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Nonetheless, the prelude to your defeat has begun! \nI'll put an end to this with a game of Red Light, Green Light!!"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Reeeeeeed <i>light</i>!"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Hm!?"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "How handsome of a horsegirl I see before me! \nWould you tell me your name…!?"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Oh dear! Knowing that a touch means defeat, why oh why \ndo I extend my hand by my own volition!?"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "…… My defeat is certain and complete, my dear trainer. \nI could not stand up to the charms of my mirror self."
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Ah, how wicked… how heartrending! \nIt hurts me so, to see this sinful beauty in the mirror! \nNever have I encountered this feeling before!"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "But it does not become yours truly to merely bemoan the facts. \nI will conquer myself one day, for that is what makes a high king!"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Aaah! How exquisite!!"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "…… <i>Gah</i>, I had no idea my reflection would be so gorgeous. \nAh, however will I overcome this barrier, how many years \nof dedication will it take……"
-        },
-        {
-            "text": "T.M. Opera O laid motionless where she had flopped down. \nFrom the looks of it, she is taking the loss to herself harshly.",
-            "choice_data_list": [
-                "…… You can do it, Opera O",
-                "…… You can do it, Opera O"
-            ]
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Definitely. My dictionary does not include \"losing streak\". \nNext time, I will undoubtedly know the glory of victory."
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "I must say however, my dear trainer, you are truly astonishing. \nAt this moment I hold nothing but the highest respect for you.",
-            "choice_data_list": [
-                "Why is that……?"
-            ]
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Why, you have been able to lay your eye on yours truly \nin all her magnificence and splendor this whole time."
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Unquestionably, your will is that of steel, worthy of reverence. \nTruth be told, I can scarcely believe it."
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Is that resolute self-restraint the pinnacle \nI must reach to conquer my own self…?"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Still, I must reiterate how gorgeous of an image \nfills my eyes… It is you who will be my life-long \nrival, my dear specular counterpart…!"
-        },
-        {
-            "text": "T.M. Opera O may just have found her toughest rival yet……"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "El pronóstico del tiempo dice que va a llover<n>esta noche, así que termino mi\ntrabajo y trato de<n>ir directo a casa, pero..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Contempla! Aun desde este plano terrenal,<n>¡te conduzco hacia mi majestuosa\nluz!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Escucho una voz familiar que viene de<n>algún lugar cercano."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Crees que eres la única portadora de luz?<n>¡Entonces admira mi resplandeciente\ngloria! Es el<n>brillo de la verdadera Soberana<n>Centenaria!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "T.M. Opera O está a la orilla del río con su<n>acostumbrada grandiosidad.",
+      "choice_data_list": [
+        "¿Qué estás haciendo?",
+        "¿Qué estás haciendo?"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Vaya, si no eres tú, Entrenador. Seguro<n>no te sorprende ver\nque estoy teniendo<n>una batalla de belleza con la estrella vespertina."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "La belleza, después de todo, es como competir contra un<n>oponente feroz; la lucha\npor la victoria<n>sirve para fortalecerla."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Me tomo tiempo cada día para encontrar un rival digno<n>contra quien afilar mis habilidades."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ahora, de vuelta a nuestra batalla, estrella vespertina!<n>Aquí me planto, ¡muéstrame tu\nmáximo<n>resplandor!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Opera O mira al cielo, adoptando una pose."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Centelleo.</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Pero la estrella parece esconderse tras las<n>nubes de lluvia que se acercan."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Uf, esa fue una batalla épica.<n>Entrenador, despide a la noche\ncon una ronda<n>de aplausos.",
+      "choice_data_list": [
+        "¿Ya terminó la pelea?",
+        "¿Ya terminó la pelea?"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Así es, y con su fin llega mi victoria.<n>Tú mismo lo viste. ¡Ante mi\nmagnífica<n>persona, la estrella huyó avergonzada!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Esto significa que mi belleza ahora hace hasta que las<n>estrellas se sonrojen de\nvergüenza. ¿A quién<n>desafiaré después? ¿A la luna...? ¡No, al sol<n>mismo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como va a llover pronto, la luna está demasiado<n>tímida esta noche para una batalla,\npor desgracia."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Ay! ¿No hay nadie lo suficientemente formidable como para<n>rivalizar conmigo? Entrenador, ¿conoces a alguien<n>digno?",
+      "choice_data_list": [
+        "Mmm..."
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Je, entiendo que debe ser una pregunta<n>muy difícil. Solo una\npersona podría<n>alguna vez estar a mi altura—<i>yo.</i>"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Que así sea. Tendré que soportar mi soledad<n>y encontrar consuelo en la fresca\nbrisa nocturna<n>mientras busco a mi próximo rival."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mmm... Me pregunto si se siente sola."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Soy su entrenadora—debe haber algo que<n>pueda hacer por ella. Dice que\nsolo ella puede enfrentarse<n>a sí misma, así que...",
+      "choice_data_list": [
+        "Podrías... luchar contra ti misma, de verdad."
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Qué? ¿¡Quieres que luche contra <i>mí misma</i>?!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Esa podría ser la mejor idea de tu<n>vida! Yo, la luz resplandeciente,\nno sabía cuán<n>brillante soy realmente!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Qué idea fantástica! ¡Eso es exactamente lo que<n>haré!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, termino siendo llamado al estudio de<n>baile en mi día libre..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Jaa ja ja ja! Observa con atención,<n>Entrenador. Derrotaré a cualquier\noponente con<n>facilidad, incluso a mí misma."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Tendrás un asiento de primera fila para presenciar mi<n>victoria espectacular. Ahora que\ncomience la<n>batalla. Primero... ¡un duelo de poses!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "De repente, inicia una acalorada batalla de<n>estética con la T.M. Opera O en el<n>espejo."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "<i>Jadeo... Jadeo...</i> ¿Cómo puede ser? No tenía<n>idea de que existiera un oponente de tal\nfuerza y<n>belleza."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Sigue mi ritmo en cada paso, con<n>la misma sincronización exacta. Incluso\nsus poses son<n>iguales a las mías, ¡pero cómo?!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Respóndeme, yo del espejo!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "...",
+      "choice_data_list": [
+        "No responde, ¿eh?",
+        "No responde, ¿eh?"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Podría ser que esté pensando lo mismo<n>que yo. Como quieras. Nunca\ncreí de verdad<n>que nuestra lucha terminaría aquí<n>de todos modos!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Al siguiente desafío! Eso es—¡un<n>concurso de miradas!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Puf, jeje... ¡Jaa ja ja ja!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Frustrada una vez más! ¿Cómo puedo evitar<n>sonreír ante tan inconmensurable\nbelleza?<n>¡Estoy al límite de mi ingenio!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Maldito destino. Es otro empate... Eres<n>buena—te lo concedo—¡mi yo del\nmundo del<n>espejo!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Pero el preludio de tu derrota se acerca!<n>Nuestros destinos se\ndecidirán en este duelo<n>final... ¡Luz roja, luz verde!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡No sabes cuándo diré... luz roja!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡¿Gah?!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Estoy abrumada. ¡El glamour de esta<n>Uma Musume es demasiado!\nPor favor, debo<n>saber tu nombre..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡No debo! ¡Ser tocada significa perder la<n>batalla! Pero ¿por qué no puedo\nevitar<n>alcanzar su mano?!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "He sido vencida, Entrenador. Mi yo del espejo<n>incluso a mí me tuvo bajo su\nhechizo."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Oh, el insulto... ¡La maldigo! ¡Detesto cuán<n>hermosa es la yo del espejo!\nNunca me había sentido tan<n>intensamente!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Pero no me verás llorar por ello.<n>Verás. Un día triunfaré sobre<n>mí misma. Porque seré la Sober—"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Nyah! ¡La belleza—quema!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ugh, fui ingenua al subestimar tu<n>verdadero poder, yo del espejo. En verdad,\nesforzarme por<n>superarte podría llevarme a la muerte..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Está colapsada en el suelo, completamente<n>inmóvil. Ser derrotada por sí\nmisma<n>debe haberla frustrado mucho.",
+      "choice_data_list": [
+        "...Vamos, Opera. Tú puedes.",
+        "...Vamos, Opera. Tú puedes."
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Tienes razón. \"Derrota\" no está en mi<n>vocabulario. Estoy decidida a alcanzar la\ngloria<n>la próxima vez."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Sabes... Eres bastante especial,<n>Entrenador. Mi respeto por ti ha<n>crecido inmensamente.",
+      "choice_data_list": [
+        "¿Por qué?"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Porque sigues mirándome sin<n>pestañear, a pesar de mi<n>deslumbrante resplandor."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Si esa fuerza mental no merece<n>respeto, entonces no sé qué lo hace."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Y si he de vencerme a mí misma, yo<n>también debo adquirir esa<n>voluntad de hierro. Pero..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Esas miradas son demasiado<n>atractivas... Oh, yo del espejo,<n>¡eres la rival definitiva!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "T.M. Opera O pudo haber<n>encontrado a la mayor rival de su<n>vida en ese espejo... Espera,<n>¿qué estoy diciendo?"
+    }
+  ]
 }

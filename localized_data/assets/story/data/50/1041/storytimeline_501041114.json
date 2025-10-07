@@ -1,183 +1,190 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "At the end of the year, Sakura Bakushin O \ninvited me to watch the Arima Kinen, the \nrace that would close out the year."
-        },
-        {
-            "name": "Spectator A",
-            "text": "Haa～, I wonder which Uma Musume will win \nthis year? I'm starting to get a little nervous!"
-        },
-        {
-            "name": "Spectator B",
-            "text": "Who did you vote for in the fan vote? \nYou know, I voted for――"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Hoowaaahh…! \nThis is great, there are so many people here!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "As class president, I find it far more \nrewarding to organize a class with more \npeople than one with fewer!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "There are as many troubles as there are \npeople! Because there are as many troubles \nas there are class presidents!",
-            "choice_data_list": [
-                "(Is that really okay, though?)"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Ah!! \nIt's about to start!"
-        },
-        {
-            "name": "Spectator C",
-            "text": "Oh, yeah, I'm gonna have to call――"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "You over there!! Class is right about to start! \nCell phones <i>off!</i>"
-        },
-        {
-            "name": "Spectator C",
-            "text": "Ah, okay! \n…Class?"
-        },
-        {
-            "text": "――And thus began the Arima Kinen. \nAn Uma rushes to the front and pushes \nforward, the pack following her intently…"
-        },
-        {
-            "text": "The sight of the fierce competition between \nsuch top-notch Uma Musume was so \nintense that it makes the viewer's heart \nbeat faster…!"
-        },
-        {
-            "text": "(Woooooahhhh…!!)"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "…… \nI was just thoroughly convinced."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "As I thought… \nThat was a race just for me, wasn't it!?",
-            "choice_data_list": [
-                "!?"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Trainer!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "How does one become class president, \nyou ask!?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Is she smart? Can she eat quickly? \nIs she trusted by the teacher? \nWhat's her walking speed?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "All of these criteria are correct. \nHowever, the most important thing was not \nthere."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Indeed, the most important thing is… \nPlease answer the question, Trainer!",
-            "choice_data_list": [
-                "…Academic excellence?"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Absolutely incorrect!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "The correct answer was, \"popularity\"! \nThe class president is the result of \neveryone's confidence in her!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "And the \"Arima Kinen\" is a fan-voted race. \nIn a way, it is a gathering of endorsed \nUma Musume…"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I knew it!! It's nothing but a race for me, \nthe class president!",
-            "choice_data_list": [
-                "(What an irrational conclusion!)"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Let's definitely, 100% run in it next year! \nThe Arima Kinen is waiting for me!"
-        },
-        {
-            "text": "…Distance aptitude makes it nearly \nimpossible for her to run the Arima Kinen."
-        },
-        {
-            "text": "But if she puts this motivation to good use \nand trains hard, she can become even \nstronger than she already is. If that \nhappens…",
-            "choice_data_list": [
-                "Bakushin O!"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Yes!",
-            "choice_data_list": [
-                "What's the most important thing about running the \nArima Kinen?"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "It's being the class president!!",
-            "choice_data_list": [
-                "Wrong!"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "What a surprise!? \nThen, what in the world…!?",
-            "choice_data_list": [
-                "It's \"speed\"!",
-                "It's \"speed\"!"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "…!!!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Fufu… I see, I read that. \nSo, in other words, Trainer is…"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "――You're asking me to further refine my \nspeed to take on the Arima Kinen!",
-            "choice_data_list": [
-                "………That's right!",
-                "………That's right!"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Understood! \nI shall… take those instructions!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Fu-fu-fu… I can already imagine the crowd \ngoing wild at my speed!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Just a little more patience, everyone!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Because I'll run this race with the \nhonorable title of class president!"
-        },
-        {
-            "name": "Crowd",
-            "text": "Class president…?"
-        },
-        {
-            "text": "This is how Sakura Bakushin O succeeded \nin igniting her motivation for speed even \nfurther."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Sakura Bakushin O me ha invitado a ver<n>el Arima\nKinen de fin de año, un<n>concurso anual donde las\ncorredoras son<n>elegidas mediante una votación\npública."
+    },
+    {
+      "name": "Espectador A",
+      "text": "¿Qué Umamusume ganará este año?<n>¡Me estoy\nemocionando solo de pensarlo!"
+    },
+    {
+      "name": "Espectador B",
+      "text": "¿Votaste? Sabes, mi elección fue—"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Whooooa! Mira cuánta gente hay<n>ahí afuera—¡es\ngenial!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Para una representante de clase, ¡hay<n>algo en una\nclase de este tamaño!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Cuanta más gente, más problemas!<n>¡Y cuantos\nmás problemas, más<n>hace una representante de\nclase!",
+      "choice_data_list": [
+        "¿Y eso es algo bueno?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Oh! ¡Está por comenzar!"
+    },
+    {
+      "name": "Espectador C",
+      "text": "Eso me recuerda, necesito hacer esta<n>llamada—"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Tú ahí! ¡La clase está por comenzar!<n>¡Todos los\nteléfonos deben estar<n>apagados!"
+    },
+    {
+      "name": "Espectador C",
+      "text": "¡Sí, lo siento, señorita! ...Espera, ¿clase?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así el Arima Kinen comienza<n>oficialmente. Un\nevento repleto de lo mejor de<n>lo mejor de las\nUmamusume y la<n>vigilante multitud\nabsorbiendo cada<n>movimiento..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La experiencia de ver a las mejores<n>Umamusume\nahí compitiendo entre<n>sí es más que suficiente\npara<n>hacer latir tu corazón!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Woooo!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "...Ahora estoy segura."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡¿Esta carrera básicamente está hecha<n>para mí?!",
+      "choice_data_list": [
+        "...?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Entrenador!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Cómo crees que alguien se convierte<n>en\nrepresentante de clase?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Por su inteligencia? ¿Sus<n>habilidades para\ncomer rápido? ¿Porque<n>ganaron la confianza de sus\nmaestros? ¿Su<n>velocidad al caminar?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Todas estas cosas son necesarias.<n>Sin embargo,\nninguna es lo más<n>importante."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Sí, lo más importante es... ¡Tómala<n>tú,\nEntrenador!",
+      "choice_data_list": [
+        "...¿Qué tan bien les va en lo académico?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Eso es completamente incorrecto!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡La respuesta correcta es \"popularidad\"!<n>¡La\nrepresentante de clase es un<n>suplente de la\nconfianza de la gente!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Las participantes del Arima Kinen se<n>deciden\nmediante un voto de fans. En<n>otras palabras, es una\nreunión de las<n>Umamusume más populares..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Y como la popular representante de<n>clase, ¡no hay\nuna carrera más adecuada<n>para mí que esta!",
+      "choice_data_list": [
+        "(¡Esa sí que es una afirmación audaz!)"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Definitivamente entremos el próximo<n>año! ¡El Arima\nKinen me está llamando!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Tal como están las cosas, las<n>posibilidades de\nque corra toda la<n>extensión del Arima Kinen son\nprácticamente<n>nulas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo, si encuentro una manera<n>de canalizar\nesa motivación en su<n>entrenamiento, estoy seguro de\nque se<n>volverá aún más fuerte.\nEso podría<n>funcionar...",
+      "choice_data_list": [
+        "¡Bakushin O!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Sí!",
+      "choice_data_list": [
+        "¿Qué es lo más importante sobre correr\nen el Arima Kinen?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Ser representante de clase!",
+      "choice_data_list": [
+        "¡Incorrecto!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡¿No lo es?! ...¡¿Entonces qué podría ser?!",
+      "choice_data_list": [
+        "¡Es la velocidad!",
+        "¡Es la velocidad!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "...!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Jeje... Ya veo por dónde vas,<n>Entrenador."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Debería pulir mi velocidad y luego<n>dar mi\ndisparo Baku en el Arima<n>Kinen!",
+      "choice_data_list": [
+        "...¡Así es!",
+        "...¡Así es!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Entendido! Aceptaré esa sugerencia."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Je, je, je... Mi velocidad atraerá<n>los\nnúmeros... ¡Ya lo veo!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "No teman, todos, no tendrán que<n>esperarme\nmucho!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Correré en esta carrera y estaré a la<n>altura de mi\ntítulo como representante de clase!"
+    },
+    {
+      "name": "Espectadores",
+      "text": "...¿Representante de clase?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Logro encender un fuego en ella,<n>haciéndola más\napasionada que nunca<n>por la velocidad."
+    }
+  ]
 }

@@ -1,262 +1,280 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "I heard that Sakura Bakushin O was absent \ndue to a stomachache. She said she would \nrecover soon, is she really okay?"
-        },
-        {
-            "text": "Perhaps it was because I was thinking about \nthis that I could see Sakura Bakushin O \ndirectly in front of me…"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Oya, Trainer!",
-            "choice_data_list": [
-                "Hold on, what are you doing, Bakushin O!?",
-                "Hold on, what are you doing, Bakushin O!?"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "What, you say? Is it not obvious! \nMy stomachache went away, so I came to \nschool!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "After all, without me as president of the \nclass, there would be no… ow, ow, ow.",
-            "choice_data_list": [
-                "Maybe it's not gone away after all."
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "No, no, that was just hunger! \nI don't have a stomachache one bit!!"
-        },
-        {
-            "text": "…She doesn't seem to be in the best of \nshape by any means. \nFor her to be here is――",
-            "choice_data_list": [
-                "You need to get back to your dorm.",
-                "You need to get back to your dorm.",
-                "Are you sure you want to worry everyone?",
-                "Are you sure you want to worry everyone?"
-            ]
-        },
-        {
-            "text": "…She doesn't seem to be in the best of \nshape by any means. \nFor her to be here is――",
-            "choice_data_list": [
-                "You need to get back to your dorm.",
-                "You need to get back to your dorm.",
-                "Are you sure you want to worry everyone?",
-                "Are you sure you want to worry everyone?"
-            ]
-        },
-        {
-            "text": "I admonished her to rest easy for now, \nbut――"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I refuse! \nThe whole class is waiting for me!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "No matter what Trainer says, I'm heading \nto class!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Baku, shi―n!! \nOw, owww…"
-        },
-        {
-            "text": "Holding her side, Sakura Bakushin O \ndashed off to her classroom."
-        },
-        {
-            "text": "When I finally caught up with Sakura \nBakushin O, she was about to put her \nhand on the door handle to the classroom.",
-            "choice_data_list": [
-                "Stop right there! We're going back to the dorms!",
-                "Stop right there! We're going back to the dorms!"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I refuse! \nI'm going to do my job as president――"
-        },
-        {
-            "name": "Classmate A",
-            "text": "Nice work today～. \nActing president, you were looking good!"
-        },
-        {
-            "text": "Sakura Bakushin O stopped moving when \nshe heard a voice coming from the \nclassroom."
-        },
-        {
-            "name": "Classmate B",
-            "text": "I, is that so～?"
-        },
-        {
-            "name": "Classmate C",
-            "text": "Really, really! \nYou were like the perfect president!"
-        },
-        {
-            "name": "Classmate B",
-            "text": "Come on, now, you're flattering me too \nmuch～!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "…Wh, what do you mean?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "The Perfect President… Then, does this \nmean I'm out of a job!?"
-        },
-        {
-            "text": "Sakura Bakushin O is making such feeble \nremarks, probably because she's not \nfeeling well. \nWhat she just heard must have made \nmatters even worse."
-        },
-        {
-            "text": "But――",
-            "choice_data_list": [
-                "That's not true, take a look.",
-                "That's not true, take a look."
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Huh?"
-        },
-        {
-            "name": "Classmate A",
-            "text": "…But, y'know, I'm going to miss \nBaku-chan."
-        },
-        {
-            "name": "Classmate C",
-            "text": "Yeah, yeah! \nIt just doesn't feel right without hearing \nthat good old \"Bakushin!\" after all."
-        },
-        {
-            "name": "Classmate B",
-            "text": "My job as class president was real tough. \nIt's amazing how Baku-chan does it every \nday…"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "E, everyone…!!",
-            "choice_data_list": [
-                "See? I told you.",
-                "See? I told you."
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Yes, Trainer! \nIt's OK for me to be class president!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "For everyone in my class… \nI will continue to be the class president!"
-        },
-        {
-            "text": "I hurriedly stopped Sakura Bakushin O, \nwho was about to rush into the classroom \nin a fit of emotion, and took her back to \nthe dormitory."
-        },
-        {
-            "text": "A few days later, Sakura Bakushin O was at \nthe Academy, energetically carrying out \nher duties as class president."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Th, that's…"
-        },
-        {
-            "text": "If she pushes myself too hard here, her \nsymptoms could get worse."
-        },
-        {
-            "text": "I told her that as class president, it \nwouldn't be good for her to worry \neveryone――"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Hmhmhm, that is certain!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "As the class president who should be \nsetting a good example, this action was \nfar too rash!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I'm going back to my dorm for the \nday… Uuuuugh!!",
-            "choice_data_list": [
-                "Let's go to the infirmary and rest for a while."
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Y, yes. \nSorry…"
-        },
-        {
-            "text": "I took Sakura Bakushin O to the infirmary \nafter her symptoms returned."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Haa… \nIs everyone in class okay?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "If my absence had caused any problems, I \nwould forever live to regret it…",
-            "choice_data_list": [
-                "Let's just focus on healing your body first."
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "However, as class president, she couldn't \nhelp but be concerned about what was \ngoing on in her class."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "If I'm… not there――"
-        },
-        {
-            "text": "Sakura Bakushin O climbed into the bed and \neventually fell asleep, but she was worried \nabout her class until just before she \npassed out.",
-            "choice_data_list": [
-                "…I guess I'll go check on the class in her place.",
-                "…I guess I'll go check on the class in her place."
-            ]
-        },
-        {
-            "text": "I walked away from the infirmary, careful \nnot to make any noise so as not to wake \nSakura Bakushin O."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Uu…"
-        },
-        {
-            "name": "Classmate A",
-            "text": "Oh, Baku-chan, are you awake?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Eh? \nEveryone, what are you all doing here!?"
-        },
-        {
-            "name": "Classmate B",
-            "text": "Your Trainer told me. \nBaku-chan came to school, I heard."
-        },
-        {
-            "name": "Classmate C",
-            "text": "Here's some tea for you! \nGet well soon, okay?"
-        },
-        {
-            "name": "Classmate D",
-            "text": "It's boring without you, Baku-chan, and \nwithout the class president, too!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Th, thank you so much! \nThis should cure my stomachache in an \ninstant…!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Right, let's go, Trainer! \nLet's blow this stomachache away with \nsome good old training!!",
-            "choice_data_list": [
-                "Okay!?"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "You can offset intense pain by getting in \nsome intense training――right?",
-            "choice_data_list": [
-                "Not at all…!"
-            ]
-        },
-        {
-            "text": "Later, her classmates and I stopped the \nrunaway Sakura Bakushin O."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Parece que Sakura Bakushin O<n>está ausente por\nun dolor de estómago. Dijo que<n>se sentiría mejor en un\nabrir y cerrar de ojos, pero me pregunto<n>si estará bien..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Quizás sea porque estoy pensando en<n>ella, pero\ntengo la sensación de que Sakura<n>Bakushin O está a punto de\naparecer frente a<n>mí..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Ah, Entrenador!",
+      "choice_data_list": [
+        "¡Bakushin O! ¿Por qué estás aquí?",
+        "¡Bakushin O! ¿Por qué estás aquí?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Qué quieres decir? ¿No es obvio? Mi<n>dolor de\nestómago se alivió, así que vine a<n>la escuela!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Sería terrible si la representante de clase<n>no\nasistiera... Auuu.",
+      "choice_data_list": [
+        "Como pensé, aún no te has recuperado."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Solo tengo hambre, eso es todo! ¡Definitivamente<n>no es\nun dolor de estómago!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Claramente no se ha recuperado.",
+      "choice_data_list": [
+        "Tienes que volver a tu dormitorio.",
+        "Tienes que volver a tu dormitorio.",
+        "Sabes que está mal preocupar a todos así.",
+        "Sabes que está mal preocupar a todos así."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Claramente no se ha recuperado.",
+      "choice_data_list": [
+        "Tienes que volver a tu dormitorio.",
+        "Tienes que volver a tu dormitorio.",
+        "Sabes que está mal preocupar a todos así.",
+        "Sabes que está mal preocupar a todos así."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le digo que descanse, pero..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Me niego! ¡Todos en clase me están<n>esperando!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Di lo que quieras, pero voy a clase!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "BAKU... ¡SHIIIN! Auuu..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Agarrándose el costado del estómago,<n>Sakura\nBakushin O sale corriendo hacia su<n>aula."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Está a punto de alcanzar la<n>puerta del aula\ncuando la alcanzo.",
+      "choice_data_list": [
+        "¡Detente! ¡Vuelve a tu dormitorio!",
+        "¡Detente! ¡Vuelve a tu dormitorio!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Me niego! ¡Como representante de clase,<n>tengo\ndeberes que atender!"
+    },
+    {
+      "name": "Compañera A",
+      "text": "¡Eso estuvo genial! Lo hiciste muy bien como<n>representante\nsuplente!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Las voces que vienen del aula hacen<n>que Sakura\nBakushin O se detenga en seco."
+    },
+    {
+      "name": "Compañera B",
+      "text": "¿En serio?"
+    },
+    {
+      "name": "Compañera C",
+      "text": "¡De verdad, de verdad! ¡Fuiste la<n>representante\nperfecta!"
+    },
+    {
+      "name": "Compañera B",
+      "text": "¡Vamos, me halagas demasiado!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Yo... yo..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿\"La representante... perfecta\"? ¿Eso<n>quiere decir\nque ya no me necesitan?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Quizás por su enfermedad, la voz de<n>Sakura\nBakushin O suena casi tímida.<n>Las palabras de\nlos estudiantes<n>deben haber sido el colmo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin embargo...",
+      "choice_data_list": [
+        "Estoy seguro de que no es así. Solo sigue escuchando.",
+        "Estoy seguro de que no es así. Solo sigue escuchando."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Eh?"
+    },
+    {
+      "name": "Compañera A",
+      "text": "Pero... se siente solo sin Baku,<n>¿verdad?"
+    },
+    {
+      "name": "Compañera C",
+      "text": "¡Sí! ¡Está tan silencioso sin sus gritos de<n>\n¡BAKUSHIN!"
+    },
+    {
+      "name": "Compañera B",
+      "text": "Es un trabajo duro ser representante.<n>Baku es\nincreíble, pudiendo trabajar así<n>todos los días..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡T-todos!",
+      "choice_data_list": [
+        "¡Ves! ¡Te lo dije!",
+        "¡Ves! ¡Te lo dije!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Oh! ¡Parece que aún me necesitan como<n>\nrepresentante!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Todos... No se preocupen, ¡seguiré<n>cumpliendo mi\nrol!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Rápidamente detengo a una Sakura<n>Bakushin O\nsumamente emocionada de entrar<n>al aula.\nEn su lugar, la hago regresar a<n>su dormitorio."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Unos días después, la Academia Tracen ve<n>el regreso\nde la energética representante<n>de clase mientras\ndesempeña sus<n>funciones."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Yo... yo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si se esfuerza ahora, sus síntomas<n>podrían\nempeorar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le aconsejo que no es prudente que una<n>\nrepresentante haga que todos se preocupen..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Nnn... ¡Supongo que tienes razón!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Mis acciones esta vez no fueron<n>propias de una\nrepresentante modelo!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Regresaré al dormitorio por... ahora...<n>¡Ugh!",
+      "choice_data_list": [
+        "Descansemos en la enfermería."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "S-sí. Lo siento..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La enfermedad de Sakura Bakushin O<n>parece estar\ndando señales de nuevo, así que la<n>llevo a la enfermería."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Awww... Espero que todos en clase estén bien."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "No me perdonaría si algo<n>pasara\npor mi ausencia...",
+      "choice_data_list": [
+        "Solo concéntrate en recuperarte por ahora."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Eso está bien, pero como<n>representante, no\npuedo evitar preocuparme<n>por la clase."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Si... no estoy allí..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sakura Bakushin O, postrada en cama,<n>finalmente se\nduerme, pero sigue<n>preocupándose por sus\ncompañeros<n>hasta el momento de dormirse.",
+      "choice_data_list": [
+        "...Iré a ver cómo está su clase.",
+        "...Iré a ver cómo está su clase."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Salgo silenciosamente de la enfermería,<n>con cuidado\nde no despertar a Sakura Bakushin O."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "<i>Ugh...</i>"
+    },
+    {
+      "name": "Compañera A",
+      "text": "Oh, ¿estás despierta, Baku?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Eh? ¿Por qué están todos aquí?"
+    },
+    {
+      "name": "Compañera B",
+      "text": "Tu entrenador nos dijo que viniste a<n>la escuela."
+    },
+    {
+      "name": "Compañera C",
+      "text": "¡Toma! ¡Un té para ayudarte a<n>recuperarte!\n¡Mejórate pronto, ¿vale?"
+    },
+    {
+      "name": "Compañera D",
+      "text": "¡No es divertido cuando Baku no está!<n>¡Necesitamos a\nnuestra representante!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡M-muchas gracias! ¡Tendré que<n>recuperarme de\neste dolor de estómago lo antes<n>posible!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Bien! ¡Vamos, Entrenador! ¡Entrenemos<n>para\ndesaparecer este molesto dolor!",
+      "choice_data_list": [
+        "¡¿Qué?!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "El entrenamiento intenso compensa el<n>dolor intenso...\n¿verdad?",
+      "choice_data_list": [
+        "¡No, no es así!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de eso, sus compañeros y yo<n>debemos\nevitar que Sakura Bakushin O se<n>levante y salga\ncorriendo."
+    }
+  ]
 }

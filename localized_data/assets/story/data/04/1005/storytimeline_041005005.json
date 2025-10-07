@@ -1,142 +1,142 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "One day, after training was over. \nI saw Fuji Kiseki with some underclassmen."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Goodness, you're awfully naughty. \nYou called me out here, in the middle of nowhere――"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "What's the matter, Pony-chan?"
-        },
-        {
-            "name": "Junior Horsegirl",
-            "text": "U, um, Fuji-senpai ……"
-        },
-        {
-            "name": "Junior Horsegirl",
-            "text": "I decided, today. \nI'm going to tell Senpai how I feel about her…"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "…That's quite alright. \nI'll accept it to the best of my ability."
-        },
-        {
-            "name": "Junior Horsegirl",
-            "text": "Fuji-senpai… \nI really like you, Senpai!"
-        },
-        {
-            "name": "Junior Horsegirl",
-            "text": "As a first grade junior, I've always followed your back, Senpai. \nSomeday, I'll catch up with that back… and then…"
-        },
-        {
-            "name": "Junior Horsegirl",
-            "text": "We'll stand side by side and… together… together we'll \nrun… I, I thought."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "You――"
-        },
-        {
-            "name": "Junior Horsegirl",
-            "text": "That's why… I said this it was too much… \nAnd that I was so frustrated…"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "――Come, lift your chin up."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "I gathered from the President that you're leaving the Academy \ntoday. \n…She said you have a leg injury."
-        },
-        {
-            "name": "Junior Horsegirl",
-            "text": "Uuugh…"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "You were one of the most talented of the younger class. \nI knew that one day, you would be a formidable rival."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Above all, you were practicing harder than anyone else, \nweren't you? \nThat's why I'm frustrated, too."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "I've been watching you for all this time, too."
-        },
-        {
-            "name": "Junior Horsegirl",
-            "text": "Fuji-senpai…!"
-        },
-        {
-            "name": "Junior Horsegirl",
-            "text": "I wanted to run more… \nI wanted to keep running, get lots of wins, and one day…"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "One day…"
-        },
-        {
-            "name": "Junior Horsegirl",
-            "text": "…Can I entrust my dream to you, Senpai? \nAs an Uma Musume, can I entrust my dream to…"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "I've most certainly received your feelings. \nLet's run, together. No matter how far."
-        },
-        {
-            "text": "A faint cry echoed in the evening glow of sunset. \nIn the end, the junior left with a smile on her face."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "It looks as if you've seen my secret. \nI know you're in there, aren't you? Trainer.",
-            "choice_data_list": [
-                "I noticed."
-            ]
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "…On occasion, there are girls that leave the academy like that. \nI feel tormented by a feeling of utter helplessness."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "How can I entertain a girl whose dreams have been dashed? \nI made her smile so sadly."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Entrust me with your dream \"as an Uma Musume\"――so she \nsaid."
-        },
-        {
-            "text": "――Speaking of which, Fuji Kiseki once told me that she gave \nup her dream of becoming an actor and chose racing…",
-            "choice_data_list": [
-                "What's your dream, right now?",
-                "What's your dream, right now?"
-            ]
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "My dream? That, of course, is to \"Make \"Miracles\" happen, \nand to entertain all.\"――"
-        },
-        {
-            "text": "But… as soon as she said that, Fuji Kiseki fell silent. \nA sort of thoughtful expression appeared on her face.",
-            "choice_data_list": [
-                "…Are you alright?"
-            ]
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Whoops, that's no good, no good at all. \nIt's at times like this that \"Fuji Kiseki\" must laugh!"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Please, keep what you saw today a secret. \nLook, it's just a promise between you and me――"
-        },
-        {
-            "text": "Fuji Kiseki smiled as best she could."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Un día, después de terminar mis deberes, me<n>encuentro con Fuji Kiseki\nhablando con una<n>de sus compañeras de dormitorio más jóvenes."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Esto es extraño. ¿Por qué me llamaste<n>aquí a este lugar desierto?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Qué sucede, mi querida potranca?"
+    },
+    {
+      "name": "Estudiante Junior",
+      "text": "Bueno, este, Fuji..."
+    },
+    {
+      "name": "Estudiante Junior",
+      "text": "Hoy estoy lista. Quiero decirte cómo me<n>siento."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "...Muy bien. Estoy lista para escuchar. Mi corazón está<n>abierto."
+    },
+    {
+      "name": "Estudiante Junior",
+      "text": "Fuji, tú... ¡significas el mundo para mí!"
+    },
+    {
+      "name": "Estudiante Junior",
+      "text": "Siempre has estado ahí, solo un año<n>adelante de mí, una meta para\nperseguir y<n>tal vez algún día incluso alcanzar... Y<n>cuando lo hiciera..."
+    },
+    {
+      "name": "Estudiante Junior",
+      "text": "Estaríamos hombro con hombro, corriendo como<n>iguales... corriendo\n<i>juntas.</i>"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Mi querida, p—"
+    },
+    {
+      "name": "Estudiante Junior",
+      "text": "Así que... es tan difícil... que yo..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ahora, ahora. Mírame."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Supe por la directora que hoy es tu<n>último día en la academia... y\nsobre<n>tu lesión."
+    },
+    {
+      "name": "Estudiante Junior",
+      "text": "<i>Sollozo...</i>"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Incluso entre las estudiantes aquí, estabas<n>dotada de un talento\nremarkable. Sabía que<n>te convertirías en una oponente formidable<n>algún día."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Eras inquebrantable en tu entrenamiento,<n>practicando más que todas\nlas demás. Por<n>eso me duele verte ir."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Siempre he sido tu fan."
+    },
+    {
+      "name": "Estudiante Junior",
+      "text": "No sé qué decir..."
+    },
+    {
+      "name": "Estudiante Junior",
+      "text": "Quería tanto seguir corriendo...<n>seguir ganando, y luego algún\ndía..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Algún día?"
+    },
+    {
+      "name": "Estudiante Junior",
+      "text": "Sé que es mucho pedir, pero quiero que<n>continúes mi sueño. Mi sueño\ncomo corredora..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Por supuesto, lo llevaré conmigo siempre. Será<n>como si corriéramos\njuntas, por siempre<n>nunca."
+    },
+    {
+      "text": "Mientras el sol se pone, se escucha un<n>llanto tenue, hasta que\nfinalmente, la joven<n>corredora se va con una sonrisa en el rostro."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Bueno, parece que te topaste con mi<n>secreto. Sé que estás ahí,\nEntrenador.",
+      "choice_data_list": [
+        "¿Me viste?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Llegan momentos así cuando una<n>estudiante preciosa debe dejar la\nacademia.<n>Me hace sentir tan impotente, incapaz de<n>cambiar nada."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Cómo puedo dar alegría a alguien cuyo<n>sueño se hizo añicos? Incluso\nsu sonrisa de<n>despedida estaba llena de tristeza."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Me confió sus sueños como corredora..."
+    },
+    {
+      "text": "Justo ahora, recuerdo que Fuji Kiseki<n>me dijo que una vez dejó ir su\nsueño de<n>estar en el gran escenario, eligiendo en<n>su lugar ser\ncorredora...",
+      "choice_data_list": [
+        "Oye, ¿cuál es <i>tu</i> sueño? Digo, ahora.",
+        "Oye, ¿cuál es <i>tu</i> sueño? Digo, ahora."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿El mío? Mi sueño es claro como el<n>cristal—es traer alegría a todos y\nhacer<n>que ocurran milagros."
+    },
+    {
+      "text": "Tan pronto como salen las palabras de sus<n>labios, se queda en silencio.\nCon una expresión<n>curiosa, parece profundamente pensativa.",
+      "choice_data_list": [
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Oh, parece que me perdí. ¡Fuji Kiseki<n>pondría una gran sonrisa\nprecisamente<n>en este momento!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Te pido que me prometas que guardarás<n>secreto lo que viste hoy.\nSerá solo<n>entre tú y yo, ¿de acuerdo?"
+    },
+    {
+      "text": "Hecha la promesa clandestina, Fuji Kiseki<n>da la sonrisa más grande que\npuede<n>reunir."
+    }
+  ]
 }

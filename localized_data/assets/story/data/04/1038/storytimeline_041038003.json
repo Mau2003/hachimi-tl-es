@@ -1,258 +1,282 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "The following morning as I sorted through paperwork…"
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "Trainer-san, horrible news!! \nWe can't find Curren Chan-san anywhere…",
-            "choice_data_list": [
-                "Eh…!!"
-            ]
-        },
-        {
-            "text": "Rumours of Curren Chan's dissappearance \nquickly spread amongst the students."
-        },
-        {
-            "text": "Apparently she left a note in her room. \nAfter receiving it from Tazuna-san I opened it."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "<i>I'm going to go on a trip to better myself. I plan on \nmeeting with the legendary Uma Sage in the mountains.</i>"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "<i>Onee-chan, please don't be mad at me. \nYou see, my dream is to one day…</i>"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "<i>Onee-chan, please don't be mad at me. \nYou see, my dream is to one day…</i>"
-        },
-        {
-            "text": "The letter ended abruptly."
-        },
-        {
-            "text": "The phrase \"legendary Uma Sage\" confused me, so I decided \nto see if there were any hints left behind on her Umastagram."
-        },
-        {
-            "text": "There was a picture that was posted a few seconds ago. \nIt was a selfie of Curren looking dejected while on \nthe way to a remote island. Underneath the picture was…"
-        },
-        {
-            "text": "<i>#AStoneInACreek #UnableToEscapeTheTorrent \n#ItCan'tHelpButSink</i>"
-        },
-        {
-            "text": "A mysterious haiku… It seemed to center around \nthe word \"creek\". An intricately written haiku \nabout one's downfall hidden amongst hashtags."
-        },
-        {
-            "text": "What am I doing! I have to go after her! \nI should bring \"that\" with me too…!"
-        },
-        {
-            "text": "There was no sign of human life on the \nremote island. Is Curren Chan really here…?"
-        },
-        {
-            "text": "As I wandered deeper into the mountains in search of \nCurren Chan I heard the sound of a raging waterfall. Then…"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Pain… Only… Helps… To… Further… One's… Progress… On… The… Path… \nTowards… Self… Betterment…"
-        },
-        {
-            "text": "Curren Chan was reciting something that sounded like it came out \nof Buddhist scriptures while sitting under a waterfall…!? \nRegardless, I rushed over and pulled her out…!"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Ehehe, you found me… I guess you really are the \nbest at finding me when I'm lost, huh, Onee-chan?"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Ehehe, you found me… I guess you really are the \nbest at finding me when I'm lost, huh, Onee-chan?"
-        },
-        {
-            "text": "I knew she left clues on her Umasta \npost so that I'd be able to find her.",
-            "choice_data_list": [
-                "We need to talk."
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Okay, that's fine. But what about?",
-            "choice_data_list": [
-                "I want to learn more about you.",
-                "I want to learn more about you."
-            ]
-        },
-        {
-            "text": "The reason I wanted to learn more about \nher is because as of now I know nothing. \nAfter I said this Curren Chan smiled at me."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Onee-chan, you really want to know the \nreason behind my \"cuteness,\" don't you?"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Onee-chan, you really want to know the \nreason behind my \"cuteness,\" don't you?"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "But tell me, are you really prepared \nto learn everything about me?"
-        },
-        {
-            "text": "She looked at me in such a serious manner that I flinched. \nHowever, if I can't even meet her gaze, I'm not qualified to be \nher trainer. However, if I can't even meet her gaze, I'm not \nqualified to be her trainer.",
-            "choice_data_list": [
-                "Of course!",
-                "Of course!"
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Hehe… well, guess I've got no choice. \nThen we'll begin from when I was born."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Babies laugh a lot, right? When I \nwas a newborn I would laugh a lot too."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "And because of that my family would laugh along with me. They \nwould always call me \"cute\" and looked so happy all of the time."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Onii-san… I mean my real older brother would always tell me \nthat my cuteness had the power to make those around me happy."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "So I decided that I'd live my life being \"cute\". \nI decided that when I was… around 3 years old maybe?",
-            "choice_data_list": [
-                "3 years old!?"
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "So in order to become as \"cute\" as possible I \ndecided to do research on \"cuteness\". As a result \nof my research, I gained many admirers."
-        },
-        {
-            "name": "Curren's Follower",
-            "text": "I… Um…! You're the Umastagrammer, \nCurren, aren't you!?"
-        },
-        {
-            "name": "Curren's Follower",
-            "text": "You gave me the courage to change myself… \nCurren, you saved me."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "What she said made me so happy… \nI was able to use my cuteness to \nmake people outside of my family happy too."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "I was happy to receive their praise, \nand they were happy because I was cute."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "So I thought that I would continue \nto expand this cycle of happiness!",
-            "choice_data_list": [
-                "I see…"
-            ]
-        },
-        {
-            "text": "I had no idea that the concept of \"cuteness\" \nhad such a deep meaning for her.",
-            "choice_data_list": [
-                "So why'd you come to this academy?"
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "That's because… the Uma Musume from Tracen Academy \nthat I saw on TV shined brighter than anyone else."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "They were drenched in sweat, their hair ruined by the wind, \nand were always wearing a stoic, unsmiling expression. \nHonestly, it was a little bit frightening…"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "The things I knew, the things I mastered, what \nI believed cuteness to be… They were the exact \nopposite. But, but when I saw those girls race…"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "I thought… they were so \"cute\". \nThey shined so brightly!"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "If I join Tracen Academy and win races… I could shine just like… \nNo! I could shine <i>even</i> brighter than the girls I saw on TV."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "More people would know about me! \nNot only that, the entire world would fall in love with me!"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "But… during the preliminary \nrace I betrayed everyone's faith in me…"
-        },
-        {
-            "name": "Curren Chan",
-            "text": "When you're cute you have to be perfect. \nIf you destroy everyone's dreams… \nyou're no longer cute."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "I can't believe that I prepared so poorly that my horseshoe ended \nup falling off. It wasn't cute at all!! It wasn't cute at all!!",
-            "choice_data_list": [
-                "Curren…"
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "That's why I came here to improve myself! \nI don't want to continue being this worthless Curren!"
-        },
-        {
-            "text": "I finally figured her out. She's a perfectionist \nstruggling to keep up with her ideal self."
-        },
-        {
-            "text": "Being cute is not something you can achieve in a single day. From \nthe tips of her nails to each individual hair on her head, her \neffort to be cute was ever-present."
-        },
-        {
-            "text": "Her amazing racing ability is no exception. \nThere is no way that she could have gotten this good without \nworking herself to death, even when no one was around."
-        },
-        {
-            "text": "And all of this… for the sake of \"cuteness…\"",
-            "choice_data_list": [
-                "You must really hate losing…",
-                "You must really hate losing…"
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Eh? Is that supposed to be a compliment? \nI feel like you're not really praising me."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "But, I guess it's pretty obvious \nthat I do really hate it… huh?"
-        },
-        {
-            "text": "This was the first time that I saw her not as some alien, but as \na true Uma Musume. And that's when I realized that I truly \nrespected her way of life."
-        },
-        {
-            "text": "As her trainer, there are things I must do. \nI will help her reach the stage that she yearns for!",
-            "choice_data_list": [
-                "Let's train together",
-                "Let's train together"
-            ]
-        },
-        {
-            "text": "With more training she will definitely regain the cuteness that \nshe had lost. In order to do that, I handed her back the horseshoe \nthat had come off.",
-            "choice_data_list": [
-                "I found this for you, Princess"
-            ]
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Ehehe… Thank you, Onee-chan."
-        },
-        {
-            "name": "Curren Chan",
-            "text": "Ehehe… Thank you, Onee-chan."
-        },
-        {
-            "text": "This was the day where I truly became Curren Chan's trainer. And \nas we trained together the legendary Uma Sage smiled down upon us."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es la mañana después de las eliminatorias del Pretty Grand Prix.<n>Justo cuando intento lidiar<n>con un montón de papeleo..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Entrenador, noticias terribles! Curren Chan<n>no aparece por ningún lado...",
+      "choice_data_list": [
+        "¡¿Quéééé?!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡¿Curren Chan ha... desaparecido?! El<n>rumor se esparce por la academia<n>como pólvora."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al parecer, me dejó una carta en su<n>habitación. Tomo la carta de<n>Tazuna y la abro con cuidado."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "\"Me voy de viaje en busca de la<n>iluminación. Tiene que haber un sabio<n>Uma por ahí <i>en algún lado</i>.\""
+    },
+    {
+      "name": "Curren Chan",
+      "text": "\"Hermano mayor, perdón por decidir esto por mi<n>cuenta. Es algo que debo<n>hacer, por mi sueño...\""
+    },
+    {
+      "name": "Curren Chan",
+      "text": "\"Hermana mayor, perdón por decidir esto por mi<n>cuenta. Es algo que debo<n>hacer, por mi sueño...\""
+    },
+    {
+      "name": "Monólogo",
+      "text": "La carta termina abruptamente ahí..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siento que lo del sabio debe ser una<n>referencia que no capto, pero quizá<n>haya mejores pistas en su Umastagram."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Efectivamente, la publicación principal es una selfie suya<n>sonriendo tristemente en un puerto hacia<n>una isla, subida hace unos segundos. El pie de foto<n>dice..."
+    },
+    {
+      "name": "@Curren",
+      "text": "\"#UnaFlorAzotadaPorElViento<n>#ArrastradaSinRumboPorLaMarea<n>#RemontaLaCascada\""
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los hashtags forman un haiku... No<n>habría imaginado que Curren Chan fuera<n>del tipo poético, pero supongo que la imagen de la flor<n>es una metáfora de su estado mental actual."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Más importante aún—¡tengo que ir tras ella!<n>Por si acaso, ¡llevaré <I>eso</I> conmigo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Llego a la isla, pero no veo ninguna<n>señal de que la gente viva aquí. ¿De<n>verdad Curren Chan vino hasta tan lejos?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras exploro más adentro de las montañas,<n>escucho el sonido de una gran<n>cascada cerca. Y junto al rugido del agua corriendo..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Esto... es... muy... doloroso... pero por mi<n>entrenamiento... debo... aguantar..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡¿Curren Chan está murmurando un<n>encantamiento tipo sutra bajo una<n>cascada rugiente?! ¡Corro rápidamente a rescatarla<n>y la saco de las montañas!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hehe, me encontraste... Siempre puedo<n>contar contigo para encontrarme cuando<n>estoy perdida, hermano mayor."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hehe, me encontraste... Siempre puedo<n>contar contigo para encontrarme cuando<n>estoy perdida, hermana mayor."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sé que dejó esa pista en su<n>Umasta específicamente para que yo pudiera<n>seguir sus pasos y encontrarla.",
+      "choice_data_list": [
+        "Hablemos, Curren Chan."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Mhm... Claro. ¿De qué quieres<n>hablar?",
+      "choice_data_list": [
+        "Quiero conocerte mejor.",
+        "Quiero conocerte mejor."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hasta ahora, no había hablado de<n>sí misma conmigo. Al escuchar<n>mi respuesta, Curren Chan sonríe suavemente."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Así que, hermano mayor... ¿quieres saber más<n>que solo la parte \"linda\" de mí?"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Así que, hermana mayor... ¿quieres saber más<n>que solo la parte \"linda\" de mí?"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Oye, dime esto. ¿Estás preparado... para<n>saber todo sobre mí?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Casi me estremezco por la intensidad de su mirada,<n>pero... si no puedo mirarla a los ojos ahora,<n>entonces no merezco ser su entrenador.",
+      "choice_data_list": [
+        "¡Claro que sí!",
+        "¡Claro que sí!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Hehe... Tú lo pediste. Bueno, entonces, ¿por<n>qué no empiezo desde cuando<n>nací?"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¿Sabes cómo los bebés se ríen<n>instintivamente mucho? Bueno, cuando era<n>bebé, siempre estaba riendo."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Y cuando me reía, mi familia se<n>reía conmigo. Me decían que era linda,<n>y parecía traerles mucha felicidad."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "\"Tu ternura tiene el poder de hacer<n>feliz a todos\". Eso es lo que<n>mi hermano mayor—mi hermano de verdad, quiero decir—<n>me dijo."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "En ese momento, decidí que siempre<n>sería tan linda como pudiera. Eso<n>fue... cuando tenía como tres años, ¿creo?",
+      "choice_data_list": [
+        "¡¿T-tres?!"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Y para hacer eso, pasé mucho tiempo<n>investigando cómo ser linda. Un<n>día, una de mis seguidoras se me acercó y dijo..."
+    },
+    {
+      "name": "Seguidora de Curren",
+      "text": "¡D-disculpa! ¿Tú eres la de Umastagram,<n>Curren, verdad?"
+    },
+    {
+      "name": "Seguidora de Curren",
+      "text": "Gracias a ti, pude reunir el<n>valor para cambiarme. Curren, eres<n>mi heroína."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...Sus palabras me hicieron tan feliz. Me<n>hicieron darme cuenta de que mi<n>ternura podía traer alegría no solo a mi familia,<n>sino a muchos otros también."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Me alegraba cuando la gente me decía linda,<n>y todos estaban felices cuando yo era linda."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Quería expandir este círculo de felicidad<n>tan lejos como pudiera!",
+      "choice_data_list": [
+        "Ya veo..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nunca imaginé que su concepto de<n>\"ternura\" tuviera un significado tan<n>profundo detrás.",
+      "choice_data_list": [
+        "Entonces, ¿por qué te inscribiste aquí en la Academia Tracen?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Bueno... Siempre que veía a las Umamusume<n>correr en TV, siempre brillaban<n>tan intensamente."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Goteaban sudor, su cabello estaba<n>despeinado por el viento, y muchas<n>veces, ni siquiera sonreían. Algunas incluso<n>parecían un poco aterradoras..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "No podían estar más lejos de la<n>ternura que conocía, refinaba y en la<n>que creía. Pero cuando las veía correr..."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "\"Linda\" fue la primera palabra que vino a<n>mi mente. ¡Como si estuvieran<n>prácticamente destellando!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Pensé que si me inscribía en la Academia<n>Tracen y también ganaba carreras,<n>entonces podría destellar como ellas...<n>¡No, mejor aún! ¡Podría destellar <i>aún<n>más</i> que ellas!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Quería dar a conocer mi nombre a<n>aún más gente! ¡Y algún día,<n>todo el mundo se enamoraría de mí!"
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...Pero en la carrera de eliminatorias del Grand Prix,<n>no pude estar a la altura de las<n>expectativas de todos."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Verás, la ternura tiene que ser<n>absolutamente perfecta. Si destruyo los<n>sueños de la gente... Eso no es nada lindo."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¿Que se me caiga el tacón por no<n>prepararme bien? ¡Eso es lo menos<n>lindo <i>que existe!</i>",
+      "choice_data_list": [
+        "Curren Chan..."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¡Por eso vine aquí a entrenar! No me<n>permitiré cometer el mismo error<n>de nuevo—¡<I>cambiaré</I>!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Creo que finalmente entiendo. Curren es una<n>perfeccionista que nunca dejará de<n>intentar mejorarse."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su ternura no es solo un capricho. Ella<n>trabaja cada segundo de cada día para<n>asegurarse de que irradie de cada fibra de<n>su cuerpo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Toma su carrera, por ejemplo. Su sprint<n>no es algo fácil de emular—debe<n>haber puesto incontables horas de entrenamiento<n>solo para llegar a este punto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y lo hizo todo... para ser linda.",
+      "choice_data_list": [
+        "De verdad odias perder, ¿verdad?",
+        "De verdad odias perder, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "¿Eh? ¿Me estás diciendo linda? Aunque<n>no lo parece."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "Odio perder, ¿eh? Quizá... tengas razón."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por primera vez, siento que entiendo a<n>Curren Chan como una Umamusume. Y<n>debo decir, respeto su forma de vida y<n>cómo se dedica a ella."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Lo que significa... que tengo un trabajo que<n>hacer como su entrenador. ¡Depende de mí<n>hacer realidad sus sueños!",
+      "choice_data_list": [
+        "¡Entrenemos juntos!",
+        "¡Entrenemos juntos!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Seguiremos entrenando, hasta que pueda<n>sentirse segura de su ternura en la<n>pista de nuevo. Y para eso, saco su<n>tacón caído y se lo extiendo.",
+      "choice_data_list": [
+        "Te he estado buscando, princesa."
+      ]
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...Hehe. Gracias, hermano mayor."
+    },
+    {
+      "name": "Curren Chan",
+      "text": "...Hehe. Gracias, hermana mayor."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Finalmente, Curren y yo nos hemos<n>convertido en verdadero entrenador y<n>aprendiz. Y de alguna manera, estoy<n>seguro de que el legendario sabio Uma nos<n>observa ahora con una sonrisa."
+    }
+  ]
 }

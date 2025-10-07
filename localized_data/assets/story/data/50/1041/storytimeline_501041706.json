@@ -1,195 +1,199 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "I was on my way home from an \nouting with Sakura Bakushin O――"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Are you aware, Trainer? \nDid you know that my rival is \ncoming here, right now?",
-            "choice_data_list": [
-                "Eh, rival…?"
-            ]
-        },
-        {
-            "text": "When I was told that, I thought of the Uma \nMusume of her generation…"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "You already know, don't you? \nIndeed, my rival is――"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "The fastest king of the sea! \nThe \"Sailfish\"!!",
-            "choice_data_list": [
-                "I didn't think it was a fish!?"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "The one who commands the land, is me. \nThe one who commands the seas \nis… that fish, for now."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "However! One day, I will take that name \nand call myself the fastest on land \n<i>and</i> sea!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "To master speed is a prerequisite \nfor the strongest Uma Musume and \nthe strongest honor-roll student!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "In other words, let's G.O. to the aquarium, \nwhich is open to the public for a limited \ntime!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Excuse meeee―!!",
-            "choice_data_list": [
-                "Quiet in the museum!"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Oops, pardon me! \nThe class president was getting excited \njust now."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Now, without further ado, let's find \nthe enemy! \nWhere on earth could he～…Ah."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "That's a school of sardines! \nEating sardines makes you smarter!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Ever since I heard that, I've been \neating them from head to tail!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Thanks to this, I am very intelligent. \nThe sailfish must be terrified.",
-            "choice_data_list": [
-                "I, I see."
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "And, ohh! Look at that! \nSwimming over there, that's…!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "It's a \"yellowtail\", the fish they call \nthe fish of success! \nBefore they grow up, they're called \nthings like \"Mejiro\" and \"Warasa\"――"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Oya? So the McQueens will eventually \nbecome \"yellowtail\" McQueens?",
-            "choice_data_list": [
-                "More than that, we're looking for a sailfish!"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Oh, that's right! It was an elite fish that \nI couldn't pass up, but nevertheless, \nhow careless of me!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "My hunch is that they should be around \nhere somewhere! Let's seeee… the fish in \nthe tank next to――"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "\"Sailfish\"…"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "…!! ……～～～～!!!!!!!",
-            "choice_data_list": [
-                "(She's excited so quietly…!)",
-                "(She's excited so quietly…!)"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Haa… haah… that's, a sailfish. \nSomehow, it looks a bit like me, doesn't it."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "This… sharp, fast-looking expression… \nlike that……"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Sure enough, I still want to compete \nwith you! \nBut, this is a museum, and we can't \nbreak the rules…"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Kuuuuuu～～! \nWhat am I supposed to dooo～～!",
-            "choice_data_list": [
-                "Let's just observe for today.",
-                "Maybe try something like racing in your brain."
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I see… So, you think we should know \nour rivals and make preparations for \na future time?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Understood! I'll use my sardine-trained \nbrain to uncover the secret to the \nsailfish's speed!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Hoho… Hoouuuh! \nDid you see that!? The dorsal fin \nwent <i>swoosh!</i>"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I see, I see, I seeeeee! \nNow I know the whole secret to speed!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "To sum it up, the trick is to… \n<i>swoosh</i> the dorsal fin with \nall your might!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Fu-fu-fuu～! \nThis is the result of eating sardines!"
-        },
-        {
-            "text": "I don't know how that would help her \nwithout a dorsal fin, but… she seemed \nsatisfied, so it was fine."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Racing, in my brain!? \nMy honors student heart was just \ncompletely shocked!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "…My brain… in my brain, \nwith the sailfish… a race……"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I've been waiting for you… sailfish!"
-        },
-        {
-            "name": "Sailfish",
-            "text": "Oh… You're the fastest Uma Musume on \nthe track, aren't ya? I'm fast <i>and</i> \nmy stamina is craaaazy. You sure you \ncan beat me?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "That's my line! Watch your back… \nNo, watch your dorsal fin!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Bakushinbakushiiii―n!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "………",
-            "choice_data_list": [
-                "H, how'd it go?"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "It was an excellent battle of speed and \nstamina! \nI may even want to go as far as to rename \nmyself Mejiro Bakushin O."
-        },
-        {
-            "text": "I don't know what's going on in her \nbrain, but she seems to have gotten \na handle on it…!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "De regreso a la academia con Sakura<n>Bakushin O..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Sabías? Mi rival está aquí justo<n>ahora.",
+      "choice_data_list": [
+        "¿Eh? ¿Rival?"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al oír esto, empiezo a pensar que debe<n>ser una<n>Umamusume de la misma<n>generación, pero..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Ya lo adivinaste? Sí, mi rival es..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡El rey de la velocidad del océano!<n>¡El pez vela!",
+      "choice_data_list": [
+        "¡¿Tu rival es un pez?!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "La gobernante de la tierra soy yo. Pero<n>la actual<n>gobernante del océano... ¡es ese pez!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Planeo tomar ese título para mí y ser<n>nombrada la<n>más rápida tanto en tierra como<n>en mar!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Necesito dominar la velocidad para ser<n>la Umamusume<n>más fuerte <i>y</i> la mejor<n>estudiante modelo!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Por eso voy a visitar la exposición<n>especial del<n>acuario!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡AQUÍ ESTOY!",
+      "choice_data_list": [
+        "No hagas mucho ruido adentro."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Oh, perdón! Hasta una representante<n>de clase<n>como yo no puede evitar<n>emocionarse a veces."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Fijemos la posición del enemigo!<n>¿Dónde<n>podría estar? ...¡AJÁ!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Eso es un cardumen de sardinas!<n>¿Sabías que<n>comer sardinas puede aumentar<n>el poder de<n>pensamiento?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Desde que escuché eso, empecé a<n>comer el pez<n>completo de cabeza a cola!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Ha hecho mi mente tan afilada como<n>un cuchillo.<n>Hasta el gran pez vela<n>temblaría de miedo.",
+      "choice_data_list": [
+        "¿I-es eso cierto?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Ohh, mira allá! ¡Esa cosa moviéndose<n>en el agua!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Es un jurel! ¡Un pez a menudo<n>asociado con el<n>éxito! Déjame leer la placa.<n>Al parecer a veces<n>los llaman \"Mejiro\"<n>cuando todavía son pequeños!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Entonces, ¿crees que McQueen<n>eventualmente se<n>convertirá en Jurel McQueen?",
+      "choice_data_list": [
+        "¡Recuerda, estamos aquí por el pez vela!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Ah, tienes razón! ¡No pude ignorar<n>un espécimen<n>tan fino! ¡Fui descuidada!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Mis sentidos me dicen que está por<n>aquí en algún<n>lado! Hmm, el pez en el tanque<n>vecino es..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Un pez vela..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "...¡Mmff! ¡Gnnngh!",
+      "choice_data_list": [
+        "(¡Está emocionada pero intentando<n>mantenerse callada!)",
+        "(¡Está emocionada pero intentando<n>mantenerse callada!)"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "<i>Uff, uff...</i> Así que ese es un pez vela.<n>Se parece<n>un poco a mí."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Se ve tan aerodinámico, incluso esa<n>mirada en sus<n>ojos... es la velocidad<n>pescificada..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Quiero desafiarlo! Pero no puedo<n>simplemente<n>romper las reglas del acuario..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Uggh! ¡¿Qué debería hacer?!",
+      "choice_data_list": [
+        "Mejor limitémonos a observar hoy.",
+        "¿Qué tal simular una carrera en tu mente?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Ya veo... Uno debe conocer a su rival y<n>prepararse<n>para cuando llegue el día, ¿verdad?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡No hay problema! ¡Es hora de que<n>esas sardinas<n>que comí prueben su valía!<n>¡Descubriré el<n>secreto de esa velocidad!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Guau! ¿Viste eso hace un momento?<n>¡La aleta dorsal<n>hizo <i>¡whoosh!</i>"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Sí, sí, ya veo! ¡Penetré totalmente las<n>profundidades<n>ocultas de sus habilidades secretas!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "En otras palabras, el truco es... ¡hacer<n>que tu aleta<n>dorsal haga <i>whoosh</i> con todas<n>tus fuerzas!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Ja ja ja! ¡Este es el resultado de mi dieta<n>de sardinas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Para alguien sin aleta dorsal, no estoy<n>seguro de<n>cómo será útil eso... Pero ella<n>parece feliz, así que<n>decido mantener la boca<n>cerrada."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Simular una carrera en mi mente?<n>Como una<n>genio, el solo pensarlo hace<n>que mi corazón lata!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Solo... tengo que... correr... en... mi<n>mente..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Te he estado esperando... ¡Pez vela!"
+    },
+    {
+      "name": "Pez vela",
+      "text": "Hm, ¿así que eres la Umamusume más<n>rápida en<n>tierra? ¿Crees que puedes<n>competir contra mi<n>velocidad y resistencia divinas?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Esa es MI línea! ¡Prepárate para que<n>te retuerzan<n>el cuello... ejem, la aleta dorsal!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡BAKUSHIN, BAKUSHIIIN!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": ".....",
+      "choice_data_list": [
+        "¿Y? ¿Cómo te fue?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Fue una verdadera batalla de<n>velocidad y<n>resistencia! Fue suficiente para<n>hacerme querer<n>cambiar mi nombre a Mejiro<n>Bakushin O."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nadie sabrá nunca qué pasó dentro<n>de su mente,<n>pero parece haberle dado<n>alguna perspectiva."
+    }
+  ]
 }

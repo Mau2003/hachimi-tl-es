@@ -1,231 +1,239 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "A few days have passed since I \nbecame Seiun Sky's trainer. However…"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Trainer-san, Trainer-san, have you heard! There's gonna be a \nnice tide coming in today! And you know what that means, right? \nThis is the perfect day to go fishing!",
-            "choice_data_list": [
-                "Fishing? What about training…?"
-            ]
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Are you seriously asking me about that? \nHmm, well, I'll pass."
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Cause Sei-chan feels like working on her wrist snap rather than \nher footwork today. So how about we train tomorrow instead?"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Wowie, we talked about \"Cat Paradise: Nyancardia \nProject\" for so long! We were so absorbed in our \nconversation that we both lost track of time."
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Hmm? You seem like you want to say \"but I wanted to discuss \ntraining…\" Was it my imagination…? Yup, it must've been!"
-        },
-        {
-            "text": "Eh? You came here looking for Sei-chan? Well that's really \nunfortunate… She just left a little while ago."
-        },
-        {
-            "text": "…"
-        },
-        {
-            "text": "Despite being put in charge of Seiun Sky, \nI have yet to actually train with her."
-        },
-        {
-            "text": "Does she have no drive to improve and win races…?"
-        },
-        {
-            "text": "If that's the case, why am I even here? \nI walked around the academy as I pondered this question."
-        },
-        {
-            "name": "King Halo",
-            "text": "Hmph. So it seems that the rumors about a rookie \ntrainer being manipulated were true.",
-            "choice_data_list": [
-                "You're Seiun Sky's classmate…",
-                "You're Seiun Sky's classmate…"
-            ]
-        },
-        {
-            "name": "King Halo",
-            "text": "Remembering me in that manner is quite irritating, so make sure \nto correct it! I am King Halo, the elite Uma Musume. I shall \nalso grant you the right to address me with \"sama!\""
-        },
-        {
-            "name": "King Halo",
-            "text": "Anyways… Haa… From the looks of it, \nit really does seem like she's manipulating you."
-        },
-        {
-            "name": "King Halo",
-            "text": "I was hoping to get some valuable information on Sky-san from \nyou to develop a strategy, but… this was a complete waste! As \nit stands, it'll happen all over again… Ah, jeez!",
-            "choice_data_list": [
-                "Is Seiun Sky really that fast?",
-                "Is Seiun Sky really that fast?"
-            ]
-        },
-        {
-            "name": "King Halo",
-            "text": "Haa!? When it comes to speed, she's…"
-        },
-        {
-            "name": "King Halo",
-            "text": "Hmph…! \nInstead of asking me about these things, \nwhy not see for yourself!?"
-        },
-        {
-            "text": "The next day, I asked if I could sit in on \nSeiun Sky's class. And what I saw was…"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "So the mock race is finally here, huh?"
-        },
-        {
-            "name": "King Halo",
-            "text": "Don't talk about this race in that manner! After \nall, today will be the day that you finally \nrealize just how great I am! Ohohoho!"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "But I already know how great you are though? You really \nare an elite Uma Musume. King, you're really amazing."
-        },
-        {
-            "name": "King Halo",
-            "text": "It doesn't feel like you mean what you're saying!!"
-        },
-        {
-            "name": "King Halo",
-            "text": "Hmph, today will be the last day that you take \nthat attitude with me! Because today… Today I \nwill thoroughly mark you, and defeat you!!"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Thoroughly mark me, huh? \nOh no… How scary."
-        },
-        {
-            "name": "Special Week",
-            "text": "Sei-chan and King-chan are getting fired up… \nBut I'm not planning on losing either…!"
-        },
-        {
-            "name": "Horsegirl A",
-            "text": "Eh, I wonder if Sky-san is someone we should be wary of… \nHave you heard any rumors about her that have stood out?"
-        },
-        {
-            "name": "Horsegirl B",
-            "text": "Rumors that stood out? Well I've been hearing a pretty bad \none lately. Apparently, she skips out on training everyday."
-        },
-        {
-            "text": "(Thunk!!)"
-        },
-        {
-            "text": "Thus the mock race began. \nThe first one to take the lead was…"
-        },
-        {
-            "name": "King Halo",
-            "text": "Haa… Haa… Eh!?"
-        },
-        {
-            "name": "Horsegirl A",
-            "text": "Huh? King-san is in the lead!? Wasn't Sky-san a \"front runner\" \ntype that takes the lead as quickly as possible…?"
-        },
-        {
-            "name": "Horsegirl B",
-            "text": "Maybe she's lost a lot of her physical strength and can't make \nit to the front of the pack since she's been skipping out on \ntraining… or something? I've heard that that happens a lot."
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Haa… Haa… Ugh, my legs…!"
-        },
-        {
-            "name": "King Halo",
-            "text": "Hmph, I heard that you've been slacking off lately, but I didn't \nrealize just how far gone you truly were! I was an idiot for \nbeing overly cautious of you."
-        },
-        {
-            "name": "King Halo",
-            "text": "This will be fine. I did not expect it, but adapting to these \ntypes of situations is what makes me an elite Uma Musume As \nlong as I continue to extend this lead…!"
-        },
-        {
-            "text": "Due to Seiun Sky's late start, King Halo gave \nup on her mark and took a huge lead instead. \nThe race continued in this manner until…"
-        },
-        {
-            "text": "During the final stretch, King Halo's \npace started to gradually decline…!"
-        },
-        {
-            "name": "King Halo",
-            "text": "Nghh…! My stamina is…!"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "To be fair, you're better as a \"stalker\", King. It would've been \na real problem had you stayed behind me, marked me, and overtook \nme in the final stretch."
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "But this was exactly the opening I was waiting for…!"
-        },
-        {
-            "name": "King Halo",
-            "text": "Wai- Huh!? Sky-san!?"
-        },
-        {
-            "name": "Horsegirl A",
-            "text": "Eh, Sky-san took the lead!? \nYou're joking! When did that even happen!?"
-        },
-        {
-            "name": "Horsegirl B",
-            "text": "But she seemed like she was rusty from lack of training… Wait, \ndon't tell me… Was this her plan all along!?"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Great, they fell for it! Now all I need to do is…"
-        },
-        {
-            "name": "Special Week",
-            "text": "This… This match isn't over yet!!"
-        },
-        {
-            "name": "Special Week",
-            "text": "Haaaa!!"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Huh…!?"
-        },
-        {
-            "text": "Special Week ended up coming in 1st, \nwith Seiun Sky a very close 2nd."
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "She closed in on me and dropped me to 2nd, huh? Spe-chan's \nexplosive power is really something…"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "…",
-            "choice_data_list": [
-                "You did great out there too",
-                "You did great out there too"
-            ]
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "But I came in 2nd."
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "My tricks, my preparations, \nthey weren't enough to get me the win."
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Wait wha!? Trainer-san!? You were here? Since when? You can't \njust do that, if you're here you've gotta properly tell me!"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "Don't tell me. Since we haven't been seeing each \nother at training, have you gotten lonely? Ahh, \nbeing this popular's really tough!"
-        },
-        {
-            "name": "Seiun Sky",
-            "text": "But you'll have to wait on getting an autograph. \nI'm exhausted, so I'm going to take a nap. Toodaloo."
-        },
-        {
-            "text": "After saying that, Seiun Sky quickly left the track…"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "text": "Han pasado unos días desde que me convertí en<n>entrenador de Seiun Sky.\nSin embargo..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Entrenador, entrenador, ¿sabías? ¡Hoy viene una<n>marea suuuper buena!\nLo que<n>significa... ¡que es un día <i>perfecto</i> para pescar!",
+      "choice_data_list": [
+        "¿Pescar? ¿Y el entrenamiento?"
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Eh? ¿En serio lo preguntas? Mmm, paso."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Hoy prefiero trabajar en mi movimiento de muñeca que en<n>mis músculos de las piernas. Los peces\nme llaman, así que<n>¡entrenemos mañana!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Vaya, cómo vuela el tiempo cuando hablamos de<n><i>¡El Paraíso Felino: El Proyecto\nPurrcadia!</i> Supongo<n>que ambos perdimos la noción del tiempo."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Hm? ¿Esa es la cara de alguien que<n>quería hablar de entrenamiento\nen lugar de eso?<n>¿O solo lo imaginé? ...¡No, debe de haber<n>sido mi\nimaginación!"
+    },
+    {
+      "name": "Compañera de Sky",
+      "text": "¿Eh? ¿Buscas a Sei? La verdad,<n>acaba de irse. Se fue a casa hace un\ninstante."
+    },
+    {
+      "text": "..."
+    },
+    {
+      "text": "A pesar de haberme convertido en entrenador de Seiun Sky,<n>no he avanzado nada\ncon ella en<n>el entrenamiento."
+    },
+    {
+      "text": "¿Acaso no tiene ningún deseo de superarse<n>y ganar carreras?"
+    },
+    {
+      "text": "Y si eso es cierto, entonces ¿para qué<n>estoy aquí? Perdido en mis pensamientos,\nsigo<n>caminando..."
+    },
+    {
+      "name": "King Halo",
+      "text": "Hmph. Parece que los rumores sobre la<n>novata sin esperanzas eran ciertos.",
+      "choice_data_list": [
+        "Si recuerdo bien, eres compañera de Seiun Sky...",
+        "Si recuerdo bien, eres compañera de Seiun Sky..."
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "¡<i>No</i> permitiré que me llames como si<n>fuera una compañera de clase\ncualquiera! Soy King Halo,<n>una corredora de primera. ¡Debes guardar<n>modales al\ndirigirte a mí!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Aunque... <i>Suspiro...</i> Por lo que veo, Sky<n>realmente te está tomando el pelo."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Mi plan de hacerte filtrar información<n>sobre Sky se fue directo a la\nbasura! A este<n>ritmo, volveré a perder... ¡Arghhh!",
+      "choice_data_list": [
+        "¿Contra Seiun Sky? ¿De verdad es tan rápida?",
+        "¿Contra Seiun Sky? ¿De verdad es tan rápida?"
+      ]
+    },
+    {
+      "name": "King Halo",
+      "text": "¡¿Eh?! No es solo rápida, es—"
+    },
+    {
+      "name": "King Halo",
+      "text": "...¡Hmph! En lugar de preguntar eso,<n>sería mejor que lo vieras con tus\npropios ojos,<n>¿no crees?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, le pido al profesor de Seiun Sky<n>que me deje asistir a su clase."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Vaya, vaya... por fin llegó. El<n>ensayo, quiero decir."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡Esa descripción es terriblemente insuficiente!<n>¡Hoy finalmente\nentenderás cuán de<n>primera soy realmente! ¡Ohohoho!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Oye, lo entiendo, ¿vale? Eres de primera, de<n>acuerdo. Realmente asombrosa."
+    },
+    {
+      "name": "King Halo",
+      "text": "¡No te crees ni una sola de esas<n>palabras!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Hmph, ¡disfrútalo mientras puedas! Porque<n>hoy... ¡hoy es el día en que te\nderrotaré<n>y lograré la victoria!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Derrotarme, ¿eh? Oooh, qué mieeedo."
+    },
+    {
+      "name": "Special Week",
+      "text": "Tanto Sei como King están muy motivadas... Bien,<n>Spe. ¡Sin guardarse nada!"
+    },
+    {
+      "name": "Uma Musume A",
+      "text": "¿Eh? ¿Es Sky una oponente tan aterradora?<n>Realmente no se oyen muchos\nrumores<n>buenos sobre ella, ¿verdad?"
+    },
+    {
+      "name": "Uma Musume B",
+      "text": "Sí, últimamente solo he oído cosas malas<n>sobre ella. ¿Sabías que\nse salta el entrenamiento<n>todos los días?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Bang!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El ensayo comienza con mucha energía.<n>Liderando el grupo está..."
+    },
+    {
+      "name": "King Halo",
+      "text": "<i>Jadea, jadea...</i> ¡¿Q-qué?!"
+    },
+    {
+      "name": "Uma Musume A",
+      "text": "Espera, ¡¿King va a la delantera?! ¿Sky no<n>suele correr como\nadelantada?"
+    },
+    {
+      "name": "Uma Musume B",
+      "text": "Quizá no puede avanzar porque su<n>resistencia bajó por su falta de\nentrenamiento...<n>¿o algo así? Tiene sentido,<n>¿no?"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "<i>Jadea, jadea...</i> ¡Urgh, mi pierna!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Hmph. Había oído sobre sus ausencias, pero<n>¡que haya caído tan bajo!\nQuizá fui una<n>tonta por ser tan cautelosa con ella."
+    },
+    {
+      "name": "King Halo",
+      "text": "Me viene bien. Las cosas van<n>diferente a como imaginé, pero\n¡ser de<n>primera se trata de adaptabilidad!<n>¡Mantendré esta\nventaja hasta la meta!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "King Halo deja de prestar atención a una<n>Seiun Sky tambaleante y sigue\navanzando.<n>La carrera continúa así por un<n>rato..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero cerca del final, ¡el ritmo de King Halo<n>finalmente comienza a\nfrenar!"
+    },
+    {
+      "name": "King Halo",
+      "text": "<i>¡Buf, puff!</i> Mi resistencia... es..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Mhm, King es mejor como la que acelera al final.<n>Para una adelantada como yo, sería\nun verdadero fastidio<n>si se pegara a mi espalda y me pasara en<n>la recta\nfinal."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Y por eso... ¡he estado esperando esto!"
+    },
+    {
+      "name": "King Halo",
+      "text": "Espera—¡¿quéeéé?! ¡¿Sky?!"
+    },
+    {
+      "name": "Uma Musume A",
+      "text": "¿Eh? ¡¿Sky va primero ahora?! No puede ser,<n>¡¿desde cuándo?!"
+    },
+    {
+      "name": "Uma Musume B",
+      "text": "¿No se estaba quedando atrás por su<n>falta de entrenamiento? No me\ndigas...<n>¿que todo esto era parte de su plan desde el principio?!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡King lo puso demasiado fácil! Ahora solo<n>queda—"
+    },
+    {
+      "name": "Special Week",
+      "text": "Todavía no. ¡Esta carrera aún no termina!"
+    },
+    {
+      "name": "Special Week",
+      "text": "¡Haaaaah!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡¿Eh?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El resultado final: Special Week en primer lugar, con<n>Seiun Sky muy cerca en\nsegundo."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Un acelerón aún más tardío para el primero, ¿eh? Spe<n>realmente acelera como un\ncohete..."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "...",
+      "choice_data_list": [
+        "Fue una carrera impresionante.",
+        "Fue una carrera impresionante."
+      ]
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Aunque solo quedé segunda."
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "No fue suficiente. Toda esa preparación, todo<n>ese plan—"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¡¿W-whoooa?! ¡¿Entrenador?! ¿Tú estabas aquí?<n>¿Desde cuándo? Vaya, si estás\naquí<n>¡tienes que decir algo!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "¿Estás solo porque nunca nos vemos<n>en el entrenamiento? Vaya, ¡es\ndifícil ser<n>tan popular!"
+    },
+    {
+      "name": "Seiun Sky",
+      "text": "Lo siento, pero tu autógrafo tendrá que<n>esperar. Estoy agotada, así que\n¡es hora de mi<n>siesta de la tarde! Me llama el deber."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Seiun Sky me deja con esa frase antes de<n>huir de la escena a un ritmo\nmuy rápido."
+    }
+  ]
 }

@@ -1,65 +1,67 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Ahhh―! I worked so hard today, too! \nThese legs are beat!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Wait, oya? There's someone over there――"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Ms. Rice! Where are you headed at this \nhour?"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "M-Ms. Bakushin O! \nUm, I just thought, I would run… for a bit."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Rice also wanted to do her best…. like \neveryone else, and, um……"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "I, I'm so sorry! I'll hurry back… right now… \nbefore the curfew!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Ohhhh～～～! What a hard worker! \nNot to mention, that run……!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Excellent… One of my rivals, indeed! \nMy battered legs are itching to get going!",
-            "choice_data_list": [
-                "You're going to run some more?",
-                "We'll work hard tomorrow.",
-                "We'll work hard tomorrow."
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Excellent… One of my rivals, indeed! \nMy battered legs are itching to get going!",
-            "choice_data_list": [
-                "You're going to run some more?",
-                "We'll work hard tomorrow.",
-                "We'll work hard tomorrow."
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "What a fantastic idea! \nBy all means, let's do it!"
-        },
-        {
-            "text": "After that, Rice Shower and Sakura \nBakushin O did additional training together \nuntil curfew."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Of course I will! \nI'll Bakushin with all my might tomorrow―!"
-        },
-        {
-            "text": "Sakura Bakushin O was already full of \nenergy for tomorrow's training."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Uf! ¡Hoy también corrí con todo mi corazón!<n>Mis piernas"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Eh? ¿Quién anda ahí?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Rice! ¿A dónde vas a una hora tan<n>tarde?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡B-Bakushin O! Bueno... solo pensé... que<n>iría a"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Quiero... esforzarme como todos<n>los demás..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Pe-perdón! ¡Me apuro y vuelvo<n>antes del toque de queda!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Oooh! ¡Eres tan trabajadora! ¿Y<n>vas a"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Maravilloso! No esperaría menos de<n>una de mis",
+      "choice_data_list": [
+        "¿Vas a seguir corriendo?",
+        "Recuerda que también entrenamos mañana.",
+        "Recuerda que también entrenamos mañana."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Maravilloso! No esperaría menos de<n>una de mis",
+      "choice_data_list": [
+        "¿Vas a seguir corriendo?",
+        "Recuerda que también entrenamos mañana.",
+        "Recuerda que también entrenamos mañana."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Qué gran idea! ¡Hagámoslo!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Después de eso, Sakura Bakushin O y yo<n>seguimos"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Por supuesto! Y voy a dar todo de mí<n>"
+    },
+    {
+      "name": "Monologue",
+      "text": "Parece que está más que motivada para<n>"
+    }
+  ]
 }

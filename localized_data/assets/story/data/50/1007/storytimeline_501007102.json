@@ -1,127 +1,131 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "I came for the year's first shrine visit \nwith Gold Ship, but…"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Damnation……!! Why must it…!! \nDamn it, damn it……!!"
-        },
-        {
-            "text": "― Since arriving at the shrine, Gold Ship \nhas been angry about something!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "What happened in a measly year……!? \nWhy did things turn out like this!?",
-            "choice_data_list": [
-                "What are you on about?"
-            ]
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Can't you tell!!? \nI'm talking about yakisoba!!",
-            "choice_data_list": [
-                "Yakisoba…?"
-            ]
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Oh, mercy! This time every year, countless \nstalls are lined up…! And among all them, \nthere was a yakisoba stall!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "And yet…… this year, \nI can't find it anywhere!!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Why for? Are you telling me the yakisoba \ndid something wrong?! Did they…?!",
-            "choice_data_list": [
-                "W-who knows…"
-            ]
-        },
-        {
-            "text": "… I have no clue what's up with \nthe stall. Though I think they \nsometimes just don't have one."
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Damn…… damn it……!! \nTreating yakisoba so carelessly!!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "If that's how it is, I have some ideas too…!!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "I've made up my mind! This year, I'll give \nmy all to become the horsegirl leading \nthe yakisoba world to new heights!!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "I will re-introduce the public to the \nwonders of yakisoba, educate \nand enlighten them—"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "I'm gonna push yakisoba back to the \nworld's number one junk food spot!!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "You're gonna help me, of course!? \nWith that said, where do you think \nwe should start?"
-        },
-        {
-            "text": "I don't know what answer she's expecting \nbut for the moment…",
-            "choice_data_list": [
-                "Have some to put the taste fresh in our minds.",
-                "Learn how to prepare it.",
-                "Come up with novel combinations."
-            ]
-        },
-        {
-            "name": "Gold Ship",
-            "text": "The taste, in our minds?"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "That's true, I need to be the one who \nbest understands yakisoba…"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "If not, I won't be able to convince \nothers of its wonders…"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "So, I will understand you, yakisoba!! \nI'll give you my love… deeper, and \nmore intensely than anyone!!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Preparing… it…?"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "I see, what's lacking is \ncharismatic techniques…!!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "If I could cook up yakisoba out of \nthin air with my divine technique… \nThat would be hit news for sure…!!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "A'ight! I'm gonna take the yakisoba world \nby storm with my illusionist skills!!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Did you just say… novel combinations!?"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "You're absolutely right.…… Stereotypical \nyakisoba ain't gonna change the world…!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Fortunately, we have freedom of expression. \nTo use sweets, to get rid of the noodles \nentirely… I can do whatever I want!!"
-        },
-        {
-            "name": "Gold Ship",
-            "text": "Let's do it, dive into the endless ocean! \nI'll bring the colours of the rainbow \nto yakisoba!!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Me uno a Gold Ship en nuestra<n>primera visita\nal santuario del año nuevo."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Maldición! ¡¿Por qué?! ¡Dime que no es cierto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por alguna razón, Gold Ship se<n>molesta por\nalgo al momento de poner<n>pie en el terreno."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Cómo puede ser? ¡Solo ha pasado un<n>año, y ya!",
+      "choice_data_list": [
+        "¿De qué estás hablando?"
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡El yakisoba, por supuesto! ¿De qué<n>más iba a\nestar hablando?",
+      "choice_data_list": [
+        "...Vas a tener que explicarte."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Cada año en estas fechas, aparecen<n>montones de\npuestos de comida en los<n>santuarios y eso, ¡y\nsiempre ha habido un<n>puesto de yakisoba!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Pero mira! No veo ni un solo puesto<n>de yakisoba\neste año!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡¿Por qué?! ¿Hizo algo malo el<n>yakisoba?! ¡¿Lo\nhizo?!",
+      "choice_data_list": [
+        "N-no tengo idea..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "No sé qué implica instalar los<n>puestos de\ncomida, pero probablemente<n>solo sea una\ncoincidencia que no haya<n>puestos de yakisoba este año."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Maldición tras maldición! ¡Cómo se<n>atreven a\ntratar al yakisoba con tan poca<n>consideración!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Parece que tengo que tomar el<n>asunto en mis\nmanos!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡He tomado una decisión! Este año,<n>me\nnombro a mí misma como la<n>embajadora\nUmamusume del yakisoba!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Difundiré la palabra y educaré al<n>mundo entero\nsobre lo que hace al yakisoba<n>tan genial..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Y no me detendré hasta que el<n>yakisoba\nrecupere su lugar legítimo<n>como la mejor\ncomida chatarra del<n>mundo!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Y tú estarás detrás de mí, ¡por<n>supuesto! Entonces,\n¿cuál es nuestra primera<n>estrategia?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Dudo que haya una respuesta<n>correcta en esta\nsituación, pero intento<n>responder con sinceridad.",
+      "choice_data_list": [
+        "Debemos profundizar nuestro entendimiento de su\ndelicias.",
+        "Tenemos que aprender el arte de hacer yakisoba.",
+        "Tenemos que idear nuevas recetas."
+      ]
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Profundizar nuestro entendimiento, dices?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Sí, es imperativo que sea la<n>degustadora\nnúmero uno del mundo de<n>yakisoba..."
+    },
+    {
+      "name": "Gold Ship",
+      "text": "De otra forma, ¿cómo puedo hacer<n>que otros\nentiendan su rico atractivo?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Escucha, yakisoba! Voy a hacer<n>todo lo posible\npor entenderte! ¡Te amaré<n>más profundamente\ny apasionadamente<n>que nadie!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¿Arte del yakisoba?"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Ahora veo! El problema con el mundo<n>del\nyakisoba es su falta de<n>brillo y arte!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Solo piensa en los titulares si<n>milagrosamente\nsacara un plato de<n>yakisoba de la nada!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Ya conozco mi verdadero camino!<n>¡Revitalizaré\nla industria del yakisoba<n>con trucos de magia\nde nivel épico!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡¿Nuevas recetas?!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Tienes toda la razón... El yakisoba<n>común y\ncorriente no puede conquistar<n>el mundo!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "Por suerte, vivimos en una era de<n>autoexpresión\nsin restricciones. Soy libre<n>de convertir el\nyakisoba en un postre<n>o incluso deshacerme de\nlos fideos por<n>completo!"
+    },
+    {
+      "name": "Gold Ship",
+      "text": "¡Es hora de sumergirse en el<n>océano de\nposibilidades ilimitadas!<n>¡Pintemos el\nhorizonte con un<n>arcoíris de yakisoba!"
+    }
+  ]
 }

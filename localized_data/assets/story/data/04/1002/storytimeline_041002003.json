@@ -1,268 +1,277 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "When stopping by the Training Course today, \nI happened to spot Silence Suzuka running."
-        },
-        {
-            "text": "Since her trainer isn't here, is she doing her training \nindependently? Thinking that, I ended up watching over her."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Haaa… haa…Ah?!",
-            "choice_data_list": [
-                "Are you okay?!",
-                "Are you okay?!"
-            ]
-        },
-        {
-            "text": "When Silence Suzuka stumbled, I panicked and rushed \nto her. Don't tell me she's injured…!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Ah… S-sorry. It's nothing, I'm fine. It's \njust… my feet feel a little heavy…",
-            "choice_data_list": [
-                "Are you feeling out of sorts…?",
-                "Are you feeling out of sorts…?"
-            ]
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Out of sorts… could that be it?"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "…something's wrong with me. Ever since that mock race."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "My legs feel heavy, as if they've been chained. As I keep \nrunning, eventually my vision starts to darken…",
-            "choice_data_list": [
-                "You shouldn't push yourself…",
-                "You shouldn't push yourself…"
-            ]
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Pushing myself…? I'm not doing that. \nNormally, I could keep on running."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "…I've always been running. Always. Running is everything to me."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "However, now… what should I do? This is \nthe first time I've ever felt like this."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "I feel like 'I don't want to run anymore'… \nThis is… the first time…",
-            "choice_data_list": [
-                "Suzuka…"
-            ]
-        },
-        {
-            "text": "It seems like she's really suffering. Is \nthere anything I can do for her…?"
-        },
-        {
-            "text": "For this girl that's lost sight of the excitement \nof running, is there anything?"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Huuu… Yeah… running at night is great, it's nice and quiet"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Now that I think about it, doesn't it seem \nlike the stars are brighter tonight?"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "…hehe. This scenery, I have it all to myself"
-        },
-        {
-            "text": "That reminds me, at that time… when Silence Suzuka was happily \nrunning, she was also enjoying the scenery around her."
-        },
-        {
-            "text": "If that's the case…",
-            "choice_data_list": [
-                "For a change of pace, how about running in a different location?",
-                "For a change of pace, how about running in a different location?"
-            ]
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "A different location…?",
-            "choice_data_list": [
-                "Yeah, like a place with beautiful scenery"
-            ]
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Scenery…"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "But, there isn't a place like that near school. \nI've visited most of the area on my runs…",
-            "choice_data_list": [
-                "In that case, I'll show you",
-                "In that case, I'll show you"
-            ]
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "…is that okay?"
-        },
-        {
-            "text": "I led Silence Suzuka to a place with beautiful scenery where she \ncould run to her heart's content."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Wow…"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "While we were on the train, the sky seems to have cleared up. \nIt's all green and bathed in sunlight… beautiful…"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "That aside, this path… where does it lead…?",
-            "choice_data_list": [
-                "How about running and finding out?",
-                "How about running and finding out?"
-            ]
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Ah…"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "…That's right. I'll go and see."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Haa, haa, haa… Fuuu."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "(My feet still feel a little heavy… but…)"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "…A nice breeze. It feels cool…"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "…Yeah. Let's run a little more."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Haa, haa, haa…"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "(The feeling of both feet kicking the ground… \nmy body is hot, the breeze is cool…)"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "(That's right. If I run like this, if I keep \nrunning like this, then eventually-)"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Haa, haaa…!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "(-I'll finally reach that quiet scenery)"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "(With only the sound of the wind and my beating heart. With \nnobody around, a whole new… world just for me…!)"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "That's right, I…!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Haa, haa… haaaaaaauu…Fuuu.",
-            "choice_data_list": [
-                "You look relieved",
-                "You look relieved"
-            ]
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "…Yes, I am. I ran my heart out, until it emptied my mind."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Because of that…I remembered.",
-            "choice_data_list": [
-                "You remembered?"
-            ]
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "When I was little and just ran and ran, one day, \nmy parents recommended I enter a race."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "I entered the race thinking 'As long as I get \nto run'. At first… it was very stressful"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Being surrounded by so many… it was noisy, and uncomfortable."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "That's why… I thought I should go to a place \nwhere nobody was, and went out in front.",
-            "choice_data_list": [
-                "You 'escaped'",
-                "You 'escaped'"
-            ]
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Yes. I thought 'I have to get to a place that nobody can follow'. \nWhen I ran my hardest, suddenly my eyes were opened."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "It became quiet… I reached that scenery with nobody around."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "…I want to run out in front."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Once more, I want to reach that place again and again. These \nfeelings alone…I won't concede…!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "I think I want to speak with my trainer now. \nTo say \"I can't run without Escaping\"."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Um, and so… um.",
-            "choice_data_list": [
-                "What's wrong?",
-                "What's wrong?"
-            ]
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "…do you think you can come with me? Speaking \nisn't one of my strong points…"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "W-would that be okay…?",
-            "choice_data_list": [
-                "Yeah"
-            ]
-        },
-        {
-            "text": "Let's return to school, and talk to Silence Suzuka's trainer…!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Pasando por la pista de entrenamiento algunos<n>días después, diviso una figura<n>familiar corriendo por la recta final."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es Silence Suzuka. Su entrenadora no se ve por<n>ninguna parte, así que supongo que<n>está haciendo práctica sola."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "<I>Uff... uff...</I>\n¡Ah!",
+      "choice_data_list": [
+        "¡¿Estás bien?!",
+        "¡¿Estás bien?!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me acerco corriendo a Silence Suzuka, que<n>está en el suelo, para asegurarme<n>de que no esté lastimada."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Oh... l-lo siento. Estoy bien, de verdad. Mis<n>piernas solo... se sienten un poco<n>pesadas.",
+      "choice_data_list": [
+        "¿De verdad es solo eso?",
+        "¿De verdad es solo eso?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Me pregunto... Quizá no..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Me he sentido extraña desde mi última<n>carrera de práctica."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Se siente como si tuviera una bola con<n>cadena atada a uno de mis tobillos.<n>Y no<n>importa cuánto corra, solo veo<n>oscuridad...",
+      "choice_data_list": [
+        "Tal vez te estás esforzando demasiado.",
+        "Tal vez te estás esforzando demasiado."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Demasiado? ...No lo creo. Esto nunca<n>fue un problema para mí antes."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Solía poder correr sin preocuparme de<n>nada en el mundo. Era todo<n>para mí."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Pero ahora... ¿Qué debo hacer? ...Nunca<n>me había sentido así antes."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Nunca me había sentido como... como...<n>que ni siquiera quiero correr...",
+      "choice_data_list": [
+        "Suzuka..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su expresión no se parece en nada a esa<n>mirada de felicidad pura que<n>estoy tan<n>acostumbrado a ver cuando corre."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Temo que esté perdiendo de vista su pasión<n>más profunda. Tiene que haber<n>algo que<n>pueda hacer..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Uf! Una pista tranquila solo para mí...<n>Correr de noche es lo mejor."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Y quizá sea solo mi imaginación, pero<n>las estrellas parecen un poco más<n>brillantes<n>esta noche."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Jeje. Tengo este paisaje solo para mí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ahora que lo pienso, habló con tanto cariño<n>de su hermosa vista esa<n>noche. ¿Quizá<n>a Suzuka le gusta contemplar el paisaje?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "En ese caso...",
+      "choice_data_list": [
+        "¿Te gustaría intentar correr en otro lugar?",
+        "¿Te gustaría intentar correr en otro lugar?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿En otro lugar?",
+      "choice_data_list": [
+        "Sí, en un lugar con una vista maravillosa."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Una vista maravillosa..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿De verdad existe un lugar así cerca de la<n>academia? Siento que ya estoy<n>muy<n>acostumbrada a todos los paisajes de por<n>aquí...",
+      "choice_data_list": [
+        "Te mostraré algo nuevo.",
+        "Te mostraré algo nuevo."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿De verdad?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por suerte, tengo justo el lugar en mente.<n>Los alrededores están<n>llenos de<n>vegetación exuberante, y hay mucho<n>espacio abierto para correr."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Guau..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "El cielo se despejó mientras estábamos en<n>el tren. Hay mucha vegetación,<n>bañada por<n>la luz del sol... Es hermoso."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Y este camino de aquí... ¿A dónde<n>lleva?",
+      "choice_data_list": [
+        "¿Por qué no corres un poco y lo descubres?",
+        "¿Por qué no corres un poco y lo descubres?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Oh..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...Buena idea. ¡Vuelvo pronto!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "<I>Uff... uff... uff...</I>\nUf."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "(Mis piernas aún se sienten un poco pesadas. Pero...)"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...Qué brisa tan agradable. Es tan fresca y<n>refrescante."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Bueno... Creo que correré un poco más."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "<I>Uff... uff... uff...</I>"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "(La sensación de patear tierra con mis<n>pies... Mi cuerpo calentándose...<n>La brisa<n>fresca...)"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "(Esto es. Esta sensación... Correr así...)"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "<I>Uff... uff...</I>"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "(Este es mi paisaje ideal...)"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "(Silencio absoluto. Solo los sonidos del<n>viento y mi propio corazón<n>latiente. Este<n>mundo es mío...)"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Y solo mío!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "<I>Uff... uff... uff...</I>\nUf.",
+      "choice_data_list": [
+        "Te ves bastante renovada.",
+        "Te ves bastante renovada."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Sí, mucho. Hacía tiempo que no podía<n>correr así sin preocuparme de<n>nada."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Gracias... Me hizo recordar...",
+      "choice_data_list": [
+        "¿Recordar qué?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Me encantaba correr así incluso cuando<n>era pequeña. Un día, mis padres me<n>animaron<n>a intentar correr en una carrera."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Mientras estuviera corriendo, era feliz, así<n>que acepté correr... Pero...<n>al principio<n>fue muy difícil."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Estaba rodeada de otros niños... Era<n>ruidoso y me sentía atrapada."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Así que corrí... hasta el frente, donde<n>no había nadie más que yo.",
+      "choice_data_list": [
+        "¿Así que \"huiste\"?",
+        "¿Así que \"huiste\"?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Sí. Necesitaba ir a un lugar lejos de<n>los demás, donde no pudieran<n>alcanzarme.<n>Así que corrí tan rápido como pude... y<n>de repente todo se<n>abrió frente a mí."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Era... silencioso. Y estaba sola. Llegué a<n>un lugar al que nadie más podía llegar."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Yo... necesito correr en la delantera."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...¡Necesito llegar a ese lugar, aunque<n>sea solo una vez más! ¡No me<n>importa<n>nada más!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Creo que debería decirle a mi entrenadora<n>exactamente cómo me siento. Que<n>no puedo<n>correr si no estoy al frente."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Em... Así que quizá... ¿Podrías tú...?",
+      "choice_data_list": [
+        "¿Hmm?",
+        "¿Hmm?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Te importaría acompañarme cuando se<n>lo diga? No soy muy buena<n>hablando,<n>ya ves..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "A-así que, por favor ven conmigo.",
+      "choice_data_list": [
+        "Claro."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, regresamos a la academia para<n>hablar con la entrenadora de Silence<n>Suzuka..."
+    }
+  ]
 }

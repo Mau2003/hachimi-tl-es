@@ -2,154 +2,158 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Caster",
-      "text": "Racing's finest are here at the 3,000-meter G2 Hanshin Daishoten \nturf."
+      "name": "Comentarista",
+      "text": "Lo mejor de las carreras se reúne aquí para<n>el Hanshin Daishoten G2 de 3000 metros<n>en césped."
     },
     {
-      "name": "Caster",
-      "text": "Everyone's excited for the face-off between Racers of the Year Narita \nBrian and Mayano Top Gun!"
+      "name": "Comentarista",
+      "text": "¡Todos están emocionados por el enfrentamiento<n>entre las Corredoras del Año Narita<n>Brian y Mayano Top Gun!"
     },
     {
-      "name": "Caster",
-      "text": "The extraordinary crowd at the Hanshin Racecourse is waiting with \nbated breath to see the amazing finish to come!"
+      "name": "Comentarista",
+      "text": "¡El público extraordinario en el Hipódromo<n>de Hanshin espera con el<n>aliento contenido para ver el increíble final que se avecina!"
     },
     {
       "name": "Winning Ticket",
-      "text": "Something about this feels different than Brian's other races."
+      "text": "Algo de esto se siente diferente de las<n>otras carreras de Brian."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Until now we've only been bystanders overwhelmed by Brian's \nachievements."
+      "text": "Hasta ahora solo hemos sido espectadores<n>abrumados por los logros de<n>Brian."
     },
     {
       "name": "Rice Shower",
-      "text": "But now… things are different, right?"
+      "text": "Pero ahora... las cosas son diferentes, ¿verdad?"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Race with all your spirit, Brian. And we'll root for you with all of ours."
+      "text": "Corre con todo tu espíritu, Brian. Y<n>nosotros te animaremos con todo el<n>nuestro."
     },
     {
       "name": "Narita Brian",
-      "text": "I will. Thanks for the encouragement."
+      "text": "Lo haré... Gracias."
     },
     {
       "name": "Gold Ship",
-      "text": "We'd better get to the stands then! I saved us one heck of a spot!"
+      "text": "¡Mejor vamos a las gradas entonces! ¡Guardé<n>un lugar súper bueno para nosotros!"
     },
     {
-      "text": "All right, you should head for the dock. Come on, I'll walk you over."
+      "name": "<username>",
+      "text": "Muy bien, Brian, deberías dirigirte al<n>paddock. Ven, te acompaño."
     },
     {
       "name": "Narita Brian",
-      "text": "Okay… Wish me luck."
+      "text": "Está bien... Me voy entonces."
     },
     {
       "name": "Winning Ticket",
-      "text": "You've got this, Brian!"
+      "text": "¡Tú puedes, Brian!"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "We wish you all the best."
+      "text": "Te deseamos todo lo mejor."
     },
     {
       "name": "Hishi Amazon",
-      "text": "Ah! Here she is!"
+      "text": "¡Ah! ¡Aquí está!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "You look like you're ready. Your desire to run is written all over your \nface."
+      "text": "Pareces lista. Tu deseo de correr se ve<n>por todos lados en tu rostro."
     },
     {
       "name": "Narita Brian",
-      "text": "I'm itching to test the results of my training with you two."
+      "text": "Me muero por probar los resultados de<n>entrenar con ustedes dos."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I don't need to say how skilled Mayano Top Gun is, but your real \nopponent today will be yourself."
+      "text": "No necesito decir lo hábil que es Mayano<n>Top Gun, pero tu verdadera rival<n>hoy serás tú misma."
     },
     {
       "name": "Hishi Amazon",
-      "text": "A one-on-one match against yourself—you'd better win!"
+      "text": "Un duelo uno contra uno contigo<n>misma—¡más te vale ganar!"
     },
     {
       "name": "Narita Brian",
-      "text": "Just watch me."
+      "text": "Sí, lo tengo bajo control."
     },
     {
-      "text": "You've amazed me on countless occasions. Fantastic times, surprising \nfinishes, victories on the biggest stages…"
+      "name": "<username>",
+      "text": "Me has asombrado en montones de ocasiones.<n>Tiempos fantásticos, finales<n>sorprendentes, victorias en las carreras más grandes..."
     },
     {
-      "text": "You've amazed me on countless occasions. Fantastic times, surprising \nfinishes, victories on the biggest stages…"
+      "name": "<username>",
+      "text": "Me has dejado boquiabierta en montones de ocasiones.<n>Momentos fantásticos, finales\nsorprendentes,<n>victorias en las carreras más importantes..."
     },
     {
-      "text": "And I know you're going to continue to amaze me. Nothing's ever \ndampened your drive to win since I met you.",
+      "name": "<username>",
+      "text": "Y sé que vas a seguir<n>asombrándome. Nada ha logrado\napagar tu<n>ansias de ganar desde que te conocí.",
       "choice_data_list": [
-        "And I know you're going to continue to amaze \nme. Nothing's ever dampened your drive to win \nsince I met you."
+        "¡Así que dale con todo, Brian!"
       ]
     },
     {
-      "name": "Trainer",
-      "text": "So go for it, Brian!",
+      "name": "<username>",
+      "text": "Y sé que vas a seguir<n>asombrándome. Nada ha logrado\napagar tu<n>ansias de ganar desde que te conocí.",
       "choice_data_list": [
-        "Heh… I won't disappoint!"
+        "¡Así que dale con todo, Brian!"
       ]
     },
     {
       "name": "Narita Brian",
-      "text": "…"
-    },
-    {
-      "name": "Mayano Top Gun",
-      "text": "So many people are here! They must be excited to see this \nRacer-of-the-Year showdown!"
-    },
-    {
-      "name": "Mayano Top Gun",
-      "text": "And I'm right there with them! I can't wait to race you!"
+      "text": "Je... ¡No te defraudaré!"
     },
     {
       "name": "Narita Brian",
-      "text": "I see…"
+      "text": "..."
     },
     {
       "name": "Mayano Top Gun",
-      "text": "If I'm not mistaken, you can't pull off the dash you used to do before \nyour injury."
+      "text": "¡Hay un montón de gente aquí! ¡Deben estar<n>emocionados por ver este\nduelo por el Corredor del Año<n>!"
     },
     {
       "name": "Mayano Top Gun",
-      "text": "But your passion for racing is still there! Your feelings haven't \nchanged at all!"
+      "text": "¡Y yo estoy igual que ellos! ¡No veo la hora<n>de competir contra ti!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Ya veo..."
     },
     {
       "name": "Mayano Top Gun",
-      "text": "So I've got to race at full throttle too!"
-    },
-    {
-      "name": "Narita Brian",
-      "text": "Hm… It wouldn't be right to say I haven't changed at all."
-    },
-    {
-      "name": "Narita Brian",
-      "text": "I used to run like winning was inevitable. But after losing my dash, \nwinning started to feel impossible."
-    },
-    {
-      "name": "Narita Brian",
-      "text": "Yet the farther away victory seemed, the hungrier I got. Every time it \nslipped through my fingers, it's like I was roused from a sleep."
-    },
-    {
-      "name": "Narita Brian",
-      "text": "I've never been hungrier to run than I am now!"
+      "text": "Si no me equivoco, ya no puedes usar el<n>estilo de carrera que\nempleabas antes de tu lesión."
     },
     {
       "name": "Mayano Top Gun",
-      "text": "Yeah! Great! But I won't lose, Brian!"
+      "text": "¡Pero tu pasión por competir sigue ahí!<n>¡Tus sentimientos no han\ncambiado en absoluto!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Así que yo también debo correr a todo gas!"
     },
     {
       "name": "Narita Brian",
-      "text": "Good, I'm counting on it!"
+      "text": "Mmm... No sería correcto decir que mis<n>sentimientos no han cambiado\nnada."
     },
     {
-      "name": "ナリタブライアン",
-      "text": "ああ、臨むところだ……！"
+      "name": "Narita Brian",
+      "text": "Solía correr como si ganar fuera inevitable.<n>Pero cuando dejar de\nganar se volvió común,<n>empezó a sentirse imposible."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Sin embargo, entre más se alejaba la victoria,<n>más hambre sentía. Cada\nvez que se me<n>escapaba de las manos, era como si mi<n>corazón se\nencendiera una y otra vez."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Ahora estoy <i>ardiendo</i> por ganar!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Sí! ¡Genial! ¡Pero no perderé, Brian!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "¡Bien, cuento con eso!"
     }
   ]
 }

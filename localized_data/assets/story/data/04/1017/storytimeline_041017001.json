@@ -1,145 +1,157 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Throughout every era, and every corner of the world, \nexceptional individuals who seem blessed from birth emerge."
-        },
-        {
-            "text": "This was no different at Tracen Academy ——"
-        },
-        {
-            "name": "Commentator",
-            "text": "First place goes to Symboli Rudolf! She is in a class of \nher own, effortlessly leaving her competitors in the dust! \nThis looks like a strong statement from Symboli Rudolf!"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "<i>Phuh… </i>It seems I've comfortably secured victory."
-        },
-        {
-            "text": "The Selection Race serves as the stage where promising \nhorsegirls aiming to make their debut showcase their \nabilities before the trainers present ——"
-        },
-        {
-            "text": "Symboli Rudolf had clinched the top spot, leaving a \nsubstantial gap between her and the runner-up."
-        },
-        {
-            "text": "The trainers, myself included, were left in a state of disbelief \nafter witnessing her overwhelming ability, which had exceeded \nthe already high expectations placed on her……"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "I extend my heartfelt gratitude to all those who cheered for me \nfrom the stands. Your support made today's victory possible."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Now I ask of you — esteemed trainers. Have you witnessed, \nand acknowledged, my true potential?"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Doubtless, there are numerous areas in which I still fall short, \nand the throne at the pinnacle I strive to reach remains distant."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "All the more reason why I seek a companion who is willing \nto walk the path to it — that imperial road — alongside me."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Should you believe yourself the one \ncapable, I implore you to step forth."
-        },
-        {
-            "name": "Trainers",
-            "text": "………"
-        },
-        {
-            "name": "Rookie Trainer A",
-            "text": "Eugh, impressive speech, but… with a horsegirl of her caliber…"
-        },
-        {
-            "name": "Rookie Trainer B",
-            "text": "Y-Yeah. If she doesn't emerge victorious… it would \nreflect poorly on her trainer, wouldn't it…?"
-        },
-        {
-            "text": "Indeed, from a trainer's perspective, taking charge of someone \nlike Symboli Rudolf is a very high-risk endeavor…"
-        },
-        {
-            "text": "In the end, no one stepped forward to accept \nthis challenge and the trainers dispersed…"
-        },
-        {
-            "text": "…………"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Alright… I should get going!"
-        },
-        {
-            "name": "Commentator",
-            "text": "It's Symboli Rudolf entering the final straight! \nHer speed's increased even further! She's extending \nthe gap to the competition with ease!"
-        },
-        {
-            "name": "Commentator",
-            "text": "No one can catch up! This is a dominant display that makes \nyou believe the Triple Crown isn't beyond reach——!!"
-        },
-        {
-            "text": "—— Symboli Rudolf's incredible, overwhelming \nperformance just wouldn't leave my mind."
-        },
-        {
-            "text": "I didn't sleep very well that night……"
-        },
-        {
-            "text": "The following day, when I found myself \nwalking to the training course ——"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Oh, it's you… I recognize you from the Selection Race."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "A trainer, personally paying a visit to the contender of a \nSelection Race… Can I take it that you are here to scout me?"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "In which case, allow me to ask you one thing. \n…… With what purpose have you come to see me?",
-            "choice_data_list": [
-                "I wanted to see more of your running.",
-                "I wanted to see more of your running."
-            ]
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Hmm, I see. To \"see more of your running\"… \nIn other words, you carry expectations for the future."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "There were in fact two other trainers \nwho visited me after the race."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "One expressed their determination to make me stronger, while \nthe other declared their commitment to walk alongside me."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Trainer, in three days' time I will once more \nput this question to you and the others."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "At that time, I want you to exemplify \nyour answer in some manner."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "I apologize for giving you this test of sorts. \nBut the matter is of great importance to me as well."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "To stand at the top, acknowledged by everyone, \nacting as a guide to every horsegirl — that is \nthe mission I have imposed upon myself."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "One cannot waste time on superficial trivialities \nin the quest to achieve such aspirations."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Until three days from now then. \n… I will eagerly await your answer."
-        },
-        {
-            "text": "Symboli Rudolf locked eyes with me, carrying a calm \nand gentle smile as she delivered those words."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "En cada era, en cada rincón del mundo,<n>siempre hay una persona\nque sobresale<n>por encima de sus compañeras."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En la Academia Tracen, esta máxima se mantiene<n>siempre constante."
+    },
+    {
+      "name": "Comentarista",
+      "text": "¡Y cruzando la meta en primer lugar,<n>con una ventaja abismal sobre\nla competencia, lo hace<n>Symboli Rudolf! ¡Qué actuación!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Uf... Victoria asegurada. Voy por el<n>camino correcto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aquí en las pruebas se reúnen nuevas corredoras prometedoras,<n>ansiosas por demostrar\nsu valía ante<n>los posibles entrenadores."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero... Symboli Rudolf ha ganado con una<n>ventaja tan insuperable que\nsus pobres rivales<n>palidecen en comparación."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Incluso opacó su propio récord personal.<n>El poder puro que\ndemostró<n>nos dejó a todos boquiabiertos."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "A todos en las gradas, permítanme<n>extender mi gratitud. Sus porras de<n>\nánimo me llevaron a esta victoria."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Y a ustedes, entrenadores: ¿mi actuación<n>de hoy cumplió con sus\nexpectativas?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Me doy cuenta de que aún me queda mucho<n>por recorrer en mi viaje a la\ncima, y dejo<n>bastante espacio para mejorar."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Para ello, busco una compañera de armas<n>que marche por este camino\nimperial conmigo."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Si comparten mi visión, les ruego que<n>presenten su nombre."
+    },
+    {
+      "name": "Entrenadores",
+      "text": "..."
+    },
+    {
+      "name": "Entrenadora Nueva A",
+      "text": "E-eso es más fácil decirlo que hacerlo. Ella<n>claramente tiene un talento\nincreíble, pero..."
+    },
+    {
+      "name": "Entrenadores",
+      "text": "S-sí... Si su entrenadora no puede guiarla<n>a la victoria... su\nreputación quedará<n>hecha trizas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No se equivocan. Desde la perspectiva de<n>un entrenador, hacerse cargo\nde una corredora<n>como Symboli Rudolf es un gran riesgo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al final, nadie puede reunir el valor<n>para postularse, y todos<n>nos dispersamos."
+    },
+    {
+      "name": "Entrenadores",
+      "text": "..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Firme, ahora... ¡Un último esfuerzo!"
+    },
+    {
+      "name": "Comentarista",
+      "text": "Con la recta final frente a ella,<n>Symboli Rudolf acelera,\ndejando<n>atrás a sus competidoras!"
+    },
+    {
+      "name": "Comentarista",
+      "text": "¡Es imparable! ¡Su reinado es absoluto!<n>¡Estamos presenciando una\ncarrera digna de<n>la Triple Corona!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No importa cuánto lo intente, no puedo<n>sacar de mi mente las\nzancadas abrumadoramente<n>poderosas de Symboli Rudolf."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No hace falta decirlo, esa noche el sueño<n>no me llega fácilmente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, me dirijo a los<n>campos de entrenamiento."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ah, una entrenadora... Recuerdo haberla<n>visto en las pruebas."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Estuvo en la carrera, y ahora ha venido<n>a hablar conmigo directamente.\n¿Puedo<n>suponer que está aquí para reclutarme?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Entonces solo tengo una pregunta para<n>usted: ¿por qué desea ser mi\nentrenadora?",
+      "choice_data_list": [
+        "Quiero ver más de tu forma de correr.",
+        "Quiero ver más de tu forma de correr."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Mmm, ya veo. \"Más de mi forma de correr\",<n>dice. Supongo que eso\nsignifica que ve<n>potencial futuro en mí."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Para su referencia, usted es la tercera<n>entrenadora con la que tengo\nesta conversación."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "El primero habló de su determinación<n>para hacerme más fuerte. La\nsegunda habló<n>de su compromiso para trabajar<n>juntos hacia mi meta."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Dentro de tres días, les pediré a cada una<n>su razonamiento de nuevo."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Me gustaría que me proporcionara un<n>ejemplo concreto de su plan\nentonces."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Me disculpo por ponerla a prueba así. Pero<n>no puedo tomar la\ndecisión a la ligera, ya ve."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Debo estar en la cima absoluta, como una<n>luz guía para todas las\nUmamusume. Esa es<n>la misión que me he encomendado."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Si he de alcanzar alturas tan elevadas,<n>no me puedo permitir\ncompromisos."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Bueno, entonces. Nos veremos de nuevo<n>dentro de tres días. Espero\ncon ansias su respuesta."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y mientras sus últimas palabras salen de<n>sus labios, Rudolf me mira\ndirectamente a los<n>ojos con una sonrisa tranquila y serena."
+    }
+  ]
 }

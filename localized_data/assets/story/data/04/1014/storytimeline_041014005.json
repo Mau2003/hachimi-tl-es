@@ -1,149 +1,154 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "The weekend was finally here. I'd taken care of \nall the work that had piled up and was getting \nready to start training in the afternoon……"
-        },
-        {
-            "text": "(<i>Thud-ud-ud-ud-ud-ud!!</i>)"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Buueeeenos taardeeeeees!! \nFeeling good, Trainer?!",
-            "choice_data_list": [
-                "I can tell you are.",
-                "I can tell you are."
-            ]
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "That's right, El's always feeling good! \nOn-track or off-track, I perform in top fooorm!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Hn? ……Trainer, you look a little tired. \nWe haven't started yet, you know!?",
-            "choice_data_list": [
-                "Fatigue's been catching up with me…"
-            ]
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Qué!? Why!? How!? The sun's shining \nright above! It's too early to fizzle out!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "No, no! We're aiming for the world here! \nHow can we do that without energy!?"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "¡Hala, find the strength in your core! Take a breath! \nFill your lungs with fresh air!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "¡Vamos, Trainer! We're going to run!!",
-            "choice_data_list": [
-                "<i>We!?</i>",
-                "<i>We!?</i>"
-            ]
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Yeah!! When I feel good, I'm always running! \nSo running makes you happy!! Let's goooo!!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "<i>¡Uno dos tres!</i> Raise your thighs more!! \nFollow El's lead! A-one, and a-two!!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "That's it! Keep it up! Now get ready to take off with meee!!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Shout oouut! Jump uuup! Ignite your fightiing spiriiiit! \n¡¡¡Olé, 10 more tiiiimes!!!"
-        },
-        {
-            "text": "…… Led by El Condor Pasa, I ran laps around the training track."
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Bueno!! Now that's El's trainer! \nYou look good when you're fired up!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Especially on that last lap, I felt your burning passion! \nGreat job, you get a flower mark!💮",
-            "choice_data_list": [
-                "T-Thanks……"
-            ]
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "<i>Nah-ha-ha-ha!</i> You're welcome! We sure worked up \na good sweat! Another day of great training…"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Hmm? Training?"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Trainer! We haven't done any actual training yet!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Hurry up, ring the gong at full speed! \nIt's training tiii—"
-        },
-        {
-            "text": "(<i>Diing-doong-daang-doong</i>)"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Qué!? That's the bell……!?"
-        },
-        {
-            "name": "Horsegirl A",
-            "text": "<i>Aah</i>～ This week was so tiring! \nHey, wanna drop by the convenience store?"
-        },
-        {
-            "name": "Horsegirl B",
-            "text": "Sounds good, I want some sweets and just chill for the day～"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Wha— Whawhawha…… Everyone's leaving…… \nThis can't be… It's time to go home already…?"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Does that mean our training is over……?",
-            "choice_data_list": [
-                "I'll hang out with you a while longer."
-            ]
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Trainer……!!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "<i>Woooh</i>, El's a lucky girl! I'm so happy you're my trainer!!"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Well, let's pull ourselves together and go train! We're going to \nchase that sunset to the riverbank… no, to the ocean!",
-            "choice_data_list": [
-                "…… Let's keep it reasonable, yeah?",
-                "…… Let's keep it reasonable, yeah?"
-            ]
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "Yeah, yeaah. I get it so let's gooo!"
-        },
-        {
-            "text": "Training with El Condor Pasa was fun, but very exhausting…"
-        },
-        {
-            "name": "El Condor Pasa",
-            "text": "What are you waiting for, Trainer! I'm gonna leave you behiiind!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Por fin es viernes. Estoy terminando la<n>última parte del trabajo y\npreparándome<n>para el entrenamiento de la tarde cuando..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Pum, pum, pum!</i>"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Bueeeeenas tardeeees! ¿Cómo estás,<n>Entrenador!",
+      "choice_data_list": [
+        "Veo que estás tan emocionada como siempre, El.",
+        "Veo que estás tan emocionada como siempre, El."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Síp, ¡siempre estoy llena de energía! Ya sea<n>que esté en el césped o\nno, ¡siempre voy a<n>toda marcha!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Hm? ¿Te sientes un poco indispuesto,<n>Entrenador? ¡Pero estábamos a\npunto de<n>empezar a entrenar!",
+      "choice_data_list": [
+        "Supongo que el cansancio me está alcanzando..."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡¿Qué?! ¡¿Cómo es posible?! ¡¿Qué pasó?!<n>El sol está afuera—es\ndemasiado temprano<n>para estar agotado!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Vamos, ¿no aspiramos a ser los más<n>fuertes del mundo? ¡Si no\nestamos\nenérgicos, entonces qué somos?!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Ahora, mete la panza! ¡Luego, inspira!<n>¡Mete ese aire fresco en tus\npulmones!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Anímate, Entrenador—vamos a correr!",
+      "choice_data_list": [
+        "¡¿Una corrida?! ¡¿Ahora mismo?!",
+        "¡¿Una corrida?! ¡¿Ahora mismo?!"
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Sí! ¡Siempre corro cuando estoy<n>enérgica! ¡Lo que significa que\ncorrer te da energía!<n>¡Vamos, vámonoooooos!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Uno, dos, tres! ¡Levanta esos muslos!<n>¡Ajusta tu cadencia a mi\nritmo!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Bien! ¡Justo así! Lo siguiente, ¡vuela conmigo<n>por el cielo!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Grita! ¡Salta! ¡Deja que los fuegos de la<n>pasión ardan con fuerza!\nBien, ¡solo nos<n>quedan diez vueltas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, terminamos nuestra sesión de<n>entrenamiento improvisada con El\ncomo mi entrenadora."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Bueno! ¡Me alegra haberte elegido como mi<n>entrenador! ¡Hacemos un\ngran equipo!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Realmente sentí tu pasión en esa última<n>vuelta. Estoy orgullosa de ti.\n¡Obtienes un A+!",
+      "choice_data_list": [
+        "G-gracias..."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Jaaajajaja! ¡De nada! Nosotros<n>trabajamos hasta sudar bien,\n¿verdad?<n>Otro día productivo de entrenamiento—"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¿Eh? ¡¿Entrenamiento?!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Entrenador! ¡Hoy todavía no he hecho ningún entrenamiento<n>hoy!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Rápido, velozmente—con agilidad! ¡Hagamos sonar<n>el gong! Ahora es cuando el\nverdadero entrenamiento<n>comien—"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Din-don, bin-bon...</i>"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡¿Qué?! ¡La campana! Pero eso significa—"
+    },
+    {
+      "name": "Uma Musume A",
+      "text": "<i>Uf...</i> Esta semana fue súper pesada. Oye,<n>¿quieres pasar por la\ntienda de conveniencia?"
+    },
+    {
+      "name": "Uma Musume B",
+      "text": "Claro que sí. Solo quiero agarrar algo<n>dulce y relajarme."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡¿Q-qu-qué?! Todos están dejando la<n>pista... No me digas... ¿Ya es\nhora de<n>ir a casa?"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Entrenador, ¿eso significa que nosotros también<n>terminamos?",
+      "choice_data_list": [
+        "Puedo hacerte compañía un rato más."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Entrenadooor!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡Gah, estoy tan feliz! ¡Me alegra haberte elegido como<n>mi entrenador!"
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Muy bien, ¡hora de volver a enfocarnos y<n>empezar a entrenar! ¡Corramos\nhacia la puesta<n>del sol hasta esa ribera—no, ¡hasta el mar!",
+      "choice_data_list": [
+        "...Mejor no nos pasemos.",
+        "...Mejor no nos pasemos."
+      ]
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "Lo sé, lo sé. ¡No te preocupes tanto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Entrenar con El es muy divertido, pero me<n>pregunto si podré caminar\nmañana..."
+    },
+    {
+      "name": "El Condor Pasa",
+      "text": "¡¿En qué estás pensando, Entrenador?! ¡Te<n>voy a dejar atrás!"
+    }
+  ]
 }

@@ -3,213 +3,242 @@
   "text_block_list": [
     {
       "name": "Mejiro McQueen",
-      "text": "The spring Tenno Sho that my third win depends on—I'd like Rice \nthere too."
+      "text": "El Tenno Sho de primavera del que<n>depende mi tercera victoria—<n>quiero que Rice también esté allí."
     },
     {
-      "text": "Rice… in the Tenno Sho?"
+      "name": "<username>",
+      "text": "¿Rice... en el Tenno Sho?"
     },
     {
-      "text": "Why risk her chance to make history by letting another strong \ncontender onto the field?"
-    },
-    {
-      "name": "Mejiro McQueen",
-      "text": "The booing at the Kikuka Sho…"
-    },
-    {
-      "name": "Mejiro McQueen",
-      "text": "Denying Bourbon's Triple Crown was a feat worthy of praise, and yet \nthe exact opposite reactions were the loudest."
+      "name": "Monólogo",
+      "text": "¿Por qué arriesgar su oportunidad de<n>hacer historia dejando que otra<n>fuerte contendiente entre en la<n>pista?"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "As chance would have it, the stakes at the Kikuka Sho are closely \nmirrored by the upcoming Tenno Sho.",
+      "text": "Los abucheos en la Kikuka Sho..."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Negar la Triple Corona de Bourbon<n>fue una hazaña digna de elogio, y<n>sin embargo las reacciones<n>exactamente opuestas fueron las<n>más fuertes."
+    },
+    {
+      "name": "Mejiro McQueen",
+      "text": "Como quiso el destino, las<n>apuestas en la Kikuka Sho se<n>reflejan de cerca en el próximo<n>Tenno Sho.",
       "choice_data_list": [
-        "So you want Rice to run because…"
+        "Entonces quieres que Rice corra porque..."
       ]
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Because there's a certain sight I would have her see there."
+      "text": "Porque hay una cierta visión que<n>quiero que vea allí."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Some things can only be taught by a fellow runner, and I wish to take \non that responsibility."
+      "text": "Algunas cosas solo pueden ser<n>enseñadas por una compañera<n>corredora, y deseo tomar esa<n>responsabilidad."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "You, Trainer, have your own part to play—getting Rice into the Tenno \nSho."
+      "text": "Usted, Entrenador, tiene su propia<n>parte que desempeñar—lograr que<n>Rice entre en el Tenno Sho."
     },
     {
-      "text": "The importance of this race for McQueen cannot be understated."
+      "name": "Monólogo",
+      "text": "La importancia de esta carrera para<n>McQueen no puede ser subestimada."
     },
     {
-      "text": "No doubt she thought long and hard before making this request."
+      "name": "Monólogo",
+      "text": "Sin duda pensó mucho y<n>detenidamente antes de hacer esta<n>petición."
     },
     {
-      "text": "But is she really okay with this? Won't Rice being there distract her \nfrom her own running?",
+      "name": "Monólogo",
+      "text": "Pero ¿realmente está bien con esto?<n>¿Que Rice esté allí no la<n>distraerá de su propia carrera?",
       "choice_data_list": [
-        "You might not get another shot at three \nconsecutive wins. Are you sure about this?",
-        "You might not get another shot at three \nconsecutive wins. Are you sure about this?"
+        "Podrías no tener otra oportunidad de tres<n>victorias consecutivas. ¿Estás segura de esto?",
+        "Podrías no tener otra oportunidad de tres<n>victorias consecutivas. ¿Estás segura de esto?"
       ]
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Heh. You think I'm going to lose, do you? I am <i>very</i> hurt."
+      "text": "Je. ¿Crees que voy a perder, verdad?<n>Estoy <i>muy</i> herida."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "For the record, I have no intention of losing. On my pride as a Mejiro, \nI <i>shall</i> achieve my third consecutive Tenno Sho title."
+      "text": "Para que conste, no tengo intención<n>de perder. Por mi orgullo como<n>Mejiro, <i>lograré</i> mi tercer título<n>consecutivo del Tenno Sho."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "You sure have a difficult job before you. No matter which of us wins, \nyou'll have to console the other."
+      "text": "Seguro que tienes un trabajo<n>difícil por delante. No importa<n>cuál de nosotras gane, tendrás que<n>consolar a la otra."
     },
     {
-      "text": "She flashes a teasing smile, but the upcoming race is anything but fun \nand games to her."
+      "name": "Monólogo",
+      "text": "Ella muestra una sonrisa<n>burlona, pero la próxima carrera<n>no es nada divertida y juegos<n>para ella."
     },
     {
-      "text": "If this sight she wants Rice to see is that important to her, then who \nam I to say no?",
+      "name": "Monólogo",
+      "text": "Si esta visión que quiere que Rice<n>vea es tan importante para ella,<n>entonces ¿quién soy yo para decir<n>que no?",
       "choice_data_list": [
-        "All right, I'll have Rice run too.",
-        "All right, I'll have Rice run too."
+        "Está bien, haré que Rice corra también.",
+        "Está bien, haré que Rice corra también."
       ]
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Good. I trust you'll keep your word."
+      "text": "Bien. Confío en que cumplirás tu palabra."
     },
     {
-      "text": "At training the following day…"
+      "name": "Monólogo",
+      "text": "En el entrenamiento del día siguiente..."
     },
     {
       "name": "Rice Shower",
-      "text": "<i>Pant, pant…</i> Um, how was my time?"
+      "text": "<i>Jadeo, jadeo...</i> Um, ¿cómo fue mi tiempo?"
     },
     {
-      "text": "Her times aren't bad. But when she practices <i>against</i> anyone, she just \ncan't win."
+      "name": "Monólogo",
+      "text": "Sus tiempos no son malos. Pero<n>cuando practica <i>contra</i> alguien,<n>simplemente no puede ganar."
     },
     {
-      "text": "Getting booed at the Kikuka Sho has made her shy away from being \ncompetitive."
+      "name": "Monólogo",
+      "text": "Ser abucheada en la Kikuka Sho la<n>ha hecho alejarse de ser<n>competitiva."
     },
     {
-      "text": "Good. You'll be able to contend in the big leagues."
+      "name": "<username>",
+      "text": "Bien. Podrás competir en las grandes<n>ligas."
     },
     {
-      "text": "Good. You'll be able to contend in the big leagues."
+      "name": "<username>",
+      "text": "Bien. Podrás competir en las grandes<n>ligas."
     },
     {
       "name": "Rice Shower",
-      "text": "The big leagues? Have you decided my next race?"
+      "text": "¿Las grandes ligas? ¿Ya decidiste mi<n>próxima carrera?"
     },
     {
-      "text": "She won't like the decision. But if she's to ever win again…",
+      "name": "Monólogo",
+      "text": "No le gustará la decisión. Pero si es<n>para que vuelva a ganar alguna vez...",
       "choice_data_list": [
-        "You'll be running in the spring Tenno Sho.",
-        "You'll be running in the spring Tenno Sho."
+        "Correrás en el Tenno Sho de primavera.",
+        "Correrás en el Tenno Sho de primavera."
       ]
     },
     {
       "name": "Rice Shower",
-      "text": "…What? The spring Tenno Sho?!"
+      "text": "...¿Qué? ¡¿El Tenno Sho de primavera?!"
     },
     {
-      "text": "You have what it takes. You proved that at the Kikuka Sho."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "B-but… McQueen has her third consecutive Tenno Sho riding on that \nrace…"
+      "name": "<username>",
+      "text": "Tienes lo que se necesita. Lo<n>demostraste en la Kikuka Sho."
     },
     {
       "name": "Rice Shower",
-      "text": "It's <i>so</i> important to her, I can't compete. Even if I win, I'll just…"
+      "text": "P-pero... McQueen tiene su tercera<n>victoria consecutiva del Tenno Sho<n>en juego en esa carrera..."
     },
     {
-      "text": "Rice Shower hangs her head as if she can hear the boos again."
+      "name": "Rice Shower",
+      "text": "Es <i>tan</i> importante para ella, no puedo<n>competir. Incluso si gano, solo..."
     },
     {
-      "text": "Practice ends without her agreeing to the race."
+      "name": "Monólogo",
+      "text": "Rice Shower baja la cabeza como si<n>pudiera oír los abucheos de nuevo."
     },
     {
-      "text": "I won't force her to race if she doesn't want to, but this can't go on \nforever."
+      "name": "Monólogo",
+      "text": "El entrenamiento termina sin que ella<n>acepte la carrera."
     },
     {
-      "name": "Mihono Bourbon",
-      "text": "You're Rice's trainer?"
-    },
-    {
-      "text": "Mihono Bourbon interrupts her training to talk to me."
-    },
-    {
-      "text": "Hey, Bourbon. Training all by yourself?"
-    },
-    {
-      "text": "Hey, Bourbon. Training all by yourself?"
+      "name": "Monólogo",
+      "text": "No la obligaré a competir si no<n>quiere, pero esto no puede<n>continuar para siempre."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Yes. An injury I sustained after the Kikuka Sho has finally healed."
+      "text": "¿Eres el entrenador de Rice?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mihono Bourbon interrumpe su<n>entrenamiento para hablar conmigo."
+    },
+    {
+      "name": "<username>",
+      "text": "Hola, Bourbon. ¿Entrenando solo?"
+    },
+    {
+      "name": "<username>",
+      "text": "Hola, Bourbon. ¿Entrenando solo?"
     },
     {
       "name": "Mihono Bourbon",
-      "text": "How is Rice doing? Is she still hung up on what happened?"
+      "text": "Sí. Una lesión que sufrí después de la<n>Kikuka Sho finalmente se ha<n>curado."
     },
     {
-      "text": "Bourbon was up on that stage too, right beside Rice."
+      "name": "Mihono Bourbon",
+      "text": "¿Cómo está Rice? ¿Todavía está<n>obsesionada con lo que pasó?"
     },
     {
-      "text": "She saw firsthand how much damage the booing did.",
+      "name": "Monólogo",
+      "text": "Bourbon también estaba en ese<n>escenario, justo al lado de Rice."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella vio de primera mano cuánto<n>daño hicieron los abucheos.",
       "choice_data_list": [
-        "She's… not quite back to her usual self.",
-        "She's… not quite back to her usual self."
+        "Ella... no está del todo como siempre.",
+        "Ella... no está del todo como siempre."
       ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "I see…"
+      "text": "Ya veo..."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "…I train after-hours like this not because of some directive to achieve \nvictory, but because I want to."
+      "text": "...Entreno después de horas así no<n>por alguna directiva para lograr la<n>victoria, sino porque quiero."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "I simply can't stifle the urge to run. And it all started when I lost to \nRice."
+      "text": "Simplemente no puedo sofocar el<n>deseo de correr. Y todo comenzó<n>cuando perdí contra Rice."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "I want to race her again, and I want to win this time. That is why I \ntrain."
+      "text": "Quiero competir contra ella de nuevo,<n>y quiero ganar esta vez. Por eso<n>entreno."
     },
     {
-      "text": "Rice was the first ever to put a scratch on Bourbon's undefeated \nrecord."
+      "name": "Monólogo",
+      "text": "Rice fue la primera en poner una<n>marca en el récord invicto de<n>Bourbon."
     },
     {
-      "text": "Sounds like she's converted that setback into motivation."
+      "name": "Monólogo",
+      "text": "Parece que ha convertido ese<n>revés en motivación."
     },
     {
-      "text": "Rice was exactly the same way. Having a rival pushed her to work \nharder."
+      "name": "Monólogo",
+      "text": "Rice era exactamente igual. Tener una<n>rival la impulsó a trabajar más<n>duro."
     },
     {
       "name": "Mihono Bourbon",
-      "text": "…Is there anything I can do? In order to meet her on the turf once \nmore."
+      "text": "...¿Hay algo que pueda hacer? Para<n>poder encontrarme con ella en el<n>césped una vez más."
     },
     {
-      "text": "Bourbon…"
+      "name": "<username>",
+      "text": "Bourbon..."
     },
     {
-      "text": "\"I want to win.\" The same ambition that Rice has lost, Bourbon has \ngained anew."
+      "name": "Monólogo",
+      "text": "\"Quiero ganar\". La misma ambición<n>que Rice ha perdido, Bourbon la ha<n>ganado de nuevo."
     },
     {
-      "text": "If Rice could see Bourbon now…",
+      "name": "Monólogo",
+      "text": "Si Rice pudiera ver a Bourbon ahora...",
       "choice_data_list": [
-        "Yeah, I could use your help.",
-        "Yeah, I could use your help."
+        "Sí, podrías ayudarme.",
+        "Sí, podrías ayudarme."
       ]
     },
     {
       "name": "Mihono Bourbon",
-      "text": "Understood. I'll do as you wish—I mean, it is my wish to help."
+      "text": "Entendido. Haré lo que desee—digo,<n>es mi deseo ayudar."
     },
     {
-      "text": "Noticing the semblance of a smile on Bourbon's lips, I can't help but \nfeel like things are looking up."
+      "name": "Monólogo",
+      "text": "Al notar el atisbo de una sonrisa en<n>los labios de Bourbon, no puedo<n>evitar sentir que las cosas<n>mejoran."
     }
   ]
 }

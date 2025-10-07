@@ -1,24 +1,25 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Sakura Bakushin O",
-            "text": "As expected of Trainer!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "That technique! Truly the work of a master! \nYou've shown me something truly great!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Aaall right, now I've got to show my stuffed \nanimals to my class!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Here we go, Bakushinbakushiiiin!!"
-        },
-        {
-            "text": "――That was a fair result!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Sabía que podías hacerlo!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Esa técnica fue magistral! Gracias por<n>mostrarme\nalgo tan maravilloso!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Muy bien! ¡Tengo que presumir este<n>nuevo peluche\ncon mis compañeras!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Vamos! ¡Bakushin, BAKUSHIIIN!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Eso salió bastante bien!"
+    }
+  ]
 }

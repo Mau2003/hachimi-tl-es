@@ -1,247 +1,256 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Tokai Teio",
-            "text": "Summer, the sea, and training! \nBus, continue forward towards our lodging! Go, go, go!"
-        },
-        {
-            "text": "Our summer training has finally come. \nThe bus moved forward, aiming for the sea.",
-            "choice_data_list": [
-                "You seem pretty excited, Teio.",
-                "You seem pretty excited, Teio."
-            ]
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Of course I am! After all, this summer is my big chance♪ \nWith this training camp, I'll catch up to Prez in one go!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "And once I get strong, I'll surprise her! Then she'll \npraise me and pat me! Plus you'll be happy for me too!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "So when we get there, \nI'm going to train as hard as I can! But before then♪"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Let's sing a song. Excuse me, Guide Lady, can I \nborrow the mic? I'll show you what everyone's \nfavorite Uma Musume can do♪"
-        },
-        {
-            "text": "With the momentum of karaoke behind her, \nTokai Teio's intensive summer training finally began."
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Dashing across the sand is so easy! \nI feel like I can keep going forever!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Trainer, how was my form? You were \nwatching, right? I'm counting on you, you know?"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Mountain slopes! They're so fun 'cause \nthey're uneven! Let's skip up them!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "You're coming too, right, Trainer? \nTraining alone is just so boring! \nLet's get to the top and have dinner together!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Now that we're done running, let's play with fireworks! \nLook, Trainer! It's a pinwheel firework! Look at it spin!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Ahahaha! I want to jump more! Just like this!"
-        },
-        {
-            "text": "I did my best to keep up with Tokai Teio's intensity, but…"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "It's morning! Let's do our best today! \nWhoo! Let's run together, then do \nsome swimming, and then…"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Huh? Trainer?! Trainer!!"
-        },
-        {
-            "text": "As I opened my eyes, I noticed \nthat I was lying flat on a cold, wooden floor."
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Oh, Trainer, are you awake? \nYou just suddenly fell. I was so surprised.",
-            "choice_data_list": [
-                "How long have I been out?",
-                "How long have I been out?"
-            ]
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "About 30 minutes. But don't worry about my training! \nWe'll be fine as long as we just get back \ninto training. I'm so excited for more training♪"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "But why did you collapse? \nHave you not been getting enough sleep?"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Oh, I think I get it! \nYou were so excited that you couldn't sleep, huh? \nHehe, I didn't get much sleep either. \nI was up all night gaming…",
-            "choice_data_list": [
-                "…"
-            ]
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Hmm? Why are you so quiet? \nOh, I bet it's 'cause I got it right! \nAhaha! Staying in a new place is just so exciting!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Wait…? Trainer, were you always \nthat excitable? Something feels off… wait!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Did you collapse because of me?! \nWas it 'cause I dragged you along so much…?"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "………"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "I knew it… you're not as strong as I am. \nYet I still forced you to do so much training…",
-            "choice_data_list": [
-                "Don't worry about it, \nlet's go back to training…",
-                "Don't worry about it, \nlet's go back to training…"
-            ]
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Trainer…"
-        },
-        {
-            "text": "There's no way I could let her take a day off. \nShe's way too self-conscious, \nshe'd be very upset if we were to do so."
-        },
-        {
-            "text": "So I need to bear with this…"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Trainer, I'm going to take today off…",
-            "choice_data_list": [
-                "Huh?"
-            ]
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Don't say \"huh\"! We're taking \ntoday off, got it?! No training, only rest!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "You still look pale, so I'm not going to force you to \npush yourself. So it's decided. No more training today!",
-            "choice_data_list": [
-                "But I need to help you \ncatch up to the President…"
-            ]
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Nngh… I may not be able to reach that goal \nas soon as I had thought, but that doesn't matter!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Without you, I wouldn't be able to grow! \nPlus… it wouldn't be like me."
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "I'm not sure how to put it, but I don't like the \nidea of not having you. That being said, Prez \ndoes train alone…"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "I want to move forward with everyone."
-        },
-        {
-            "text": "With the sounds of the cicadas \nsurrounding us, Tokai Teio began her story."
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "I want to have fun. Of course I want to win, but \nI want to win in a cool way! A way that I can be \nproud of, and that I can be praised for."
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "I want to continue to be able to celebrate my \nvictories with you, like we did at the arcade \nthe other day. With you, and with my friends. \nBut more than that…",
-            "choice_data_list": [
-                "More than that?"
-            ]
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "I know that bad things might happen before we \nmake it there. I may be unbeatable, but there \nare things that even I can't control."
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Yeah, just like that one time. Remember how when \nI went overboard and hurt myself, you helped me \nout? Just like that."
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Prez may be able to do things on her own, \nbut I have people that I can rely on."
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "So without you, I'd be in a real bad spot. I \nwouldn't know what to do. So…",
-            "choice_data_list": [
-                "Teio…"
-            ]
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Let's take today off. Ahem! Changing the \nschedule based on the situation is super \nimportant, Trainer-kun.",
-            "choice_data_list": [
-                "Wait, isn't that…",
-                "Wait, isn't that…"
-            ]
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Ahaha, you remembered? This is payback♪ Now that \nyou've collapsed from overwork, it's my turn to \nteach you a lesson!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Ooh! Why don't I give you a massage?"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Tickle tickle tickle tickle tickle tickle!"
-        },
-        {
-            "text": "The two of us played around, joking and laughing. Then…"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Hey, Trainer. I'm fine with \ncalling off training today, but in exchange…"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Why don't we go to the summer festival together tonight? \nI bet we'll have a lot of fun. So how about it?",
-            "choice_data_list": [
-                "Sure, why not?",
-                "Sure, why not?"
-            ]
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Yay! It's a promise! Let's have a \nlot of fun, and eat a whole bunch of food!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Woah, it's so shiny and sparkly♪ Hey, Trainer! \nLet's go and buy some masks! Which one should I get?"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Mister, I gimme two! I'll have that one! \nYeah, the pink one please♪"
-        },
-        {
-            "text": "The sound of her joyous voice resounded through \nthe night. She ran, played, and laughed \nthroughout the night. And afterwards, she \nproceeded through the training, full speed ahead."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tokai Teio",
+      "text": "¡Es verano! ¡Y verano significa playa!<n>¡Y playa significa campamento de<n>entrenamiento! ¡A toda velocidad! ¡Al campamento! ¡Vamos, vamos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El verano está aquí, y con él el campamento de<n>entrenamiento de verano. Nuestro autobús<n>parte. Su destino: la reluciente orilla del mar.",
+      "choice_data_list": [
+        "Alguien está emocionada.",
+        "Alguien está emocionada."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Obvio! ¡Este verano es mi gran oportunidad! ♪<n>Para cuando regresemos, voy a ser<n>más rápida que la Presidenta!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Seré tan fuerte, que ella se sorprenderá, y<n>me colmará de elogios, y me acariciará la<n>cabeza, y ¡oh sí! Tú también estarás orgulloso de mí,<n>¿verdad?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Así que una vez que lleguemos, ¡dame la<n>rutina más dura que tengas! Oh, pero antes<n>de eso... ♪"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Hora de una canción! Disculpa, ¿puedes pasarme<n>el micrófono? ¡Esta es la número<n>uno Teio, cantando<n>su canción número uno!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después, Teio se sumerge de lleno en su<n>entrenamiento de verano con la misma<n>pasión con la que cantó karaoke."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Bam bam bam bam! ¡Los sprints en la playa son demasiado<n>fáciles! ¡Podría hacer esto todo el día!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Entrenador, ¿cómo está mi forma? Asegúrate de<n>estar prestando atención. Cuento contigo, ¿de<n>acuerdo?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Una pendiente! Los senderos de montaña siempre son<n>accidentados y divertidos. Vamos, vamos, con un<n>salto, brinco, y ¡un salto!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Tú <i>sí</i> vienes, ¿verdad? No es divertido<n>sola. Una vez que lleguemos a la cima,<n>podemos hacer un picnic!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Vamos, después de esa carrera tengo ganas de<n>fuegos artificiales! Mira, Entrenador, soy un<n>fuego artificial giratorio! ¡Gira, gira, gira!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Ajaja! Se supone que debes saltar arriba y<n>abajo! Así—¡hup, hah, whoo! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sin duda, está aprovechando al máximo el campamento<n>de entrenamiento. Y yo estoy aquí para todo<n>el emocionante viaje..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Buenos días! ¡Mantengamos la energía hoy!<n>¡Whoo! Más carrera juntos, y<n>natación, y..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Eh? ¿Entrenador? ¡Entreeenadooor!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cuando vuelvo en mí, me encuentro tendido en el<n>frío suelo de madera."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Oh, Entrenador, estás despierto. Me asustaste<n>hasta la muerte, desmayándote así de<n>repente.",
+      "choice_data_list": [
+        "¿Cuánto tiempo estuve inconsciente?",
+        "¿Cuánto tiempo estuve inconsciente?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Como treinta minutos? ¡Así que el entrenamiento no ha<n>terminado todavía! Si aceleramos el paso,<n>podemos recuperar el tiempo perdido. ¡Hoy va a ser divertido! ♪"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Pero, ¿por qué te desmayaste de todos modos? ¿No<n>dormiste suficiente?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Oh, ya sé! Estabas tan emocionado, que<n>no podías dormir, y jugaste juegos toda<n>la noche? Jeje, yo también soy un poco culpable de eso...",
+      "choice_data_list": [
+        "..."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Qué pasa con el silencio? ¿Di en el blanco? Je,<n>las pijamadas siempre son emocionantes,<n>¿verdad?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Pero espera un segundo... Entrenador, no pensé que<n>fueras del tipo que se pone hiperactivo. Sí, eso<n>no parece tú... ¡Ah!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Fue mi culpa que te desmayaras? ¿Porque<n>te he estado arrastrando por todos lados?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Oh, así que por eso... Me olvidé por completo de que<n>no eres una Umamusume. Gracias por<n>aguantarlo...",
+      "choice_data_list": [
+        "No te preocupes. Vamos, tenemos entrenamiento que hacer...",
+        "No te preocupes. Vamos, tenemos entrenamiento que hacer..."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Entrenador..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No podemos permitirnos tomar un día libre. Su<n>ambición no lo permitiría de todos modos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Solo hay que luchar contra ello..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Entrenador... Me tomaré el día libre hoy.",
+      "choice_data_list": [
+        "¿Eh?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡No me digas \"eh\"! Dije, me tomaré el día libre hoy,<n>¡y lo digo en serio! ¡El <i>día</i> entero!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Mira lo pálido que sigues—te enfermarás<n>si te mueves. Así que he tomado mi<n>decisión. ¡No hay entrenamiento hoy!",
+      "choice_data_list": [
+        "Pero si quieres alcanzar a la presidenta..."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Nngh... Bueno, podríamos retrasarnos un poco en<n>ese objetivo, ¡pero está bien!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Sin que tú me acompañes, no hay nadie<n>que me entrene de todos modos. Además,<n>simplemente no<n>sería como yo."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "No sé exactamente qué, pero algo de eso<n>simplemente no se siente bien. La Presidenta<n>probablemente seguiría adelante por su cuenta<n>sin problemas..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Pero prefiero ir con compañía. Quiero decir..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En medio del calor del verano y el zumbido<n>de las cigarras, Teio expresa sus<n>pensamientos honestos."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Lo que realmente quiero es divertirme. Solo<n>ganar no es suficiente—quiero ganar con<n>estilo, con orgullo, y que me elogien por ello."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Justo como cuando obtuve una puntuación perfecta en ese<n>juego de baile. Quiero compartir el momento.<n>Con mis amigos, y contigo. Además...",
+      "choice_data_list": [
+        "¿Además?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Bueno, quién sabe en qué tipo de problemas me<n>meteré en el camino. Quiero decir, soy bastante<n>invencible, pero hay obstáculos que incluso yo<n>no puedo superar sola."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Como, ¿recuerdas cuando levanté demasiado peso,<n>y tú interveniste para ayudar? Justo<n>así."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "La Presidenta podría estar bien completamente sola, pero<n>creo que estar con otras personas es lo<n>que me hace <i>a mí,</i> si eso tiene sentido."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Lo que quiere decir es que no puedo hacer esto sin<n>ti. Fallaría tan rápido. Así que, esto...",
+      "choice_data_list": [
+        "Teio..."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Relajémonos hoy, ¿sí? Ejem.<n>Tal vez deberías dosificarte un poco,<n>Entrenador.",
+      "choice_data_list": [
+        "Mis propias palabras usadas en mi contra...",
+        "Mis propias palabras usadas en mi contra..."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Jeje, lo recordaste. Bueno, ¡eso es<n>venganza! ♪ Gracias a ti, aprendí a no<n>esforzarme demasiado, ¡así que ahora es tu<n>turno!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Oh! ¿Qué tal si te doy un masaje esta<n>vez?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Aquí va! ¡Cosquillas, cosquillas, cosquillas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por un momento, nos olvidamos por completo del entrenamiento<n>y simplemente nos divertimos. Y una vez que<n>el momento ha pasado..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Oye, Entrenador, ya que nos tomamos el día libre hoy,<n>tengo una idea..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Quieres ver el festival de esta noche? Apuesto<n>a que será montones de diversión. ¿Verdad?<n>¿¡Verdad?!",
+      "choice_data_list": [
+        "Claro, ¿por qué no?",
+        "Claro, ¿por qué no?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Yay! ¡Entonces decidido! Bien, ¡vamos a jugar<n>y comer toda la noche!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Whoa, ¡todo es tan brillante y reluciente!<n>¡Oye oye, Entrenador! Compremos<n>algunas máscaras y probémoslas! ¿Cuál quieres?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Dos máscaras, por favor! ¡Yo tomaré la máscara<n>rosa de Hangout Ranger!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su voz alegre parece elevarse por encima del<n>bullicio. Corriendo, jugando, riendo—Teio<n>se lanza a través de su campamento de<n>entrenamiento de verano con estilo."
+    }
+  ]
 }

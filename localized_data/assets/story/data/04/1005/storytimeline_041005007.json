@@ -1,226 +1,235 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "A few days have passed since the Summer Training Camp has \nstarted. \nCamp is quiet at night, everyone sleeping soundly."
-        },
-        {
-            "text": "I got up to grab a drink of water, \nbut the deserted lobby was somewhat eerie――"
-        },
-        {
-            "name": "???",
-            "text": "Boo～.",
-            "choice_data_list": [
-                "Aaaah!"
-            ]
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Fufufu, now that's a good reaction. \nYou've got something to fear, don't you, Trainer."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Don't look at me like that. \nIt was just a sudden impulse, I humbly beg for your forgiveness."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "My eyes started to get a bit glazed over. \nI was bored out of my mind, and then you came, Trainer!",
-            "choice_data_list": [
-                "Can't sleep?",
-                "Can't sleep?"
-            ]
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "No need to fret. I'm not having trouble or anything. \nBut, perhaps this is a good opportunity."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Trainer, would you like to go for an evening walk with me?"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Ahh, what a lovely night―― \nI don't know if I've had such a free evening since we arrived \nat Camp.",
-            "choice_data_list": [
-                "You haven't gone to any of the summer festivals or \nfireworks displays?",
-                "You haven't gone to any of the summer festivals or \nfireworks displays?"
-            ]
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "In spite of appearances, dorm heads have much to do. \nI've been comforting Pony-chans who can't sleep because \ntheir pillows have been changed."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "But just for tonight, I'm going to forget my position and keep \nyou all to myself.",
-            "choice_data_list": [
-                "Don't tease the adults too much, okay?",
-                "Don't tease the adults too much, okay?"
-            ]
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Ahaha, but I'm serious. \nI want you to keep your eyes on me, Trainer."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Say, let's race to the beach.",
-            "choice_data_list": [
-                "H, hey, wait a second――",
-                "H, hey, wait a second――"
-            ]
-        },
-        {
-            "text": "As soon as she said it, Fuji Kiseki took off."
-        },
-        {
-            "text": "She truly is a \"Black Meteor.\" Graceful and powerful, she shows \nno sign of hesitation."
-        },
-        {
-            "text": "And, she was imbued with impending passion. \nThe insatiable passion to run."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Haa… hah…"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "The sound of the rippling waves is quite nice――this really is \na beautiful night.",
-            "choice_data_list": [
-                "Fuji Kiseki, what on earth got into――",
-                "Fuji Kiseki, what on earth got into――"
-            ]
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "How was it? I wanted to show you the results of my training \ncamp. \nI've really enjoyed running the past few days."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "…Did I make your heart pound?",
-            "choice_data_list": [
-                "You scared the hell out of me!"
-            ]
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "――――"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "I have something I want you to hear. \nSomething important."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "I have been thinking about this ever since that junior left the \nAcademy due to her injury. \nWhat was the dream \"as an Uma Musume\" entrusted to her?"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "I wonder how I could carry on her wishes for her, too."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "But, I realized that day when I went to see the play with you. \nWhat I should do.",
-            "choice_data_list": [
-                "Tell me.",
-                "Tell me."
-            ]
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "The best Entertainer who delights all, \"Fuji Kiseki\"! \nThat's who I want to be."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "But, there was a continuation to this dream."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "I want to entertain everyone and heal everyone's sorrows. \nI want to carry out someone's unfulfilled dream."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "For that purpose, I am second to none!"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "I'm going to keep running, and winning lots of races! \nThat's how I'll get lots of wins――"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Someday, I will obtain the \"best proof\" of the dream of an \nUma Musume.",
-            "choice_data_list": [
-                "The best proof, you can't mean…"
-            ]
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "――I want to win the Triple Crown. That is my dream.",
-            "choice_data_list": [
-                "The Triple Crown…!"
-            ]
-        },
-        {
-            "text": "The Triple Crown is a title given only to those Uma Musume \nwho win three special races: the Satsuki Sho, the Japan \nDerby, and the Kikka Sho."
-        },
-        {
-            "text": "In the history of the Twinkle Series, very few Uma Musume \nhave won the Triple Crown. To win that honor is the dream of \nevery Uma Musume…!"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "I swear to you tonight. \n――I wonder if I've reached your heart?",
-            "choice_data_list": [
-                "Maybe you did, now that you've told me this."
-            ]
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Now that I've put it into words, I will make it happen. \nI hate, more than anything, to disappoint anyone!"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "For that purpose, I need to train more seriously. \nKeep me company, Trainer!"
-        },
-        {
-            "text": "After that, I went along with Fuji Kiseki's training for a while. \nThere was a fire in her eyes that I had never seen before."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Whew… I'd like to say I'm not quite done yet, but the sky is \nabout to turn light."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "At any rate, right before my eyes, a great dream was appearing. \nI just wanted to reach out and seize it."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Right at this moment, I have the irresistible urge to run.",
-            "choice_data_list": [
-                "Is there anything I can do to help you achieve your \ndreams?",
-                "Is there anything I can do to help you achieve your \ndreams?"
-            ]
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Once again, I have a favor to ask of you, Trainer."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "I want you to continue to guide me from here on out. \nI want you to be by my side as my number one supporter, as \nmy partner!",
-            "choice_data_list": [
-                "I've got you."
-            ]
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "In the name of the very best Entertainer, \nI'll entrance you more than anyone else."
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "I want you to watch my \"Kiseki Miracle\" from the front row seat."
-        },
-        {
-            "text": "And thus, began the days of chasing dreams with Fuji Kiseki."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Llevamos unos días en el campamento de<n>verano, y encuentro que está\ntotalmente en<n>silencio esta noche cuando voy a buscar<n>agua. Todo el\ncampamento debe estar<n>durmiendo profundamente después del entrenamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero mientras camino por el lobby<n>inquietantemente vacío en busca de\nuna bebida,<n>siento un escalofrío recorrer mi espalda..."
+    },
+    {
+      "name": "???",
+      "text": "Yo... teee... maldigooo...",
+      "choice_data_list": [
+        "¡Ay!"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Jajaja, justo la reacción que esperaba.<n>Asustas fácilmente, ¿eh,\nEntrenador?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Oh, no me mires así. Solo estaba<n>jugando. ¿Me perdonas?"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "No podía dormir y estaba aburrida hasta<n>el extremo. ¡Eso es, hasta que\nllegaste!",
+      "choice_data_list": [
+        "¿No puedes dormir, eh?",
+        "¿No puedes dormir, eh?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "No te preocupes—no estoy nerviosa ni<n>nada. Pero esto podría ser la"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ven a caminar conmigo? Disfrutemos del<n>aire nocturno."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ah, qué maravillosa noche. No he tenido una<n>noche para mí así desde\nque llegamos<n>aquí.",
+      "choice_data_list": [
+        "¿No viste el festival o los fuegos artificiales?",
+        "¿No viste el festival o los fuegos artificiales?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Puede que sea estudiante, pero mis<n>deberes como líder de dormitorio\nson muchos.<n>Algunas de mis queridas potrancas<n>necesitan mucho consuelo\npara dormir en<n>camas desconocidas."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Pero solo por esta noche, me gustaría<n>olvidar mis responsabilidades y\ntenerte solo<n>para mí.",
+      "choice_data_list": [
+        "No estás bromeando de nuevo, ¿verdad?",
+        "No estás bromeando de nuevo, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Jaja, lo digo en serio. Hay algo que<n>quiero mostrarte."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Dime, corramos a la playa.",
+      "choice_data_list": [
+        "¿Q-qué? ¡Oye, espera!",
+        "¿Q-qué? ¡Oye, espera!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque estoy sorprendido, la sigo lo más<n>rápido que puedo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Realmente merece su apodo, la Meteoro<n>Negra. Su carrera es elegante,\npero<n>poderosa. No hay una pizca de<n>vacilación en ella."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y está envuelta en una pasión implacable por<n>correr."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "<i>Jadeo... Jadeo...</i>"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "El sonido de las olas rizadas es tan<n>reconfortante. Esta realmente es\nuna<n>noche maravillosa.",
+      "choice_data_list": [
+        "¿Qué te pasa, Fuji?",
+        "¿Qué te pasa, Fuji?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Qué crees? Quería que vieras<n>los frutos de nuestro entrenamiento\naquí. He<n>estado pasando el tiempo de mi vida<n>corriendo estos últimos\ndías."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¿Y? ¿Mi carrera te emocionó?",
+      "choice_data_list": [
+        "¡Me dejó totalmente impresionado!"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Jeje..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Necesito decirte algo. Es<n>importante."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "He estado pensando desde que esa<n>estudiante se lesionó y tuvo que\ndejar la academia.<n>Me confió su sueño, como quizás<n>recuerdes."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Pensar en cómo puedo continuar su sueño<n>me ha confundido."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Pero cuando vimos esa obra juntos, me<n>di cuenta de lo que necesito\nhacer.",
+      "choice_data_list": [
+        "Dímelo.",
+        "Dímelo."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Fuji Kiseki, la mayor artista, que<n>trae alegría al mundo... Eso es lo\nque<n>quiero ser."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Pero este sueño mío continúa más allá<n>de eso."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Hacer feliz a la gente, sanar sus<n>penas—eso es lo que quiero hacer.\nY también<n>quiero continuar sus sueños cuando<n>ellos mismos no puedan."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Para ese propósito, no puedo perder contra nadie!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Voy a seguir corriendo—siempre—y<n>ganar tantas carreras como\npueda! Y cuando me<n>eleve como una estrella..."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Voy a obtener el sueño de cada<n>corredora—prueba de ser la mayor.",
+      "choice_data_list": [
+        "¿La mayor? No querrás decir..."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ganaré la Triple Corona. <i>Esa</i> será la<n>realización última de mi\nsueño.",
+      "choice_data_list": [
+        "¡La Triple Corona!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La Triple Corona es un título dado a las<n>corredoras que triunfan en las\ntres carreras<n>más prestigiosas—la Satsuki Sho, el Derby<n>Japonés y la\nKikuka Sho."
+    },
+    {
+      "name": "Monólogo",
+      "text": "En la historia de la Twinkle Series, solo<n>unas pocas lo han logrado.\n¡Es verdaderamente<n>el mayor honor al que toda corredora aspira!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Eso es lo que te juro esta noche. Necesito<n>que actúes como mi testigo.",
+      "choice_data_list": [
+        "Como tu entrenador, acepto tu juramento."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Ahí. Ahora que está en palabras, <i>debo</i><n>hacerlo realidad. ¡No cumplir\ntus<n>expectativas sería mi mayor derrota!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Así que tengo que empezar a entrenar en<n>serio, ¡y necesito que me\nmantengas en mi<n>camino!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después, la veo practicar por un<n>rato, y veo una nueva luz de\npasión<n>ardiendo en sus ojos."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Uf... Quiero seguir, pero me temo que<n>pronto amanecerá."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Sin embargo, un gran sueño yace ante<n>mí. Siento que casi puedo\nalcanzarlo y<n>arrebatarlo del mismo aire."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Todo lo que quiero hacer es seguir corriendo.",
+      "choice_data_list": [
+        "¿Qué puedo hacer para ayudarte a lograr tu sueño?",
+        "¿Qué puedo hacer para ayudarte a lograr tu sueño?"
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Te lo preguntaré de nuevo, Entrenador."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Guíame en mi camino. Sé mi<n>partidaria número uno, mi\ncompañera—<n>¡quédate siempre a mi lado!",
+      "choice_data_list": [
+        "Está bien. Lo prometo."
+      ]
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Entonces, en mi nombre como la mayor<n>artista, prometo traer <i>a ti</i>\nla<n>mayor alegría de todas."
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Tendrás un asiento de primera fila para mi<n>maravilloso milagro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nuestra asociación se siente como si<n>recién comenzara. De aquí en\nadelante, iremos<n>tras el sueño más grande que nuestros<n>corazones puedan\nimaginar."
+    }
+  ]
 }

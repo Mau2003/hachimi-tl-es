@@ -1,23 +1,24 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "The semifinals are about to begin! \nI can feel everyone's drive from here."
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "Trainer… are you ready?",
-            "choice_data_list": [
-                "I believe in victory."
-            ]
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "Yes! I'll see you at the Live!"
-        },
-        {
-            "text": "The gates to the semifinals of the URA\nFinals are finally open!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Las semifinales están sobre<n>nosotros! La\ncompetencia es tan feroz que<n>puedo sentir la\npresión desde aquí."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Entrenadora... ¿Cómo se siente?",
+      "choice_data_list": [
+        "Creo que va a ganar."
+      ]
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Genial! ¡Vayan por ellos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El Final URA... ¡Por fin, las<n>semifinales están a\npunto de comenzar!"
+    }
+  ]
 }

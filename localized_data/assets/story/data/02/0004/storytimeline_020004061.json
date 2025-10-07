@@ -2,182 +2,192 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Winning Ticket",
-      "text": "You're going for the Arima Kinen?! That means you'll race against \nyour sister!"
+      "name": "Monólogo",
+      "text": "El campamento termina sin problemas, y<n>aunque ahora es otoño, la<n>Twinkle Series está envuelta en lo que<n>parece el calor del verano."
     },
     {
-      "name": "Narita Brian",
-      "text": "…"
+      "name": "Monólogo",
+      "text": "En el centro de ese calor están las<n>hermanas Narita Brian y Biwa<n>Hayahide."
     },
     {
-      "name": "Narita Brian",
-      "text": "An opponent who can win against me…"
+      "name": "Comentarista",
+      "text": "¡Narita Brian conquista el Kikuka Shō,<n>superando el récord del año pasado<n>establecido por Biwa Hayahide!"
     },
     {
-      "text": "Camp finishes without a hitch, and though it's now autumn, the \nTwinkle Series is wrapped in what feels like the heat of midsummer."
+      "name": "Comentarista",
+      "text": "¡Ante ustedes, la quinta campeona de la<n>Triple Corona!"
     },
     {
-      "text": "In the center of that heat are the sisters Narita Brian and Biwa \nHayahide."
+      "name": "Monólogo",
+      "text": "La hermana menor arrasa en el Derby<n>Japonés, así que la mayor rompe<n>el récord del Takarazuka Kinen. Luego la<n>hermana menor rompe <i>otro</i> récord."
     },
     {
-      "name": "Caster",
-      "text": "Narita Brian conquers the Kikuka Sho, beating last year's record by \nBiwa Hayahide!"
+      "name": "Monólogo",
+      "text": "Puede que compitan en carreras<n>diferentes, pero todo el mundo de las<n>carreras observa sus récords como si<n>se enfrentaran entre sí."
     },
     {
-      "name": "Caster",
-      "text": "Before you is the fifth ever Triple Crown champion!"
-    },
-    {
-      "text": "The younger sister crushes the Japanese Derby, so the elder breaks \nthe record for the Takarazuka Kinen. Then the younger sister breaks \n<I>another</I> record."
-    },
-    {
-      "text": "They may be competing in different races, but the whole racing \nworld's watching their records as if they're facing each other."
-    },
-    {
-      "text": "Everyone believed it wouldn't be long before we saw the two race \nhead-to-head in the Arima Kinen. That is, until recently…"
+      "name": "Monólogo",
+      "text": "Todos creían que no faltaría mucho<n>para ver a las dos correr<n>cara a cara en el Arima Kinen. Eso es,<n>hasta hace poco..."
     },
     {
       "name": "Gold Ship",
-      "text": "Reporters are still crawling all over this place. What a show."
+      "text": "Cielos, los reporteros aún pululan por<n>este lugar. No se rinden fácilmente, ¿eh?"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Of course. It's a stunning feat to become a Triple Crown champion."
+      "text": "Por supuesto. Dado el prestigio del título,<n>no es de extrañar que todos quieran<n>una entrevista exclusiva con una<n>campeona de la Triple Corona."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Who knows when we'll see such a historic event again? This kind of \nmedia attention is a given."
+      "text": "¿Quién sabe cuándo volveremos a ver un<n>evento tan histórico? Este tipo de<n>atención mediática es de esperarse."
     },
     {
       "name": "Gold Ship",
-      "text": "Welp, they must be pretty disappointed that the all-important Brian's \nnowhere to be found."
+      "text": "Bueno, deben estar bastante<n>decepcionados de que la tan importante<n>Brian no esté por ningún lado."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Isn't she visiting her sister in the hospital?"
+      "text": "¿No está visitando a Hayahide en el<n>hospital?"
     },
     {
-      "text": "Yeah, I told her she should."
+      "name": "<username>",
+      "text": "Sí, le dije que debería."
     },
     {
-      "text": "Yeah, I told her she should."
+      "name": "<username>",
+      "text": "Sí, le dije que debería."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "She refused when I asked her to go with me. Perhaps she wasn't \nprepared at the time."
+      "text": "Se negó cuando le pedí que fuera conmigo.<n>Quizás no estaba preparada en ese<n>momento."
     },
     {
       "name": "Gold Ship",
-      "text": "Well, she's family after all. That'd be a shock for anyone."
+      "text": "Bueno, al fin y al cabo es familia. Eso<n>sería un shock para cualquiera."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "That and I believe Brian was rather excited to be racing Hayahide in \nthe Arima Kinen."
+      "text": "Eso y creo que Brian estaba bastante<n>emocionada por competir contra Hayahide<n>en el Arima Kinen."
     },
     {
-      "text": "That's true. Every time Hayahide achieved something big, the flame \nin Brian's eyes would grow even stronger."
+      "name": "Monólogo",
+      "text": "Es cierto. Cada vez que Hayahide lograba<n>algo grande, la llama en los ojos de<n>Brian crecía aún más."
     },
     {
-      "text": "Her desire to compete against her sister was so strong that she \nconsidered even the Triple Crown a mere stepping stone on the way \nto her goal. But now…"
+      "name": "Monólogo",
+      "text": "Su deseo de competir contra su hermana<n>era tan fuerte que consideraba incluso<n>la Triple Corona como un simple escalón.<n>Pero ahora..."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "It's quite a letdown to not be able to race against the person you've \nalways wanted to challenge."
+      "text": "Ver a tu mayor rival incapaz de siquiera<n>entrar en la carrera... Me preocupan<n>las dos."
     },
     {
-      "text": "Brian…"
+      "name": "<username>",
+      "text": "Brian..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I wish I could've stopped the mighty Triple Crown winner."
+      "text": "Ojalá hubiera podido ser yo quien<n>derrotara a la poderosa campeona de la<n>Triple Corona."
     },
     {
       "name": "Narita Brian",
-      "text": "Glad to see you're well enough to talk big."
+      "text": "Me alegra ver que estás lo bastante bien<n>como para fanfarronear."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "My injury in the Tenno Sho (Autumn) was worse than I realized. Such a \nshame, really… I'd already formulated my winning equation to defeat \nyou."
+      "text": "Mi lesión en el Tennō Shō fue peor de lo<n>que pensaba. Qué lástima, de verdad...<n>Ya había formulado mi ecuación ganadora<n>para derrotarte."
     },
     {
       "name": "Narita Brian",
-      "text": "Only you would think to use equations in a race. This is why I always \ncalled you Big Head Biwa."
+      "text": "Solo a ti se te ocurriría usar ecuaciones<n>en una carrera. Demasiado cerebral<n>para una corredora."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "M-my head isn't that big!"
+      "text": "¡M-mi cabeza no es tan grande!"
     },
     {
       "name": "Narita Brian",
-      "text": "…"
+      "text": "..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Brian, my equations aren't empty theories. I was set to win the Arima \nKinen."
+      "text": "Brian, mis ecuaciones no son teorías<n>vacías. Estaba lista para ganar el Arima<n>Kinen."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Do you remember the sports competition you won when we were \nyoung?"
+      "text": "¿Recuerdas la competencia deportiva<n>que ganaste cuando éramos jóvenes?"
     },
     {
       "name": "Narita Brian",
-      "text": "No, not really."
+      "text": "No, la verdad no."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I figured… Ever since then, winning's been natural for you. It means so \nlittle to you that you don't remember placing first in the competition."
+      "text": "Me lo imaginaba... Desde entonces, ganar<n>ha sido natural para ti. Significa tan<n>poco para ti que ni siquiera recuerdas<n>haber quedado primero en la competencia."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "A genius mathematician is never satisfied with mundane problems. \nThe only joy they find is in tackling the unsolvable."
+      "text": "Un genio matemático nunca está<n>satisfecho con problemas mundanos.<n>El único placer que encuentran es<n>abordar lo insoluble."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "It's the same for you. You're not satisfied with ordinary races because \nof your outstanding talent. You have an appetite that can't be sated."
+      "text": "Es lo mismo para ti. No estás satisfecha<n>con carreras ordinarias debido a tu<n>talento sobresaliente. Tienes un hambre<n>que no puede saciarse."
     },
     {
       "name": "Narita Brian",
-      "text": "…"
+      "text": "..."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I can't compete with you using mere effort. So I sought for a solution, \nand what I found is the method I use now."
+      "text": "No puedo competir contigo solo con<n>esfuerzo. Así que busqué una solución,<n>y lo que encontré es el método que<n>uso ahora."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "The results I've produced prove that I'm not shooting in the dark. I've \nnailed down my formula."
+      "text": "Los resultados que he producido<n>demuestran que no estoy disparando a<n>ciegas. He concretado mi fórmula."
     },
     {
       "name": "Narita Brian",
-      "text": "I would've preferred you prove it to me in the Arima Kinen."
+      "text": "...Hubiera preferido que me lo<n>demostraras en el Arima Kinen."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I'll get to the point. I've had plenty of time lying here, so I've made an \nequation for the Arima Kinen, removing myself from the variables."
+      "text": "Iré al grano. He tenido mucho tiempo<n>tumbada aquí, así que hice una ecuación<n>para el Arima Kinen, eliminándome a mí<n>misma de las variables."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "But no matter how much I recalculate, the results show that you'll win."
+      "text": "Pero no importa cuánto recalcule, los<n>resultados muestran que tú ganarás."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I'm not sure how you feel not getting to race against me there, but… \nyou've got to win this one, Brian."
+      "text": "No estoy segura de cómo te sientes por<n>no poder correr contra mí allí, pero...<n>tienes que ganar esta, Brian."
     },
     {
       "name": "Narita Brian",
-      "text": "…Heh."
+      "text": "...Je."
     },
     {
       "name": "Narita Brian",
-      "text": "You didn't need some special equation to tell me that. Obviously I'm \ngoing to win."
+      "text": "No necesitabas una ecuación especial<n>para decirme eso. Obviamente voy a<n>ganar."
     },
     {
       "name": "Narita Brian",
-      "text": "And even if you were there, you'd see your work really is just empty \ntheories once I beat you."
+      "text": "...Y aunque estuvieras allí, habrías<n>visto que solo eran teorías vacías<n>una vez que te venciera."
     },
     {
       "name": "Narita Brian",
-      "text": "So promise that you'll prove those equations of yours to me one day."
+      "text": "Así que promete que un día me<n>probarás esas ecuaciones tuyas."
+    },
+    {
+      "name": "Biwa Hayahide",
+      "text": "Jeje... Claro. Te lo prometo."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Probaré la ecuación de mi hermana<n>misma... ¡en el Arima Kinen!"
     }
   ]
 }

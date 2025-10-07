@@ -1,262 +1,267 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Gold City",
-            "text": "…It’s you again? Look here, you are being annoying. \nWhy did you come here this far?",
-            "choice_data_list": [
-                "I want to you to hear me out",
-                "I want to you to hear me out"
-            ]
-        },
-        {
-            "name": "Gold City",
-            "text": "…There is nothing to talk about."
-        },
-        {
-            "name": "Gold City",
-            "text": "For me you hear, I’m nothing. Nothing. An \nempty doll for others to see. That’s me."
-        },
-        {
-            "name": "Gold City",
-            "text": "…Working as a model was fun at first. The facial \nexpressions and gestures that were required, when \nI did well I praised, it made me proud."
-        },
-        {
-            "name": "Gold City",
-            "text": "…So just as you’re expected, I made myself, and make it workー "
-        },
-        {
-            "name": "Gold City",
-            "text": "…But one day, in the city, I found myself staring at an \nadvertisement featuring me, and I thought『That, who is it』."
-        },
-        {
-            "name": "Gold City",
-            "text": "『It was full with the serious image, who \nis the one pretending to be beautiful』."
-        },
-        {
-            "name": "Gold City",
-            "text": "But, I realized immediately. That’s “Gold City”."
-        },
-        {
-            "name": "Gold City",
-            "text": "I don’t know who it isー The one standing \nup and jumping, is also me."
-        },
-        {
-            "name": "Gold City",
-            "text": "And then I became really scared, and I wanted \nto scream, anyway I couldn’t stay still."
-        },
-        {
-            "name": "Gold City",
-            "text": "I understood that I wanted to run, run, run in a messー"
-        },
-        {
-            "name": "Gold City",
-            "text": "Then, I saw it… the sunset."
-        },
-        {
-            "name": "Gold City",
-            "text": "I arrived at a place I never knew before. I fell \nso much that my legs and stuff were muddy, and \nthe one-piece I liked was in tatters."
-        },
-        {
-            "name": "Gold City",
-            "text": "But the sky, I can’t understand why but it was so beautiful."
-        },
-        {
-            "name": "Gold City",
-            "text": "…That’s when, I thought. Ah, now, I’m myself."
-        },
-        {
-            "name": "Gold City",
-            "text": "My legs ached and my lungs were about to collapse. \nButー right now, I’m just “my own self”."
-        },
-        {
-            "name": "Gold City",
-            "text": "That’s why I came to Tracen Academy. To run and run and become \n“my own self”. To engrave the proof of “Me” in everyone’s memory."
-        },
-        {
-            "name": "Gold City",
-            "text": "Butー"
-        },
-        {
-            "text": "(Car Beep!)"
-        },
-        {
-            "name": "City's Manager",
-            "text": "City! Thank goodness, you were here! I rang the phone a couple of \ntimes, didn’t you notice? It’s about time for work. "
-        },
-        {
-            "name": "Gold City",
-            "text": "Manager… Ah, sorry, I was a bit distracted in talking… Wow, \nseriously, my call history is full."
-        },
-        {
-            "name": "City's Manager",
-            "text": "Well, anyway I’m glad to see you… Something \nhappened? With that trainer."
-        },
-        {
-            "name": "Gold City",
-            "text": "…Well, something like that. Anyway sorry, job. Yeah, I’ll go. "
-        },
-        {
-            "name": "Gold City",
-            "text": "Ahh, but can I go back to the academy once? \nI just need to book a training course…"
-        },
-        {
-            "name": "City's Manager",
-            "text": "…Hey, City. Isn’t that enough? Your mind and body are in \ntatters, you worked hard enough. Aren’t you… tired already."
-        },
-        {
-            "name": "Gold City",
-            "text": "……ah!"
-        },
-        {
-            "name": "City's Manager",
-            "text": "Everyone judges you by appearance… This is already a case that \ncan’t be helped. So let’s be prepared, City."
-        },
-        {
-            "name": "City's Manager",
-            "text": "I’ll be sure to guide you to be a top model. You should choose a \nstage where you can shine. Stop hurting yourself in a world that \nis not suitable for you."
-        },
-        {
-            "name": "Gold City",
-            "text": "Gold City:『World that isn’t suitable』…is it. Haha, maybe so. It \nwas a good feeling to be dreaming, and the result is this."
-        },
-        {
-            "name": "Gold City",
-            "text": "Geez… Maybe it’s already time to give up."
-        },
-        {
-            "text": "(Engine start! Car Go Skrrr…)"
-        },
-        {
-            "text": "Watching the car leaving, I noticed \nthat something fell on the ground.",
-            "choice_data_list": [
-                "City’s cell phone…"
-            ]
-        },
-        {
-            "text": "The home screen had a picture of the sky. The \nhands were surely trembling a little, it’s just, \nit was a very beautiful sunset sky."
-        },
-        {
-            "text": "『I want to be “myself” by running and running』Those \nwords of Gold City crossed my mind.",
-            "choice_data_list": [
-                "…Let’s go after her!!"
-            ]
-        },
-        {
-            "name": "City's Manager",
-            "text": "City, wait here for a moment. I’ll go talk to the staff."
-        },
-        {
-            "name": "Gold City",
-            "text": "Mmm… I got it."
-        },
-        {
-            "name": "Gold City",
-            "text": "…Management is amazing. That cameraman-san is a famous person I \nknow. He is able to get them to take a beautiful picture…"
-        },
-        {
-            "name": "Gold City",
-            "text": "After all… I wonder if this road suits me…",
-            "choice_data_list": [
-                "Gold City!!"
-            ]
-        },
-        {
-            "name": "Gold City",
-            "text": "Ha!? E, a, you… why…!?",
-            "choice_data_list": [
-                "I’m here to deliver your dream",
-                "I’m here to deliver your dream"
-            ]
-        },
-        {
-            "name": "Gold City",
-            "text": "Dream…? What, I don’t understand what you mean…"
-        },
-        {
-            "text": "I showed the homescreen of the mobile phone that \nI brought to Gold City who was puzzled."
-        },
-        {
-            "name": "Gold City",
-            "text": "Wait, haaaah!? Wait, you! Why do you have \nmy smartphone…! Wait you… did you look…!"
-        },
-        {
-            "name": "Gold City",
-            "text": "…Ah, it’s not my dream! That’s enough, I already quit!"
-        },
-        {
-            "name": "Gold City",
-            "text": "Give it back!!"
-        },
-        {
-            "text": "The cell phone was robbed violently."
-        },
-        {
-            "name": "Gold City",
-            "text": "That’s enough, I already quit, I gave up! \nThis picture, I’m gonna erase it…!"
-        },
-        {
-            "name": "Gold City",
-            "text": "I’ll erase it, I’ll erase it, I’ll erase it, I will…"
-        },
-        {
-            "name": "Gold City",
-            "text": "……Why."
-        },
-        {
-            "name": "Gold City",
-            "text": "Why… can’t I erase it…!",
-            "choice_data_list": [
-                "You don’t have to abandon “Yourself”",
-                "You don’t have to abandon “Yourself”"
-            ]
-        },
-        {
-            "name": "Gold City",
-            "text": "…You, what’s your deal, seriously."
-        },
-        {
-            "name": "Gold City",
-            "text": "You’re vexing. Annoying. Good natured. Stalker. Stealer. Phone \npeeper. Lacks delicacy. Nagging. Annoying, annoying, annoying!"
-        },
-        {
-            "name": "Gold City",
-            "text": "I told you my story, I told you I want to abandon \nmyself!! I don’t understand why I told you all those \nthings!! You, just what is your deal!!",
-            "choice_data_list": [
-                "I’m just a trainer scouting for Gold City!",
-                "I’m just a trainer scouting for Gold City!"
-            ]
-        },
-        {
-            "name": "Gold City",
-            "text": "……heh. Ahhhhhh, geez, shut uppp!!"
-        },
-        {
-            "name": "Gold City",
-            "text": "Then try it, you! Become my trainer, \nlet me run with all my heart!"
-        },
-        {
-            "name": "Gold City",
-            "text": "However, if you treat me like a doll, I’ll hit you with a punch!",
-            "choice_data_list": [
-                "I got it!!"
-            ]
-        },
-        {
-            "name": "Gold City",
-            "text": "Gold City:『I got it』just like that… Ah, annoying."
-        },
-        {
-            "name": "City's Manager",
-            "text": "City, sorry to keep you waiting! Wait… huh? \nThe one was with you a while ago…"
-        },
-        {
-            "name": "Gold City",
-            "text": "Oh, okay, I’ll talk to you later. First It’s \nwork, right… So, you wait here."
-        },
-        {
-            "name": "Gold City",
-            "text": "I’ll introduce you my worrywart manager. \nAs my… as my trainer in charge."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Gold City",
+      "text": "...¿Otra vez tú? Mira, esto se está<n>volviendo molesto. ¿Qué es lo que<n>quieres de mí, de todos modos?",
+      "choice_data_list": [
+        "Solo quiero escuchar lo que tienes que decir.",
+        "Solo quiero escuchar lo que tienes que decir."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "...¿Quién dice que tengo algo que decir?"
+    },
+    {
+      "name": "Gold City",
+      "text": "La cosa es que no tengo nada. <i>Nada.</i> Una<n>cara bonita, una muñeca tonta.<n>Esa soy yo."
+    },
+    {
+      "name": "Gold City",
+      "text": "Al principio modelar era divertido, sabes.<n>Me pedían que luciera feliz, o que<n>hiciera una pose, y me llenaban de<n>elogios cuando lo lograba. Estaba<n>orgullosa de mí misma."
+    },
+    {
+      "name": "Gold City",
+      "text": "Querían cierta imagen de mí, así que<n>en eso me convertí, en lo que<n>representé."
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero un día, caminaba por la<n>calle cuando vi este enorme<n>cartel de mí misma. Y pensé...<n>\"¿Quién es esa?\""
+    },
+    {
+      "name": "Gold City",
+      "text": "\"Esta imagen de perfección hecha<n>realidad, como si hubiera nacido<n>para verse bonita. ¿Quién es esa?\""
+    },
+    {
+      "name": "Gold City",
+      "text": "No tuve que pensarlo dos veces para<n>saber la respuesta—\"Esa es 'Gold<n>City', obvio.\""
+    },
+    {
+      "name": "Gold City",
+      "text": "La verdadera pregunta era...<n>\"¿Quién es la que está aquí<n>mirándola? ¿Quién soy <i>yo</i>?\""
+    },
+    {
+      "name": "Gold City",
+      "text": "Me asustó. Quería gritar, y<n>simplemente, no pude soportarlo más."
+    },
+    {
+      "name": "Gold City",
+      "text": "Mi mente se quedó en blanco y<n>eché a correr, y corrí y corrí..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Y fue entonces cuando lo vi... el atardecer."
+    },
+    {
+      "name": "Gold City",
+      "text": "Realmente no tenía idea de dónde<n>estaba. Y me tropecé... ni<n>siquiera sé cuántas veces, mis<n>piernas estaban embarradas, mi<n>vestido favorito hecho jirones..."
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero el cielo, no sé por qué, pero<n>era tan <i>hermoso.</i>"
+    },
+    {
+      "name": "Gold City",
+      "text": "...Y entonces caí en cuenta. Esto—<i>esto</i><n>soy yo."
+    },
+    {
+      "name": "Gold City",
+      "text": "Me dolían horriblemente las piernas,<n>y mis pulmones sentían que<n>estallarían, pero todo se sentía<n>como <i>yo.</i>"
+    },
+    {
+      "name": "Gold City",
+      "text": "Así que vine a Tracen. Para correr y<n>correr, y convertirme en mí. Para<n>grabar la <i>verdadera</i> yo en la<n>memoria de todos."
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "(La bocina de un auto la interrumpe.)"
+    },
+    {
+      "name": "Manager de Gold City",
+      "text": "¡City! ¡Menos mal que estás aquí! ¿No<n>recibiste mis llamadas? Vamos,<n>llegarás tarde al trabajo."
+    },
+    {
+      "name": "Gold City",
+      "text": "Manager... Lo siento, estábamos, eh,<n>ocupadas hablando... Vaya, sí,<n>son montones de llamadas perdidas."
+    },
+    {
+      "name": "Manager de Gold City",
+      "text": "Bueno, sea lo que sea, me alegro de<n>haberte encontrado. Supongo que<n>pasó algo con esa entrenadora, ¿no?"
+    },
+    {
+      "name": "Gold City",
+      "text": "Sí, algo así. Lo siento, eh, el trabajo.<n>Cierto, vamos."
+    },
+    {
+      "name": "Gold City",
+      "text": "Oh, pero ¿podemos pasar rápido por<n>la academia? Necesito reservar el<n>curso de entrenamiento."
+    },
+    {
+      "name": "Manager de Gold City",
+      "text": "...Escucha, City. ¿No crees que ya es<n>hora de dejarlo? Estás agotada,<n>tanto en cuerpo como en mente. Te<n>has esforzado muchísimo. ¿No es<n>agotador?"
+    },
+    {
+      "name": "Gold City",
+      "text": "...!"
+    },
+    {
+      "name": "Manager de Gold City",
+      "text": "No te gusta que la gente te juzgue por<n>tu apariencia, pero así son las<n>cosas. Tienes que aprender a<n>aceptarlo."
+    },
+    {
+      "name": "Manager de Gold City",
+      "text": "Te convertiré en una top model.<n>Deberías estar en el escenario<n>donde brilles más. Forzarte a entrar<n>en un mundo que no es el tuyo solo<n>trae dolor."
+    },
+    {
+      "name": "Gold City",
+      "text": "Un mundo que no es el mío... Ja,<n>quizá tengas razón. Pensé que<n>estaba progresando, y mírame ahora."
+    },
+    {
+      "name": "Gold City",
+      "text": "Sí... Quizá sea hora de rendirse."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Gold City cierra de golpe la puerta<n>del auto, y el motor acelera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Por un momento, solo las veo alejarse<n>aturdida. Pero entonces, noto<n>algo en el suelo.",
+      "choice_data_list": [
+        "Su teléfono..."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "La pantalla de bloqueo tiene una<n>foto de un atardecer. Está un<n>poco borrosa—su mano debió<n>temblar. Pero aun así, es una<n>vista hermosa."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Repito sus palabras en mi mente una<n>y otra vez. Para ella, correr es una<n>forma de convertirse en su verdadero<n>ser.",
+      "choice_data_list": [
+        "¡Debería devolvérselo!"
+      ]
+    },
+    {
+      "name": "Manager de Gold City",
+      "text": "City, espera aquí un momento. Voy a<n>hablar con el personal."
+    },
+    {
+      "name": "Gold City",
+      "text": "Mm, está bien."
+    },
+    {
+      "name": "Gold City",
+      "text": "...Vaya, bueno. Consiguió un<n>fotógrafo famoso para esta sesión.<n>Apuesto a que me hará ver muy bonita."
+    },
+    {
+      "name": "Gold City",
+      "text": "Sabes... Quizá este sea mi lugar<n>después de todo.",
+      "choice_data_list": [
+        "¡Gold City!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Eh? Espera, tú... ¿Por qué... ¿Cómo?!",
+      "choice_data_list": [
+        "Dejaste tu sueño atrás.",
+        "Dejaste tu sueño atrás."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Mi sueño? Literalmente no tienes<n>sentido."
+    },
+    {
+      "text": "Mientras la confusión cruza su rostro,<n>saco el teléfono y le muestro la<n>pantalla de bloqueo."
+    },
+    {
+      "name": "Gold City",
+      "text": "¡¿Eh?! ¿Qué—¿Por qué tienes mi<n>teléfono? ¿Y por qué estabas<n>revisándolo?!"
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Ese <i>no</i> es mi sueño! Ya no—¡ya lo<n>dejé!"
+    },
+    {
+      "name": "Gold City",
+      "text": "¡Devuélvemelo!"
+    },
+    {
+      "text": "Arrebata el teléfono de mi mano."
+    },
+    {
+      "name": "Gold City",
+      "text": "Terminé. Se acabó. ¡Me rindo! Y<n>¡voy a borrar esta foto!"
+    },
+    {
+      "name": "Gold City",
+      "text": "¡La borraré aquí mismo, ahora mismo!<n>Te juro que... la borraré..."
+    },
+    {
+      "name": "Gold City",
+      "text": "...¿Por qué?"
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Por qué no puedo simplemente...<n>presionar eliminar?",
+      "choice_data_list": [
+        "No necesitas desechar a la \"verdadera\" tú.",
+        "No necesitas desechar a la \"verdadera\" tú."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿Quién eres tú, de todos modos? En serio."
+    },
+    {
+      "name": "Gold City",
+      "text": "Eres una molestia, y una santurrona,<n>y una acosadora, fisgona,<n>mirona—no tienes tacto, eres<n>pegajosa, y ¡tan, tan molesta!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Primero solo quieres escucharme, y<n>ahora es \"¡no te deseches!\"<n>¡Nunca tienes sentido! En serio,<n>¿¡quién <i>diablos</i> te crees que eres?!",
+      "choice_data_list": [
+        "¡Tu entrenadora! Si me aceptas.",
+        "¡Tu entrenadora! Si me aceptas."
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "Ughhhhh, ¡estoy TAN harta de ti!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Está bien entonces. ¡Hazlo! Sé mi<n>entrenadora. ¡Veremos qué tan<n>rápido puedes hacerme correr!"
+    },
+    {
+      "name": "Gold City",
+      "text": "Pero te juro, si me tratas como una<n>muñeca <i>una vez</i>, te patearé tan<n>fuerte que lamentarás hablarme.",
+      "choice_data_list": [
+        "¡Suena bien!"
+      ]
+    },
+    {
+      "name": "Gold City",
+      "text": "¿¡Qué quieres decir con \"suena bien\"?!<n>Ugh, no puedo."
+    },
+    {
+      "name": "Manager de Gold City",
+      "text": "City, ¡perdón por hacerte esperar! Oh, eh...<n>Tú debes ser..."
+    },
+    {
+      "name": "Gold City",
+      "text": "No importa, te lo diré después.<n>Tenemos trabajo que hacer. Tú,<n>espera aquí."
+    },
+    {
+      "name": "Gold City",
+      "text": "Mi manager es un poco sobreprotectora,<n>así que te presentaré con ella. Como<n>mi... mi entrenadora."
+    }
+  ]
 }

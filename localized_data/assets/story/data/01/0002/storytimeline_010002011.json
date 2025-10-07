@@ -1,24 +1,17 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "For inheritance, their “compatibility” is \ndetermined by the relationship between \nthe trained horsegirl and her successors.",
-            "color_text_info_list": [
-                "compatibility"
-            ]
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "If they have good compatibility, \nyou're a little more likely to have \ngood things happen to them!",
-            "color_text_info_list": [
-                "you're a little more likely to have",
-                "good things"
-            ]
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "You may want to keep this in mind as a \nreference for future combinations! ♪"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Las dos Umamusume Veteranas<n>seleccionadas\ny tu Umamusume Pupila tienen un<n>nivel de\nafinidad determinado por su<n>relación."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Se dice que si comparten una buena<n>afinidad,\nes un poco más probable que<n>ocurra algo\nbueno."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Esto podría ser bueno recordarlo cuando<n>\nestés haciendo arreglos en el futuro. ♪"
+    }
+  ]
 }

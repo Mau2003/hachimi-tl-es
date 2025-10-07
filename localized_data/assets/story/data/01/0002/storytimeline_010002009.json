@@ -1,34 +1,25 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "The horsegirls who entrust their feelings \nto the training horsegirl are known \nas successor horsegirls.",
-            "color_text_info_list": [
-                "successor horsegirls"
-            ]
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "Once you have completed your training and \nhad your horsegirl registered in the \nHall of Fame, you will be able to select her \nas a successor.",
-            "color_text_info_list": [
-                "registered in the \nHall of Fame"
-            ]
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "Let's choose a successor horsegirl."
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "Depending on the horsegirl's factors and \nfeelings, you can receive various benefits, \nsuch as improving starting stats and \nacquiring new skills.",
-            "color_text_info_list": [
-                "factors"
-            ]
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "Even if you choose her as a successor, \nyou won't lose that horsegirl, \nso don't be worried!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Una corredora consagrada que transmite<n>\nsu ambición a tu pupila se llama<n>\nUmamusume Veterana."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Una vez que una corredora completa su<n>Carrera,\npuede registrarse como<n>Umamusume\nVeterana y ser elegida como<n>Legado."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Ahora bien, adelante y elige tus<n>\nLegados."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Los Legados pueden transmitir Chispas<n>\nde Inspiración, que otorgan a tu pupila<n>\nmejoras de atributos y pistas de<n>\nhabilidades, entre otros beneficios."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Y no te preocupes, ¡los Legados pueden<n>inspirar a\nnuevas pupilas todas las veces que<n>quieras!"
+    }
+  ]
 }

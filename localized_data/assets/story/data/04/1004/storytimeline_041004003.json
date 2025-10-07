@@ -1,270 +1,281 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "A little while after I became Maruzensky's trainer— \nThe day of her debut race had finally arrived."
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Aww, trainer! You came all the way down \nhere to see me off? Hmhm, thanks.",
-            "choice_data_list": [
-                "How're you feeling?",
-                "How do you feel?"
-            ]
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Aww, trainer! You came all the way down \nhere to see me off? Hmhm, thanks.",
-            "choice_data_list": [
-                "How're you feeling?",
-                "How do you feel?"
-            ]
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Sound as a pound♪ It's been a beautiful day after all."
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Besides, there's something special about feeling the wind on the \nrace track. Now that I'm here I'm going to make the most of it!"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Well then, I'm offff!"
-        },
-        {
-            "text": "She smiled and laughed as she always does, and \nput her skills on full display in the race."
-        },
-        {
-            "name": "Commentator",
-            "text": "—Approaching the fourth corner, Maruzensky leads! She's had the \nlead from the start and shows no signs of giving it up!"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Fuu, fuu, fuu…"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "… There's still more in my legs!!"
-        },
-        {
-            "name": "Commentator",
-            "text": "Maruzensky speeds up further! She's leaving everyone so far \nbehind they probably can't even see her anymore!"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Ha, hah, ha…!!"
-        },
-        {
-            "name": "Commentator",
-            "text": "Maruzensky crosses the line with second place \nnowhere in sight!! How's that for a debut!?"
-        },
-        {
-            "text": "—A second later, thunderous cheers erupted from the stands."
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Sorry to keep you, trainer♪ Let's go home—"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "I'm all good now, trainer♪ Let's go home—"
-        },
-        {
-            "name": "Experienced Trainer A",
-            "text": "It's here… the day's finally here!! It's time for your debut!!"
-        },
-        {
-            "name": "Horsegirl A",
-            "text": "Yes, trainer! I'm going to win this race! It will be my first \nstep to becoming a Triple Crown horsegirl!"
-        },
-        {
-            "name": "Experienced Trainer A",
-            "text": "That's the spirit! I know you can do it! \nShow 'em what we've been training for!!"
-        },
-        {
-            "name": "Both",
-            "text": "Yeeeeaaaaaah!!"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "………………",
-            "choice_data_list": [
-                "What's up?",
-                "What's up?"
-            ]
-        },
-        {
-            "name": "Maruzensky",
-            "text": "What? Oh, no, it's just…"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "… Hey, once we get back to the school we'll be done for the day, \nright? Do you have any plans after?"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "… Hey, once we get back to the school we'll be done for the day, \nright? Do you have any plans after?"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "If you're free… maybe we can go for a drive together?",
-            "choice_data_list": [
-                "A drive?"
-            ]
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Yeah. What do you think? Up for it? I'll come get you then! Can \nyou wait for me at the gate when we get back?"
-        },
-        {
-            "text": "And so, as I waited on her at the gate…"
-        },
-        {
-            "text": "(Vrrrroovrroooooom!! Screeech…)"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Hi, trainer♪"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Hi, trainer♪"
-        },
-        {
-            "text": "… A low, bright red car pulled up, and out stepped Maruzensky."
-        },
-        {
-            "name": "Maruzensky",
-            "text": "My, what's the blank stare for, something happen?",
-            "choice_data_list": [
-                "That's a hell of a car…",
-                "That certainly is a car…"
-            ]
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Isn't she just～!? Amazing, right!? This is my buddy; Tacchan!"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Her slender, nifty body and the low roar of her \nengine…… They call these scissor doors, isn't \nit charming how they open vertically～!"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Of course her ride's great too! Hop in, \nhop in, you'll have a great time!"
-        },
-        {
-            "text": "Thus invited, I boarded Maruzensky's \"buddy\"…"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Don't you love this acceleration! The scenery rushing by? But \nthis is where Tacchan really starts to shine～!!"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "No worries, no worries, I'll obey the traffic rules! \nI'm just… pushing them a little!!"
-        },
-        {
-            "text": "(Vrrrrvrrrooooooom!!)"
-        },
-        {
-            "text": "—I had an… extraordinarily thrilling time."
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Oooooooh, that felt so good～…! Our carefree \ndrive ends at the beach… oh, how romantic!"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "What'd you think, trainer? My Tacchan \nmust have been a heavenly ride!",
-            "choice_data_list": [
-                "I think I did see heaven a few times…"
-            ]
-        },
-        {
-            "name": "Maruzensky",
-            "text": "How was it, Trainer? My Tacchan must have been a heavenly ride!",
-            "choice_data_list": [
-                "I think I did see heaven a few times…"
-            ]
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Mmm, mmm! I'm glad you had a good time♪"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "—Driving's great isn't it? When you let the speed take over, it's \nlike you become the wind, and you feel like you can go anywhere."
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Being able to enjoy that feeling, that joy, with my own body… \nI'm truly happy to be born a horsegirl."
-        },
-        {
-            "name": "Maruzensky",
-            "text": "The pleasure of going faster than the wind, feeling it rush by \nwith my whole body… There's nothing else like it!",
-            "choice_data_list": [
-                "You really like to run, don't you?",
-                "You really like to run, don't you?"
-            ]
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Yeah, of course! …But you know, that's really it, to me."
-        },
-        {
-            "name": "Maruzensky",
-            "text": "I don't have any of those… dazzling dreams \nor lofty goals, like everyone else…"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Don't get me wrong, I love to run and race. I just—"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "When I'm in a serious competition like today, where everyone's \ndreams collide… I can't help but think \"am I out of place?\".",
-            "choice_data_list": [
-                "I don't think…"
-            ]
-        },
-        {
-            "name": "Maruzensky",
-            "text": "… Dearie me, I'm getting all soppy! We've finally gone on our \nfirst drive together, I can't be doing this!"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "… Dearie me, look at me getting all soppy! We've finally gone on \nour first drive together, I can't be doing this!"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Oh, yeah! Since we're at the beach, why don't we play tag? \nYou know, like in those trendy dramas!"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "I'll be running away. —Ehehehe, come and catch me if you ca～aan♪"
-        },
-        {
-            "text": "\"I don't have any of those dreams or goals\" …On that \nday, I felt I caught a glimpse of her true self she \nkeeps hidden beneath that mature smile."
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Ehehehe, ahahahaha♪"
-        },
-        {
-            "text": "(Thudududud!!)",
-            "choice_data_list": [
-                "…Hang on, there's no way I'm catching you!",
-                "…Hang on, there's no way I'm catching you!"
-            ]
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Aww don't say that! You can do it, trainer～♪"
-        },
-        {
-            "name": "Maruzensky",
-            "text": "Aww don't say that! Show me your best effort～♪"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Paso mis días siendo el mejor entrenador<n>posible para Maruzensky,<n>y pronto llega<n>el momento de su carrera debut."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Ah, Entrenador! ¿Has venido hasta aquí para<n>despedirme? Jeje, qué<n>amable de tu parte.",
+      "choice_data_list": [
+        "¿Cómo te sientes?",
+        "¿Cómo te sientes?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Ah, Entrenador! ¿Has venido hasta aquí para<n>despedirme? Jeje, qué<n>amable de tu parte.",
+      "choice_data_list": [
+        "¿Cómo te sientes?",
+        "¿Cómo te sientes?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Estoy simplemente genial. ♪ El clima hoy<n>está maravilloso."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Sabes, el viento que siento cuando corro es<n>realmente especial. Así que voy a<n>disfrutarlo al máximo<n>y tener una gran carrera."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Nos vemos cuando termine!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con su sonrisa inquebrantable, utiliza<n>plenamente sus talentos en la carrera."
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Están en la última curva y Maruzensky<n>sigue en la delantera! ¡No ha<n>cedido ni una<n>pulgada desde el inicio!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "<i>Jadea, resuella, jadea...</i>"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Puedo ir más rápido que esto!"
+    },
+    {
+      "name": "Locutor",
+      "text": "¡Maruzensky acelera! ¡Ha dejado atrás al<n>grupo! ¡Supera por completo a la<n>competencia, y lo sabe!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "<i>Jadea, jadea, jadea...</i>"
+    },
+    {
+      "name": "Locutor",
+      "text": "Maruzensky aún tiene una gran ventaja, y...<n>¡cruza la línea de meta! Su carrera<n>debut termina con una victoria<n>aplastante!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un momento después, los murmuros<n>asombrados de la multitud se<n>convierten en un rugido."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ya volví, Entrenador. ♪ ¿Nos vamos—"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ya regresé, Entrenador. ♪ ¿Empezamos ya?—"
+    },
+    {
+      "name": "Entrenador Experto A",
+      "text": "¡Llegó el día... por fin es tu gran día! El día<n>de tu debut."
+    },
+    {
+      "name": "Uma Musume A",
+      "text": "¡Así es! ¡Sé que voy a ganar! Este es el<n>primer paso en el camino para\nconvertirme en una<n>Campeona de la Triple<n>Corona."
+    },
+    {
+      "name": "Entrenador Experto A",
+      "text": "¡Ese es el espíritu! ¡Sé que puedes lograrlo!<n>Aprovecha todo ese\\entrenamiento<n>y ¡gana!"
+    },
+    {
+      "name": "Ambos",
+      "text": "¡Sííí!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "...",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Mmm? Ah, no es nada..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oye, hoy ya terminamos cuando volvamos<n>a la academia, ¿verdad?\n¿Tienes algún<n>plan después?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oye, hoy ya terminamos cuando volvamos<n>a la academia, ¿verdad?\n¿Tienes algún<n>plan después?"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Si no estás muy ocupado... ¿Qué tal si<n>damos una vuelta en auto?",
+      "choice_data_list": [
+        "¿Una vuelta en auto?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ajá. Estás bien, ¿verdad? ¡Genial, paso<n>por ti! Espérame en la\nentrada de la<n>escuela, ¿vale?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como me indicó Maruzensky, la espero en<n>la entrada cuando..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Brrrumm! Chirriiiido...</i>"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Hola, Entrenador. ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Hola, Entrenador. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Maruzensky sale de su deportivo rojo<n>cereza y se acerca a mí."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Oye, ¿por qué me miras así?",
+      "choice_data_list": [
+        "Vaya auto que tienes...",
+        "Vaya auto que tienes..."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Lo sé! ¿No es lo máximo? ¡Esta<n>hermosura es mi compañera,\nTata!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Un cuerpo elegante y genial, con un motor<n>que ruge como un tigre...\nY mira sus<n>puertas de tijera. ¡¿No son fabulosas?!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡No hay nada mejor que pasear en esta<n>nena! Te va a encantar, así\nque<n>¡apúrate! ¡Sube!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me siento en la querida<n>\"compañera\" de Maruzensky."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡La aceleración! ¡El paisaje que fluye!<n>¡¿No es lo mejor?! Pero\ntodavía no<n>has visto lo increíble que es Tata en<n>realidad."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "No te preocupes—¡respeto las normas de<n>tránsito! Solo que... ¡las\nllevo al límite!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡BRRUUUM!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Paso un momento aterrador que parece<n>durar una eternidad."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Aaah, ¡qué maravilla! Y terminar una<n>vuelta relajada en la playa...\n¡Qué<n>romántico!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Qué tal? ¡Apuesto a que viajar en Tata<n>fue como probar un poco del\ncielo!",
+      "choice_data_list": [
+        "La verdad es que sentí que casi <i>ascendí</i> al\ncielo..."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¿Qué tal? ¡Apuesto a que viajar en Tata<n>fue como probar un poco del\ncielo!",
+      "choice_data_list": [
+        "La verdad es que sentí que casi <i>ascendí</i> al\ncielo..."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Qué bien, me alegra que te haya<n>gustado. ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Manejar es maravilloso. Dejas que tu<n>cuerpo se deje llevar por la\nvelocidad y te<n>vuelves uno con el viento. Es como si<n>pudieras seguir para\nsiempre."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Poder experimentar esa alegría con mi<n>propio cuerpo... Estoy tan\nfeliz de haber<n>nacido como Uma Musume."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Y la emoción de correr más rápido que el<n>viento... ¡No hay nada como\neso!",
+      "choice_data_list": [
+        "De verdad te encanta ir rápido, ¿eh?",
+        "De verdad te encanta ir rápido, ¿eh?"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Claro que sí! Pero en realidad, eso es<n>todo para mí."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "La mayoría de las corredoras tienen algún<n>sueño que cumplir o una\nmeta de qué<n>presumir. Pero esos asuntos tan<n>complicados... no son\npara chicas como yo."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "No me malinterpretes. Me encanta correr y<n>competir, ¿sabes? Es solo\nque..."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Hoy, cuando estaba junto a tantas<n>soñadoras, me pillé pensando\nsi<n>yo... estoy en el lugar correcto.",
+      "choice_data_list": [
+        "Estás justo donde debes estar."
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Oh, no! ¿Estoy siendo aguafiestas?<n>¡Eso no va para nuestra\nprimera vuelta<n>juntos!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Oh, no! ¿Estoy siendo aguafiestas?<n>¡Eso no va para nuestra\nprimera vuelta<n>juntos!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Ah, ya sé! Como estamos en la playa,<n>¿qué tal si jugamos a las\natrapadas?<n>Ya sabes, ¡como en esas escenas de las<n>telenovelas de moda!"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Vale, tú eres \"el que la trae\"! Ajajá,<n>¡atrápame si puedes! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Solo una chica sin sueños elevados ni<n>metas... Siento como si\nhubiera echado un<n>vistazo bajo el capó para ver quién es<n>realmente detrás de\nesa sonrisa precoz."
+    },
+    {
+      "name": "Maruzensky",
+      "text": "Ejeje, ¡jajaja! ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Pum, pum, pum!</i>",
+      "choice_data_list": [
+        "¡Espera, es imposible que te atrape!",
+        "¡Espera, es imposible que te atrape!"
+      ]
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Vamos, nunca se sabe hasta que lo<n>intentas! ¡Síguelo intentando,\nEntrenador! ♪"
+    },
+    {
+      "name": "Maruzensky",
+      "text": "¡Vamos, nunca se sabe hasta que lo<n>intentas! ¡Síguelo intentando,\nEntrenador! ♪"
+    }
+  ]
 }

@@ -1,247 +1,262 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "Like many of Tracen Academy's horsegirls, Matikanefukukitaru \nhad chosen to make use of summer camp to improve her skills, \nso here we were, at the beachside facilities."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "<i>Fwooohoo～</i> I've really worked up a sweat \nand we haven't even started training yet!"
-        },
-        {
-            "text": "Though we were here for training, Matikanefukukitaru had \nshown up carrying a large amount of baggage.",
-            "choice_data_list": [
-                "Dare I ask…?"
-            ]
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "My collection of lucky items, it is! I left something like a hundred \nof them behind in the dorm and brought the rest here with me!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "You see, I actually thought this summer would be a good \nopportunity to part ways with them once and for all. \nNow the only question is how I should do so.",
-            "choice_data_list": [
-                "Chuck them in the trash?"
-            ]
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "In the what!? You would simply throw these \nwondrous miracle items into the <i>trash</i>!?"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "…… Granted, I can't just bury them on the beach here. \nIt was good and well to bring them on impulse, but I \nhaven't quite thought about how to dispose of them."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "I owe a lot to these little trinkets, so I was hoping to give \nthem a proper burial. It lacks me only a good method…"
-        },
-        {
-            "text": "Given how lovingly she relied on her lucky items at all times, \nseeing her willingly looking to part with them was a clear \nindication of just how much she had changed."
-        },
-        {
-            "text": "I'm not sure exactly how she arrived at this decision, \nbut her determination is to be acknowledged.",
-            "choice_data_list": [
-                "I'll help you think of something.",
-                "I'll help you think of something."
-            ]
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "You will!? Oh, I am most grateful for your help!"
-        },
-        {
-            "text": "For a while, I enjoyed the chirps and hums of insects \ndrifting on the summer air. Until ——"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "<i>Ah, there you are, Trainer!</i>"
-        },
-        {
-            "text": "A familiar shrill voice pierced through this peaceful \nmoment to herald the arrival of Matikanefukukitaru."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Why have you chosen this place? \nI don't see anything of particular note…"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Ah, there's a small creek here, who would have thought! \n<i>Heeh</i>, now that's charming～"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "I'm getting the urge to make one of those bamboo leaf boats \nto send downstream. Great luck if it stays afloat, and else \ndon't mind, I guess!",
-            "choice_data_list": [
-                "I thought we could send down your items.",
-                "I thought we could send down your items."
-            ]
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "<i>Heh?</i> My items…? Ah! You mean… I can send \nthem off down the water here? I… I get it now～!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Indeed, sending items and persons off down a river in mourning \nor remembrance is a most traditional Japanese custom."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Be it the offerings of <i>Obon</i>, the lanterns and <i>hina</i> dolls of their \nrespective floating rituals, the noodles of <i>nagashi soumen</i>… \nAn odd one crept in, perhaps, but the practice is common.",
-            "choice_data_list": [
-                "How do you feel about my suggestion?"
-            ]
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Right! I must say, I like it!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Reminiscing about each one while watching it drift away… \nHopefully, it will help me conclude a chapter of my growth, \nleaving behind the times when I relied on them so much."
-        },
-        {
-            "text": "With that settled, we began sending her \nlucky items down the flowing stream."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Farewell, my dear little <i>kids' meal flag</i>… \nBack in elementary, offering a small prayer \nto this gave me a good score on a test."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "If I did my best, mom would take me out \nfor another kids' meal. Thinking about that \nhelped me focus more on studying!"
-        },
-        {
-            "text": "The little flag was thus set adrift on the water. \nFor my part, I couldn't help but think to myself… \n\"Wasn't that just your stomach speaking…?\"."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Please hand me that damaged playing card deck next. \nIt's quite exceptional, I tell you."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "I always won when I played with this deck, and that's because \nonly I recognized the cards' blemishes. So long, my dears!"
-        },
-        {
-            "text": "The deck of cards was thus set adrift on the water. \nFor my part, I couldn't help but think to myself… \n\"Aren't those just straight-up marked cards…?\"."
-        },
-        {
-            "text": "This pattern continued for a while ——"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "We've reached the last one! It's also one of my most \nprecious ones. Granny gave me this carved wooden doll…"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "It was back when I was a timid little girl. \nEver since, it has watched over me, the same way she did."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "…… But I've grown a lot. I won't need it anymore now. \nYou do the honors for me, Trainer!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Granny… I'll be fine on my own now! \n<i>…… Fareweeeell!</i>"
-        },
-        {
-            "text": "…… Somewhere in heaven, I'm sure her grandma is smiling."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "<i>I'll bring you back a souvenir when this camp is oveeeer!</i>"
-        },
-        {
-            "text": "…… Or somewhere in Japan still."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "<i>Phew</i>, we're all done now."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "I feel like I've grown just a small amount. \nNot to mention my room will look a lot cleaner."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "I will make sure not to cause anyone trouble anymore with… \n<i>Heh? Aaaaaaaaaaaaaaaaaaah!</i>",
-            "choice_data_list": [
-                "What's wrong?",
-                "What's wrong?"
-            ]
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Have I not just caused trouble already?! Those items will be \ncarried all the way to the ocean, will they not?!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Have I been polluting our beautiful natural environment!? \n<i>Awawawah</i>, what do I do now!?"
-        },
-        {
-            "text": "Seeing how panicked she was, I guided her \ndownstream along the river."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "<i>Mhoh?</i> Do my eyes pick up a net spanning the creek?! \nAll my items are caught in it…"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Truly, you have thought of everything, Trainer! \nI knew you were incredible! A real savior!",
-            "choice_data_list": [
-                "Let's give these a proper <i>homa</i> burial.",
-                "Let's give these a proper <i>homa</i> burial."
-            ]
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Yes! We can do it on the beach like one of those big bonfires!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "<i>Hwooaah</i>… it really is a pretty sight."
-        },
-        {
-            "text": "With all her lucky items collected, the resulting ritual fire \nbathed the whole area in a warm light."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "I may have many lucky items left at the dorm, but it still \ncomes as a surprise to myself that I could find the resolve \nto go through with this."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Though divination and my lucky items are both things \nI never want to find myself without, I believe my own \nefforts and struggles are just as important."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "I might even invite Divine Shiraoki's admonishment \nupon me if I rely on her kindness all the time.",
-            "choice_data_list": [
-                "That's real admirable if you ask me.",
-                "That's a good attitude to have."
-            ]
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "<i>Ehehe…</i> it's a little embarrassing to hear such praise."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Aside from that, I have you by my side, Trainer. \nThe power you wield to change my future is many \ntimes more potent than any lucky item.",
-            "choice_data_list": [
-                "I'll do my best to bring you fortune.",
-                "I'll do my best to bring you fortune."
-            ]
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "<i>Ohhoo～</i> Hearing you say so is emboldening. \nI'm certain great blessings await just around the corner!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "I will do my very best as well, so that I can be ready \nto welcome any good fortune that comes my way!"
-        },
-        {
-            "text": "Matikanefukukitaru's enthusiasm seemed \nto burn as bright as the bonfire."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Matikanefukukitaru, junto con las demás<n>Umamusume, llegan a las\ninstalaciones<n>costeras de la Academia Tracen para un<n>campamento de\nentrenamiento intensivo de verano."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Uf... No pensé que sudaría tanto<n>¡antes de empezar nuestro\nentrenamiento!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nuestro objetivo principal para este campamento<n>no es el ocio, sino el\nentrenamiento. Sin<n>embargo, Matikanefukukitaru ha traído<n>consigo una\nmaleta gigante llena de... algo.",
+      "choice_data_list": [
+        "Espero que no esté llena de lo que creo."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Traje mis objetos de la suerte conmigo! O<n>bueno, la mayoría al\nmenos. Dejé como<n>cien de ellos en mi habitación del dormitorio.<n>¡El\nresto está aquí conmigo!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Quería usar este campamento de verano como<n>una oportunidad para\ndespedirme de todas<n>mis cosas. La pregunta es, ¿cómo lo hago?",
+      "choice_data_list": [
+        "¿Qué tal si simplemente lo tiras todo?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡¿Tirarlo todo?! ¡Estos son todos mis<n>preciosos objetos de la suerte!\nClaro, me estoy<n>deshaciendo de ellos, pero no puedo<n>simplemente\ntirarlos como basura común!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Además, tirar basura es malo. Nos<n>meteríamos en problemas por\ntirar basura en la<n>playa. Admitiré que traje todas mis cosas<n>aquí\nsin mucho plan en mente."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Estos objetos de la suerte me han servido<n>bien, así que me gustaría\ndarles una<n>despedida adecuada—pero ¿cómo?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Matikanefukukitaru pasó de negarse a<n>soltar sus objetos de la suerte\na enviarlos<n>por su cuenta. Parece que ha tenido un<n>cambio de\nactitud."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No sé de dónde proviene ese cambio. Pero<n>independientemente, es\nimportante que<n>tome en cuenta sus sentimientos.",
+      "choice_data_list": [
+        "Pensaré en algo.",
+        "Pensaré en algo."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡¿Lo harás?! ¡Realmente agradecería la ayuda!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El sonido de los grillos y las cigarras llena<n>el aire caliente del\nverano. Entonces..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Oh, ahí estás! ¡Ya voy!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Matikanefukukitaru me ve y trota<n>rápidamente hacia mi lado."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Por qué estás aquí? ¿Dónde estamos siquiera?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Oye, ¡hay un pequeño arroyo por allá! No<n>sabía que esta área tenía\nun río tan cerca.<n>Realmente añade al ambiente."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Este es el lugar perfecto para jugar con un<n>barco de juguete!\n¡Ponlo en el agua y<n>ve qué pasa! Si se mantiene a flote,<n>¡grandes\nfortunas nos esperan! Y si no...<n>¡no es gran cosa!",
+      "choice_data_list": [
+        "Nos desharemos de tus cosas aquí.",
+        "Nos desharemos de tus cosas aquí."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Eh? ¿Aquí? Ah, ¿sugieres que enviemos<n>mis objetos de la suerte\nusando este río? Ya<n>veo..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Hm... un memorial fluvial. Sería una manera<n>adecuada de poner mis\ncosas a<n>descansar—agradable y tradicional."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Espíritus del río, linternas del río,<n>ceremonias del río... ¡Caray,\nhasta comemos<n>fideos de pequeños ríos! Una de esas no es<n>como las\notras, ¡pero todas tienen que ver con<n>ríos!",
+      "choice_data_list": [
+        "Entonces, ¿qué opinas?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Creo que es una gran idea!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Puedo reflexionar sobre cada uno de mis<n>objetos de la suerte\nmientras los dejo ir y<n>con suerte convertirme en una mejor yo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así comienza el envío fluvial de objetos<n>de la suerte de\nMatikanefukukitaru."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Adiós, banderita de almuerzo infantil...<n>Pude obtener buenas\ncalificaciones en la<n>escuela primaria gracias a ti..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Fuiste mi motivación para estudiar duro<n>para que mamá me llevara a\nconseguir un<n>almuerzo infantil..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sospecho que la verdadera motivación no<n>era más que su estómago\nhambriento, pero<n>decido permanecer en silencio mientras la veo<n>enviar\nla banderita arroyo abajo."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "El siguiente es uno de mis objetos de la<n>suerte más preciados—esta\ncarta de<n>juego arrugada."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Cada vez que jugaba usando esta carta,<n>siempre ganaba! Su\narruga icónica me<n>permitió asegurar la victoria con mis propias<n>manos.\n¡Adiós, carta arrugada!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Suprimo el impulso de hacer un comentario<n>sobre sus claras\nartimañas fraudulentas,<n>y Matikanefukukitaru libera la carta en<n>el agua."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Repite este proceso con el resto de sus<n>objetos de la suerte\nhasta..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Finalmente, este es el último! Esta muñeca<n>de madera me la dio mi\nabuela. Es uno<n>de mis objetos de la suerte más preciados."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Siempre fui muy tímida y temerosa de casi<n>todo. Pero mi abuela me\ndio esto,<n>diciéndome que me estaría cuidando<n>sin importar dónde\nestuviera."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Pero ya soy adulta ahora! ¡Finalmente<n>superé eso! Así que por favor,\n¡haz los<n>honores enviando mi muñeca por mí!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Abuela, creo que estaré bien por mi<n>cuenta ahora! ¡Adiós!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estoy seguro de que la abuela de<n>Matikanefukukitaru la mira con\norgullo<n>desde los cielos."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Me aseguraré de comprarte algo pequeño<n>antes de regresar, abuela!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Retiro mi declaración. Estoy seguro de que<n>está orgullosa desde la\ncomodidad de su<n>hogar."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Uf... Bueno, ¡eso es lo último!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Me siento como una persona nueva! Y para<n>colmo, ¡mi habitación\nfinalmente está limpia!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Ahora solo necesito asegurarme de no<n>causar más proble— Espera un<n>momento... ¡Oh no!",
+      "choice_data_list": [
+        "¿Qué pasa?",
+        "¿Qué pasa?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Ya causé un gran problema! Este<n>arroyo... Llega al océano, ¿verdad?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Acabamos de tirar un montón de basura!<n>Waaaah, ¿qué hacemos?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La agitada Matikanefukukitaru entra en<n>pánico, y decidimos seguir el\narroyo hasta<n>su desembocadura."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Oh? ¿Quién puso esta reja metálica aquí?<n>Atrapó todos mis objetos\nde la suerte..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¿Hiciste esto por mí? Realmente estás<n>preparado para todo, ¿no? ¡Es\ncomo si<n>pudieras leer mi mente!",
+      "choice_data_list": [
+        "¿Qué tal si despedimos tus cosas con una\npequeña fogata en su lugar?",
+        "¿Qué tal si despedimos tus cosas con una\npequeña fogata en su lugar?"
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Suena bien! ¡Podemos hacer una fogata en<n>la playa y quemar todo\nahí!"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Whoa... Es tan bonito..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La pila de objetos de la suerte en llamas<n>emite un suave resplandor,\niluminando la<n>playa ahora oscura."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Todavía tengo algunos de mis objetos de la<n>suerte en mi habitación\ndel dormitorio, pero<n>aún me sorprende haber podido separarme<n>de\ntanto como lo hice..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "No creo que pueda renunciar completamente a<n>mis adivinaciones o a\nmis objetos de la<n>suerte todavía, pero... creo que estoy<n>empezando a\nentender la importancia de<n>usar tu propio poder para hacer las\ncosas."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Además, estoy segura de que la gran<n>Shiraoki no aprobaría que me\nbasara<n>únicamente en ella.",
+      "choice_data_list": [
+        "La gran Shiraoki estaría orgullosa de verte\nahora.",
+        "La gran Shiraoki estaría orgullosa de verte\nahora."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "Ejeje... Suena embarazoso cuando lo<n>dices así..."
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Sé que estaré bien! Después de todo, tengo<n>a la persona más\nafortunada a mi lado.",
+      "choice_data_list": [
+        "Haré lo que pueda para traerte buena fortuna.",
+        "Haré lo que pueda para traerte buena fortuna."
+      ]
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Ojo! Espero que lo digas en serio. Te<n>tomaré la palabra. Espero\nmucha<n>buena suerte en el futuro cercano, ¿entendido?"
+    },
+    {
+      "name": "Matikanefukukitaru",
+      "text": "¡Tengo los brazos abiertos! ¡Dame toda la<n>suerte que tengas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "No estoy seguro de qué arde más—la fogata<n>llameante que hicimos\njuntos, o el<n>espíritu ardiente dentro del corazón<n>recientemente\ncambiado de Matikanefukukitaru."
+    }
+  ]
 }

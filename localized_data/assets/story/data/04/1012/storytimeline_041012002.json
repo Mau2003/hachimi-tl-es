@@ -1,228 +1,237 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "My thoughts lingered with Hishi Amazon after \nI happened upon her at the pool. Her strength \nof spirit had made quite an impression on me."
-        },
-        {
-            "text": "Wondering how that would affect the way she ran, \nI decided to come take a look at her training ——"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Awesome, you're getting the hang of it!! \nBut you can still do better!!"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "You told me you have a rival you really \nwant to beat last time, didn't you?"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "So lemme see your fire burn!!"
-        },
-        {
-            "name": "Miho Dorm Horsegirl",
-            "text": "Yes, ma'am!! I'll do my best!!"
-        },
-        {
-            "text": "Hishi Amazon was helping out one of her juniors with training."
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Alright, one more go!! Come on!!"
-        },
-        {
-            "text": "Seeing her run on the track, I noticed her footwork \nwas emphatic and powerful."
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Hup, hup, hup, hup, huuuuaaaaaahhh!!"
-        },
-        {
-            "text": "Although her racecraft was a bit rough, she relied \non her sheer power to snatch the lead."
-        },
-        {
-            "text": "Something about the way her bold running style \nreflected her personality drew me in……"
-        },
-        {
-            "name": "Miho Dorm Horsegirl",
-            "text": "Thanks so much, Amazon, ma'am!! \nI'd be grateful for your help again sometime!!"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Sure thing!! But you gotta be knackered now. \nWhy don't you go grab a good meal first, and then \nhave a nice, relaxing soak in the bath."
-        },
-        {
-            "name": "Miho Dorm Horsegirl",
-            "text": "Yes, ma'am!! I'll see you later then!!"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "And don't trip, will ya!! ……Hehehh, she's looking \na lot stauncher than before."
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Might not be too long before she'll be a real \nforce to be reckoned with on the track…!",
-            "choice_data_list": [
-                "You sound pretty happy about that.",
-                "You sound pretty happy about that."
-            ]
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Huh? Who the… <i>hm</i>? <i>Ooh</i>. Take it you're \na trainer here, judging from the badge?"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Sound happy? Nah, I <i>am</i> happy. It's great to see \nthe younger kids getting stronger all the time!"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "'Cause it also means I'll have that many more worthwhile \nopponents to have a one-v-one with, right?",
-            "choice_data_list": [
-                "Point taken.",
-                "That's true."
-            ]
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Wooooooh! That's exactly why Tracen's such a great place! \nThere's never any lack of kids with incredible ability, even by \nhorsegirl standards!"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "By having all out matches with them, I can keep growing \nstronger too! Same thing for the Twinkle Series!"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "That's my way of life!!"
-        },
-        {
-            "text": "It did seem that way. Almost every day, Hishi Amazon spent \nmost of her time challenging horsegirls around campus……"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Fuji, fight me!! Let's see who can hold \ntheir breath the longest underwater!!"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Hmmmm, that sounds a little dangerous…… \nTell you what, why don't we allow making each other laugh?"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Oh, you little rascal… but I'll take it! \nI don't back down from any fight!!"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "<i>Gahrhgehheh…!! Haah, haaah……</i> \nDangit, Fuji! You didn't say anything about tickling!!"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Ahahahaha!! Your armpits have always been your weak spot～"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Hmmn……? Hang on, Biko, can you say that again…?"
-        },
-        {
-            "name": "Biko Pegasus",
-            "text": "… A Hero Pose Battle! Let's have one, Miss Amazon! \nWe battle for who can be most like a Hero of Justice!"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "………… I don't really get it, but if it's \na one-on-one you want, you got it!!"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "How's this!? <i>Hoh! Huoo! Haaaah!!</i>"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Whew…… huh, you again?",
-            "choice_data_list": [
-                "You're going at it hard.",
-                "You're going at it hard."
-            ]
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Well, the Selection Race <i>is</i> coming up! My debut's on the line \nso I got no time to be taking it easy."
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "I need to show the trainers there my best side \nand snag myself one with searing hot soul!"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "I told ya before, didn't I? I wanna face off with those \nin the Twinkle Series, not just the kids at Tracen!",
-            "choice_data_list": [
-                "You really like having them battles, huh?",
-                "You really like having them battles, huh?"
-            ]
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Ahaha! Well of course, being at an academy \nlike this should make that clear!"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "And also… I guess I got it from mom.",
-            "choice_data_list": [
-                "Your mom ran in races too?",
-                "Your mom ran in races too?"
-            ]
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Yeah, though it was overseas. I'm actually what you'd call \none of those \"third culture\" kids. Neat, right?"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "She made quite a few waves over there, you know? \nOf course I'd admire her and grow an interest in racing."
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "The first time I got to really experience those races \nfor myself was when I went to watch the Twinkle Series \nafter returning to Japan……"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "I still remember my excitement clearly!! \nThese insanely fast runners were battling it out…!"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "I was screaming things like \"amazing!\", \"unreal!\", \n\"I wanna join too!\", \"I wanna fight strong people!\", \nand jumped out of the stands!",
-            "choice_data_list": [
-                "You what?!",
-                "You what?!"
-            ]
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Ahahah, 'course mom quickly dragged me \nback to my seat by the scruff of the neck!"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Aah～ She was really furious about that…… \nI think I'd rather not remember that part."
-        },
-        {
-            "text": "…… In any case, it sounds like the emotions, excitement, \nand desire to race she felt back then were the starting point \nfor Hishi Amazon."
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Oh? What's up? You starting to fall for me or something?"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Too bad for you! I'm not accepting any trainers \nuntil after the Selection Race!"
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Not that there are any rules about that, but that's \nwhat I've decided. I want you trainers to have a good \nclose look at me in the race."
-        },
-        {
-            "name": "Hishi Amazon",
-            "text": "Well, just look forward to it!"
-        },
-        {
-            "text": "Just what sort of race would the always–overflowing–with–spirit \nHishi Amazon run? I was definitely starting to get excited……"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "La notable resiliencia de Hishi Amazon<n>durante la Batalla de los\nDormitorios se<n>queda en mi mente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Curioso por comparar su habilidad para<n>correr, me dirijo a la pista con\nla esperanza de<n>observar su desempeño durante el entrenamiento."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Muy bien, se ve bien! ¡Pero sé que tienes<n>más de donde vino eso!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Antes mencionaste que tenías una rival a la<n>que querías vencer, ¿verdad?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Entonces deja que ese fuego dentro de ti<n>ardaaún más fuerte!"
+    },
+    {
+      "name": "Miho Umamusume",
+      "text": "¡Sí, señorita! ¡Así lo haré!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Llego y la veo entrenando junto a una de<n>las estudiantes más jóvenes."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Bien, entonces es hora de otra vuelta!<n>¡Vamos a hacerlo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El juego de pies de Amazon es dinámico y<n>poderoso mientras acelera por la\npista."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Vamos, vamos, vámoos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Aunque su posicionamiento deja algo que<n>desear, ella\nlogra tomar la<n>delantera por pura fuerza de voluntad."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Me siento atraído por su estilo de correr<n>sin miedo, que parece ser\nun<n>reflejo directo de su propia personalidad."
+    },
+    {
+      "name": "Miho Umamusume",
+      "text": "¡Muchas <i>gracias</i>, Hishiama! ¡No puedo<n>esperar a entrenar contigo de nuevo!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Claro que sí! Debes estar agotada, ¿eh?<n>Asegúrate de comer bien y\ndarte un buen<n>baño caliente después."
+    },
+    {
+      "name": "Miho Umamusume",
+      "text": "¡Sí, señorita! ¡Hasta la próxima!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Cuidado ahora! ¡No quiero que te caigas!<n>\nJe... Su expresión se ha vuelto mucho más<n>dura."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "A este paso, no tardará en convertirse en<n>una rival formidable por\nderecho<n>propio!",
+      "choice_data_list": [
+        "Parece que te estás divirtiendo.",
+        "Parece que te estás divirtiendo."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Eh? ¿Tú quién eres?\nOh, una placa. ¿Así que<n>eres un entrenador de la escuela?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Y no solo <i>parece</i> que me divierto—<i>me</i><n>divierto de verdad! ¡No hay nada mejor\nque ver<n>a los jóvenes volverse más fuertes ante mis<n>ojos!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Después de todo, eso solo significa que<n>tendré montones de oponentes\npara<n>competir uno contra uno!",
+      "choice_data_list": [
+        "Entiendo tu punto.",
+        "Entiendo tu punto."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Vaya, por eso la Academia Tracen es la<n><i>mejor!</i> ¡Hay Umamusume\nsúper<n>fuertes por todos lados!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Y voy a enfrentarme a todas y volverme<n>aún más fuerte! ¡Competiré\nuno contra<n>uno con todas en la Twinkle Series si es<n>necesario!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Así es como soy yo!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Fiel a sus palabras, Amazon pasa sus<n>días compitiendo contra\nprácticamente<n>cada Umamusume que se cruza en su camino."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Hora de un uno contra uno, Fuji! Esta<n>vez, veamos quién aguanta más\nla<n>respiración bajo el agua!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "Hmm, eso suena un poco arriesgado...<n>¡Oye, ya sé! ¿Qué tal si\nincluimos una<n>regla que permita hacer reír al oponente?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Pequeña tramposa... Pero claro, ¡me parece<n>bien! Ya me conoces—nunca\nhuiré de un<n>desafío!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "<i>Tos, tos! Jadeo, bufido...</i>\n¡Maldita seas, Fuji!<n>¿Recurrir a las cosquillas? ¡Eso es jugar sucio!"
+    },
+    {
+      "name": "Fuji Kiseki",
+      "text": "¡Jajaja! Tus costillas son un blanco<n>demasiado fácil de resistir."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Eh? Espera, Biko. ¿Podrías<n>repetir eso?"
+    },
+    {
+      "name": "Biko Pegasus",
+      "text": "Dije—¡hagamos un duelo de poses de<n>héroe, Hishiama! ¡Veremos cuál de\nnosotras<n>es más como una aliada de la justicia!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Eh... No estoy segura de entender, pero si<n>se trata de un uno contra\nuno, ¡estoy<n>dentro!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¿Así? ¡Hup! ¡Hngh! ¡Haaah!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Uf... Oh, qué casualidad verte de nuevo.",
+      "choice_data_list": [
+        "Alguien está trabajando duro.",
+        "Alguien está trabajando duro."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Bueno, las pruebas están a la vuelta de la<n>esquina. No puedo holgazanear\ncuando mi<n>gran debut está en juego."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Tengo que mostrar mis habilidades<n>durante la carrera y conseguir un\nentrenador<n>con un espíritu ardiente!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Como dije antes, no es suficiente competir<n>uno contra uno con\nestudiantes aquí en la<n>escuela. ¡También tengo que enfrentarme<n>a la multitud de la\nTwinkle Series!",
+      "choice_data_list": [
+        "Debes gustarte mucho competir.",
+        "Debes gustarte mucho competir."
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Jajaja! Bueno, ¿puedes culparme en una<n>escuela como esta?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Pero supongo que también lo heredé un<n>poco de mi mamá.",
+      "choice_data_list": [
+        "¿Tu madre solía competir?",
+        "¿Tu madre solía competir?"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Claro que sí! Aunque solo compitió en el<n>extranjero. Sí, así es—no lo\ncreerías,<n>¡pero yo también viví en el extranjero!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Mi mamá era bastante famosa por allá,<n>debo decirte. Realmente la\nadmiraba—<n>eso fue parte de lo que me metió en las carreras."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Pero la primera vez que experimenté una<n>carrera en persona fue cuando\nvine a<n>Japón a ver la Twinkle Series."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Nunca olvidaré la emoción de ver a esas<n>demonios de la velocidad\ncompetir!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Yo estaba como, \"¡Wow, <i>genial!</i> ¡Déjenme<n>a ellas! Quiero competir\nuno contra<n>uno con esas duras!\" ¡Y salté de mi asiento!",
+      "choice_data_list": [
+        "¿¡Cómo, sobre la barandilla!?",
+        "¿¡Cómo, sobre la barandilla!?"
+      ]
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Jaja! No, mi mamá me agarró por la<n>nuca y me sentó de nuevo."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Vaya, estaba furiosa. Es divertido<n>recordar la carrera y todo, pero\nprefiero<n>no recordar <i>esa</i> parte."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que la emoción y las ganas de<n>competir que sintió en aquel\nentonces<n>hicieron de Amazon quien es hoy."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Oh, ¿qué es esto? ¿Caíste ante mis<n>astutos encantos ahora, mmm?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Pero tengo malas noticias para ti! No voy<n>a dejar que me recluten\nhasta después de<n>las pruebas."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "No hay ninguna regla en contra o algo,<n>pero eso es lo que decidí.\nQuiero que tú y<n>los otros entrenadores vean lo que puedo<n>hacer en una <i>verdadera</i>\ncarrera."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Recuerda mis palabras—vas a ver<n>algo realmente especial!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¿Qué tipo de carrera nos mostrará esta<n>luchadora en las pruebas? No\npuedo esperar<n>a descubrirlo."
+    }
+  ]
 }

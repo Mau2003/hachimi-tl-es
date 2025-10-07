@@ -2,234 +2,248 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Narita Brian",
-      "text": "She's not my big sis for nothing."
+      "name": "Monólogo",
+      "text": "La primera mitad del año de la Twinkle Series<n>culmina con la tremenda<n>victoria de Biwa Hayahide en el Takarazuka Kinen."
     },
     {
-      "text": "Narita Brian and Biwa Hayahide are on separate, but equally exciting, \npaths within the Twinkle Series."
-    },
-    {
-      "text": "If they were to race against each other, there's no telling who'd come \nout on top."
-    },
-    {
-      "text": "The first half of the Twinkle Series ends with Biwa Hayahide's \ntremendous victory in the Takarazuka Kinen."
-    },
-    {
-      "text": "Now with summer here, Team Sirius goes shopping to prepare for \nsummer camp."
+      "name": "Monólogo",
+      "text": "Ahora que llegó el verano, el Team Sirius va<n>de compras para prepararse<n>para el campamento de verano."
     },
     {
       "name": "Winning Ticket",
-      "text": "Let's see, there's fireworks, watermelon, carrots… Aaah, we've got so \nmuch to buy!"
+      "text": "A ver, hay fuegos artificiales, sandía,<n>zanahorias... ¡Aaah, tenemos montones<n>de cosas por comprar!"
     },
     {
-      "text": "Prepping for the camp is hard, but we'll have a chance to stretch our \nlegs once we get there. It's a training camp, but this is also a vacation \nfor us."
+      "name": "<username>",
+      "text": "Prepararse para el campamento es difícil, pero<n>tendremos chance de estirar<n>las piernas una vez que lleguemos<n>allá. Es un campamento de entrenamiento, pero<n>también es unas vacaciones<n>para nosotros."
     },
     {
-      "name": "Shopper A",
-      "text": "Oh! It's Narita Brian!"
+      "name": "Compradora A",
+      "text": "¡Oh! ¡Es Narita Brian!"
     },
     {
-      "name": "Shopper B",
-      "text": "Wow, it's really her! It was so amazing to see you win the Derby with \nthat five-length lead!"
+      "name": "Compradora B",
+      "text": "¡Vaya, de verdad es ella! ¡Fue tan increíble<n>verte ganar el Derby con<n>esa ventaja de cinco cuerpos!"
     },
     {
       "name": "Narita Brian",
-      "text": "Thanks…"
+      "text": "Gracias..."
     },
     {
-      "name": "Shopper B",
-      "text": "Next up is the third crown, the Kikuka Sho, right? Are you gonna race \nthe Arima Kinen after that?"
+      "name": "Compradora B",
+      "text": "Lo siguiente es la tercera corona, el Kikuka<n>Shō, ¿verdad? ¿Vas a correr<n>el Arima Kinen después de eso?"
     },
     {
       "name": "Winning Ticket",
-      "text": "Oh, I was wondering that too! Well, Trainer?!"
+      "text": "¡Oh, yo también me lo preguntaba! Bueno,<n>¡¿Entrenador?!"
     },
     {
-      "text": "Nothing's set in stone yet, but I'm thinking that'll be the schedule."
+      "name": "<username>",
+      "text": "Aún nada es seguro, pero estoy pensando<n>que ese será el calendario."
     },
     {
-      "text": "Nothing's set in stone yet, but I'm thinking that'll be the schedule."
+      "name": "<username>",
+      "text": "Aún nada es seguro, pero estoy pensando<n>que ese será el calendario."
     },
     {
-      "name": "Shopper A",
-      "text": "Wooow! Seeing you take the Triple Crown and go on to win the Arima \nKinen would be amazing! We're counting on you!"
+      "name": "Compradora A",
+      "text": "¡Vaya! ¡Verte ganar la Triple Corona<n>y luego ganar el Arima Kinen<n>sería increíble! ¡Tenemos grandes<n>esperanzas en ti!"
     },
     {
       "name": "Narita Brian",
-      "text": "You don't have to tell me. I'm going to win all my races."
+      "text": "No tienes que decírmelo. Voy a ganar<n>todas mis carreras."
     },
     {
-      "name": "Shopper B",
-      "text": "Wooow! I'm gonna go with my family! We can't wait to see your big \nwin!"
+      "name": "Compradora B",
+      "text": "¡Guau! ¡Voy a ir a verte con mi<n>familia! ¡No podemos esperar a ver<n>tu gran victoria!"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Everyone is confident in her victory. Brian deserves nothing less."
+      "text": "Todos confían en su victoria. Se<n>merece nada menos."
     },
     {
-      "text": "I can't fathom her losing at this point. Not the Kikuka Sho nor the \nArima Kinen."
+      "name": "<username>",
+      "text": "Honestamente, es difícil imaginarla perdiendo.<n>Al nivel de Brian, tiene<n>tanto el Kikuka Shō como el Arima Kinen<n>asegurados."
     },
     {
-      "text": "Though depending on her opponents, things might get shaken up."
+      "name": "<username>",
+      "text": "Aunque dependiendo de sus oponentes,<n>las cosas podrían complicarse."
     },
     {
       "name": "Winning Ticket",
-      "text": "But who could win against her?"
+      "text": "¿Pero quién podría ganarle?"
     },
     {
       "name": "???",
-      "text": "Oh? Well, if it isn't Brian."
+      "text": "¿Oh? Vaya, si no es Brian."
     },
     {
-      "text": "Isn't that…"
-    },
-    {
-      "name": "Narita Brian",
-      "text": "She's Hishi Amazon, the leader of Miho dorm. Doing a little \nshopping, Amazon?"
-    },
-    {
-      "name": "Hishi Amazon",
-      "text": "Yeah, the juniors aren't goin' home for summer, so I thought I'd make \na little treat for them."
+      "name": "<username>",
+      "text": "¿No es esa...?"
     },
     {
       "name": "Narita Brian",
-      "text": "You're quite the overbearing pack mother."
+      "text": "Ella es Hishi Amazon, la líder de la<n>residencia Miho. ¿Haciendo unas<n>compritas, Amazon?"
     },
     {
       "name": "Hishi Amazon",
-      "text": "Heh, taking care of people isn't just about feeding 'em."
-    },
-    {
-      "name": "Hishi Amazon",
-      "text": "I set an example on the track too. Whoever you face, you can take \n'em on if you've got the guts!"
-    },
-    {
-      "text": "It sounds like Hishi Amazon's got the same never-fail attitude as \nBrian."
-    },
-    {
-      "name": "Hishi Amazon",
-      "text": "Whoa! Watch out!"
-    },
-    {
-      "text": "<I>Screeeech!</I>"
-    },
-    {
-      "name": "Hishi Amazon",
-      "text": "Phew, too close for comfort."
-    },
-    {
-      "name": "Shopper's Child",
-      "text": "<I>Sniffle…</I> Uwaaagh!"
-    },
-    {
-      "name": "Hishi Amazon",
-      "text": "Hey! Don't you know to look both ways before crossin' the road?!"
-    },
-    {
-      "name": "Hishi Amazon",
-      "text": "Good ol' Hishiama will keep an eye on ya, so this time watch out for \ncars, huh?"
-    },
-    {
-      "name": "Shopper's Child",
-      "text": "<I>Sniffle…</I> Thanks, Miss…"
+      "text": "Sí, las junior no se van a casa en<n>verano, así que pensé en hacerles<n>una golosina."
     },
     {
       "name": "Narita Brian",
-      "text": "Nice moves, Amazon."
+      "text": "Van a empezar a llamarte mamá de<n>residencia en lugar de..."
     },
     {
       "name": "Hishi Amazon",
-      "text": "What? I wouldn't be a good dorm leader if I didn't watch out for the \nkids. Now… back to our talk."
+      "text": "Je, cuidar de la gente no es solo<n>darles de comer."
     },
     {
       "name": "Hishi Amazon",
-      "text": "I'd love to race you out on the track. A battle to see who's really the \nstrongest! Sounds awesome, right?"
+      "text": "También doy el ejemplo en la pista.<n>Sea quien sea que enfrentes, puedes<n>enfrentarte a ellos si<n>tienes las agallas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que Hishi Amazon tiene la misma<n>actitud de nunca fallar que<n>Brian."
     },
     {
       "name": "Hishi Amazon",
-      "text": "One day we'll race each other, so don't go runnin' away on me!"
+      "text": "¡Uy! ¡Cuidado!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Chiiiiiiis!</i>"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Uf, estuvo demasiado cerca."
+    },
+    {
+      "name": "Hijo de Comprador",
+      "text": "<i>Snif...</i> ¡Buaaaagh!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Oye! ¡¿No sabes que hay que mirar a ambos<n>lados antes de cruzar la calle?!"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Esta vez tienes a la vieja Hishiama<n>cuidándote la espalda, así que<n>inténtalo de nuevo con<n>seguridad, ¿de acuerdo?"
+    },
+    {
+      "name": "Hijo de Comprador",
+      "text": "<i>Snif...</i> Gracias, señorita..."
     },
     {
       "name": "Narita Brian",
-      "text": "I'd never run from a race, but I have no intention of waiting. If you \nwant it so bad, you'll have to keep up."
+      "text": "Buenos movimientos, Ama."
     },
     {
       "name": "Hishi Amazon",
-      "text": "Heh, that's the spirit! Anyway, I'm gonna hit up the sale on eggs. \nLater!"
+      "text": "Oye, no sería una buena líder de<n>residencia si no cuidara de los<n>chicos.<n>Ahora... ¿dónde estábamos?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Brian, me encantaría correr contra ti en la<n>pista. ¡Una batalla para ver<n>quién es realmente la mejor corredora!<n>¿Suena bien?"
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "Un día correremos una contra otra, así que<n>¡no me huyas!"
     },
     {
       "name": "Narita Brian",
-      "text": "Okay, Mommy."
+      "text": "Nunca huiría de una carrera, pero no<n>tengo intención de esperar. Si tanto<n>la deseas,<n>tendrás que mantenerme el paso."
+    },
+    {
+      "name": "Hishi Amazon",
+      "text": "¡Je, ese es el espíritu! En fin, voy a<n>aprovechar la venta de huevos. ¡Nos vemos!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "...Como dije, mamá de residencia."
     },
     {
       "name": "Winning Ticket",
-      "text": "Whoa, that almost made my heart stop. Seeing her bust that speed \noutta nowhere was even more surprising though!"
+      "text": "Guau, eso casi me da un infarto.<n>¡Verla sacar esa velocidad de la<n>nada para salvar a ese niño fue aún más<n>sorprendente!"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Have you never seen her race before? It's a sight to behold when she \ncharges from the back to the very front near instantaneously."
+      "text": "¿Nunca la has visto correr antes? Es<n>un espectáculo verla cargar desde<n>atrás hasta el frente casi<n>instantáneamente."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Some say it's even more shocking to witness than Brian's races."
+      "text": "Algunos dicen que es incluso más<n>impresionante que las carreras de Brian."
     },
     {
-      "text": "With Brian on the radar of a racer like her, we're not lacking in worthy \nopponents."
+      "name": "<username>",
+      "text": "Con Brian en la mira de una corredora como<n>ella, no nos faltan oponentes<n>dignos."
     },
     {
-      "text": "With Brian on the radar of a racer like her, we're not lacking in worthy \nopponents."
+      "name": "<username>",
+      "text": "Con Brian en la mira de una corredora como<n>ella, no nos faltan oponentes<n>dignos."
     },
     {
       "name": "Narita Brian",
-      "text": "Heh."
+      "text": "...Je."
     },
     {
       "name": "Winning Ticket",
-      "text": "So! We're doing our summer camp at the Mejiro estate. You two \nwanna come?"
+      "text": "¡Entonces! Tendremos nuestro campamento<n>de verano en la villa Mejiro.<n>¿Ustedes dos quieren<n>venir?"
     },
     {
       "name": "Narita Taishin",
-      "text": "Sorry, but I'll have to pass. I got injured before the Takarazuka Kinen, \nso I'll be visiting the hospital."
+      "text": "Lo siento, pero tendré que declinar. Me<n>lesioné antes del Takarazuka Kinen,<n>así que estaré<n>visitando el hospital."
     },
     {
       "name": "Winning Ticket",
-      "text": "Awww… That's a shame. Looks like it's just me and you, Hayahide! \nYou're in, right?!"
+      "text": "Awww... Qué lástima. Parece que solo<n>seremos tú y yo, Hayahide!<n>¿Tú sí vienes, ¿verdad?!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "No, count me out as well."
+      "text": "No, a mí tampoco me cuentes."
     },
     {
       "name": "Winning Ticket",
-      "text": "Whaaa?! But there's gonna be fireworks and watermelon and carrots!"
+      "text": "¡¿Quéee?! ¡Pero va a haber fuegos<n>artificiales y sandía y zanahorias!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "Sorry, I have something that needs attending to."
+      "text": "Lo siento, tengo algo que<n>necesita atención."
     },
     {
       "name": "Winning Ticket",
-      "text": "Don't tell me you're working on summer homework. Is that what \nyou've been scribbling in your notebook?"
+      "text": "No me digas que estás trabajando en la<n>tarea de verano. ¿Es eso lo que<n>has estado<n>garabateando en tu cuaderno?"
     },
     {
       "name": "Narita Taishin",
-      "text": "Huh? Wh-what is this?"
+      "text": "¿Eh? ¿Q-qué es esto?"
     },
     {
       "name": "Winning Ticket",
-      "text": "Muscle and core training… Sprints and ramp… Gate training and pool \ntraining…"
+      "text": "Entrenamiento de músculos y core...<n>Sprints en tierra y rampas...<n>Entrenamiento de salida y<n>entrenamiento en piscina... guau, ¡el<n>cuaderno está completamente lleno!"
     },
     {
       "name": "Winning Ticket",
-      "text": "No way, you're gonna do <I>ALL</I> this stuff for summer?!"
+      "text": "No puede ser, ¿vas a hacer <i>todas</i> estas<n>cosas en el verano?!"
     },
     {
       "name": "Biwa Hayahide",
-      "text": "I am. I need to prepare for the races in the fall—both the Sankei Sho \nAll Comers and the Tenno Sho (Autumn)."
+      "text": "Así es. Necesito prepararme para las<n>carreras del otoño—tanto el All Comers<n>como el Tennō Shō."
     },
     {
       "name": "Biwa Hayahide",
-      "text": "And finally… I'll hit the Arima Kinen."
+      "text": "Y finalmente... llegaré al Arima Kinen."
+    },
+    {
+      "name": "Winning Ticket",
+      "text": "¡¿Vas por el Arima Kinen?! Eso<n>significa que tú y Brian estarán<n>en la misma carrera!"
+    },
+    {
+      "name": "Narita Brian",
+      "text": "..."
+    },
+    {
+      "name": "Narita Brian",
+      "text": "Una oponente digna..."
     }
   ]
 }

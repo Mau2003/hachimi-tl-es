@@ -1,252 +1,261 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Tokai Teio",
-            "text": "Ah, there you are! Oi!!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Hey you, you're one of the trainers that talked to \nme after my Selection Race, right? I'm right, aren't I!?"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Well I'm holding a test right now, so come with me!",
-            "choice_data_list": [
-                "A test!? What's this all of a sudden!?",
-                "A test!? What's this all of a sudden!?"
-            ]
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Well, after the race, Prez said to \"find a trainer that I could \nrely on, and to only choose one after careful consideration\"."
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "If that's the case, the quickest way to decide \nis to do a training session with them, doncha \nthink? So I'm holding the test today! Show me \nhow good of a trainer you really are♪"
-        },
-        {
-            "text": "And just like that my one day of \ntraining Tokai Teio had suddenly begun…"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Hmm, \"hopping\"? So you want me to hop over each \nof these hurdles, all while staying on one leg…?"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "This seems super fun! What time should I aim for?"
-        },
-        {
-            "text": "I showed her the time I recommended. \nI set this time to be shorter than \nfor the average Uma Musume…"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Hmm, I have that long? This'll be a piece of \ncake! Here I go!"
-        },
-        {
-            "text": "Even though she looked like she was merrily \njumping around, Tokai Teio came in much faster \nthan the target time!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Phew… Hey, is that all you've got for me? I can \nstill go for much more!"
-        },
-        {
-            "text": "Afterwards, I coached Tokai Teio through various \ndifferent regimens, but she greatly exceeded \nexpectations in every single one of them!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "And finished!! How was that? I bet I put \nup better times than anyone else, right?",
-            "choice_data_list": [
-                "You're truly amazing…!"
-            ]
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "I am, aren't I? Ehehe, feel free to praise \nthe unbeaten Teio-sama more and more!",
-            "choice_data_list": [
-                "\"Unbeaten Teio-sama?\""
-            ]
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Yup. No one's ever beaten me at anything \never. Regardless of the type of race, \nI've won them all, and every time I won \nI was praised by everyone!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Being praised feels so good, don't you think? \nThey praise me because they think I'm amazing!♪"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "For example, when I won my first \nrace everyone told me that I did amazing!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "And it felt so, so good!"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "If I'm able to enter the Twinkle Series, \nmore and more people will think that I'm great!",
-            "choice_data_list": [
-                "And that's why you \njoined Tracen Academy?"
-            ]
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Ding ding ding!! You're absolutely correct♪"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Nngh! I'm so excited!! I wanna enter a GI race \nas soon as possible!! I want to be called the \nnumber one Uma Musume!"
-        },
-        {
-            "text": "In her eagerness, Tokai Teio doesn't \neven consider the possibility of losing."
-        },
-        {
-            "text": "However, after seeing just how amazing she really is, \nit's hard to find myself thinking that she'd actually lose."
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Oh wait, we were in the middle of the test, \nright? Hey! Is that all you had planned for \ntoday's regimen? Is it time to cool down?"
-        },
-        {
-            "text": "In order to fully understand \nTokai Teio's abilities, I had one thing left…",
-            "choice_data_list": [
-                "To finish up, I would like to \ntime you on a 2500 meter race."
-            ]
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "2500 meters? That's where I'm best! Ah, so you \nwanna see how well I do when I'm most comfortable?"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Okay! I'll be back in a flash♪"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "How was my time?",
-            "choice_data_list": [
-                "2 minutes and 34 seconds… so fast!"
-            ]
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Oh, a new personal best! Yay♪"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "2500 meters, huh? Just like the Arima Kinen GI race."
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Huh, Prez!?"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Why're you here? Did you come to see me!?"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Well, sort of."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "More importantly… hmm… \nTrainer-kun, I apologize for the sudden \nrequest, but could you time me as well?"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Make it the same as Teio's, 2500 meters."
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Eh? You're gonna go for a run too, Prez!? \nYaay!! You'll do it, right, Trainer!?",
-            "choice_data_list": [
-                "Got it, I'll time you."
-            ]
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Thanks. I'll start now."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Phew… Trainer-kun, what was my time?",
-            "choice_data_list": [
-                "2 minutes and 32 s-seconds!"
-            ]
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Prez… You were 2 seconds faster than me…!"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Correct, it seems like you've lost this time, Teio."
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Yup, guess I lost! You're amazing, Prez!! \nYou really are the strongest Uma Musume, huh!?"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Is that it?"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Eh? Huh?"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Yeah… I'll say it once again, Teio. \nYou lost to me, did you not?"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Eh, err? Umm, yes I did. \nAnd that's why I said you're amazing… eh?"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "I see… Well, don't worry about it. \nSorry for being so sudden."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Teio, are you finished with your training? \nThen instead of cooling down, why \ndon't you go for a jog outside of campus?"
-        },
-        {
-            "name": "Tokai Teio",
-            "text": "Ah, sure! Trainer, I'll see you later!!"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Now then, I know it's sudden, but \nI've got something to ask you, Trainer-kun."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "What did you think of Teio's demeanor?"
-        },
-        {
-            "text": "Her soft-spoken manner with which \nshe asked her question was daunting."
-        },
-        {
-            "text": "Tokai Teio has overwhelming power and unending \nambition, however, she thinks of her idol as the \ninevitable winner in any match, and as such she \nholds no regret at losing. Which means…",
-            "choice_data_list": [
-                "If she continues like this, it'll be a waste…"
-            ]
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Ah, I see. A \"waste\", huh? As expected \nof an academy trainer, you have a keen eye."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "But you're right. If she continues like \nthis, Teio will limit her own abilities. \nAs an Uma Musume aiming to be the best, \nthat would be unfortunate."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Alright, I've decided. I've got a favor to ask of you."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "I plan to race with Teio soon, and when that time comes…"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tokai Teio",
+      "text": "¡Oh, ahí estás! ¡Oye!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Entonces, eres uno de los entrenadores que<n>se me acercó después de las\npruebas, ¿verdad?<n>¿Verdad?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Sígueme, voy a ponerte a prueba!",
+      "choice_data_list": [
+        "¿Ponerme a prueba? ¿Qué está pasando?",
+        "¿Ponerme a prueba? ¿Qué está pasando?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Bueno verás, después de que te fuiste, la<n>Presi me dijo que \"Consideres a cada\nentrenador<n>cuidadosamente, luego elijas uno en quien<n>puedas depositar tu\nconfianza.\""
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Así que pensé, ¿qué mejor manera que hacer<n>una sesión de entrenamiento de prueba? Así que<n>hoy, ¡te voy a<n>evaluar! ♪ Muéstrame tus mejores habilidades<n>de entrenamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "...Bueno, supongo que hoy soy la entrenadora de Teio."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Ooh, ¿un ejercicio de saltos? Así que se supone<n>que debo recorrer esta pista<n>de mini vallas con solo<n>un pie..."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Suena divertido! ¿Cuál es el tiempo a<n>superar?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le muestro la meta que había establecido, que<n>se suponía que era algo<n>difícil."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Quéeeé, eso es todo? ¡Súper fácil! ¡Vuelvo en un<n>abrir y cerrar de ojos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como prometió, regresa aparentemente justo<n>después de haber salido<n>disparada, mucho<n>antes del tiempo objetivo."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Uf... Entonceees, ¿eso es todo? ¡Puedo correr<n>mucho más!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Le doy algunos ejercicios más para probar, y<n>ella supera todas las<n>expectativas en cada uno."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Listo! ¿Y? Establecí unos buenos récords<n>ahí, ¿verdad?",
+      "choice_data_list": [
+        "¡Claro que sí!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Verdad? Jeje. Vamos, ¡dile a la invencible<n>Teio lo increíble que es!",
+      "choice_data_list": [
+        "¿La invencible Teio?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Ajá. Nunca he perdido contra nadie, sabes. Yo<n>gano cada carrera, y<n>todos<n>me llenan de elogios!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Lo cual se siente <i>increíble</i>, por cierto. ♪ Todos<n>los cumplidos muestran<n>que la gente<n>realmente me admira muchísimo."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Como en mi primera carrera, después de quedar<n>primera, todos se me<n>acercaron y dijeron<n>\"¡Fuiste increíble!\""
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Honestamente, ¡no podía tener suficiente!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Y una vez que esté en la Twinkle Series, más<n>y más personas podrán<n>ver lo<n>increíble que soy, ¿verdad?",
+      "choice_data_list": [
+        "Y por eso te inscribiste aquí."
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Din din din din! ¡Correcto! ♪"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Ooh, no puedo esperar! ¡Ya quiero estar en una<n>carrera G1! ¡Quiero que<n>todos me digan<n>que soy la corredora más increíble de todas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con cada palabra llena de emocionada<n>anticipación, Teio nunca<n>parece<n>considerar la posibilidad de que podría<n>perder."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero para ser honesta, después de verla<n>correr, a mí también me<n>cuesta<n>imaginarla perdiendo."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Ah sí, todavía estábamos haciendo tu prueba.<n>Entonces, ¿esto es todo<n>lo que tienes para<n>hoy? ¿Ya es hora de enfriar?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hay una última cosa que me ayudará a<n>ver realmente su verdadero<n>potencial.",
+      "choice_data_list": [
+        "¿Por qué no terminamos midiendo tu\ntiempo de 2500 metros?"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Los 2500 metros? ¡Soy buena en eso! Oh, ya<n>entiendo, quieres verme en<n>mi mejor momento,<n>¿verdad?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Está bien entonces! ¡Allá voy! ♪"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "<i>Jadeo, jadeo...</i> ¿Cómo lo hice?",
+      "choice_data_list": [
+        "Dos minutos y treinta y cuatro segundos... ¡Eso es\n<i>rápido!</i>"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Guau, un nuevo récord personal! ¡Vamos! ♪"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "2500 metros... Entre las carreras G1, eso<n>sería igual a la longitud<n>del Arima<n>Kinen."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡P-presi!"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Qué haces aquí? ¿Has venido<n>a verme?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Más o menos."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Mis disculpas por interrumpir tu<n>régimen, Entrenadora, pero ¿podría<n>medir<n>mi tiempo también?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "La misma distancia que Teio—2500 metros."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Espera, ¿tú también vas a correr? ¡Guau!<n>No te importa, ¿verdad,<n>Entrenadora?",
+      "choice_data_list": [
+        "Está bien, te cronometraré."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Gracias. Me voy, entonces."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Uf...\nEntrenadora, ¿mi tiempo?",
+      "choice_data_list": [
+        "¡D-dos minutos y treinta y dos segundos!"
+      ]
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "Presi... Eso es dos segundos más rápido<n>que yo..."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Así es. Te he superado, Teio."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Sip, pierdo! ¡Realmente eres increíble! ¡La<n>mejor corredora de todas!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿No hay nada más que quieras decir?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Eh? ¿Como qué?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Bueno... Permíteme aclararlo. Teio, acabas<n>de perder contra mí."
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¿Eh? Ehh... O sea, sí... Por eso estaba<n>diciendo lo increíble que<n>eres... ¿Eh?"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Cierto... Disculpa la interrupción."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Teio, ya terminaste con el entrenamiento, ¿sí?<n>¿Qué tal si das un trote<n>de enfriamiento y<n>disfrutas del aire fresco?"
+    },
+    {
+      "name": "Tokai Teio",
+      "text": "¡Eh, está bien! ¡Lo haré! ¡Nos vemos, Entrenadora!"
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Ahora bien... Tengo una pregunta para ti,<n>Entrenadora."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "¿Qué opinas de la reacción de Teio hace<n>un momento?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Es un poco difícil pensar bajo la presencia<n>imponente de Rudolf, pero veamos..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Teio muestra un talento y ambición<n>impresionantes, pero porque pone a su<n>modelo a seguir en<n>un pedestal tan alto, perder no le afectó<n>en lo más<n>mínimo.",
+      "choice_data_list": [
+        "Creo que podría estar desperdiciando su potencial."
+      ]
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "...¿Desperdiciando su potencial, dices? La<n>escuela hizo bien en<n>contratarte como<n>entrenadora, con ese ojo perceptivo tuyo."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Estoy de acuerdo... La mentalidad actual de<n>Teio solo la está frenando.<n>Realmente lamentable<n>verlo en alguien con ambiciones tan elevadas."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Mmm... ¿Sabes qué? Me gustaría pedirte un<n>favor."
+    },
+    {
+      "name": "Symboli Rudolf",
+      "text": "Verás, planeo tener una carrera con Teio<n>pronto..."
+    }
+  ]
 }

@@ -1,32 +1,33 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Gooood… mor… ning……",
-            "choice_data_list": [
-                "You look sleepy.",
-                "You look sleepy."
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Indeed… I've been thinking until dawn for \nthe past few days…"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "But because of that, I've come up with \nsomething…! \nProposed class goals for next month, 100 \nof them!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Now we just need to achieve one――"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Yaaaaa～～～～～wn… \nNn… I'll do…'mbest."
-        },
-        {
-            "text": "As class president, she cares about her \nclass so much that she doesn't seem to be \nsleeping very well…"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Buee... nos... días... <i>Bostezo</i>",
+      "choice_data_list": [
+        "Alguien tiene sueño.",
+        "Alguien tiene sueño."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Sí... Estos últimos días, me he<n>quedado despierta<n>hasta tarde pensando en algo..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Pero me ayudó a tener algunas<n>ideas! ¡Cien<n>propuestas para las metas de<n>clase del próximo mes!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Ahora solo necesito consolidarlas en<n>una..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "<i>Bostezo...</i> Haré mi mejor esfuerzo..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su naturaleza diligente como<n>representante de<n>clase parece estar<n>robándole el sueño."
+    }
+  ]
 }

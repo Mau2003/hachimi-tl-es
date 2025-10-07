@@ -1,20 +1,17 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "You've met some wonderful horsegirls! \nBefore we get to training, look at this!"
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "I will also be explaining \nthe support card gacha.",
-            "color_text_info_list": [
-                "support card"
-            ]
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "Let's switch over to the support gacha!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Vaya, ¡conociste a unas Umamusume<n>increíbles!\nPero antes de irnos a<n>empezar a entrenar..."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Permíteme explicarte el reclutamiento<n>\nde Cartas de Apoyo."
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Cambiemos al Reclutamiento<n>\ncorrespondiente!"
+    }
+  ]
 }

@@ -1,215 +1,228 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "The Uma Musume of Tracen Academy, Grass Wonder included, \nhad come to the beach for training camp."
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Good morning, Trainer-san."
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Fufuu, to think that everyday right after waking up we'd start \ntraining, there's no better environment than this, is there～?",
-            "choice_data_list": [
-                "You're fully motivated, huh",
-                "You're fully motivated, huh"
-            ]
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "This training camp is an important opportunity, \nso I plan to take full advantage of it to grow."
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "And so, I look forward to you continuing to accompany me♪"
-        },
-        {
-            "text": "And so the training camp started―"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Haa…… Huu…… huu…… \n……I'm not running…… haa…… the way I want to……"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Trainer-san, I'm going to…… run one more, okay? \nI haven't gotten…… satisfactory results…… Huu……"
-        },
-        {
-            "text": "It seems like Grass Wonder herself feels she \nhasn't reached the goals she set for herself."
-        },
-        {
-            "text": "However, maybe due to fatigue, her form had started to \ndeteriorate. If she continued it might lead to injury―",
-            "choice_data_list": [
-                "Let's call it a day here"
-            ]
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "I'm fine……I can still keep running……?"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "At this…… training camp I need to……",
-            "choice_data_list": [
-                "You can't run more than this!",
-                "You can't run more than this!"
-            ]
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "……！？"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "……Understood. Let's return to the camp lodgings. \nGood work, Trainer-san."
-        },
-        {
-            "text": "Grass Wonder acquiesced quite quickly, \nand headed back to the lodgings."
-        },
-        {
-            "text": "Later that day, at night―"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Trainer-san, so you were here～."
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "I heard there was a summer festival nearby, \nso I came to invite you, Trainer-san. Want to go together?"
-        },
-        {
-            "text": "I thought she would be upset since I had stopped her \ntraining, but Grass Wonder seemed the same as usual.",
-            "choice_data_list": [
-                "Of course, I don't mind"
-            ]
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Fufuu, when it comes to summer in Japan, you can't help but think \nof festivals. Let's go enjoy some culture."
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "While I prefer a quieter place for a walk, this liveliness \nis precisely what makes a festival nice, isn't it?"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Ah, look at that. They're selling a candy that \nlooks like a whole watermelon. Trainer-san, you \nmade sure not to eat anything yet, right?",
-            "choice_data_list": [
-                "I can't eat all of that……!"
-            ]
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Fufu, it was a joke. \nLet's not go too wild with our fun♪"
-        },
-        {
-            "text": "The two of us were wandering around the various stalls when \nGrass Wonder stopped in front of the Shooting Gallery."
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Oh～. \nThat cat plushie is really cute, isn't it～?"
-        },
-        {
-            "name": "Stall Owner",
-            "text": "Oh, Uma Musume Lady, \nwanna give it a shot?"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Well let's see～…… \nTrainer-san, I'm going to try it."
-        },
-        {
-            "text": "The mild-mannered Grass Wonder now held a gun. As I watched over \nher, it felt like a huge gap between her normal character―"
-        },
-        {
-            "text": "(Click――Pop……)"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "I did it～! I got it in one shot♪"
-        },
-        {
-            "name": "Stall Owner",
-            "text": "That was surprising! Congrats little lady!"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Thank you very much～. \n……Alright, I still have a few more shots left, huh?"
-        },
-        {
-            "text": "(Click――Pop…… Click――Pop……)"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Oh my, I've got so many plushies now."
-        },
-        {
-            "name": "Stall Owner",
-            "text": "I-I'm flabbergasted. Getting each item you \naimed for in one hit…… almost like a hitman!"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Oh, I'm nothing so ruthless. \nI'm always tranquil…… my heart is always at harmony♪"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "The festival was fun, wasn't it♪～? \nEven though it's a training camp, it's important to let loose.",
-            "choice_data_list": [
-                "You wanted to run though, right?"
-            ]
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Fufuu, it's true I felt a little like that."
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "After all, there are plenty of things that I don't \nwant to compromise on, and I have no plans on changing \nanything I've already decided on."
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "But, the reason I can be so stubborn, \nis because Trainer-san is there to support me."
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Times when I truly need to stop, \nyou'll step in to stop me.",
-            "choice_data_list": [
-                "I'll do my best to keep supporting you",
-                "I'll do my best to keep supporting you"
-            ]
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Yes, and I'll give it my all to respond to that. \nFor the training camp and everything after that, \nI'm looking forward to working with you."
-        },
-        {
-            "text": "The next day, in order to respond to Grass Wonder's \nwishes, I decided to start a new training menu."
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Huu～…… \nTrainer-san, I've finished that long swim～."
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "So to reduce the load on my legs, \nwe've incorporated some moderate training in the ocean, right?"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "……wait, huh? Is the training over with this? \nIt feels strange though, I can still keep running, you know?"
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "Trainer-san, have you made a mistake in \nhow much training I should be doing?",
-            "choice_data_list": [
-                "Let's do 1 more set!"
-            ]
-        },
-        {
-            "name": "Grass Wonder",
-            "text": "『To empathize is to know』…… as I thought, \nTrainer-san really understands me, huh～? Fufuu♪"
-        },
-        {
-            "text": "To keep up with Grass Wonder, \nI'd need to follow at breakneck speed."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Grass Wonder ha venido al campamento de<n>verano en la playa junto con\nlas demás estudiantes de<n>la Academia Tracen."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Buenos días, Entrenador."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Jeje, entrenar justo después de despertar<n>cada día—no hay nada mejor\nque esto.",
+      "choice_data_list": [
+        "Pareces llena de energía.",
+        "Pareces llena de energía."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "El campamento de verano es una oportunidad<n>valiosa, y tengo la\nintención de<n>aprovecharla al máximo."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Me alegra que estés aquí conmigo. Pongámonos<n>manos a la obra. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, nuestro campamento de entrenamiento<n>de verano comienza..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "<i>Uff, jadeo...</i> No logro... correr a mi<n>máximo nivel..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Entrenador, voy a correr una vuelta más...<n>No estoy satisfecha... con\nmis<n>resultados..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que no está alcanzando las metas<n>que se ha propuesto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero en este punto, su forma parece<n>empeorar por el agotamiento.\nSi continúa,<n>es probable que se lesione...",
+      "choice_data_list": [
+        "En realidad, deberíamos dejarlo por hoy."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "No, estoy bien... Todavía puedo correr..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Yo... tengo que entrenar—",
+      "choice_data_list": [
+        "¡No más correr!",
+        "¡No más correr!"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "...?!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Entendido. Entonces regresaré a mi<n>habitación. Buen día, Entrenador."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Llevándoselo mucho mejor de lo que<n>pensé, Grass Wonder regresa al<n>alojamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Más tarde esa noche..."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Entrenador, ahí estás."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Escuché que hay un festival de verano<n>cercano, así que vine a\ninvitarte.<n>¿Te gustaría acompañarme?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pensé que estaría frustrada por no<n>entrenar más, pero parece estar\ncomo<n>siempre, tranquila.",
+      "choice_data_list": [
+        "Me parece bien."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ji ji, los festivales son un clásico del<n>verano en Japón, así que\npodemos<n>apreciar la cultura de allí."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Prefiero los lugares tranquilos para<n>pasear, pero los festivales\ntienen su<n>propio ambiente único y vibrante."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ah, mira esto. Tienen sandías<n>enteras acarameladas. Confío en que\nno hayas<n>arruinado tu apetito?",
+      "choice_data_list": [
+        "¡No puedo comer una sandía entera!"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Jaja, eso solo era una broma. Todavía<n>podemos divertirnos sin\nexcedernos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras paseamos por los muchos<n>puestos, Grass Wonder se detiene\nde<n>repente frente al tiro al blanco."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Ah, mira ese peluche de gatito. Es<n>adorable."
+    },
+    {
+      "name": "Personal del Tiro al Blanco",
+      "text": "Tienes buen ojo, señorita. ¿Te animas a<n>probar tus habilidades?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Sabes qué... Entrenador, voy a intentarlo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La normalmente tranquila Grass Wonder<n>sostiene un rifle listo. Estoy\ntan<n>absorbido por la escena inusual cuando..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Piu! Clinc...</i>"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Lo logré! Y con un solo disparo, nada menos. ♪"
+    },
+    {
+      "name": "Personal del Tiro al Blanco",
+      "text": "¡Qué disparo! ¡Felicitaciones!"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "¡Gracias! ...Ahora bien, todavía me quedan<n>algunos disparos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>¡Piu! Clinc... ¡Piu! Clinc...</i>"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Oh vaya, mira todos estos peluches."
+    },
+    {
+      "name": "Personal del Tiro al Blanco",
+      "text": "E-estoy impresionado. Conseguiste todos<n>los premios de una vez...\n¿Eres algún<n>tipo de francotiradora?"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Oh, no soy nada tan siniestro. Simplemente<n>tengo pulso firme, gracias a\nla armonía<n>interior que mantengo. ♪"
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Qué divertido fue el festival. ♪ Incluso en<n>el campamento de\nentrenamiento, es<n>vital relajarse a veces.",
+      "choice_data_list": [
+        "¿Seguro que no preferirías estar corriendo?"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Jejeje, una parte de mí sí, claro."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Como sabes, no me gusta ceder o<n>rendirme, así que no tengo\nintención de<n>transigir en mis metas."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Pero solo puedo ser tan obstinada<n>porque tengo un entrenador como\ntú<n>que me apoya."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Eres el único que insiste en que me detenga<n>cuando realmente necesito\ndetenerme.",
+      "choice_data_list": [
+        "Siempre estaré aquí para ayudarte.",
+        "Siempre estaré aquí para ayudarte."
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Y yo siempre correré con todo mi corazón.<n>Así que, ya sea campamento\nde verano o<n>lo que sea que venga, confío<n>completamente en ti."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, decido responder a la<n>dedicación de Grass Wonder\ndándole un<n>nuevo esquema de entrenamiento que<n>trabaje todo el cuerpo en\nlugar de<n>solo sus piernas."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Uf... Terminé la natación de larga<n>distancia."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Veo que incorporaste algo de<n>entrenamiento acuático para evitar\nel<n>impacto en mis piernas."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Pero... espera. ¿Esa fue la última serie? Qué<n>extraño—todavía tengo\nmucha energía<n>para correr."
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "Entrenador, ¿cometiste un error con el<n>cronograma?",
+      "choice_data_list": [
+        "...¡No! ¡Haremos otra serie!"
+      ]
+    },
+    {
+      "name": "Grass Wonder",
+      "text": "\"Hablar sin palabras\"... Siempre me<n>entiendes mejor que nadie, jeje. ♪"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si quiero ayudar a Grass Wonder a dar su<n>máximo, parece que\nnecesitaré una<n>velocidad extraordinaria propia para<n>mantenerme a la altura."
+    }
+  ]
 }

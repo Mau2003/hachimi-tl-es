@@ -2,81 +2,84 @@
   "no_wrap": true,
   "text_block_list": [
     {
-      "name": "Caster",
-      "text": "And here's undefeated Triple Crown hopeful Mihono Bourbon, \nmaking her appearance at Kyoto Racecourse!"
+      "name": "Comentarista",
+      "text": "¡Y aquí tenemos a la aspirante invicta a la Triple Corona<n>Mihono Bourbon,<n>haciendo su aparición en el Hipódromo de Kioto!"
     },
     {
-      "name": "Fans",
-      "text": "<i>Cheers!</i>"
+      "name": "Aficionados",
+      "text": "<i>¡Ole!</i>"
     },
     {
-      "name": "Fan A",
-      "text": "Mihono Bourbon! Show us the birth of a Triple Crown legend!"
+      "name": "Aficionado A",
+      "text": "¡Mihono Bourbon! ¡Muéstranos el nacimiento de una<n>leyenda de la Triple Corona!"
     },
     {
-      "name": "Fan B",
-      "text": "We believe in you!"
+      "name": "Aficionado B",
+      "text": "¡Creemos en ti!"
     },
     {
-      "text": "Rice Shower versus Mihono Bourbon. This Kikuka Sho will settle their \nrivalry once and for all."
-    },
-    {
-      "name": "Rice Shower",
-      "text": "Just keep following Bourbon… Just keep following… Just follow, and \nthen…"
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "Rice Shower… I see you already have me marked."
-    },
-    {
-      "name": "Mihono Bourbon",
-      "text": "No matter. I will be first across the finish."
+      "name": "Monólogo",
+      "text": "Rice Shower contra Mihono Bourbon. Esta<n>Kikuka Sho resolverá su<n>rivalidad de una vez por todas."
     },
     {
       "name": "Rice Shower",
-      "text": "…Not today. I won't lose again."
+      "text": "Solo sigue a Bourbon... Solo sigue<n>siguiéndola... Solo sigue, y<n>entonces..."
     },
     {
-      "name": "Upbeat Umamusume",
-      "text": "Rice! You got this!"
+      "name": "Mihono Bourbon",
+      "text": "Rice Shower... Veo que ya me tienes<n>marcada."
     },
     {
-      "name": "Sincere Umamusume",
-      "text": "The Kikuka Sho. 3,000 meters on turf. Long distance is Rice's \nstrength, which means she has a chance, right?"
+      "name": "Mihono Bourbon",
+      "text": "No importa. Seré la primera en cruzar la meta."
     },
     {
-      "name": "Caring Umamusume",
-      "text": "Yeah, but there's no way Bourbon doesn't have something up her \nsleeve."
+      "name": "Rice Shower",
+      "text": "...Hoy no. No volveré a perder."
+    },
+    {
+      "name": "Uma Musume Optimista",
+      "text": "¡Rice! ¡Tú puedes!"
+    },
+    {
+      "name": "Uma Musume Sincera",
+      "text": "La Kikuka Sho. 3,000 metros en césped.<n>La distancia larga es el fuerte<n>de Rice, lo que significa que<n>tiene oportunidad, ¿verdad?"
+    },
+    {
+      "name": "Uma Musume Cariñosa",
+      "text": "Sí, pero no hay forma de que Bourbon no<n>tenga algo bajo la manga."
     },
     {
       "name": "Gold Ship",
-      "text": "Hey Trainer, what'd you tell Rice?"
+      "text": "Oye, Entrenador, ¿qué le dijiste a Rice?"
     },
     {
-      "text": "I told her to keep following Bourbon, then pass her."
+      "name": "<username>",
+      "text": "Le dije que siguiera a Bourbon y luego<n>la adelantara."
     },
     {
       "name": "Gold Ship",
-      "text": "Uh-huh… Wait, that's it?!"
+      "text": "Ajá... ¡¿Espera, eso es todo?!"
     },
     {
       "name": "Mejiro McQueen",
-      "text": "Hard to find fault with that advice. Her ability to stalk a leader is \nsecond to none."
+      "text": "Difícil encontrar fallos en ese consejo. Su<n>habilidad para acechar a una<n>líder es insuperable."
     },
     {
       "name": "Mejiro McQueen",
-      "text": "…If anything, I'm less concerned about <i>if</i> she can beat Bourbon, and \nmore about how the crowd will—"
+      "text": "...Si acaso, me preocupa menos <i>si</i><n>puede vencer a Bourbon, y<n>más cómo reaccionará<n>el público—"
     },
     {
-      "name": "Fans",
-      "text": "<i>Cheers!</i>"
+      "name": "Aficionados",
+      "text": "<i>¡Ole!</i>"
     },
     {
-      "text": "McQueen is cut off by another tidal wave of cheers. It's almost time."
+      "name": "Monólogo",
+      "text": "McQueen es interrumpida por otra ola<n>de vítores. Ya casi es hora."
     },
     {
-      "name": "Caster",
-      "text": "The crowning glory of the Classics is on the line here in the Kikuka \nSho. And it all starts now!"
+      "name": "Comentarista",
+      "text": "La gloria máxima de las Clásicas está<n>en juego aquí en la Kikuka<n>Sho. ¡Y todo comienza ahora!"
     }
   ]
 }

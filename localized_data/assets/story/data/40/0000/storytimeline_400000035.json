@@ -1,22 +1,24 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Otonashi Etsuko",
-            "text": "Congratulations! A splendid victory.\n… I'm very impressed.",
-            "choice_data_list": [
-                "It's because of her hard work."
-            ]
-        },
-        {
-            "name": "Otonashi Etsuko",
-            "text": "As I thought, you're the only ones who can\nmake this issue's big cover feature!"
-        },
-        {
-            "text": "… A feature in Twinkle Monthly. We can\nexpect a big response!"
-        },
-        {
-            "text": "She praised <chrname> for her victory."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Reportera Otonashi",
+      "text": "¡Felicidades! Qué victoria tan<n>espectacular.",
+      "choice_data_list": [
+        "Todo es gracias a su arduo trabajo."
+      ]
+    },
+    {
+      "name": "Reportera Otonashi",
+      "text": "Ahora estoy segura. El próximo especial<n>extra grande\na todo color <i>tiene</i> que ser<n>sobre ustedes dos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Parece que podemos esperar una gran<n>respuesta del\npróximo <i>¡Twinkle Monthly!</i>"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Voy a felicitar a <chrname> por<n>su\nvictoria."
+    }
+  ]
 }

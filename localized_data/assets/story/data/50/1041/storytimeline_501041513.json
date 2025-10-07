@@ -1,243 +1,250 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Hmhmhm!? In the corner of the hallway, \nthe one secretly handing something over \nis…!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "You two suspicious ones over there! \nShow me what you just hid!!"
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "I-i-i-it's not suspicious at all!? \nIt's just a super normal book――"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Hiding it means you have a guilty \nconscience! Come on now, let's see it!!"
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "Ah!?"
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "Uuuuuuuugh～! \nShe saw, she saw, she saw…!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "What's the big deal? \nThis is just shoujo manga, is it not?"
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "Y, yes, that's right, Ms. Ryan!"
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "This is… Yeah, it was just a \"I'm forcing my \nfavorites on you!\" sorta thing!"
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "Are you interested in shoujo manga \ntoo, Ms. Bakushin O? T, to think!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Hm? Me?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Well, then, let me take a look, just a tad… \n\"The serious class president and the \ndelinquent student are attracted to each \nother whilst still repelling one another,\" \nhmm."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Fantastic!! The class president is the main \ncharacter―this is without a doubt a \nmasterpiece!!"
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "I, is that so? \nWell, it's sure a masterpiece, but…"
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "In this manga, the process of the main \ncharacter, who was so weak-willed, falling \nin love and becoming strong, I can't get \nenough of it!"
-        },
-        {
-            "name": "Mejiro Ryan",
-            "text": "I've heard that it can be a bit risqué at \ntimes, though…"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Hoho, becoming stronger and… growing \nrisky…"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "――Very well, I've decided! \nI'm going to fall in love, too!!"
-        },
-        {
-            "name": "Daiwa Scarlet",
-            "text": "Huh!?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Love will give you Bakushin-like strength! \nI'll win even the riskiest of battles!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "――and that is why!",
-            "choice_data_list": [
-                "So you want to fall in love…"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "But I have never been in love! What the hell \nis love supposed to do!",
-            "choice_data_list": [
-                "Like finding someone you care about?",
-                "Sorry, I'm not sure either.",
-                "Sorry, I'm not sure either."
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "But I have never been in love! What the hell \nis love supposed to do!",
-            "choice_data_list": [
-                "Like finding someone you care about?",
-                "Sorry, I'm not sure either.",
-                "Sorry, I'm not sure either."
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Mmm-hmm! So what do we do when we find it!",
-            "choice_data_list": [
-                "You should try telling her how you feel."
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "It's a way of expressing your daily favors. \nIt sure feels good to do that!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Expressing favors makes me feel \nwarm and empowered—I get it!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Then I'll go tell everyone \nas soon as I can! Bakushin!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I love it!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Huh…! Ba, Ms. Bakushin O…?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I love it!"
-        },
-        {
-            "name": "Nishino Flower",
-            "text": "What? That… I also like your \nstraightforwardness, don't you?"
-        },
-        {
-            "text": "The reactions of the girls varied, but \nSakura Bakushin O's confession caused a lot \nof confusion around her."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Huh, I've finished expressing my feelings! \nI'm sure this has made me even stronger!",
-            "choice_data_list": [
-                "I hope so.",
-                "I hope so."
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Oh, no! I didn't tell the \nmost important person!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I love you, trainer! Thank you \nfor always supporting me!!!",
-            "choice_data_list": [
-                "… Thank you very much!"
-            ]
-        },
-        {
-            "text": "It's true that both the person who expresses \nher feelings and the person who is expressed \nher feelings feel warm and fuzzy."
-        },
-        {
-            "text": "Sakura Bakushin O's actions were far \nfrom love, but she had something \nto gain in her own way."
-        },
-        {
-            "text": "I couldn't think of any advice I could give \nabout love, so I apologized honestly."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "No, no, don't worry about it! Then we just \nhave to learn together!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Oh, just in time, Ms. Urara! Ms. Urara!"
-        },
-        {
-            "name": "Haru Urara",
-            "text": "Hello, Ms. Bakushin-o! What's going on?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I need some advice about love! Do \nyou know anything about it!"
-        },
-        {
-            "name": "Haru Urara",
-            "text": "Koi～? Say-chan said you caught a lot of fish \nat the pond in the park?"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Are you sure? Then we must head for \nthe park as soon as possible!",
-            "choice_data_list": [
-                "That's not the same thing."
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Trainer, here we go! In search of massive \namounts of love, come on, Baxcene!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Ahh, so love is brewing in this pond! Now \nI'm looking forward to it!",
-            "choice_data_list": [
-                "No, I thought you meant the fish carp."
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Hmm, you certainly have a point. \nThen let's aim for the carp!"
-        },
-        {
-            "text": "My advice seems to have been passed \nover lightly… I made up my mind \nand decided to go fishing with her \nuntil she was satisfied."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Mmm-hmm. I'm sure I'm feeling it \nright now, at this very moment."
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "The thrill of wondering if it will \ncome or not. This is the thrill of \nfalling in love with a koi!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "She who controls the carp, controls the \nlove! I'm sure that's what it's all about!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Whoa, whoa, whoa! Here comes the \ncarp! I'm going to catch it!"
-        },
-        {
-            "text": "After that, the two of us persevered and \nmanaged to catch a carp."
-        },
-        {
-            "text": "Sakura Bakushin O was pleased with the \nresults: \"I feel stronger! I feel stronger!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡¿Hmmm?! ¡Parece que hay un comercio<n>ilícito\nocurriendo en la esquina del<n>pasillo!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Ustedes dos, personas sospechosas!<n>¿Qué están\nocultando? ¡Muéstrenme!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "N-no-no somos sospechosas! Es solo un<n>libro\nperfectamente ordinario..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Ocultar cosas es señal de una<n>conciencia\nculpable! ¡Muéstrenme qué tienen<n>ahí!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡¿Ah?!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "¡Oooh! ¡Lo vio! ¡Lo vio!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Qué pasa con esa reacción? Es solo<n>algún\nmanga de romance, ¿verdad?"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡E-es correcto!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "Esto es... solo yo imponiendo mis<n>gustos\nunilateralmente sobre ella. ¡Sí!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "No estás interesada en el manga de<n>romance, ¿verdad\nBakushin O?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Quién? ¿Yo?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Déjame echar un vistazo... \"la seria<n>representante\nde clase y la<n>delincuente se atraen a pesar de\nser<n>polos opuestos.\" Hmmm..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Fantástico! Tener a la representante<n>de clase como\nprotagonista...<n>¡Definitivamente es un golpe de\ngenio!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¿D-de verdad? Bueno, ciertamente es una<n>obra\nmaestra..."
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "El protagonista de este manga es un<n>débil que se\nenamora y se hace más fuerte...<n>¡Hace una\nprogresión de trama<n>tan genial!"
+    },
+    {
+      "name": "Mejiro Ryan",
+      "text": "También hay algunos momentos<n>atrevidos a\nmedida que la historia avanza..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Oh-ho! Volverse más fuerte...<n>desarrollos\narriesgados..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Bien! ¡He tomado una decisión! ¡Yo<n>también me voy\na enamorar!"
+    },
+    {
+      "name": "Daiwa Scarlet",
+      "text": "¡¿Eh?!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Enamorarme hará mi Bakushin<n>más fuerte! Saldré\nvictoriosa sin importar<n>qué tan arriesgado sea\nel desarrollo."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Y esa es la historia! ¡Pensar que<n>había un\nmétodo así por ahí!",
+      "choice_data_list": [
+        "Entonces... ¿el amor, eh?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Pero nunca me he enamorado! ¡¿Cómo<n>diablos lo\nencuentras?!",
+      "choice_data_list": [
+        "¿Podrías intentar encontrar a alguien que te importe?",
+        "Lo siento, no estoy muy segura.",
+        "Lo siento, no estoy muy segura."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Pero nunca me he enamorado! ¡¿Cómo<n>diablos lo\nencuentras?!",
+      "choice_data_list": [
+        "¿Podrías intentar encontrar a alguien que te importe?",
+        "Lo siento, no estoy muy segura.",
+        "Lo siento, no estoy muy segura."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Hm! ¿Qué haces una vez que<n>encuentras a\nalguien?",
+      "choice_data_list": [
+        "Tienes que decirle cómo te sientes."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Así que se trata de confesar mis<n>afectos\ndiarios? ¡Eso definitivamente se<n>sentiría bien!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Confesar tus sentimientos de afecto<n>te da una\nsensación de calidez, y como<n>resultado, tu poder\npuede liberarse...<n>¡Ahora entiendo todo!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Bien, voy a confesar mis sentimientos<n>a\ntodos de inmediato! ¡Bakushiiin!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Me gustas!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡¿Quée?! ¿Bakushin O?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Me gustas!"
+    },
+    {
+      "name": "Nishino Flower",
+      "text": "¿Eh? Eso es... bueno, también me<n>gusta tu forma\ndirecta de hacer las cosas."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Cada Umamusume reacciona de<n>manera diferente,\npero la peregrinación de<n>confesiones de Sakura\nBakushin O deja<n>a todos desconcertados."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Jeje, ¡más o menos he terminado de<n>expresar mis\nsentimientos! ¡Con esto,<n>debería ser aún más\nfuerte!",
+      "choice_data_list": [
+        "Eso esperemos.",
+        "Eso esperemos."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Ahh! ¡Me olvidé de alguien muy<n>importante!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Entrenador, ¡también me gustas! Gracias<n>por\napoyarme siempre!",
+      "choice_data_list": [
+        "...D-de nada."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ya sea que confieses tus sentimientos<n>a alguien o\nque te confiesen a ti, no<n>puedes evitar sentirte\ncálido y<n>acogedor por dentro."
+    },
+    {
+      "name": "Monólogo",
+      "text": "A pesar de que las acciones de Sakura<n>Bakushin O\ndistan mucho de lo que<n>uno podría llamar\n\"amor,\" parece que<n>ganó algo a su manera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No puedo darle ningún consejo sobre<n>el amor, así\nque le ofrezco mis sinceras<n>disculpas."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡No, no, no te preocupes! ¡Podemos<n>aprender\nsobre ello juntos!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Oh, justo a tiempo! ¡URARAAA!"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "¡Oye Bakushin O! ¿Todo bien?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Estoy buscando consejos de amor!<n>¿Tienes algo\npara mí?"
+    },
+    {
+      "name": "Haru Urara",
+      "text": "Bueno, ¡ya sabes lo que dicen de que<n>hay muchos\npeces en el mar! Pero<n>no estamos cerca de un\nocéano, así que<n>¿tal vez prueba en el estanque del\nparque?"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Guau, buen pensamiento! En ese caso,<n>tengo que\napresurarme al parque!",
+      "choice_data_list": [
+        "Espera, creo que quizás malentendiste—"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Vamos! Estoy pescando amor en este<n>estanque, así\nque ¡comencemos este Bakushin!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Realmente puedo decir que el amor<n>está\nfloreciendo aquí! Está lleno de<n>peces, justo como\ndijo Urara. ¡Estoy<n>emocionada!",
+      "choice_data_list": [
+        "¿No estás simplemente... pescando en este punto?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Indudablemente! ¡Y pretendo obtener<n>tantos como\npueda!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Creo que algunos cables se cruzaron<n>en el camino,\npero... Es más fácil aceptar mi<n>destino y pescar\ncon ella hasta que<n>esté satisfecha."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Jeje. Ciertamente puedo sentirlo ahora."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "La emoción de no saber si<n>habrá un pique o\nno... Esta<n>emoción que hace latir el corazón\ndebe ser<n>¡amor!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Quienes dominan la pesca también<n>dominan el\namor! ¡Definitivamente de eso<n>se trata ese dicho!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Ahhh! ¡Vengan aquí, pececitos! ¡Les<n>mostraré lo\nque puedo hacer!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los dos nos quedamos y capturamos<n>montones de\npeces."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras regresamos, Sakura Bakushin O<n>proclama\ntriunfantemente que puede sentir<n>cuánto ha\ncrecido su fuerza."
+    }
+  ]
 }

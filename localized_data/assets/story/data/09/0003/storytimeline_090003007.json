@@ -3,198 +3,199 @@
   "text_block_list": [
     {
       "name": "Kitasan Black",
-      "text": "On the day of the exhibition race, we get to watch Tannhauser run. \nAfterward…"
+      "text": "El día de la carrera de exhibición,<n>vemos correr a Tannhauser.\nDespués..."
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Yeah, I think that's basically how things went. That's why at this \npoint…"
+      "text": "Sí, creo que así fueron más o menos las<n>cosas. Por eso en este\npunto..."
     },
     {
       "name": "Kitasan Black",
-      "text": "Tannhauseeer!"
+      "text": "¡Tannhauseeer!"
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Ah—Kita, Sato! You came to watch me! Sorry, I really flubbed it \nbig-time, huh?"
+      "text": "Ah—¡Kita, Sato! ¡Vinieron a verme!<n>Lo siento, la regué\ntotalmente, ¿eh?"
     },
     {
       "name": "Kitasan Black",
-      "text": "What are you talking about? Tannhauser, you were sooooo…"
+      "text": "¿De qué hablas? Tannhauser,<n>estuviste super..."
     },
     {
       "name": "Kitasan Black",
-      "text": "So cool out there!"
+      "text": "¡Genial allá afuera!"
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Huh?"
+      "text": "¿Eh?"
     },
     {
       "name": "Kitasan Black",
-      "text": "On the final stretch, when Rice was sprinting after the front runner \nBourbon, you were hot on their heels and steadily closing the gap."
+      "text": "En la recta final, cuando Rice<n>sprintaba tras la líder Bourbon,<n>tú ibas pisándoles los talones y<n>cerrando la brecha\nconstantemente."
     },
     {
       "name": "Kitasan Black",
-      "text": "But it wasn't working! You couldn't quite reach them! With just 200 \nmeters to the finish line, you could've changed strategies and \nprotected your third place position."
+      "text": "¡Pero no funcionaba! No podías<n>alcanzarlas! Con sólo 200 metros\npara la<n>meta, podrías haber cambiado de<n>estrategia y protegido tu tercer\nlugar."
     },
     {
       "name": "Satono Diamond",
-      "text": "But you never gave up. Even though you knew you wouldn't catch \nthem, you still gave everything you had until the very end."
+      "text": "Pero nunca te rendiste. Aunque<n>sabías que no las alcanzarías,\nseguiste<n>dándolo todo hasta el final."
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Yeah, but that's why I didn't notice the racer coming up from behind. \nAnd where'd it get me? Fourth place. Haha, I really don't have a good \nendgame."
+      "text": "Sí, pero por eso no noté a la<n>corredora que venía por detrás.\n¿Y dónde<n>me dejó? En cuarto lugar. Jaja,<n>realmente no tengo buen\nfinal."
     },
     {
       "name": "Satono Diamond",
-      "text": "Still, you had some sort of strategy, right? You tried to speed up \ndespite knowing the risk."
+      "text": "Aun así, tenías alguna estrategia, ¿no?<n>Intentaste acelerar a pesar de\nconocer<n>el riesgo."
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Huh? Nah, that wasn't a strategy. I was just trying to win the race."
+      "text": "¿Eh? No, eso no era estrategia. Sólo<n>intentaba ganar la carrera."
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Isn't that what all racers do? There's no point if we don't aim to win, is \nthere?"
+      "text": "¿No es eso lo que hacen todos los<n>corredores? No tiene sentido si no\napuntamos<n>a ganar, ¿verdad?"
     },
     {
-      "name": "Kitasan and Satono",
-      "text": "…!"
-    },
-    {
-      "name": "Matikanetannhauser",
-      "text": "But I guess a loser like me shouldn't be handing out advice, huh? \nHaha… I knew just trying wouldn't be enough."
+      "name": "Kitasan y Satono",
+      "text": "...!"
     },
     {
       "name": "Matikanetannhauser",
-      "text": "I've got to keep pushing myself nonstop to get better, just like Teio \nand McQueen do."
+      "text": "Pero supongo que una perdedora como<n>yo no debería dar consejos, ¿eh?\nJaja... Sabía<n>que sólo intentarlo no sería suficiente."
     },
     {
       "name": "Matikanetannhauser",
-      "text": "<i>Sigh…</i> Which means I gotta train more. Let's see, I guess starting from \ntomorrow…"
-    },
-    {
-      "text": "<i>Rustle, rustle…</i>"
+      "text": "Tengo que esforzarme sin parar para<n>mejorar, como lo hacen Teio y\nMcQueen."
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Whoa! My notebook!"
+      "text": "<i>Suspiro...</i> Lo que significa que<n>debo entrenar más. A ver, supongo\nque desde<n>mañana..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "<i>Crujido, crujido...</i>"
+    },
+    {
+      "name": "Matikanetannhauser",
+      "text": "¡Guau! ¡Mi cuaderno!"
     },
     {
       "name": "Kitasan Black",
-      "text": "I'll grab it for you! …Oh, wow! The level of detail in these notes is \nincredible!"
+      "text": "¡Yo lo tomo! ...Oh, ¡guau! ¡El nivel de<n>detalle en estas notas es\nincreíble!"
     },
     {
       "name": "Satono Diamond",
-      "text": "Ah—this is the book you carry everywhere."
+      "text": "Ah—este es el libro que llevas a todas partes."
     },
     {
       "name": "Satono Diamond",
-      "text": "\"Special Pre-Race Training Routine,\" \"Early Morning Running \nChecklist,\" \"Ikuno's Recommended Gym Regimen by Muscle Group\"…"
+      "text": "\"Rutina Especial de Entrenamiento Pre-Carrera\",<n>\"Lista de Verificación de\nCarrera Matutina\",<n>\"Régimen de Gimnasio Recomendado por<n>Ikuno por Grupo Muscular\"..."
     },
     {
       "name": "Kitasan Black",
-      "text": "Whoa, look at all the routines and schedules! And you've written \n\"Gotta work hard!\" so many times…"
+      "text": "Guau, ¡mira todas las rutinas y<n>horarios! Y has escrito \"¡Tengo que\nesforzarme!\"<n>tantas veces..."
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Aah, don't read that! It's just a bunch of embarrassing scribbles… \nUrgh."
+      "text": "¡Aah, no leas eso! Son solo un montón de<n>garabatos vergonzosos...<n>Ugh."
     },
     {
       "name": "Satono Diamond",
-      "text": "You haven't been doing all of these routines, have you? Every day? \nEven with all that community service?"
+      "text": "No habrás estado haciendo todas estas<n>rutinas, ¿verdad? ¿Todos los días?<n>¿Incluso con<n>todo ese servicio comunitario?"
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Is that weird? I thought it was a pretty normal amount of work…"
+      "text": "¿Es eso raro? Pensé que era una<n>cantidad normal de trabajo..."
     },
     {
       "name": "Kitasan Black",
-      "text": "<i>This</i> is a normal amount?! I'm no expert, but this feels like <i>way</i> too \nmuch!"
+      "text": "¡¿<i>Esto</i> es una cantidad normal?! No soy experta,<n>pero esto se siente como <i>muchísimo</i><n>¡demasiado!"
     },
     {
       "name": "Matikanetannhauser",
-      "text": "Still, I'm pretty sure I need to increase my weight training. Hmm, I'll \nhave to rearrange some things… My schedule's always so packed."
+      "text": "Aún así, estoy bastante segura de que necesito aumentar mi<n>entrenamiento con pesas. Hmm, tendré<n>que<n>reorganizar algunas cosas... Mi horario<n>siempre está tan apretado."
     },
     {
       "name": "Matikanetannhauser",
-      "text": "I don't have any secret weapons or special skills. If I want to win \nagainst those monster racers, there's only one option."
+      "text": "No tengo armas secretas ni habilidades<n>especiales. Si quiero ganar<n>contra esas<n>corredoras monstruosas, solo hay una opción."
     },
     {
       "name": "Matikanetannhauser",
-      "text": "I've just gotta work as hard as I can. Push myself more and more… so I \ncan live up to the expectations of everyone supporting me."
+      "text": "Solo tengo que trabajar tan duro como pueda. Esforzarme<n>más y más... para estar a la altura<n>de las expectativas de todos los que me<n>apoyan."
     },
     {
       "name": "Kitasan Black",
-      "text": "Tannhauser was so amazing on the track, but she still doesn't consider \nherself special."
+      "text": "Tannhauser era tan increíble en la pista,<n>pero aún no se considera<n>especial."
     },
     {
       "name": "Satono Diamond",
-      "text": "Maybe that's what being at this school does to you. Tannhauser was \ndefinitely amazing, but there are even stronger racers…"
+      "text": "Tal vez eso es lo que hace estar en esta escuela.<n>Tannhauser era<n>definitivamente<n>increíble, pero hay corredoras aún más<n>fuertes..."
     },
     {
       "name": "Kitasan Black",
-      "text": "Yeah, everyone here is on a whole other level. I knew that'd be the \ncase, but still…"
+      "text": "Sí, todos aquí están en otro nivel<n>completamente. Sabía que sería así,<n>pero aún así..."
     },
     {
       "name": "Mejiro Palmer",
-      "text": "…Okay, we're all here! Wanna get started?"
+      "text": "...¡Bien, ya estamos todos! ¿Quieren empezar?"
     },
     {
       "name": "Satono Diamond",
-      "text": "Oh? Something's happening over there…"
+      "text": "¿Oh? Algo está pasando por allá..."
     },
     {
       "name": "Daitaku Helios",
-      "text": "Yeah, let's get this strategy sesh rolling! Us ex-convicts gotta make \nour grand comeback!"
+      "text": "¡Sí, que empiece esta sesión de estrategia!<n>¡Los exconvictos tenemos que hacer<n>nuestro gran<n>regreso!"
     },
     {
       "name": "Twin Turbo",
-      "text": "Woo, ex-comics! Wait, what's that?!"
+      "text": "¡Wuuu, ex cómicas! Espera, ¡¿qué es eso?!"
     },
     {
       "name": "Daitaku Helios",
-      "text": "I'm just saying our community service is finally over, yeah? We \nseriously worked our butts off—headpats all around!"
+      "text": "Solo digo que nuestro servicio comunitario<n>finalmente terminó, ¿sí? En<n>serio trabajamos<n>muchísimo—¡caricias en la cabeza para todos!"
     },
     {
       "name": "Nice Nature",
-      "text": "We brought it on ourselves, you know."
+      "text": "Nos lo buscamos nosotras mismas, sabes."
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Now that we have more free time, it would be nice if we could work \ntogether to improve our skills."
+      "text": "Ahora que tenemos más tiempo libre,<n>sería bueno si pudiéramos<n>trabajar juntas para<n>mejorar nuestras habilidades."
     },
     {
       "name": "Mejiro Palmer",
-      "text": "I think we all know we're not exactly Tracen's best and brightest. But \ndifferent perspectives might help us change that."
+      "text": "Creo que todas sabemos que no somos<n>exactamente las mejores y más<n>brillantes de Tracen. Pero diferentes<n>perspectivas podrían ayudarnos a cambiar eso."
     },
     {
       "name": "Ikuno Dictus",
-      "text": "I agree. If you recall, I was trying to organize a joint training session in \nthe first place. But somehow we got off track…"
+      "text": "Estoy de acuerdo. Si recuerdan, yo intentaba<n>organizar una sesión de<n>entrenamiento conjunta en<n>primer lugar. Pero de alguna manera nos<n>desviamos..."
     },
     {
       "name": "Nice Nature",
-      "text": "Seriously, how did <i>we</i> get dragged into this? We always seem to draw \nthe short straw when we're with you guys."
+      "text": "En serio, ¿cómo es que <i>nosotras</i> nos<n>metimos en esto? Siempre<n>parecemos sacar la<n>paja corta cuando estamos con ustedes."
     },
     {
       "name": "Twin Turbo",
-      "text": "Huuuh? You're not coming, Nature? But I wanted to run with you!"
+      "text": "¿Huuuh? ¿No vas a venir, Nature? ¡Pero yo<n>quería correr contigo!"
     },
     {
       "name": "Nice Nature",
-      "text": "Ngh… This was all your fault in the first place… Also, I didn't say I \nwouldn't do it."
+      "text": "Ngh... Todo esto fue tu culpa en primer<n>lugar... Además, no dije que<n>no lo haría."
     },
     {
       "name": "Mejiro Palmer",
-      "text": "Hehe. All right then, let's kick off the meeting! For victory!"
+      "text": "Jeje. Muy bien entonces, ¡empecemos la<n>reunión! ¡Por la victoria!"
     },
     {
       "name": "Satono Diamond",
-      "text": "They're so focused all of a sudden. I feel like I barely know them…"
+      "text": "Están tan concentradas de repente. Siento<n>que apenas las conozco..."
     },
     {
       "name": "Kitasan Black",
-      "text": "They're all serious about getting first place. I guess at Tracen, that's a \nnormal thing, huh."
+      "text": "Todas están serias por conseguir el primer<n>lugar. Supongo que en Tracen, eso es<n>algo<n>normal, ¿eh?"
     }
   ]
 }

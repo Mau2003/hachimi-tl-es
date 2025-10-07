@@ -1,43 +1,45 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "On a day off――"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Now, let us go to the \"Zen Mediation \nExperience\"!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Unify one's mind and polish up on one's \nhonor roll student style… \nMy excellent idea! I must do my very best!"
-        },
-        {
-            "name": "Monk",
-            "text": "Now, close your eyes and stay quiet. \nMake no sound, and concentrate…"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Roger, close my eyes!! \nAnd, stay quiet……quiet………!!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Q, qui……e… t………"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Whew… phew… W, what a sense of fatigue. \nThis is what zen meditation, is all about…"
-        },
-        {
-            "name": "Zen Meditation Participant",
-            "text": "Wow～! Thanks to zen meditation, I feel \nlighter in body and mind～!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "W, what's this!? \nI'm not quite there yet… you say…!?"
-        },
-        {
-            "text": "Feeling her inexperience, Sakura Bakushin \nO became depressed…"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "En un día libre..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Estoy lista! Taller de meditación<n><i>Zazen</i>, ¡allá\nvoy!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Armonizando mi mente y puliendo mi<n>presencia\ncomo estudiante modelo...<n>¡Qué plan tan\ngenial se me ocurrió!<n>¡Tengo que dar lo\nmejor!"
+    },
+    {
+      "name": "Monje",
+      "text": "Bien, cierren los ojos lentamente.<n>Concéntrense y\nno hagan ruido..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Bien! ¡Cierro los ojos! Y en silencio...<n>silencio..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "En... S-I-L-E-N-C-I-O..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "<i>Jadeo, jadeo...</i> M-me siento tan<n>cansada. Así que\n<i>esto</i> es zazen..."
+    },
+    {
+      "name": "Participantes de Prueba de Zazen",
+      "text": "¡Ahhh! ¡La meditación zazen es<n>increíble! ¡Mi\nmente y cuerpo se sienten<n>tan livianos!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿C-cómo puede ser? ¿Eso quiere decir...<n>yo...\n¡¿no lo hice bien?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su ánimo empeora al enfrentarse a<n>su propia\nfalta de experiencia."
+    }
+  ]
 }

@@ -1,249 +1,259 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "On a certain holiday, I was called out to meet Air Groove―"
-        },
-        {
-            "name": "Air Groove",
-            "text": "You've got some guts making me wait like this, trainer.",
-            "choice_data_list": [
-                "Sorry……was there always a field here?",
-                "Sorry……was there always a field here?"
-            ]
-        },
-        {
-            "name": "Air Groove",
-            "text": "You didn't know? This field is also part of Tracen's property. \nIt's used for lessons sometimes as well."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Now then, the reason I called you out here was to carry that."
-        },
-        {
-            "text": "Air Groove's gaze was directed at a wagon \nfull of red, white, and yellow flowers."
-        },
-        {
-            "name": "Air Groove",
-            "text": "There ended up being more than I expected. While I'd rather not \nI'd like you to lend me a hand.",
-            "choice_data_list": [
-                "You took care of them well, so a lot bloomed huh.",
-                "You took care of them well, so a lot bloomed huh."
-            ]
-        },
-        {
-            "name": "Air Groove",
-            "text": "…Your words are unnecessary. \nWhatever, just hurry up and carry them."
-        },
-        {
-            "name": "Horsegirl B",
-            "text": "Uwa, they're gorgeous～ ! \nThank you again this year, Air Groove senpai!"
-        },
-        {
-            "text": "Once I brought the wagon to the front of the dormitory, long \nlines of horse girls started to form."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Everyone only gets 1 per person! Don't disturb the line, once \nit's your turn state your preferred color."
-        },
-        {
-            "name": "Air Groove",
-            "text": "If possible, write a letter or show your \nface. Go convey your daily gratitude."
-        },
-        {
-            "name": "Horsegirl A",
-            "text": "I'm sure my mother will be thrilled!"
-        },
-        {
-            "text": "Comparing Air Groove and her kouhai, I \nstart to think \"Ah, maybe this is一",
-            "choice_data_list": [
-                "Carnations for Mother's Day?"
-            ]
-        },
-        {
-            "name": "Air Groove",
-            "text": "That's right. I plant them so that they bloom at this time."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Everyone's been away from their family stuck in \ntheir dorms. It's times like this where it's a \ngood opportunity to convey their feelings."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Do you know the meaning of the yellow carnations?",
-            "choice_data_list": [
-                "The different colors have different meanings",
-                "The different colors have different meanings"
-            ]
-        },
-        {
-            "name": "Air Groove",
-            "text": "We're starting there, huh?"
-        },
-        {
-            "name": "Air Groove",
-            "text": "For example, red carnations symbolize \"love for my mother\". It's \na rather popular gift."
-        },
-        {
-            "name": "Air Groove",
-            "text": "On the other hand, yellow symbolizes \n\"jealousy\". It's generally avoided."
-        },
-        {
-            "name": "Air Groove",
-            "text": "But among horse girls, there are still \nsome who would prefer to pick yellow."
-        },
-        {
-            "name": "Air Groove",
-            "text": "To horse girls born as the their mother's \"second \ngeneration\"…it's not exaggeration to say that their mother is \ntheir greatest rival."
-        },
-        {
-            "name": "Air Groove",
-            "text": "That is to say, it's a gift delivered with \nthe will to say \"I will surpass you\"."
-        },
-        {
-            "name": "Air Groove",
-            "text": "…Alright. We've handed them out. Thanks for the help."
-        },
-        {
-            "name": "Air Groove",
-            "text": "The only thing left is this yellow carnation."
-        },
-        {
-            "text": "Air Groove smiles gently as she looks down \nat the carnation left in the wagon一"
-        },
-        {
-            "name": "Air Groove",
-            "text": "I suppose I'll send this one to my mother.",
-            "choice_data_list": [
-                "It's a beautiful one",
-                "It's a beautiful one"
-            ]
-        },
-        {
-            "text": "However… at that moment, one horse girl rushed over."
-        },
-        {
-            "name": "Horsegirl C",
-            "text": "U-Um……!"
-        },
-        {
-            "name": "Air Groove",
-            "text": "Hm? Oh, you are……What's wrong?"
-        },
-        {
-            "name": "Horsegirl C",
-            "text": "I was doing independent training, and before I noticed it was \nalready this late… Um… are all the flowers gone already?"
-        },
-        {
-            "name": "Air Groove",
-            "text": "――――"
-        },
-        {
-            "name": "Air Groove",
-            "text": "No, you're lucky. There just happened to be one more left."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Now, go on and take it."
-        },
-        {
-            "name": "Horsegirl C",
-            "text": "Ah! Thank you so much!"
-        },
-        {
-            "text": "The young girl received the flowers from Air Groove and went home \nafter bowing her head many times."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Fu……they're all sold out."
-        },
-        {
-            "text": "Air Groove muttered so, with her usual cool expression. I \ncouldn't tell how she was feeling from her face alone."
-        },
-        {
-            "text": "Suddenly, I got worried remembering the injury she'd sustained \nfrom protecting her kouhai.",
-            "choice_data_list": [
-                "Are you putting yourself off again?",
-                "Are you putting yourself off again?"
-            ]
-        },
-        {
-            "name": "Air Groove",
-            "text": "一Fu. Good grief, you worry too much."
-        },
-        {
-            "name": "Air Groove",
-            "text": "What happened during the dance training the other day was indeed \nunsightly. But……I've been thinking since then."
-        },
-        {
-            "name": "Air Groove",
-            "text": "About how I should be carrying myself as \"Empress\"一"
-        },
-        {
-            "name": "Air Groove",
-            "text": "If you pursue your ideals to the point of neglecting \nyourself, you'll be overwhelmed. In that aspect… \nit's something also failed to grasp."
-        },
-        {
-            "name": "Air Groove",
-            "text": "But, it's different now.",
-            "choice_data_list": [
-                "Meaning, you've learned to value yourself?",
-                "Meaning, you've learned to value yourself?"
-            ]
-        },
-        {
-            "name": "Air Groove",
-            "text": "That's right……Even if there are no flowers, I don't mind."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Even if I don't have any definite proof, I'm sure that my will is \nunwavering. All that's left, is to go tell my mother directly.",
-            "choice_data_list": [
-                "In that case, I'm glad"
-            ]
-        },
-        {
-            "name": "Air Groove",
-            "text": "Yeah, it's nothing for you to stress yourself over."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Calm and collected. \nThat's how the trainer of the \"Empress\" should carry themselves."
-        },
-        {
-            "name": "Air Groove",
-            "text": "But, well……it's only because you were so bothersome……that I…",
-            "choice_data_list": [
-                "Eh? What?",
-                "Eh? What?"
-            ]
-        },
-        {
-            "name": "Air Groove",
-            "text": "…I'm saying it's because you noticed!!"
-        },
-        {
-            "name": "Air Groove",
-            "text": "It's something I heard my mother speak of before as well, she \nsaid that she \"Couldn't be \"queen\" alone\"."
-        },
-        {
-            "name": "Air Groove",
-            "text": "The sincere eyes one turns to become a mirror, and reflect what \ntheir ideal figure is."
-        },
-        {
-            "name": "Air Groove",
-            "text": "So, basically……it's like that.",
-            "choice_data_list": [
-                "I'll continue to watch you closely",
-                "I'll continue to watch you closely"
-            ]
-        },
-        {
-            "name": "Air Groove",
-            "text": "Hmph, was there any reason to restate it? \n……Fool."
-        },
-        {
-            "text": "Whilst receiving some kind scolding, I watched \nher figure in the setting sun."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Aunque hoy es mi día libre, la emperatriz me<n>ha convocado. Me dirijo al\npunto de<n>encuentro."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Tienes bastante valor para hacerme<n>esperar, Entrenador.",
+      "choice_data_list": [
+        "Lo siento... Oh, ¿siempre tuvimos un huerto de\nvegetales?",
+        "Lo siento... Oh, ¿siempre tuvimos un huerto de\nvegetales?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿No lo sabías? Es propiedad oficial de la<n>academia, e incluso lo\nutilizamos<n>para algunas clases."
+    },
+    {
+      "name": "Air Groove",
+      "text": "En fin, te llamé para que me ayudaras a<n>mover esto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Siguiendo su mirada, veo varios<n>carritos de madera llenos de\nflores. Rojas,<n>blancas, amarillas... ciertamente es una<n>vista colorida."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Tenemos más flores de las esperadas.<n>Esta no era mi intención\noriginal, pero<n>podría usar una mano.",
+      "choice_data_list": [
+        "¡Pues estás de suerte! Tengo dos, ¡y con pulgares\nverdes!",
+        "¡Pues estás de suerte! Tengo dos, ¡y con pulgares\nverdes!"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Si tienes tiempo para bromas, tienes<n>tiempo para trabajar. Vamos."
+    },
+    {
+      "name": "Umamusume B",
+      "text": "¡Vaya, todas son tan bonitas! Gracias por<n>hacer esto cada año, ¡Air\nGroove!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Estacionamos los carritos frente a los<n>dormitorios, donde nos recibe una\nlarga<n>fila de estudiantes."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Una flor por persona. Manténganse en fila, y<n>dígannos qué color desean\ncuando sea<n>su turno."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Asegúrense de entregarlas en persona si<n>pueden, preferiblemente con una\ncarta o regalo.<n>Esa es la mejor forma de mostrar su<n>agradecimiento."
+    },
+    {
+      "name": "Umamusume A",
+      "text": "¡A mamá definitivamente le encantará esto!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "De repente recuerdo qué día es hoy.",
+      "choice_data_list": [
+        "¿Entonces estos son claveles para el Día de la Madre?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Así es. Siempre los planto para que<n>florezcan por estas fechas."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Muchas de nosotras vivimos lejos de<n>nuestros padres actualmente. En\ntiempos como<n>estos, es más importante que nunca<n>mostrar nuestra gratitud."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Por cierto, ¿sabes qué significa un<n>clavel amarillo?",
+      "choice_data_list": [
+        "¿Los diferentes colores significan cosas distintas?",
+        "¿Los diferentes colores significan cosas distintas?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Tengo que explicarte todo?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Primero, el clavel rojo. Significa el<n>amor por la madre. Es un regalo\nmuy popular<n>en este día."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Por otro lado, un clavel amarillo<n>significa celos, y a menudo se\nevita como<n>regalo."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Puede que te sorprenda saber que hay<n>varias estudiantes que eligen los\nclaveles<n>amarillos."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Muchas de ellas son corredoras de segunda<n>generación, y no es exagerado\ndecir que<n>ven a sus propias madres como sus<n>mayores rivales."
+    },
+    {
+      "name": "Air Groove",
+      "text": "En otras palabras, darle a tu madre un<n>clavel amarillo es como decirle\nque<n>superarás su legado."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Muy bien, esa fue la última estudiante.<n>Gracias por tu ayuda."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Parece que solo nos queda un solo<n>clavel amarillo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Groove sonríe suavemente mientras su<n>mirada se posa en la flor\nrestante."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Supongo que le daré este a mi propia<n>madre.",
+      "choice_data_list": [
+        "Es muy hermosa.",
+        "Es muy hermosa."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Justo cuando Air Groove está a punto de<n>tomar la flor en sus manos,\noímos un par<n>de pasos acercándose con vacilación."
+    },
+    {
+      "name": "Umamusume C",
+      "text": "E-emm..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Oh, eres del Dormitorio Ritto. ¿Pasa<n>algo?"
+    },
+    {
+      "name": "Umamusume C",
+      "text": "Estaba haciendo entrenamiento extra hoy, y<n>antes de darme cuenta el sol\nempezó a ponerse.<n>Em... ¿Ya no quedan flores?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "No—de hecho, tienes mucha suerte.<n>Solo queda una exactamente."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Adelante, es tuya."
+    },
+    {
+      "name": "Umamusume C",
+      "text": "¡Oh, muchísimas gracias!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La joven inclina la cabeza en agradecimiento a<n>Air Groove y se marcha\nrápidamente."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Je... Justo lo suficiente, entonces."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Su semblante es estoico con un toque de<n>satisfacción... pero es difícil\ndecir<n>qué siente realmente."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sí sé que planeaba llevarse esa<n>última flor, sin embargo. No puedo\nevitar<n>recordar cuando se lastimó en la clase<n>de baile.",
+      "choice_data_list": [
+        "¿Estás descuidándote de nuevo por los demás?",
+        "¿Estás descuidándote de nuevo por los demás?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Je. Eres tan preocupón."
+    },
+    {
+      "name": "Air Groove",
+      "text": "No estoy muy orgullosa de lo que pasó en<n>esa clase de baile, pero he\npensado<n>mucho en mi actitud desde entonces."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Si quiero ganarme el respeto de los demás,<n>necesito respetarme a mí\nmisma."
+    },
+    {
+      "name": "Air Groove",
+      "text": "No sirve de nada perseguir mis ideales si<n>descuido mis propias\nnecesidades en el<n>proceso. En ese punto, admito... fui un poco tonta."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Lo que acaba de pasar ahora es diferente,<n>sin embargo.",
+      "choice_data_list": [
+        "¿No estás sacrificando tu propio bienestar?",
+        "¿No estás sacrificando tu propio bienestar?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Así es. No me importa nada prescindir de<n>una flor."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Incluso sin un símbolo tangible que<n>lo represente, la determinación en\nmi<n>corazón es firme. Le diré a mi madre<n>directamente de mi ambición.",
+      "choice_data_list": [
+        "Eso sí parece más tu estilo."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Exactamente. Así que no hay nada de qué<n>preocuparte."
+    },
+    {
+      "name": "Air Groove",
+      "text": "No puedo permitir que mi entrenador se<n>altere demasiado por mí."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Aunque... supongo que si no hubieras<n>hablado en la enfermería, yo... no\nhabría...",
+      "choice_data_list": [
+        "¿Hm? ¿Qué fue eso?",
+        "¿Hm? ¿Qué fue eso?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "¡Me estoy cuidando mejor ahora, eso es<n>todo!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Mi madre no suele recordar su carrera<n>como corredora, pero una vez la\noí<n>decir que no podría haberse convertido<n>en reina por sí sola..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Que la mirada atenta de alguien en quien<n>confiaba se convirtió en un\nespejo—uno<n>que reflejaba más honestamente su<n>yo ideal."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Lo que intento decir es... bueno, ya sabes.",
+      "choice_data_list": [
+        "Tienes mis ojos cuando los necesites.",
+        "Tienes mis ojos cuando los necesites."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Por qué siento que me estás tomando el<n>pelo? ...Tonto."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hay un dejo de bondad en su<n>regaño a medias. Nos detenemos un\nrato<n>a ver la puesta de sol."
+    }
+  ]
 }

@@ -1,296 +1,308 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Rice Shower",
-            "text": "Yaayyy～!! Yay, yaaay～!! Ehehehe…!"
-        },
-        {
-            "text": "On a free day, I happened to spot Rice Shower \nin town, seemingly in high spirits.",
-            "choice_data_list": [
-                "Hey, Rice! Did something good happen?",
-                "Hey, Rice! Did something good happen?"
-            ]
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Ah, big brother…! Ehehe, yeah! \nI have really exciting news to share～",
-            "choice_data_list": [
-                "Exciting news?"
-            ]
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Ah, big sister…! Ehehe, yeah! \nI have really exciting news to share～",
-            "choice_data_list": [
-                "Exciting news?"
-            ]
-        },
-        {
-            "name": "Rice Shower",
-            "text": "You see… I bought a ticket to see the theatre \nperformance of \"The Blue Rose of Happiness\"!"
-        },
-        {
-            "text": "If I remember correctly, \"The Blue Rose of Happiness\" \nis Rice Shower's favorite picture book.",
-            "choice_data_list": [
-                "That's great! I'm so happy for you!",
-                "That's great! I'm so happy for you!"
-            ]
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Yeah…!!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "You see, I usually avoid crowded areas like the theatre, \nsince I often attract all kinds of trouble."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "But… well, you know… this is the stage play for \nmy most favorite story! So I really want to—"
-        },
-        {
-            "name": "Black Cat",
-            "text": "Meeeeowww～!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Huh?!"
-        },
-        {
-            "text": "At that moment, a sleek, black cat suddenly emerged from \nthe shadows and snatched the ticket for the performance \nright from Rice Shower's pocket, then darted away!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "O-Oh no!!! M-My ticket…! \nPlease come back, Mr. Black Cat～!"
-        },
-        {
-            "text": "As Rice Shower took off after the sneaky \nblack cat, I immediately joined the pursuit \nto retrieve the stolen ticket…!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "<i>Haa, haa…</i> I'm pretty sure it went this way…!"
-        },
-        {
-            "name": "Construction Site Worker",
-            "text": "Hey, hold on just a sec, miss! Sorry about that, but this \narea's off-limits 'cause of construction work."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "<i>Ehh!?</i> A-Ah… what should we do…? \nThat black cat went straight in here…!"
-        },
-        {
-            "name": "Construction Site Worker",
-            "text": "Hmm, well… I can tell ya a way 'round, \nbut it's quite the steep climb…"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Ah… p-please tell me the way! \nI don't mind a steep climb!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Big brother, if you get tired on the hill, please let me know! \nI'll hold your hand and pull you along…!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Big sister, if you get tired on the hill, please let me know! \nI'll hold your hand and pull you along…!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "<i>Haa, haa…</i>… We finally found you…!"
-        },
-        {
-            "name": "Black Cat",
-            "text": "Meeoowww～!",
-            "choice_data_list": [
-                "Let's approach very quietly…!"
-            ]
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Okay! Very… quietly……! \nIt's okay, don't be afraid, Mr. Black Cat～ \nNothing to be afraid of, okay～?"
-        },
-        {
-            "text": "Rice Shower and I cautiously approached the black \ncat from behind… but just as it was within reach, \nI suddenly felt something slippery under my feet…!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "<i>Hyaaaa!</i>"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Owieee… Big brother, are you okay?! \nWhat are two banana peels doing here of all places…?!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Owieee… Big sister, are you okay?! \nWhat are two banana peels doing here of all places…?!"
-        },
-        {
-            "text": "I hurriedly stood up to scan the surroundings, but the black \ncat had already vanished. With no clues as to which direction \nit had fled, we were at a loss……",
-            "choice_data_list": [
-                "(What should we do…?)"
-            ]
-        },
-        {
-            "name": "Rice Shower",
-            "text": "… Big brother, I'm going to go around the neighbourhood \nasking people if they've seen a black cat nearby, okay?"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "… Big sister, I'm going to go around the neighbourhood \nasking people if they've seen a black cat nearby, okay?"
-        },
-        {
-            "text": "Rice Shower stood up with a determined expression \nand courageously approached everyone around us \nto find clues about the cat's whereabouts."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "U-Um, excuse me!! \n… Have you seen a black cat around here?"
-        },
-        {
-            "text": "Our relentless pursuit of the cheeky black cat continued. \nIt was close to dusk when our efforts paid off and we finally \nlaid eyes on the elusive feline!"
-        },
-        {
-            "name": "Black Cat",
-            "text": "… Meeowww～"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "It's the black cat…! And it's still holding \nmy ticket in its mouth… Thank goodness!",
-            "choice_data_list": [
-                "All right, I'll get your ticket back this time!",
-                "All right, I'll get your ticket back this time!"
-            ]
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Thank you, big brother."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Thank you, big sister."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "But it's okay…! I want to make things right by \ndoing it myself. Please let me take care of it!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Well then… I'm going to go talk to it, okay?"
-        },
-        {
-            "text": "With a determined expression on her face, Rice Shower stepped \nforward towards the bush where the black cat was lying ——"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Excuse me, Mr. Black Cat! \nP-Please don't run away. \nI have something to say!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "You see, that ticket is very important to me… \nSo, please, I want you to return it to me…!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "<i>…… Purrlease～～?</i>"
-        },
-        {
-            "name": "Black Cat",
-            "text": "… Meeooow."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Ah…"
-        },
-        {
-            "text": "… The black cat left the ticket behind!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Thank you, Mr. Black Cat…!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "I'm so glad it turned out fine… \nThank you so much for helping me, big brother!",
-            "choice_data_list": [
-                "<size=34>Good job doing your best without giving up, Rice!</size>"
-            ]
-        },
-        {
-            "name": "Rice Shower",
-            "text": "I'm so glad it turned out fine… \nThank you so much for helping me, big sister!",
-            "choice_data_list": [
-                "<size=34>Good job doing your best without giving up, Rice!</size>",
-                "<size=34>Good job doing your best without giving up, Rice!</size>"
-            ]
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Yeah… it's all thanks to you, big brother."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Yeah… it's all thanks to you, big sister."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "You know, when you're by my side, I feel like I can \nkeep pushing forward. Like I can overcome anything, \nno matter what."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "You know, when you're by my side, I feel like I can \nkeep pushing forward. Like I can overcome anything, \nno matter what."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "So, big brother, there's something I want to give you…"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "So, big sister, there's something I want to give you…"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "—— Please accept this ticket!!",
-            "choice_data_list": [
-                "Huh, for me?!",
-                "Huh, for me?!"
-            ]
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Um, this ticket is actually… for two people. \nI wanted to use the ticket with you as \na present, to thank you for everything."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Um, this ticket is actually… for two people. \nI wanted to use the ticket with you as \na present, to thank you for everything."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "W-Would you like to come with me to see \nthe play? Or am I asking for too much… \nAh, of course… who do I think I am……",
-            "choice_data_list": [
-                "Not at all! I'd be happy to go with you!",
-                "Not at all! I'd be happy to go with you!"
-            ]
-        },
-        {
-            "name": "Rice Shower",
-            "text": "R-Really?! \nI'm so glad…!!"
-        },
-        {
-            "text": "However, when I checked the dates for the performance…",
-            "choice_data_list": [
-                "The performance is today?!",
-                "The performance is today?!"
-            ]
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Huh? Today?! \n… Ahhhh!!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "… You're right! W-We need to hurry～!!"
-        },
-        {
-            "text": "And so we rushed our way to the theater, just in time \nto catch the evening performance……"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Rice Shower",
+      "text": "Lo logré... ¡Lo logré, lo logré! ¡Jeje!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Es mi día libre, así que voy al centro.<n>Allí, me encuentro con una Rice\nShower<n>bastante alegre.",
+      "choice_data_list": [
+        "¡Parece que estás de buen humor, Rice!",
+        "¡Parece que estás de buen humor, Rice!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Ah, Hermano Mayor! Jeje... Ajá. ¡Hoy es un<n>buen día!",
+      "choice_data_list": [
+        "¿Un buen día, dices?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Ah, Hermana Mayor! Jeje... Ajá. ¡Hoy es un<n>buen día!",
+      "choice_data_list": [
+        "¿Un buen día, dices?"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Bueno, em... Conseguí una entrada para la<n>adaptación teatral de \"La\nRosa Azul de<n>la Buena Fortuna.\""
+    },
+    {
+      "name": "Monologue",
+      "text": "Si recuerdo bien, ese es el libro ilustrado<n>que ama Rice.",
+      "choice_data_list": [
+        "¡Qué buena noticia!",
+        "¡Qué buena noticia!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Gracias!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ya sabes que siempre termino trayendo<n>mala suerte... Así que suelo<n>evitar lugares como el teatro, con montones de gente."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Pero... Pero, verás... E-esta obra es especial,<n>porque..."
+    },
+    {
+      "name": "Black Cat",
+      "text": "¡Miauuu!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡¿Eep?!"
+    },
+    {
+      "name": "Monologue",
+      "text": "De la nada, un gato negro arrebata<n>el boleto de Rice de su bolsillo\ny sale<n>corriendo."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡N-no puede ser! ¡Espera, gatito!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Rice Shower persigue al gato negro,<n>¡y yo la sigo rápidamente!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Jadeo, jadeo...</i> ¡Se fue por aquí!"
+    },
+    {
+      "name": "Construction Worker",
+      "text": "¡Despacio, señorita! Lo siento, pero esta<n>calle está cerrada por\nobras."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡¿Eh?! ¿Q-qué hago? El gatito<n>definitivamente pasó por aquí."
+    },
+    {
+      "name": "Construction Worker",
+      "text": "Bueno, podría mostrarles el desvío... Pero<n>esa colina es mortal de verdad."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ah... ¡M-muéstrame, por favor! Una colina no<n>será problema... ¡Puedo correr!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hermano, avísame si te cansas,<n>¿vale? ¡Puedo tomarte de la mano!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hermana, avísame si te cansas,<n>¿vale? ¡Puedo tomarte de la mano!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "<i>Jadeo, jadeo...</i> ¡Ahí estás!"
+    },
+    {
+      "name": "Black Cat",
+      "text": "¡Miau! ¡Miau!",
+      "choice_data_list": [
+        "¡Vamos a acercarnos sigilosamente!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Mhm, ¡como pajarito furtivo! Ven aquí, gatito,<n>no muerdo—¡te lo prometo!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Rice y yo nos acercamos sigilosamente al gato,<n>cuando de repente, ¡siento algo\nbajo mi<n>pie!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Eep!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ay... ¿Qué hace una cáscara de plátano<n>aquí—¡y dos, además! ¿Estás bien,\nhermano?"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ay... ¿Qué hace una cáscara de plátano<n>aquí—¡y dos, además! ¿Estás bien,\nhermana?"
+    },
+    {
+      "name": "Monologue",
+      "text": "Para cuando nos levantamos, el gato<n>ya no se ve por ningún lado. Ni\nsiquiera vimos<n>hacia dónde corrió...",
+      "choice_data_list": [
+        "(¿Qué podemos hacer ahora?)"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hermano, voy a preguntar por ahí a ver si<n>alguien ha visto al gatito."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hermana, voy a preguntar por ahí a ver si<n>alguien ha visto al gatito."
+    },
+    {
+      "name": "Monologue",
+      "text": "Rice Shower se levanta, reúne todo su<n>valor y comienza a preguntar a la\ngente<n>cercana por información."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡D-disculpa! ¿Has visto un gato negro<n>por aquí?"
+    },
+    {
+      "name": "Monologue",
+      "text": "Rice y yo seguimos buscando al gato<n>negro. Algún tiempo después, cerca\ndel<n>atardecer, ¡finalmente tenemos un avance!"
+    },
+    {
+      "name": "Black Cat",
+      "text": "¡Miau!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Gatito! Todavía tienes el boleto en tu<n>boca... ¡Menos mal!",
+      "choice_data_list": [
+        "Muy bien, yo me encargo de aquí en adelante.",
+        "Muy bien, yo me encargo de aquí en adelante."
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hermano... Te lo agradezco."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Hermana... Te lo agradezco."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Pero... Tengo que dar lo mejor de mí. <i>Quiero</i> dar<n>lo mejor de mí."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Así que... ¡aquí voy!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Decidida, Rice se acerca al arbusto<n>donde se esconde el gato."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Gatito! P-por favor no huyas—tengo<n>algo que decirte."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ese boleto es muy preciado para mí... A-así que<n>¡quiero que me lo devuelvas!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Por favor... ¡Miau!"
+    },
+    {
+      "name": "Black Cat",
+      "text": "Miau."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Ah..."
+    },
+    {
+      "name": "Monologue",
+      "text": "¡El gato negro deja el boleto y<n>se aleja!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Gatito... ¡Muchas gracias!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Qué alivio... Hermano, ¡gracias por<n>ayudar también!",
+      "choice_data_list": [
+        "¡Es porque nunca te rendiste, Rice!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Qué alivio... Hermana, ¡gracias por<n>ayudar también!",
+      "choice_data_list": [
+        "¡Es porque nunca te rendiste, Rice!",
+        "¡Es porque nunca te rendiste, Rice!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Mhm... Solo porque estabas conmigo."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Mhm... Solo porque estabas conmigo."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Cuando estás a mi lado, siento que puedo<n>dar lo mejor de mí—como si pudiera\nhacer cualquier cosa."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Cuando estás a mi lado, siento que puedo<n>dar lo mejor de mí—como si pudiera\nhacer cualquier cosa."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Así que, esto... Hermano..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Así que, esto... Hermana..."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Por favor, toma este boleto!",
+      "choice_data_list": [
+        "¡¿Espera, yo?!",
+        "¡¿Espera, yo?!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Esto, en realidad... Compré dos boletos. Ya<n>sabes, como agradecimiento por\nsiempre cuidar<n>de mí."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "Esto, en realidad... Compré dos boletos. Ya<n>sabes, como agradecimiento por\nsiempre cuidar<n>de mí."
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿V-vendrías a ver esto conmigo? O es<n>que ir conmigo... solo es una\nmolestia...",
+      "choice_data_list": [
+        "Para nada—¡estoy feliz de que me invites!",
+        "Para nada—¡estoy feliz de que me invites!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡¿En serio?! ¡M-menos mal!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Pero mientras tomo el boleto de Rice,<n>algo preocupante llama mi\natención...",
+      "choice_data_list": [
+        "¡Estos boletos son para hoy!",
+        "¡Estos boletos son para hoy!"
+      ]
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¿Eh? Por hoy, quieres decir—¡aaah!"
+    },
+    {
+      "name": "Rice Shower",
+      "text": "¡Tienes razón! ¡Entonces tenemos que apurarnos!"
+    },
+    {
+      "name": "Monologue",
+      "text": "Al final, Rice y yo llegamos al<n>teatro justo a tiempo, logrando<n>de alguna manera ver la función de la tarde."
+    }
+  ]
 }

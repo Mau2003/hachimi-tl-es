@@ -1,44 +1,44 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Haah… ha……"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Hoh… hoh…!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Gallop, gallop… \nOya, perfect!",
-            "choice_data_list": [
-                "Are you restless?"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "No, no! \nI'm completely prepared!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "But, I'm still in the race!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I'm still in the middle of \nrunning towards the 3600m goal!!",
-            "choice_data_list": [
-                "……You're right!",
-                "……You're right!"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "With the momentum from the Hakodate \nSprint Stakes, I'll go on to win the CBC Sho!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Gallop, gallop!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Sakura Bakushin O",
+      "text": "<i>Jadeo... Jadeo...</i>"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "<i>¡Ah... ah!</i>"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Uno dos, uno dos... ¡Así está mejor!",
+      "choice_data_list": [
+        "¿Por qué no descansas un poco?"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡No es necesario! ¡Me he fortalecido<n>para esto!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Todavía estoy en carrera!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Estoy en la mitad de la meta de<n>3,600 metros!",
+      "choice_data_list": [
+        "¡C-cierto!",
+        "¡C-cierto!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Ganaré el CBC Sho de la misma<n>manera que gané\nlas Hakodate Sprint Stakes!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Uno dos, uno dos!"
+    }
+  ]
 }

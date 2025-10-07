@@ -1,244 +1,254 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Silence Suzuka",
-            "text": "-That's why. I'm sorry. The running \nstyle you taught me, for me is…"
-        },
-        {
-            "name": "Suzuka's Trainer",
-            "text": "I see… I'm sorry, I must have caused you a lot of distress. And \nyou, Trainer-san, thank you for being concerned about her.",
-            "choice_data_list": [
-                "Please expand her potenial as much as possible"
-            ]
-        },
-        {
-            "name": "Suzuka's Trainer",
-            "text": "I'd like to but… My instruction style is a \nbit rigid, so I might end up putting you through \nthis uncomfortable situation again."
-        },
-        {
-            "name": "Suzuka's Trainer",
-            "text": "So… how about this, Suzuka? How about transferring and being \nunder the supervision of this trainer?"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Eh? Transfer…?"
-        },
-        {
-            "name": "Suzuka's Trainer",
-            "text": "Yes. Having flexible thinking, and above all, \nhaving deep consideration for Uma Musume… for \nyou. I think she's a wonderful person."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Um… I-is that okay with you? With someone like me…",
-            "choice_data_list": [
-                "If that's what you want, absolutely…!",
-                "If that's what you want, absolutely…!"
-            ]
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "…Ah!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Thank you… very much. Please treat me well, Trainer-san…!"
-        },
-        {
-            "name": "Suzuka's Trainer",
-            "text": "How wonderful, Suzuka! From the bottom of my heart, \nI'm looking forward to your performance."
-        },
-        {
-            "name": "Suzuka's Trainer",
-            "text": "Oh, but it's a different story if it's against a girl I'm \nsupervising. At that time, we'll come at you with our full \nstrength, so make sure you're prepared."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Yes!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Um… I know it's a bit sudden, Trainer-san. But, my debut was \nplanned for next month. What should we do…?"
-        },
-        {
-            "text": "Silence Suzuka's wavering gaze was full of motiviation. Suddenly \nstopping her here probably wouldn't be a good idea.",
-            "choice_data_list": [
-                "Let's enter the debut race, as planned!"
-            ]
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "It's okay for me to run…?! Thank you very much!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Then… what should I do in regards to my running strategy…?"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "I understand what I've learned. 'Escape' is high risk. As I am \nnow, someday I might not be able to continue running in the lead."
-        },
-        {
-            "text": "Silence Suzuka's words are correct. But-"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "…I want to run out in front."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Once more, I want to reach that place again and again. These \nfeelings alone…I won't concede…!"
-        },
-        {
-            "text": "Her stubborness about leading… that point aside, Silence Suzuka \nalready posesses strength second to none."
-        },
-        {
-            "text": "Beyond that feeling, there might be a new potential \nthat no other Uma Musume has reached before…!",
-            "choice_data_list": [
-                "Continue with your own style",
-                "Continue with your own style"
-            ]
-        },
-        {
-            "text": "\"Lead from start to finish without slowing\"- It will be \ndifficult, but by no means is it impossible."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "…you believe in my running, it seems."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Understood. I will meet your expectations, without fail."
-        },
-        {
-            "text": "And with that, we turned towards preparation for \nher debut race with some special training…!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Run in the lead from the start until the end without slowing \ndown… how should I actualize this?"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "\"The energy required to accelerate is limited, \nso running to preserve stamina is necessary\" \nwas what I was told before though…",
-            "choice_data_list": [
-                "I guess we need to maximize that energy",
-                "I guess we need to maximize that energy"
-            ]
-        },
-        {
-            "text": "For the sake of training her instantaneous power and stamina in a \nbalanced manner, I suggested Hill Sprints"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Hill Sprints is it? Understood. But… doesn't \nthe school course seem a little lacking?"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "How about… climbing a mountain? Since \nwe have the opportunity…!",
-            "choice_data_list": [
-                "(Her eyes are serious…!?)"
-            ]
-        },
-        {
-            "text": "And thus I spent the days training \nwith a fired up Silence Suzuka-"
-        },
-        {
-            "text": "And then, finally…!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Oh, Air Groove! You came?"
-        },
-        {
-            "name": "Air Groove",
-            "text": "Yeah, to be honest, I was a little worried."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Hu… but, seeing your expression, it seems it was unnecessary."
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Fufuu…I'll be starting soon, so I'm heading out."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Yeah. I'm looking forward to it."
-        },
-        {
-            "name": "Commentator",
-            "text": "Now, gathering under this blue sky are the Uma Musume \neager to compete in the Twinkle Series!"
-        },
-        {
-            "name": "Commentator",
-            "text": "The participating Uma Musume are in \ntheir gates… Debut Race, Start!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Haa, haa, haa…!"
-        },
-        {
-            "name": "Commentator",
-            "text": "Right at the start with unbelieveable speed, \njumping ahead and leaving everyone behind is \nthe girl #1 in popularity, Silence Suzuka!"
-        },
-        {
-            "name": "Spectator A",
-            "text": "That girl, Suzuka, is amazing isn't she?! Do escape-type Uma \nMusume normally go that fast at the start?!"
-        },
-        {
-            "name": "Spectator B",
-            "text": "But, this isn't just a debut race, it's the Twinkle Series! Using \nthat much power at the start, she shouldn't be able to make it…"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "(Still… still, it's too noisy. Not yet. More…!)"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Fuu…!!"
-        },
-        {
-            "name": "Commentator",
-            "text": "We're entering the final stages of the race, but Silence \nSuzuka doesn't falter! She surges ahead, extending \nher lead, further and further forward!"
-        },
-        {
-            "name": "Spectator B",
-            "text": "No way…! At this rate, is she seriously going to do it…?!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "(I won't let anyone stand in my way. I won't yield, to anyone.)"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "The scenery from the lead… belongs to me!"
-        },
-        {
-            "name": "Commentator",
-            "text": "Silence Suzuka, with a 7 length lead, goooooaaal in! With a \nlogic-defying escape run, the crowd goes wild!"
-        },
-        {
-            "text": "WHOOOOAAA!!"
-        },
-        {
-            "name": "Air Groove",
-            "text": "Suzuka, someone like you…! You've \nbecome quite a fearsome opponent!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Haa…",
-            "choice_data_list": [
-                "Satisfied?",
-                "Satisfied?"
-            ]
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Satisfied?"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "Let's go see even better scenery, together…Trainer-san!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Silence Suzuka",
+      "text": "Eso es todo. Lo siento, pero no creo que la<n>forma en que me has hecho<n>correr sea..."
+    },
+    {
+      "name": "Entrenadora de Suzuka",
+      "text": "Ya veo... Yo también lo siento. Parece que<n>te hice pasar por mucho. Y tú,<n>joven<n>entrenador, debo agradecerte por<n>cuidar de ella cuando yo no pude.",
+      "choice_data_list": [
+        "Cuento contigo para aprovechar bien sus\nfortalezas."
+      ]
+    },
+    {
+      "name": "Entrenadora de Suzuka",
+      "text": "Deseo hacerlo... Pero verás, estoy<n>muy aferrada a mis métodos como<n>entrenadora, y<n>me temo que volveré a hacerla sentir<n>atrapada."
+    },
+    {
+      "name": "Entrenadora de Suzuka",
+      "text": "Suzuka, ¿por qué no consideras<n>transferir tu contrato a este<n>entrenador?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Eh? ¿Una transferencia?"
+    },
+    {
+      "name": "Entrenadora de Suzuka",
+      "text": "Sí. Sé que así recibirás una guía mucho<n>más flexible. Puedo ver que<n>este<n>entrenador te respeta mucho, y eso es<n>algo maravilloso."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Em... ¿E-estaría bien para ti? Quiero<n>decir...",
+      "choice_data_list": [
+        "¡Si eso es lo que quieres, entonces yo también!",
+        "¡Si eso es lo que quieres, entonces yo también!"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Por supuesto que es lo que quiero! Muchas<n>gracias... ¡Entrenador!"
+    },
+    {
+      "name": "Entrenadora de Suzuka",
+      "text": "¡Me alegro por ti, Suzuka! Estoy ansiosa<n>por ver la gran corredora que<n>seguro te convertirás."
+    },
+    {
+      "name": "Entrenadora de Suzuka",
+      "text": "Solo ten en cuenta que, si alguna vez<n>aceptas a alguna de mis<n>aprendizas,<n>animaré más por ellas. Espero que<n>estés preparado."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Por supuesto!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Em... Sé que recién lo hicimos oficial,<n>pero ¿qué hacemos con la carrera<n>de<n>debut en la que se suponía que<n>participaría el próximo mes?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Suzuka se mueve nerviosa, pero sus<n>ojos están llenos de una<n>determinación<n>ardiente. No tendría sentido apagar eso.",
+      "choice_data_list": [
+        "Puedes correr en la carrera, tal como estaba\nplaneado."
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Oh, de verdad? ¡Muchas gracias!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "En ese caso... ¿qué hacemos con mi<n>estilo de carrera?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "He llegado a entender que mi estilo de<n>huida conlleva sus riesgos.<n>Y algún día,<n>puede que ya no pueda mantenerme en<n>la delantera."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No puedo negar que tiene razón en su<n>pensamiento. Sin embargo..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Yo... necesito correr en la delantera."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "...¡Necesito llegar a ese lugar, aunque<n>sea solo una vez más! ¡No me<n>importa<n>nada más!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Está tan obsesionada con estar al frente...<n>En este aspecto, ya posee una<n>fuerza que<n>no tiene igual."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Si existe potencial más allá de los límites<n>de las Umamusume, entonces<n>¡sería<n>logrado por Suzuka!",
+      "choice_data_list": [
+        "Mantengámonos en lo que se te da bien.",
+        "Mantengámonos en lo que se te da bien."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Salir de la puerta en la delantera y<n>no cederla ni una vez... Le hice<n>saber<n>que será difícil, pero de ninguna<n>manera imposible."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Eso significa... Que crees en mi forma de correr."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Gracias. Demostraré que tu fe está<n>bien fundada."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con una estrategia establecida, estamos<n>listos para comenzar a<n>entrenar seriamente<n>para su carrera de debut."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Ir en la delantera al inicio de una carrera y<n>no perder velocidad ni en la<n>segunda mitad...<n>¿Cómo puedo lograrlo?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Me han dicho que tenemos energía<n>limitada para la velocidad, así que<n>necesitamos<n>correr de una manera que la conserve.",
+      "choice_data_list": [
+        "Entonces tendremos que aumentar tus reservas de\nenergía.",
+        "Entonces tendremos que aumentar tus reservas de\nenergía."
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sugiero entrenamiento en rampas como<n>forma de fortalecer tanto los<n>músculos que<n>ejercen fuerza explosiva como los que<n>gobiernan la resistencia."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¿Entrenamiento en rampas? Entendido.<n>Aunque... No estoy segura de que la<n>pista de la<n>academia sea un desafío suficiente."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Quizá podríamos... ¿escalar una montaña o<n>algo así? ¿Qué te parece?",
+      "choice_data_list": [
+        "(¡Parece que habla en serio sobre hacer eso!)"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Con su pasión completamente<n>reavivada, Silence Suzuka<n>produce<n>continuamente<n>resultados asombrosos con cada día de<n>entrenamiento."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Hasta que, por fin..."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Oh, Air Groove! ¿Decidiste venir a<n>vermE?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Sí, he estado un poco preocupada por ti."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Je, aunque esa expresión en tu rostro me<n>dice que no tenía mucha razón<n>para<n>preocuparme."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Jeje. Ya casi es hora de que suba a la<n>pista. Nos vemos pronto."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Sí. Que tengas una buena carrera."
+    },
+    {
+      "name": "Comentarista",
+      "text": "¡Cielos despejados reciben a un nuevo<n>grupo de esperanzadas de la<n>Twinkle Series!"
+    },
+    {
+      "name": "Comentarista",
+      "text": "Cada corredora ha entrado a su puerta.<n>¡Su carrera de debut comienza ahora!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "<I>Uff... uff... uff...</I>"
+    },
+    {
+      "name": "Comentarista",
+      "text": "La favorita de hoy para ganar, Silence<n>Suzuka, toma una ventaja temprana,<n>y con una<n>velocidad increíble deja atrás a todas<n>las demás."
+    },
+    {
+      "name": "Fan A",
+      "text": "¡Esa Suzuka es increíble! Incluso como<n>corredora de frente, ¡esa es una<n>velocidad<n>impactante desde el principio!"
+    },
+    {
+      "name": "Fan B",
+      "text": "Sí, pero no olvides, ¡esta es la Twinkle<n>Series! ¿De verdad puede ganar<n>con ese<n>tipo de estrategia temeraria?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "(Sigue... siendo tan ruidoso. ¡Necesito ir más lejos!)"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Hng!"
+    },
+    {
+      "name": "Comentarista",
+      "text": "¡Incluso en la última recta, Silence<n>Suzuka aumenta su velocidad!<n>¡Sigue<n>alejándose del grupo!"
+    },
+    {
+      "name": "Fan B",
+      "text": "No puede ser... ¿De verdad puede<n>mantenerlo?"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "(No dejaré que nadie se interponga en mi<n>camino. ¡No cederé la delantera!)"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Este paisaje... ¡es solo mío!"
+    },
+    {
+      "name": "Comentarista",
+      "text": "¡Silence Suzuka cruza la meta con<n>siete cuerpos de ventaja! ¡No se<n>ve a<n>menudo una actuación de frente como esa!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "¡Woooooooo!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "¡Increíble, Suzuka! ¡Eres un absoluto<n>monstruo!"
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Uf...",
+      "choice_data_list": [
+        "¿Satisfecha?",
+        "¿Satisfecha?"
+      ]
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "Jeje, no del todo."
+    },
+    {
+      "name": "Silence Suzuka",
+      "text": "¡Las vistas seguro que solo mejorarán de<n>aquí en adelante, Entrenador!"
+    }
+  ]
 }

@@ -1,54 +1,56 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "The final day of the summer training camp…"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Hah… Hah… Hah…!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "How was that, Trainer?! \nWasn't it brilliantly fast!?",
-            "choice_data_list": [
-                "That speed in the sand is amazing!"
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Isn't it! \nHa-ha-haaa―!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "I think I've improved quite a bit at \nthis training camp!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "She was fast to begin with, but now she's \neven faster! Truly a Bakushin-worthy \nspeed!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "This is as good as a promise! \nVictory in the Sprinter's Stakes!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "If I don't win by a landslide, I'll \nchange my name to Sakura O!!",
-            "choice_data_list": [
-                "Don't do that.",
-                "Don't do that."
-            ]
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Of course I will! \nThat's the only way to win!"
-        },
-        {
-            "name": "Sakura Bakushin O",
-            "text": "Please look forward to it, \nas a sort of spectator!"
-        },
-        {
-            "text": "…This is how the, hot? summer training \ncamp with Sakura Bakushin O came \nto an end."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "En el último día del campamento de<n>entrenamiento..."
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "<i>Jadeo... Jadeo... Jadeo...</i>"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¿Qué tal estuvo, Entrenador? Eso fue<n>súper\nrápido, ¿verdad?",
+      "choice_data_list": [
+        "¡Increíblemente rápido para correr en arena!"
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Naturalmente! ¡Ja ja!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Siento que subí de nivel durante el<n>campamento de\nentrenamiento!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "Antes era rápida, pero ahora soy<n>aún más rápida!\nMi velocidad es más<n>Bakushin que nunca!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡La victoria en las Sprinters Stakes<n>es toda mía!\n¡Está tan segura como en el<n>bolsillo!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Si no gano por una gran ventaja,<n>cambiaré mi\nnombre a \"Sakura O\"!",
+      "choice_data_list": [
+        "Por favor, no lo hagas.",
+        "Por favor, no lo hagas."
+      ]
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Por supuesto! ¡Cualquier cosa que<n>no sea la\nvictoria es impensable después de<n>todo!"
+    },
+    {
+      "name": "Sakura Bakushin O",
+      "text": "¡Por favor, disfruta viendo desde la<n>barrera!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así terminan las aventuras<n>apasionadas (?)\nde Sakura Bakushin O en el<n>campamento de verano."
+    }
+  ]
 }

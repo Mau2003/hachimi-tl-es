@@ -1,21 +1,21 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Chairwoman Akikawa",
-            "text": "Brilliant! Looks like you're training well!"
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "Oh, Principal!"
-        },
-        {
-            "name": "Chairwoman Akikawa",
-            "text": "I came to see how things were progressing… \nI'm impressed! You're doing a great job \nsupporting your horsegirl!"
-        },
-        {
-            "name": "Hayakawa Tazuna",
-            "text": "Yes ♪ Let's continue to steadily \ngrow the horsegirl!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Directora Akikawa",
+      "text": "¡Espléndido! ¡Parece que tu régimen de<n>entrenamiento\nva viento en popa!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "¡Ah! ¡Directora!"
+    },
+    {
+      "name": "Directora Akikawa",
+      "text": "Vine a ver cómo iban las cosas, pero...<n>\n¡me impresiona! Veo que has estado<n>\napoyando a tu pupila con estilo!"
+    },
+    {
+      "name": "Tazuna Hayakawa",
+      "text": "Sí. ♪ ¡Sigue con el buen trabajo y observa<n>cómo\ntu pupila se vuelve más fuerte con<n>el tiempo!"
+    }
+  ]
 }

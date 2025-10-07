@@ -1,152 +1,157 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "One day, rain was practically pouring from the skies."
-        },
-        {
-            "text": "I figured it wouldn't bother us, as our plans for the day \nhappened to keep us inside for strength training. I had \nnot factored in T.M. Opera O ——"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Ah, how ravishing, this rain-soaked appearance of mine……",
-            "choice_data_list": [
-                "Why in heavens are you dripping wet!?",
-                "Why in heavens are you dripping wet!?"
-            ]
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "The skies were crying out to behold my radiance, you see. \nIt is another duty of a king to see them soothed."
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Naturally, the moment I stepped outside, yours truly \nand the rain formed an ensemble — one which played \na performance most captivating."
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Sweeping over the track beside the raging winds, my glorious \nvisage sparkling with drops of rain… true perfection!!",
-            "choice_data_list": [
-                "You went running in this downpour!?",
-                "You went running in this downpour!?"
-            ]
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Why, most certainly!"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "On a soft, drenched track such as today's, every single one \nof my steps is powerful and striking."
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Should my performance be desired, I will take \nto the stage no matter the circumstance.",
-            "choice_data_list": [
-                "Through rains and thunderstorms?"
-            ]
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "<i>Haa-ha-ha-ha-ha!</i> It goes without saying."
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "My ambitions lie in becoming the Centurial High King! \nAn unsurpassed brilliance shining its light upon the world!"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Be it driving rains or suffocating snow, none can \nbe considered so much as an obstacle!"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "On the contrary, should the whims of the skies \nbe able to influence me so, the title of high king \nwould remain far out of reach."
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "…… Oh now, what is this, my dear trainer? You gaze upon me \nas if entranced… have you perchance fallen for my charms?",
-            "choice_data_list": [
-                "I was thinking… you're so passionate.",
-                "I was thinking… you're so passionate."
-            ]
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "<i>Heh</i>, don't tell me you only realized now?"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Nevertheless, you do good to notice. \nLet me hear all the praise you hold in your heart for me!"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "For indeed, words of praise exist to be used on me!! \nNow let me hear them! My dea-ar t-tr<i>ai-chooo</i>!"
-        },
-        {
-            "text": "A small lake was starting to form where T.M. Opera O stood. \nShe's gonna catch a cold in this state.",
-            "choice_data_list": [
-                "You should go change…"
-            ]
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Hm? These garments do me quite fine…… <i>Ahh!</i> \nTrainer, don't tell me……"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Has the rain-enhanced luster of my hair \ninspired feelings of bashfulness in you?"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "But of course! I fully understand your feelings! \nMy striking beauty must have set your heart aflutter!",
-            "choice_data_list": [
-                "Can you just go change!",
-                "Can you just go change!"
-            ]
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "T-Trainer, dear?!"
-        },
-        {
-            "text": "I managed to manoeuvre a reluctant \nT.M. Opera O out of the room somehow."
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Dear me, why would you kick me out like that… \nIs this really what you desire?"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "To forgo a chance at beholding my glistening glamour?",
-            "choice_data_list": [
-                "I don't want you coming down with a cold."
-            ]
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Oh dear, you needn't worry yourself with such \nunreasonable futures. There is only one future \nyou need to believe in."
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "That being the one where yours truly dons \nthe crown of the Centurial High King to engulf \nthe world in my radiant light."
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "In any case, let us confront the day's training. \nIt would after all be inconceivable for yours truly \nto neglect routine and discipline.",
-            "choice_data_list": [
-                "Your jersey is still soaked though……"
-            ]
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "So it is, which is why I will run in my uniform! \nAt the riverbank, perhaps? Perfectly encapsulating \nthe wonders of youth!"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Yours truly running through the rain, powerful stride \ncontrasted by a fluttering skirt. Ah… how magnificent!!"
-        },
-        {
-            "text": "I had to try everything in my power to prevent T.M. Opera O \nfrom dashing back outside in her uniform."
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Hoy, está lloviendo más fuerte de lo que<n>ha llovido en un tiempo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "No debería afectar nuestro plan de<n>entrenamiento con pesas en\ninteriores, sin embargo. O eso<n>pensé..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ah, qué lustrosa y brillante se ve mi<n>cabello cuando está mojado...",
+      "choice_data_list": [
+        "¡¿Por qué estás toda mojada?!",
+        "¡¿Por qué estás toda mojada?!"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Los cielos lloraban al contemplar mi<n>hermosura, y es el deber de una\ngobernante<n>traer consuelo—incluso a los cielos."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Mi conjunto con la lluvia comenzó en el<n>momento en que puse un pie\nfuera de la<n>puerta. Fue un espectáculo digno de verse."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Deberías haberme visto corriendo con el<n>viento tempestuoso,\nadornada con<n>gotas de lluvia. No hay otra palabra para<n>ello, pero... ¡<i>perfecto!</i>",
+      "choice_data_list": [
+        "¡¿Estabas corriendo en este clima?!",
+        "¡¿Estabas corriendo en este clima?!"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡¿Cómo podría no hacerlo?!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ya sea bajo lluvias torrenciales o en<n>pistas embarradas, mis\nzancadas tienen<n>un poder impresionante—son la belleza encarnada."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Siempre que un alma pobre anhele verme<n>correr... Estaré ahí, de pie\nen el<n>centro de atención, dondequiera que esté el escenario.",
+      "choice_data_list": [
+        "¿No importa lo mal que esté afuera?"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Jaaaj ja ja ja ja! Eso va sin<n>pregunta."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Porque estoy destinada a convertirme en<n>la Señora Centenaria, una\nfuente de<n>resplandor sin igual para el mundo."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Incluso los aguaceros más fuertes y las<n>ventiscas más amargas deben\nceder al<n>sol al final."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿No ves? Si no puedo conquistar el<n>clima, ¿cómo voy a conquistar\nla pista?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "...Pero espera, Entrenador. Esa mirada<n>asombrada en tus ojos—te has\nvuelto<n>completamente enamorado de mí.",
+      "choice_data_list": [
+        "Estoy pasmado por tu intensa pasión.",
+        "Estoy pasmado por tu intensa pasión."
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Ja, me halagas."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Aunque no necesitas ser tímido. No<n>dudes en expresar tus\npensamientos—¡no<n>reprimas tus elogios sin límites por más tiempo!"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Los cumplidos y reconocimientos, después<n>de todo, existen por mi\nbien. ¡Ahora es el<n>momento, Entrena—¡achú!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mientras ha estado hablando, se ha<n>formado un gran charco a sus\npies por lo<n>mojada que está. Seguro que se<n>resfriará a este ritmo...",
+      "choice_data_list": [
+        "Quizás deberías cambiarte a ropa seca."
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Qué? No veo la necesidad de eso... ¡Ah!<n>¿Podría ser, Entrenador?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Mi apariencia reluciente ha agitado tu<n>alma? ¿Ha despertado un\nataque de<n>timidez en ti?"
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Entiendo lo que debes sentir! Ante<n>mi belleza inalcanzable, ¿te\navergüenzas<n>de lucir tan sencillo?",
+      "choice_data_list": [
+        "¡¿Podrías cambiarte ya?!",
+        "¡¿Podrías cambiarte ya?!"
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡¿E-Entrenador?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "La empujo fuera de la habitación antes de<n>que pueda lanzarse a otro\nsoliloquio<n>completo."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¿Cómo pudiste echarme así para<n>conseguir ropa seca? Todavía creo\nque has<n>cometido un grave error."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Dejaste escapar para siempre la<n>oportunidad de tu vida, de\ncontemplar<n>mi gloria empapada por la lluvia.",
+      "choice_data_list": [
+        "No le sirve a nadie que te enfermes."
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Oh, por favor. No deberías temer algo<n>tan inconcebible. Solo hay un\nfuturo<n>en el que necesitas confiar."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Que me voy a convertir en la Señora<n>Centenaria y brillaré mi luz\nsobre el<n>mundo."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "Con eso resuelto, tengo un<n>entrenamiento importante que hacer.\n¿Qué<n>diría la gente si viera a <i>mí</i> saltándome<n>un día de trabajo\nduro?",
+      "choice_data_list": [
+        "Pero tu uniforme todavía está todo mojado..."
+      ]
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "¡Por cierto, mi uniforme tendrá que<n>bastar! Quizás vaya a un\njovial<n>revoloteo junto al lecho del río..."
+    },
+    {
+      "name": "T.M. Opera O",
+      "text": "El revoloteo de mi falda y el poder de<n>mis zancadas contrastados con\nla<n>delicada lluvia. Aaah, ¡qué mise-en-scene<n>tan superbio será!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Después de esa divagación, estoy casi<n>demasiado agotado para decir\nlo contrario, pero<n>estoy desesperado y convoco mi última<n>onza de valor para\ndetenerla."
+    }
+  ]
 }

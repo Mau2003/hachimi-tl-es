@@ -1,252 +1,265 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "text": "At the summer camp, Air Groove had been doing \nbeach running for the past few days."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Fu… I ran 20kms before I even realized it."
-        },
-        {
-            "name": "Air Groove",
-            "text": "I can handle this distance pretty easily now. Because \nthe sand is unstable you can train your physical \nstrength and core at the same time."
-        },
-        {
-            "name": "Air Groove",
-            "text": "When it comes to dirt training, it doesn't get better \nthan this. I'm in great condition, I feel like no \nmatter who I'm against I can't lose一Hm?"
-        },
-        {
-            "name": "Air Groove",
-            "text": "…Not good. The summer festival is already starting."
-        },
-        {
-            "text": "Come to think of it, she was supposed to go to the summer \nfestival as part of her student council activities…"
-        },
-        {
-            "name": "Air Groove",
-            "text": "There are plenty of students who aren't used to the \nsudden change in environment outside of school. It's \nfor their safety, I have to get going.",
-            "choice_data_list": [
-                "I'll come with you",
-                "I'll come with you"
-            ]
-        },
-        {
-            "name": "Air Groove",
-            "text": "I don't mind but… I'm only going for work."
-        },
-        {
-            "name": "Air Groove",
-            "text": "If you understand that much. Then come."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Cotton candy, takoyaki, candy carrots… Good grief, the temptation \nfor students in training is too strong.",
-            "choice_data_list": [
-                "I'll treat you!"
-            ]
-        },
-        {
-            "name": "Air Groove",
-            "text": "I told you I'm only here for work, fool! \nDo you have memory loss!?"
-        },
-        {
-            "name": "Air Groove",
-            "text": "I have absolutely no intention of… Hm?"
-        },
-        {
-            "name": "Horsegirl A",
-            "text": "Uwah! U-Um, this is bothersome…!"
-        },
-        {
-            "name": "Reporter",
-            "text": "Just a little okay? I wanna photograph you! You guys are from \nTracen aren't you? You're practically future stars!"
-        },
-        {
-            "text": "Some reporter is flashing his camera on the students…!"
-        },
-        {
-            "name": "Air Groove",
-            "text": "How persistent."
-        },
-        {
-            "text": "The situation getting on Air Groove's nerves worried me and \nwithout realizing it, I took a step forward.",
-            "choice_data_list": [
-                "I'll handle this…!",
-                "I'll handle this…!"
-            ]
-        },
-        {
-            "name": "Air Groove",
-            "text": "…Fu. \nIt's fine, I'll go."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Trainer, just wait here and watch."
-        },
-        {
-            "text": "With those words, Air Groove approached the reporter."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Excuse me, you reporter there."
-        },
-        {
-            "name": "Reporter",
-            "text": "Eh? Wha… are you by chance… the \"Empress\" Air Groove?!"
-        },
-        {
-            "name": "Air Groove",
-            "text": "I'm not sure who you work for, but our school has a rule that you \nneed permission for interviews."
-        },
-        {
-            "name": "Air Groove",
-            "text": "This is a rule made to protect the identities and futures of our \nstudents. Would you please understand?"
-        },
-        {
-            "name": "Reporter",
-            "text": "Ah, please excuse me… \nI work for a magazine that features horse girls so…"
-        },
-        {
-            "name": "Reporter",
-            "text": "My hobby sort of became my job, so seeing prestigious horse \ngirls, I just got carried away…"
-        },
-        {
-            "name": "Air Groove",
-            "text": "Your support is a large encouragement to us."
-        },
-        {
-            "name": "Air Groove",
-            "text": "And that is why, we request you apply for an interview \nthrough the normal means. If it's an official \ninterview we will gladly accept."
-        },
-        {
-            "text": "The reporter seemed satisfied with Air Groove's calm intervention \nand apologized before leaving."
-        },
-        {
-            "text": "Air Groove's calm approach was different from before, and left a \ndeep impression on me……"
-        },
-        {
-            "name": "Air Groove",
-            "text": "Alright, it's just about time for me to swap \nout for patrol. Work is just about done."
-        },
-        {
-            "name": "Air Groove",
-            "text": "It'd be fine to just return to the dorms now but一"
-        },
-        {
-            "name": "Air Groove",
-            "text": "Hm. Fireworks, huh."
-        },
-        {
-            "name": "Air Groove",
-            "text": "…Alright, come. \nI know a good spot."
-        },
-        {
-            "text": "From the hill grounds, I could see the night view \nof the city. Away from the crowd of the summer festival, \nonly the sounds of fireworks echoed."
-        },
-        {
-            "name": "Air Groove",
-            "text": "That flower too, finally bloomed thanks to the efforts of those \naround it. It's truly something to learn from.",
-            "choice_data_list": [
-                "If it's you, I think even fireworks will bloom",
-                "If it's you, I think even fireworks will bloom"
-            ]
-        },
-        {
-            "name": "Air Groove",
-            "text": "Flowers for the sky… huh. It won't be easy. \nBut, surely someday一"
-        },
-        {
-            "name": "Air Groove",
-            "text": "Ah… but even so一they're beautiful."
-        },
-        {
-            "text": "Air Groove narrows her eyes after saying that. \nThe colors of the fireworks reflecting in her eyes.",
-            "choice_data_list": [
-                "Yeah, they are",
-                "Yeah, they are"
-            ]
-        },
-        {
-            "name": "Air Groove",
-            "text": "Fu, just where are you looking?"
-        },
-        {
-            "name": "Air Groove",
-            "text": "Hey you, don't blush at that. It makes me… um, feel awkward too."
-        },
-        {
-            "name": "Air Groove",
-            "text": "……It seems like the fireworks are over now. This time, let's \nactually return to the dorms."
-        },
-        {
-            "text": "After saying that, she hurriedly started walking but一"
-        },
-        {
-            "name": "Air Groove",
-            "text": "Ah…"
-        },
-        {
-            "text": "Air Groove fell, probably by getting \nherself caught in the stone steps.",
-            "choice_data_list": [
-                "Are you okay?"
-            ]
-        },
-        {
-            "name": "Air Groove",
-            "text": "Hmph, something like this is of no conce一"
-        },
-        {
-            "name": "Air Groove",
-            "text": "No, actually."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Do you think you could carry me?",
-            "choice_data_list": [
-                "Of course!"
-            ]
-        },
-        {
-            "text": "I kneeled in front of her and picked \nher up from the heel she fell on."
-        },
-        {
-            "name": "Air Groove",
-            "text": "……Hey.",
-            "choice_data_list": [
-                "Hm?"
-            ]
-        },
-        {
-            "name": "Air Groove",
-            "text": "Just stay as you are, and answer me this,"
-        },
-        {
-            "name": "Air Groove",
-            "text": "In your eyes, just how is my figure reflected?",
-            "choice_data_list": [
-                "You are the ideal \"Empress\"",
-                "You are the ideal \"Empress\""
-            ]
-        },
-        {
-            "name": "Air Groove",
-            "text": "……I see. Then, I'll continue to carry myself proudly."
-        },
-        {
-            "name": "Air Groove",
-            "text": "Your reliability, is still far from blooming. \n…But, it's not as if I'm not anticipating your future growth."
-        },
-        {
-            "name": "Air Groove",
-            "text": "I'll continue to support you with all I can. As long as you don't \nneglect your efforts to stand by my side, I will continue to lead \nyou to the crown as \"Empress\"."
-        },
-        {
-            "name": "Air Groove",
-            "text": "……Also, hurry up and carry my shoes."
-        },
-        {
-            "text": "She smiled proudly and looked even more \nbeautiful than the day we first met……"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Monólogo",
+      "text": "Es el campamento de entrenamiento<n>veraniego anual de la academia, y Air Groove<n>ha pasado la mayor parte de su<n>tiempo de entrenamiento corriendo en<n>la playa."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Uf. ¿Ya van veinte kilómetros?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ya no me canso tan fácilmente en la arena<n>como antes. Cuando se trata de<n>mejorar la resistencia y la fuerza<n>central, realmente no hay mejor lugar<n>que la playa."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Sin mencionar su utilidad como análogo a<n>las pistas de tierra. Estoy en mejor<n>forma que nunca—en este momento, no<n>creo que pudiera perder contra nadie. ...¿Hmm?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Vaya. ¿Ya es hora de que comience el<n>festival?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ahora que lo pienso, ella mencionó que<n>estaría patrullando el festival en<n>nombre del consejo estudiantil esta<n>noche."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Los estudiantes suelen emocionarse<n>demasiado en el festival cada año.<n>Alguien tiene que vigilarlos por su<n>propia seguridad; debería irme.",
+      "choice_data_list": [
+        "Yo también te acompañaré.",
+        "Yo también te acompañaré."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Muy bien... siempre y cuando entiendas<n>que vamos por trabajo y <i>no</i> para<n>holgazanear."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Si puedes prometerme eso, entonces<n>claro, ven conmigo."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Algodón de azúcar, takoyaki, zanahorias<n>acarameladas... Todos estos dulces<n>no pueden estar haciendo nada positivo<n>para el entrenamiento de los estudiantes.",
+      "choice_data_list": [
+        "¡Déjame comprarte algo!"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Recuerdo haberte dicho que no estamos<n>aquí para holgazanear. ¿Acaso el sol<n>veraniego te friendió el cerebro o algo?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "En serio, qué voy a hacer contigo...<n>¿Hmm?"
+    },
+    {
+      "name": "Uma Musume A",
+      "text": "¡Ay! ¡P-por favor, basta ya!"
+    },
+    {
+      "name": "Periodista",
+      "text": "¡Solo necesito unas cuantas fotos! Son<n>estudiantes de Tracen, ¿verdad?<n>¡Prácticamente son futuras estrellas<n>garantizadas!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Un hombre que parece ser un reportero de<n>tabloide está tomando fotos de<n>estudiantes en contra de su voluntad."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Qué insolente..."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Groove parece estar a punto de<n>explotar. Me adelanto para hacer<n>algo al respecto.",
+      "choice_data_list": [
+        "¡Yo me encargo de esto!",
+        "¡Yo me encargo de esto!"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "<i>Suspiro...</i>\nNo, yo iré."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Por favor, vigila desde aquí."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Groove se acerca a la escena con un<n>paso decidido."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Disculpe. ¿Dijo que era periodista?"
+    },
+    {
+      "name": "Periodista",
+      "text": "¿Eh? E-espere... ¡Usted es la Emperatriz...<n>Air Groove!"
+    },
+    {
+      "name": "Air Groove",
+      "text": "No estoy segura de qué publicación<n>representa, pero nuestra escuela<n>requiere que todos los reporteros<n>obtengan permiso antes de hablar con<n>los estudiantes."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Esta medida existe para proteger la<n>privacidad de los estudiantes. Confío<n>en que lo entienda, ¿verdad?"
+    },
+    {
+      "name": "Periodista",
+      "text": "Oh, esto... Lo siento. Soy un<n>reportero especializado en Uma<n>Musume, ya ve..."
+    },
+    {
+      "name": "Periodista",
+      "text": "Las carreras han sido mi pasión desde<n>joven, y supongo que pierdo el<n>control cuando veo de cerca a las<n>corredoras que admiro..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Sepa que nos sentimos honradas de<n>encontrarnos con nuestros fans."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Pero todas agradeceríamos que<n>respetara la etiqueta adecuada.<n>Programe algo oficial y no tendrá<n>ningún problema."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El reportero se deja convencer<n>fácilmente por la amable<n>amonestación de Air Groove y<n>pronto abandona la escena."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Recuerdo el distanciamiento de Air<n>Groove con su entrenador anterior.<n>¿La Air Groove de aquel entonces<n>habría manejado esta situación con<n>tanta calma?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Muy bien, con esto termina mi turno y<n>todo está en orden."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Supongo que podríamos regresar al<n>alojamiento ahora, pero..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ah... ¿Son esos fuegos artificiales?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "En ese caso, ven conmigo. Conozco un<n>buen lugar."
+    },
+    {
+      "name": "Monólogo",
+      "text": "El santuario ofrece una vista<n>panorámica nocturna de la ciudad.<n>Lejos del bullicio del festival, solo<n>se oye el sonido de los fuegos<n>artificiales."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Al igual que las flores, los fuegos<n>artificiales son el producto de mucho<n>trabajo duro y atención. No me<n>extraña que sean un espectáculo verlos<n>en plena floración.",
+      "choice_data_list": [
+        "Apuesto a que algún día habrá fuegos artificiales floreciendo para ti.",
+        "Apuesto a que algún día habrá fuegos artificiales floreciendo para ti."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Plantar un jardín en el cielo... No sería<n>una tarea sencilla, pero algún día..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Guau... Realmente son hermosos."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Los reflejos de las flores centellean<n>en sus ojos.",
+      "choice_data_list": [
+        "Sí... realmente lo son.",
+        "Sí... realmente lo son."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Je, ¿qué estás mirando?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "Oye, ¿qué pasa con esa expresión<n>melosa? ¿No tienes vergüenza?"
+    },
+    {
+      "name": "Air Groove",
+      "text": "El espectáculo terminó. Regresemos de<n>verdad esta vez."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Ella comienza a apresurarse, pero..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Uf."
+    },
+    {
+      "name": "Monólogo",
+      "text": "La superficie irregular de piedra hace<n>que Air Groove caiga al suelo.",
+      "choice_data_list": [
+        "¿Estás bien?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Hmph. Se necesitaría más que un<n>tropezón tonto para..."
+    },
+    {
+      "name": "Air Groove",
+      "text": "En realidad... Olvida eso."
+    },
+    {
+      "name": "Air Groove",
+      "text": "¿Me ayudas con este zapato?",
+      "choice_data_list": [
+        "¡Por supuesto!"
+      ]
+    },
+    {
+      "name": "Monólogo",
+      "text": "Recojo su tacón perdido y me arrodillo<n>ante ella."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Oye...",
+      "choice_data_list": [
+        "¿Sí?"
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Mientras haces eso... contéstame una<n>pregunta."
+    },
+    {
+      "name": "Air Groove",
+      "text": "En tus ojos... ¿Cómo me percibes?",
+      "choice_data_list": [
+        "Como una verdadera emperatriz.",
+        "Como una verdadera emperatriz."
+      ]
+    },
+    {
+      "name": "Air Groove",
+      "text": "Ya veo. Entonces he estado cultivando mi<n>propia floración efectivamente."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Todavía no estoy completamente<n>convencida de... ¿qué era eso? ¿La<n>verdura de tu pulgar? ...Bueno, quizás<n>llegues eventualmente."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Sigue trabajando duro, y quizás<n>realmente puedas producir una<n>corona de flores maravillosa para<n>mí, así como yo te llevaré a la gloria."
+    },
+    {
+      "name": "Air Groove",
+      "text": "Pero primero, ¿podrías ponerme mi<n>zapato?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Air Groove emana un aire de realeza<n>aún más hermoso que cuando<n>nos cruzamos por primera vez."
+    }
+  ]
 }

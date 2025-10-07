@@ -1,229 +1,237 @@
 {
-    "no_wrap": true,
-    "text_block_list": [
-        {
-            "name": "Mayano Top Gun",
-            "text": "Ah. Yaho-♪ \nHey you, we've been meeting a lot lately."
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Just now, I was watching a mock race \nat the track down there. Maya can't race myself so-."
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Must be nice to race～ I wish Maya could race too. \nBut―",
-            "choice_data_list": [
-                "You really don't want to train?",
-                "Do you really not want to train?"
-            ]
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "……I mean."
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "They told me I had to train, so I did train once."
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "But they only do things that can be understood in one session. If \nyou get it, it's boring."
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "What is the point of doing boring things all the time?"
-        },
-        {
-            "text": "Mayano Top Gun is able to find the \"right answer\" to everything \nimmediately, and is able to do it."
-        },
-        {
-            "text": "Maybe she has never achieved anything through hard work."
-        },
-        {
-            "text": "So, she may not understand what it means to make an effort. \nWhich may be why training just seems boring and painful to her……"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "……Maya do think that Maya \nshould train properly like Yukippe \nand the others, you know?"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "I know that City-san and Tamamo-san are \nalso training every day. I know \nthat everyone is doing it…"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "But no matter how hard I try, \nit's just too boring. I think to myself, \n'This is pointless'."
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "I guess I'm not good enough because I'm not like…… everyone else. \nMaybe Maya can't become a sparkling Uma Musume after all……?",
-            "choice_data_list": [
-                "That's not true!"
-            ]
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Woah! \nYou scared me……"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "I didn't know you could speak so loud. \nYou seemed so gentle……"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Hmmm………"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "……Hey, uhm. \nDo you also want Maya to train too?",
-            "choice_data_list": [
-                "Yes."
-            ]
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Hmmm…… I see."
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "……Okay? If you listen to Maya, \nI'll listen to you and train!",
-            "choice_data_list": [
-                "What do you mean?"
-            ]
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Ummm♪ \nCould you………"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Go on a date with Maya!?"
-        },
-        {
-            "text": "The next day at noon, in front of the station―"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "LANDING!! \nSorry to keep you waiting ♪"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Hehehe, thanks for coming today! I've always wanted to go on a \ndate like the mature Uma Musume do."
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "So, where should we go? We can't miss shopping at fancy \nstores and visiting shiny new sweets shops!"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Also, we should watch a romantic movie, right? \nI also want to have a cup of tea at a cafe like an adult… \nMan, I'm getting excited～!"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "We need to move fast, or the day \nwill be over! Let's go, Take――Off!"
-        },
-        {
-            "text": "After that, Mayano Top Gun took me around town at a great pace……"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Look at that T-shirt, it's so cute! \nOh, is that a juice stand!? \nI wonder if they have carrot juice!"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Hmm? *sniff *sniff…… It smells so good! It's coming from over here! \nLet's go, let's go～!"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Come on, don't just stand there! \nFollow Maya closely♪"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Which one should we watch? Hmmm, they \nall look interesting～…… Oh, Hyaaa!?"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Awawawa, the… the preview on the monitor showed a kissing scene…! \nI saw it～!! Uw… my face feels so hot……!"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "How much ice cream can I stack? One? Two? Three! \nLet's make it three! It's decided then!!"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Which one should I choose～? Strawberry looks delicious…… and \nvanilla～ and chocolate chip cookies and～ ……"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Eh? Cheesecake flavor is only available for a limited time!…… \nHey-hey, let's make it to four～!!"
-        },
-        {
-            "text": "I spent the whole day dragged around by Mayano Top Gun……"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Ah～ that was fun!!"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "You're amazing, by the way! You might be the first person ever other \nthan Mabe-chan to follow Maya through all the way to the end!",
-            "choice_data_list": [
-                "I thought I was going to collapse halfway through……",
-                "I thought I was going to collapse halfway through……"
-            ]
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Ahaha, is that so! Then you must've worked really hard! Thanks."
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "……Hey-uhmm. Why are you being so nice to me? \nWhy did you go on a date with Maya?"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Is it because, \nMaya promised to train if you did what I asked?",
-            "choice_data_list": [
-                "Not exactly."
-            ]
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "No? What do you mean? You didn't go on a date with me \nbecause you wanted me to train?"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "If not, why did you come?",
-            "choice_data_list": [
-                "I don't want you to give up on your dreams.",
-                "I don't want you to give up on your dreams."
-            ]
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Dreams……?"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "My, Dreams……"
-        },
-        {
-            "text": "Mayano Top Gun kept quiet for \na while, as if she was in deep thought. Then suddenly―"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "……I see."
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "Umm…… thanks so much for today-!"
-        },
-        {
-            "name": "Mayano Top Gun",
-            "text": "We'll train together tomorrow!"
-        },
-        {
-            "text": "Thus, we're going to give Mayano Top Gun some training!"
-        }
-    ]
+  "no_wrap": true,
+  "text_block_list": [
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Oye, hola! ♪ Siento que te veo<n>bastante seguido estos días."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Hay un entrenamiento en la pista<n>de allá ahora mismo! Estaba<n>solo mirando<n>porque no puedo correr en ninguna carrera."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Ayyy, cómo quisiera correr también. Pero<n>ya sabes...",
+      "choice_data_list": [
+        "La verdad es que no quieres entrenar, ¿verdad?",
+        "La verdad es que no quieres entrenar, ¿verdad?"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "... No quiero."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Me dijeron que tenía que entrenar, así que fui la<n>primera vez!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Pero solo hicieron cosas súper fáciles<n>de aprender. Todo me tomó<n>solo un intento entenderlo, y hacer cosas que ya sé<n>es aburridísimo,<n>¿sabes?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡¿Y de qué sirve si es aburrido?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Mayano Top Gun aprende y aplica su<n>entrenamiento increíblemente rápido."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Pero parece que todo lo que ha<n>logrado hasta ahora ha sido<n>por talento en lugar de esfuerzo."
+    },
+    {
+      "name": "Monólogo",
+      "text": "Nunca tuvo necesidad de esforzarse, así<n>que para ella, entrenar debe ser<n>solo otra tarea tediosa que tachar de su lista."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "No es que crea que soy demasiado buena<n>para entrenar ni nada... Veo a Yukipe<n>y a todos<n>los demás entrenando, así que sé que es importante."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡O sea, hasta City y Tamamo entrenan<n>todos los días! ¡Todos lo hacen! Lo<n>entiendo..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Pero haga lo que haga, es tan aburrido!<n>Siempre se siente tan inútil..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿¿Soy rara por pensar así?? ¿¿Significa<n>que nunca seré una corredora<n>brillante??",
+      "choice_data_list": [
+        "¡¡SÍ LO SERÁS!!"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Wow! N-no hace falta gritar, sabes..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "No pensé que fueras de alzar<n>la voz, ya que pareces tan<n>amable y todo..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Mmm..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Oye, ¿tú crees que yo también debería entrenar?",
+      "choice_data_list": [
+        "Sí creo."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Mm... Está bien."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Lo haré, pero solo si escuchas lo que<n>diga.",
+      "choice_data_list": [
+        "¿Y qué sería eso?"
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Bueeeeno... ♪ Estaba pensando..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡¿Qué tal si tú y yo vamos a una cita?!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Al día siguiente, frente a la estación..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡¡Y hemos aterrizado!! Perdón por la<n>espera! ♪"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Ejeje, gracias por acompañarme hoy.<n>Quería ir a una cita<n>y ¡sentir cómo es ser adulta! ♪"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Muy bien! ¿¿Adónde deberíamos ir<n>primero?? Tenemos que ir de compras<n>a una de esas tiendas elegantes. Ah, y<n>¡no podemos olvidar<n>parar por dulces!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Y luego podemos ver una película romántica!<n>Y luego visitar una cafetería<n>cara—¡de esas para adultos! Ahhh, ¡<n>no veo la hora!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Bueno, tenemos que irnos! Estamos<n>perdiendo el tiempo solo parados aquí.<n>¡Vamos, apurémonos y despeguemos!"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Sale disparada arrastrándome<n>detrás de ella. Al ritmo que vamos,<n>estoy seguro de que<n>podríamos recorrer toda la ciudad para<n>el final del día."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Mira esa camiseta allá! ¿No es muy<n>linda? ¡¿Y eso no es un puesto de<n>jugos?! Me<n>pregunto si tendrán jugo de zanahoria."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿Mm? <i>Snif, snif...</i> Algo huele muy<n>bien... Creo que viene de por allá.<n>¡Vamos a ver!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Oye! ¡No te distraigas cuando estás conmigo!<n>¡Todavía tenemos montones de cosas<n>por hacer! ♪"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿Qué deberíamos ver? Mmm, ¡todas se<n>ven divertidas! Espera, ¡¿quéeé?!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡E-e-ese tráiler mostró una escena de<n>beso! ¡Y yo la vi! Dios mío, me<n>estoy sonrojando..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿Cuántas bolas de helado puedo pedir?<n>¿Una? ¿Dos? ¿Tres?<n>Obviamente tres,<n>¿verdad? ¡Claro que son tres!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿Qué sabores elijo? La de fresa se<n>ve bien, así que esa... y vainilla<n>también. Oooh, y también de galleta<n>con chispas de chocolate..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Espera, ¡¿la de cheesecake es por tiempo<n>limitado?! ...Oye, ¿puedo pedir cuatro<n>bolas?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "El resto del día, Mayano Top Gun me<n>arrastró de un lugar a otro<n>para aprovechar al máximo su cita."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Caramba, eso fue divertido!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Pero debo decir. ¡Me sorprende que<n>pudieras seguirme el ritmo!<n>Probablemente seas la primera<n>persona además de Marvey que puede<n>seguirme a mi máximo.",
+      "choice_data_list": [
+        "Creí que me desmayaría hacia el\nfinal...",
+        "Creí que me desmayaría hacia el\nfinal..."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Jaja! ¡¿En serio?! ¿¿Significa que te<n>mantuviste despierto solo por mí??<n>¡Me alegra oírlo!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Oye, ¿por qué eres tan amable de todos<n>modos? O sea, ¿por qué aceptaste<n>salir en una cita conmigo?"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿Es porque prometí entrenar si<n>escuchabas lo que digo?",
+      "choice_data_list": [
+        "No exactamente."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿¿Qué quieres decir con \"no exactamente\"??<n>¿¿Quieres decir que <i>no</i> viniste conmigo<n>porque querías que entrenara??"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Si no es por eso, entonces ¿por qué<n>estás aquí?",
+      "choice_data_list": [
+        "No quiero que abandones tus sueños.",
+        "No quiero que abandones tus sueños."
+      ]
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿¿Sueños??"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¿Mis... sueños?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Como si estuviera pensando profundamente,<n>Mayano Top Gun se calla por lo que parece<n>ser la primera vez—en la vida. Entonces..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Así que por eso..."
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "¡Bueno, gracias de nuevo por hoy!"
+    },
+    {
+      "name": "Mayano Top Gun",
+      "text": "Hagamos nuestro entrenamiento mañana, ¿sí?"
+    },
+    {
+      "name": "Monólogo",
+      "text": "Y así, por fin, ¡la convencí de que<n>entrenara bajo mi guía!"
+    }
+  ]
 }
