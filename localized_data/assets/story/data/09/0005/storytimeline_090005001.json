@@ -37,7 +37,7 @@
       "text": "¡Bah! Ya pasó un mes, ¡y todavía no<n>puedo salir de esta racha!\n¿Qué debería<n>hacer, mamá?"
     },
     {
-      "name": "Spe's Mother",
+      "name": "Madre de Spe",
       "text": "Escucha, tienes que dar un paso atrás y tomártelo<n>con calma! Por lo que me\nhas estado contando,<n>¿has estado entrenando sin parar, verdad?"
     },
     {
@@ -46,10 +46,10 @@
     },
     {
       "name": "Spe's Mother",
-      "text": "Eso no es lo que quiero decir! Me refiero a salir<n>y divertirte con tus\namigas para despejarte.<n>No has estado haciendo eso,<n>¿verdad?"
+      "text": "Eso no es lo que quiero decir! Me refiero a salir<n>a divertirte con tus\namigas para despejarte.<n>No has estado haciendo eso,<n>¿verdad?"
     },
     {
-      "name": "Spe's Mother",
+      "name": "Madre de Spe",
       "text": "Solo confía en mí! Inténtalo. Deja ir tooooodas<n>tus preocupaciones\npor un rato y tal vez<n>encuentres que eso resuelve\ntu problema."
     },
     {
@@ -70,7 +70,7 @@
     },
     {
       "name": "Daiwa Scarlet",
-      "text": "¡Guau! ¡Qué traje de baño tan lindo! \"Visitar la<n>playa o la piscina,\" ¿eh?\nMe alegra que piense en mí, pero me pregunto por qué el<n>regalo repentino."
+      "text": "¡Guau! ¡Qué lindo traje de baño! \"Visitar la playa o la piscina,\" ¿eh?\nMe alegra que piense en mí, pero me pregunto por qué el<n>regalo repentino."
     },
     {
       "name": "Daiwa Scarlet",
@@ -150,7 +150,7 @@
     },
     {
       "name": "Maruzensky",
-      "text": "Tengo la impresión de que quizás también<n>olvidaron otras cosas, en\nsu desespero...<n>Hmm, si ese es el caso..."
+      "text": "Tengo la impresión de que también olvidaron otras cosas en su\ndesesperación...Hmm, si ese es el caso..."
     },
     {
       "name": "Maruzensky",
